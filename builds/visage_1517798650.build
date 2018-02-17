@@ -1,0 +1,162 @@
+"guidedata"
+{
+	"Hero"		"visage"
+	"Title"		"Nerds Visage"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"6"
+	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B47B"
+	"TimePublished"		"0x000000005A86B47B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items / Midlane"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Starting items / Safelane"
+			{
+				"item"		"item_tango"
+				"item"		"item_sobi_mask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_aquila"
+				"item"		"item_blight_stone"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_ancient_janggo"
+			}
+			"Core - Vladimir"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_vladmir"
+				"item"		"item_phase_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_solar_crest"
+			}
+			"Situational Early"
+			{
+				"item"		"item_pipe"
+				"item"		"item_tranquil_boots"
+				"item"		"item_blight_stone"
+			}
+			"Lategame"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
+				"item"		"item_bloodthorn"
+				"item"		"item_sheepstick"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+				"item"		"item_refresher"
+			}
+			"Situational"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_desolator"
+				"item"		"item_silver_edge"
+				"item"		"item_shivas_guard"
+				"item"		"item_heart"
+				"item"		"item_nullifier"
+				"item"		"item_hurricane_pike"
+				"item"		"item_mjollnir"
+			}
+			"Utility"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_lotus_orb"
+				"item"		"item_guardian_greaves"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_hand_of_midas"		"~5-10 min
+It doesn't fit really well into HotD build, but if you are going to go full-core with Vladimir's Offering, rushing Midas is the way to go early."
+			"item_vladmir"		"13-16 min.
+Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Works better if you're going to lategame anyway."
+			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups."
+			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
+			"item_bloodthorn"		"Perfect offensive item: crit, silence, attackspeed. a lot of damage."
+			"item_hurricane_pike"		"Another defensive choice. Good stats, attack range, mobility. Altho, most of the time you won't need it."
+			"item_ultimate_scepter"		"With new lvl 25 talent it's not as required as it used to be, but it still very good item for both offensive (additional familliar as damage) and defensive (additional stun and stats) purposes."
+			"item_assault"		"Our general tool (after medallion-aghs) to amplify tankiness, tower damage, help our team with aura and just kill things faster."
+			"item_shivas_guard"		"If you arenot going to pick up AC, it's probably another choice for you. Altho, while we want to get AC tight after aghs, shiva's will be our very last slot to get."
+			"item_lotus_orb"		"And another one glimmer cape alternative, but this one is more like team-oriented and used only for it's purging part."
+			"item_mjollnir"		"Useless for team, useless for birds. Only makes you attack faster and gives ability to defend against huge creepwaves, but it means you're losing anyway."
+			"item_desolator"		"Offensive choice. No lockdown, but increases our -armor potential and damage vs towers. I pick it up mostly in cases when the game is already won."
+			"item_blight_stone"		"One blight stone goes into medallion, another one just lies in our inventory to provide another -2 armor. Pretty useful, cheap, can be upgraded into deso later."
+			"item_medallion_of_courage"		"One of the best ways for us to amplify our damage wth familliars. Also solves mana regen issues"
+			"item_solar_crest"		"After midas, this will be the cheapest and most cost-effective thing we can get: -7 armor to -12 armor and miss chance is actually pretty huge. It will increase our farming speed, kill potential and ability to save allies. Small tip: use it or medallion on creep under tower's attack so it can tank."
+			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. It doesn't give another useful bonuses, it's not that reliable, but, well, it's something. It also works well as defensive choice (gives more health)."
+			"item_tranquil_boots"		"While a lot of people prefer threads, I like tranquils more: out-of-battle regen and increased movement speed to be able to gank more effecively"
+			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
+			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
+			"item_helm_of_the_dominator"		"~8-12 min
+Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"visage_gravekeepers_cloak"
+			"2"		"visage_grave_chill"
+			"3"		"visage_gravekeepers_cloak"
+			"4"		"visage_soul_assumption"
+			"5"		"visage_grave_chill"
+			"6"		"visage_summon_familiars"
+			"7"		"visage_gravekeepers_cloak"
+			"8"		"visage_grave_chill"
+			"9"		"visage_gravekeepers_cloak"
+			"10"		"special_bonus_attack_damage_30"
+			"11"		"visage_grave_chill"
+			"12"		"visage_summon_familiars"
+			"13"		"visage_soul_assumption"
+			"14"		"visage_soul_assumption"
+			"15"		"special_bonus_exp_boost_40"
+			"16"		"visage_soul_assumption"
+			"18"		"visage_summon_familiars"
+			"20"		"special_bonus_unique_visage_2"
+			"25"		"special_bonus_unique_visage_6"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_damage_50"		"If we are going to be core and rely on physical damage, it's quite pointless to get cast range anyway, while 50 AD is actually a lot."
+			"special_bonus_hp_300"		"Double strike massively increases our damage output, altho 300 health is a lot, so it may be worth it for a hero with a lot of resists"
+			"special_bonus_gold_income_15"		"GPM talent is better for going into lategame, but if you manage to get midas before lvl10 (you are ahead) - get +XP talent and wreck them. Both talents are insanely good, depending on situation"
+			"special_bonus_exp_boost_25"		"Money won't be a problem and items won't give us as much as experience gain. With extra GPM you can get aghs and other shit faster, but who cares, you are already farming machine with your familliars and medallion."
+			"visage_grave_chill"		"Our main kill-potential spell. It's not only a slow, but also an attack speed buff for us and our familliars. It's also a good way to escape ganks."
+			"visage_soul_assumption"		"Our another killing/finishing up spell. It's generally not a good idea to not skill this, but for a core Visage it won't be a problem to get a bunch of levels. Early on it won't be that useful with higher levels, so it's better to leave as level 1 skill until later point."
+			"visage_gravekeepers_cloak"		"Main difference in Lil's skillbuild and mine is prefering to max Gravekeeper's Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
+			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he's almost completely useless. Don't be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you're close to aghs or lvl 12/18."
+			"special_bonus_unique_visage_2"		"Absolutely must have. Who cares about damage amplification from spells if you will have three ferrari's on the map driving around and pushing everything?"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}

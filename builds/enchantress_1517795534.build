@@ -1,0 +1,164 @@
+"guidedata"
+{
+	"Hero"		"enchantress"
+	"Title"		"Nerds Enchantress (Core/Offlane)"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B390"
+	"TimePublished"		"0x000000005A86B390"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_boots"
+				"item"		"item_clarity"
+			}
+			"Starting Items / Middle"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_infused_raindrop"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_dragon_lance"
+				"item"		"item_hurricane_pike"
+			}
+			"Situational Early"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_hand_of_midas"
+				"item"		"item_cyclone"
+				"item"		"item_rod_of_atos"
+				"item"		"item_blade_mail"
+				"item"		"item_spirit_vessel"
+				"item"		"item_hood_of_defiance"
+			}
+			"Lategame"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_moon_shard"
+				"item"		"item_sheepstick"
+				"item"		"item_bloodthorn"
+				"item"		"item_travel_boots"
+				"item"		"item_monkey_king_bar"
+			}
+			"Situational"
+			{
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+				"item"		"item_black_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_mjollnir"
+				"item"		"item_skadi"
+				"item"		"item_nullifier"
+			}
+			"Utility"
+			{
+				"item"		"item_vladmir"
+				"item"		"item_pipe"
+				"item"		"item_lotus_orb"
+				"item"		"item_assault"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_moon_shard"		"One of the best items for Enchantress. Increases our damage output A LOT, gives more vision at night. But remember: it doesn't give you something else but damage. You can purchase it even on lvl 6 and destroy everything, but you will be easy to kill."
+			"item_magic_wand"		"Purchase Wand ASAP on lane. Since Ench have not much HP without items, this item becomes extremely useful in early game."
+			"item_travel_boots"		"Replacing our poor little boots for late game. We don't need this one this badly because of having backpack, but it still can be pretty useful."
+			"item_phase_boots"		"Phase boots give us ability to be effective in chasing enemies, running from them, dominating them on lane and, of course fast repositioning. You can also use it for increasing impetus damage (fastly activate boots and run away after attacking). It's better with more early boost"
+			"item_hand_of_midas"		"We don't have actual abilities for farming, our Enchant doesn't give us expirience for enchanted creep, but we really need that experience to get our stats earlier. Since we can farm relatively free in offlane and get boost from jungle, we can afford this fella (~8-10 min) and we gucci."
+			"item_null_talisman"		"Another cheap stats item. Good choice if you are going middle."
+			"item_vladmir"		"Another one useful aura for team. Cheap, really useful while attacking highground,"
+			"item_ring_of_basilius"		"Mana regen and armor aura are extremely useful for us since we have no armor on lvl 1 and not really big mana regen on early levels."
+			"item_pipe"		"Good to pick up against magic-heavy heroes, like Zeus or Lesh. You can even purchase only hood for yourself for the first time since it gives you a lot against heroes like this."
+			"item_urn_of_shadows"		"Extra heal and stats is always good. It makes us even tankier, saves our Nature's Attendants from unnesessary usage and extra mana regen."
+			"item_sheepstick"		"One of the best late-game choices. Gives us reliable disable, awesome stats, mana regen and also increases our skill damage amplification from int."
+			"item_orchid"		"Relatively cheap, offers lockdown, mana regen and attackspeed. Works pretty well as offensive slot"
+			"item_bloodthorn"		"Attack speed, mana regen, +80 attack damage, true strike, crit, One of the best offensive choices for any int hero."
+			"item_cyclone"		"Another one mobility alternative, but without stats. It gives us Cyclone, which is useful while chasing someone or purging silences, and mana regen. But, again, it doesn't give us stats."
+			"item_force_staff"		"Since we are going to make pike anyway, this item is good to pick up first too: it increses our mana pool, damage and gives us escape. "
+			"item_hurricane_pike"		"Good upgrade for Dragon Lance since it gives us more damage, attack speed, armor and mobility. But it's still bad item to rush: better pick it up after something for stats."
+			"item_ultimate_scepter"		"More stats, more range. Since 6.87 it's bad item to rush first (because there's also Huricane Pike), but it's still really good since gives us more damage, stats and, of course, ability to outrange towers."
+			"item_assault"		"We need armor and attackspeed, so AC is good for us. We will probably stay behind, but it still gives us alot of armor and attack speed."
+			"item_black_king_bar"		"Another anti-magic item, alternative to Pipe for cases when enemies have a lot of stuns or silences."
+			"item_shivas_guard"		"Another one good late game item. If you really need armor and/or doesn't need disable, this one is probably good alternative to Sheepstick."
+			"item_sphere"		"Good defensive replacement for Silver Edge or RoA against lineups with strong targeted spells."
+			"item_hood_of_defiance"		"Since we can deal with physical damage from autoattacks but still aren't tanky enough, getting casual hood may be pretty good desicion."
+			"item_dragon_lance"		"Must-have item for Enchantress: stats are extremely useful for her since she haven't much HP and armor, and also depends on attackspeed and positioning in fights."
+			"item_silver_edge"		"Invisibility is nice, but the main thing why we want this item is stats. Silver Edge gives a lot of damage, attack speed, HP and mana, also gives us mobility (and fast repositioning in fights) and ability to make enemy's damage output 50% lower. The item is also extremely useful against LC and WD."
+			"item_mjollnir"		"Maelstrom is good for fighting, gives us a lot of attack speed and AoE stuff, but it's not one of the items we really want to get"
+			"item_skadi"		"Another one stat-heavy item, but it gives us nice attack damage and slow. Since 6.86 it works with impetus, so it's good choice if you need damage and want HP."
+			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
+			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."
+			"item_ancient_janggo"		"Cheap stats item and movespeed aura. Good for playing semi-support, but in other case silver edge is still better."
+			"item_rod_of_atos"		"Good stats, but, more importantly, it's quite cheap and gives us really nice lockdown ability. We want to be tanky and dominate early, so RoA looks incredibly good because of that."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"enchantress_natures_attendants"
+			"2"		"enchantress_untouchable"
+			"3"		"enchantress_untouchable"
+			"4"		"enchantress_enchant"
+			"5"		"enchantress_untouchable"
+			"6"		"enchantress_impetus"
+			"7"		"enchantress_untouchable"
+			"8"		"enchantress_natures_attendants"
+			"9"		"enchantress_natures_attendants"
+			"10"		"special_bonus_movement_speed_25"
+			"11"		"enchantress_natures_attendants"
+			"12"		"enchantress_impetus"
+			"13"		"enchantress_enchant"
+			"14"		"enchantress_enchant"
+			"15"		"special_bonus_attack_damage_50"
+			"16"		"enchantress_enchant"
+			"18"		"enchantress_impetus"
+			"20"		"special_bonus_unique_enchantress_1"
+			"25"		"special_bonus_unique_enchantress_4"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_all_stats_5"		"We need those early stats to be more tanky. While we have enough movement speed, choise is quite obvious."
+			"special_bonus_attack_damage_40"		"Increasing Wisps duration (and their count on lvl25) will make us even more tanky and viable healer for our team, but attack damage will boost our farming capabilities and damage output withous impetus, allowing us to make more useful items and help our team in other ways."
+			"special_bonus_magic_resistance_12"		"Magic resistance is almost always better, since it's the best way to kill us, but if there's no heavy magic damage, you can go for untochable bonus. Altho, it's kinda useless anyways."
+			"enchantress_untouchable"		"Our first skill to max out. It gives us a lot in early game and helps with dominating on lane."
+			"enchantress_enchant"		"Good for slowing enemies and, of course, for early farm and ganking. We want this to have ASAP to be able to farm jungle, but we don't need more than 1 point early on."
+			"enchantress_natures_attendants"		"Our main escape early. It has not really big radius and heals slowly, so we will use it only for ourself most of the time. You can learn this on lvl1 if there's risk of dying. Try to use it before fighting: it will help you tank shit and get out."
+			"enchantress_impetus"		"Our main damage source. Can be used to dominate a lane, kill those who's trying to run away, kill couriers, defend from a distance."
+			"special_bonus_unique_enchantress_2"		"Having 8 more spirits is super nice to have if you have problems with surviving in fights while not being bursted. Altho, with urn and your built in movement speed it should be easier to survive, while +50 dmg helps while pushing structures and worth more."
+			"special_bonus_unique_enchantress_1"		"Most of the time having ancients is just better since you can split push with them, provide strong auras and so on. Altho, additional 6% impetus damage is quite a lot and it's good if you're not going to search for good creeps every time."
+			"attribute_bonus"		"10: +5 stats. Benefits from stats are too good.
+15: 40 damage is a huge, so it's mostly better, but +8s of healing will make us better at tanking
+20: both are good, magic resist is better vs huge magical damage linup
+25: both are good. Spirits will make us better at tanking, int = more mana and dmg"
+		}
+	}
+}

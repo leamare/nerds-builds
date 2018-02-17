@@ -1,0 +1,100 @@
+"guidedata"
+{
+	"Hero"		"dark_willow"
+	"Title"		"Nerds Dark Willow"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.09"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A889595"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_boots"
+				"item"		"item_infused_raindrop"
+				"item"		"item_magic_wand"
+			}
+			"Core"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_phase_boots"
+				"item"		"item_cyclone"
+			}
+			"Situational Early"
+			{
+				"item"		"item_helm_of_iron_will"
+				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
+				"item"		"item_invis_sword"
+				"item"		"item_force_staff"
+				"item"		"item_blink"
+				"item"		"item_kaya"
+			}
+			"Lategame"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_octarine_core"
+				"item"		"item_hurricane_pike"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_shivas_guard"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_bloodthorn"
+				"item"		"item_assault"
+				"item"		"item_sheepstick"
+				"item"		"item_silver_edge"
+				"item"		"item_nullifier"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dark_willow_shadow_realm"
+			"2"		"dark_willow_bramble_maze"
+			"3"		"dark_willow_shadow_realm"
+			"4"		"dark_willow_bramble_maze"
+			"5"		"dark_willow_shadow_realm"
+			"6"		"dark_willow_bedlam"
+			"7"		"dark_willow_shadow_realm"
+			"8"		"dark_willow_cursed_crown"
+			"9"		"dark_willow_bramble_maze"
+			"10"		"special_bonus_attack_damage_20"
+			"11"		"dark_willow_bramble_maze"
+			"12"		"dark_willow_bedlam"
+			"13"		"dark_willow_cursed_crown"
+			"14"		"dark_willow_cursed_crown"
+			"15"		"special_bonus_movement_speed_40"
+			"16"		"dark_willow_cursed_crown"
+			"18"		"dark_willow_bedlam"
+			"20"		"special_bonus_unique_dark_willow_1"
+			"25"		"special_bonus_attack_speed_200"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

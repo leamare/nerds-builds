@@ -1,0 +1,138 @@
+"guidedata"
+{
+	"Hero"		"morphling"
+	"Title"		"Nerds Morphling"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
+
+This build is untraditional and situational. Use the hero on this position with this build on your own risk.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B3D5"
+	"TimePublished"		"0x000000005A86B3D5"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_wind_lace"
+				"item"		"item_ward_observer"
+				"item"		"item_courier"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
+				"item"		"item_magic_wand"
+				"item"		"item_tranquil_boots"
+			}
+			"Core"
+			{
+				"item"		"item_blink"
+				"item"		"item_force_staff"
+				"item"		"item_solar_crest"
+			}
+			"Situational Early"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_aether_lens"
+				"item"		"item_cyclone"
+				"item"		"item_glimmer_cape"
+				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
+				"item"		"item_vladmir"
+				"item"		"item_urn_of_shadows"
+			}
+			"Lategame"
+			{
+				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+			}
+			"Situational"
+			{
+				"item"		"item_hurricane_pike"
+				"item"		"item_rod_of_atos"
+				"item"		"item_pipe"
+				"item"		"item_guardian_greaves"
+			}
+			"Core Transition"
+			{
+				"item"		"item_skadi"
+				"item"		"item_manta"
+				"item"		"item_butterfly"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Increasing initiation range even more, while also providing ability to choose better position (and knock enemy closer to our allies), or even jump in close distance and make dodging our projectile much harder."
+			"item_magic_wand"		"Since we will have a lot of problems with our manapool, Wand will be pretty handy on early stages."
+			"item_hand_of_midas"		"Allowing us to catch up in long games (and potentially giving us abilty to become proper core)"
+			"item_vladmir"		"Another cheap armor item, doesn't do much for us, but useful for our team"
+			"item_pipe"		"Useful thing against high magic damage lineups (you will probably face that a lot since you're playing morphling)"
+			"item_urn_of_shadows"		"Mana regen and healing for our team will be always handy for utility hero"
+			"item_sheepstick"		"Providing even more control for our team (like our stun gun wasn't already enough)"
+			"item_cyclone"		"Good for purging silences or controlling enemy in place so you can wait for your cooldowns and use stun+wave again. Provides us with mana regen and mobility which will always be handy."
+			"item_aether_lens"		"Huge mana boost and increase of our initiation range"
+			"item_force_staff"		"Another way to get out after initiation or save ally"
+			"item_hurricane_pike"		"Natural upgrade for forcestaff with huge stats boost. There's no reason to not pick it up if you have forcestaff."
+			"item_blade_mail"		"We will have massive amounts of HP from str, so blademail may be handy. It also provides a lot of armor and int, which will be useful since we son't have a lot of armor and we always love to get more mana."
+			"item_butterfly"		"Pretty good damage item for any agility core and, well, while transitioning we need any damage we can get so we will be online as a core faster."
+			"item_manta"		"With our illusions and stats theme, manta is probably the second best item to get since you can split-farm with illusions effectively."
+			"item_skadi"		"At the point when you will be able to transition into core, you will have enough stats already by yourself, but huge boost from skadi will make you tankier, while also increasing your damage output."
+			"item_ethereal_blade"		"Allowes us to save allies from physical damage, gives us opportunity to use shotgun combo, even starts our transition into core with huge agility boost."
+			"item_octarine_core"		"Massive manapool increase and, of course, cooldown reduction, so downtime between our stun instances will bae as low as possible."
+			"item_ancient_janggo"		"A little bit of tankiness, a little bit of mana, a little bit of mana regen. Not the best item to get, but it's cheap and provides a lot of useful bonuses."
+			"item_solar_crest"		"Strong armor item, mana regen, allowes us to save allies from massive physical damage, while also solves our armor problems (when we're morphed to str)"
+			"item_guardian_greaves"		"Ultimate support item, huge armor boost and nice regen aura for our team"
+			"item_rod_of_atos"		"Straight HP boost, mana boost and cheap lockdown"
+			"item_tranquil_boots"		"At some point, with Lens and mana talent, we won't need arcanes anymore, while extra mobility and health regen will be pretty handy for support morphling"
+			"item_glimmer_cape"		"Another saving item, useful when you need to save somebody from massive magic damage or from instant focus"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"morphling_adaptive_strike_agi"
+			"2"		"morphling_morph_agi"
+			"3"		"morphling_waveform"
+			"4"		"morphling_waveform"
+			"5"		"morphling_waveform"
+			"6"		"morphling_replicate"
+			"7"		"morphling_waveform"
+			"8"		"morphling_adaptive_strike_agi"
+			"9"		"morphling_adaptive_strike_agi"
+			"10"		"special_bonus_unique_morphling_1"
+			"11"		"morphling_adaptive_strike_agi"
+			"12"		"morphling_replicate"
+			"13"		"morphling_morph_agi"
+			"14"		"morphling_morph_agi"
+			"15"		"special_bonus_unique_morphling_8"
+			"16"		"morphling_morph_agi"
+			"18"		"morphling_replicate"
+			"20"		"special_bonus_unique_morphling_5"
+			"25"		"special_bonus_unique_morphling_3"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_mp_200"		"Mana is our main issue, so we will obviously get it. And, well, even for core moprh +8 agility talent doesn't look really worth it."
+			"morphling_waveform"		"Our main escape/damage tool early. Probably the best skill to get for early skirmishes and offlane"
+			"morphling_morph_str"		"The other thing we want to have early: whole strategy works only when we morphed into strength, so we need morph for that (and we won't really use it after we morph 90% str after that)"
+			"morphling_replicate"		"It's pretty nice to have for both offensive and defensive plays: you can make repliva from your core and push with it or control it to get somewhere save after initiation in bad position. You can also create replica from strong enemy hero with good auras (like vladmirs, venge aura, wk's lifesteal..)"
+			"special_bonus_cooldown_reduction_12"		"Our whole strategy is build on top of adaptive strike being long duration stun with low cooldown. Getting CDR talent will allow us to reduce downtime between stuns and increase our effectiveness."
+			"special_bonus_attack_damage_40"		"Even while we have some mobility problems, with damage talent we will be able to catch up at least somehow and, while transitioning into core later on, it will be useful too."
+			"special_bonus_unique_morphling_2"		"Waveform range won't do much for us, while having super strong illusion made from core (ally or enemy) may result in turnaround in fight."
+		}
+	}
+}

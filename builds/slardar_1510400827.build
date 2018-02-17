@@ -1,0 +1,83 @@
+"guidedata"
+{
+	"Hero"		"slardar"
+	"Title"		"Nerds Slardar (based on Liquid.Miracle- pub)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.07c"
+	"Overview"		""
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A1041FA"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_stout_shield"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_quelling_blade"
+				"item"		"item_power_treads"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_armlet"
+				"item"		"item_blink"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_heart"
+				"item"		"item_assault"
+				"item"		"item_solar_crest"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_silver_edge"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"slardar_slithereen_crush"
+			"2"		"slardar_sprint"
+			"3"		"slardar_slithereen_crush"
+			"4"		"slardar_sprint"
+			"5"		"slardar_slithereen_crush"
+			"6"		"slardar_amplify_damage"
+			"7"		"slardar_slithereen_crush"
+			"8"		"slardar_sprint"
+			"9"		"slardar_sprint"
+			"10"		"special_bonus_hp_regen_5"
+			"11"		"slardar_bash"
+			"12"		"slardar_amplify_damage"
+			"13"		"slardar_bash"
+			"14"		"slardar_bash"
+			"15"		"special_bonus_hp_300"
+			"16"		"slardar_bash"
+			"18"		"slardar_amplify_damage"
+			"20"		"special_bonus_night_vision_1000"
+			"25"		"special_bonus_unique_slardar_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

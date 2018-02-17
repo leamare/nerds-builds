@@ -1,0 +1,85 @@
+"guidedata"
+{
+	"Hero"		"zuus"
+	"Title"		"zeus draft"
+	"GameplayVersion"		"7.07c"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A303E0C"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_boots"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_kaya"
+				"item"		"item_aether_lens"
+				"item"		"item_ultimate_scepter"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
+				"item"		"item_blink"
+				"item"		"item_veil_of_discord"
+				"item"		"item_force_staff"
+				"item"		"item_cyclone"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
+				"item"		"item_refresher"
+				"item"		"item_sheepstick"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"zuus_arc_lightning"
+			"2"		"zuus_static_field"
+			"3"		"zuus_arc_lightning"
+			"4"		"zuus_lightning_bolt"
+			"5"		"zuus_lightning_bolt"
+			"6"		"zuus_thundergods_wrath"
+			"7"		"zuus_lightning_bolt"
+			"8"		"zuus_lightning_bolt"
+			"9"		"zuus_arc_lightning"
+			"10"		"special_bonus_exp_boost_25"
+			"11"		"zuus_arc_lightning"
+			"12"		"zuus_thundergods_wrath"
+			"13"		"zuus_static_field"
+			"14"		"zuus_static_field"
+			"15"		"special_bonus_movement_speed_40"
+			"16"		"zuus_static_field"
+			"18"		"zuus_thundergods_wrath"
+			"20"		"special_bonus_unique_zeus_3"
+			"25"		"special_bonus_unique_zeus_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

@@ -1,0 +1,102 @@
+"guidedata"
+{
+	"Hero"		"tiny"
+	"Title"		"Nerds Tiny"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
+
+This build is based on EG.Arteezy's matches.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"9"
+	"AssociatedWorkshopItemID"		"0x00000000479F1950"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B43E"
+	"TimePublished"		"0x000000005A86B43E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_stout_shield"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_clarity"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_boots"
+				"item"		"item_infused_raindrop"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_invis_sword"
+			}
+			"Situational Early"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_echo_sabre"
+				"item"		"item_blink"
+				"item"		"item_solar_crest"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_silver_edge"
+				"item"		"item_butterfly"
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
+				"item"		"item_monkey_king_bar"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_heart"
+				"item"		"item_manta"
+				"item"		"item_shivas_guard"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"tiny_craggy_exterior"
+			"2"		"tiny_toss"
+			"3"		"tiny_craggy_exterior"
+			"4"		"tiny_avalanche"
+			"5"		"tiny_craggy_exterior"
+			"6"		"tiny_grow"
+			"7"		"tiny_toss"
+			"8"		"tiny_toss"
+			"9"		"tiny_craggy_exterior"
+			"10"		"special_bonus_attack_damage_30"
+			"11"		"tiny_toss"
+			"12"		"tiny_grow"
+			"13"		"tiny_avalanche"
+			"14"		"tiny_avalanche"
+			"15"		"special_bonus_hp_350"
+			"16"		"tiny_avalanche"
+			"18"		"tiny_grow"
+			"20"		"special_bonus_unique_tiny_4"
+			"25"		"special_bonus_unique_tiny_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

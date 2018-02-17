@@ -1,0 +1,88 @@
+"guidedata"
+{
+	"Hero"		"wisp"
+	"Title"		"Nerds Io (based on MiKUSHiRU)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.07d"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A4CD02A"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_null_talisman"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_spirit_vessel"
+				"item"		"item_blink"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_mask_of_madness"
+				"item"		"item_armlet"
+				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_maelstrom"
+				"item"		"item_tranquil_boots"
+				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
+				"item"		"item_solar_crest"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_heart"
+				"item"		"item_assault"
+				"item"		"item_desolator"
+				"item"		"item_greater_crit"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"wisp_tether"
+			"2"		"wisp_spirits"
+			"3"		"wisp_spirits"
+			"4"		"wisp_overcharge"
+			"5"		"wisp_spirits"
+			"6"		"wisp_relocate"
+			"7"		"wisp_spirits"
+			"8"		"wisp_overcharge"
+			"9"		"wisp_overcharge"
+			"10"		"special_bonus_attack_damage_60"
+			"11"		"wisp_overcharge"
+			"12"		"wisp_relocate"
+			"13"		"wisp_tether"
+			"14"		"wisp_tether"
+			"15"		"special_bonus_unique_wisp"
+			"16"		"wisp_tether"
+			"18"		"wisp_relocate"
+			"20"		"special_bonus_unique_wisp_4"
+			"25"		"special_bonus_hp_regen_50"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

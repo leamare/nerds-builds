@@ -1,0 +1,129 @@
+"guidedata"
+{
+	"Hero"		"dark_willow"
+	"Title"		"Nerds Dark Willow"
+	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
+
+This build is based on my own (~47th on Dotabuff) experience of playing the hero.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"23"
+	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B266"
+	"TimePublished"		"0x000000005A86B266"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_courier"
+				"item"		"item_clarity"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_observer"
+				"item"		"item_tango"
+				"item"		"item_wind_lace"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_clarity"
+				"item"		"item_infused_raindrop"
+				"item"		"item_magic_stick"
+			}
+			"Core"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_soul_ring"
+				"item"		"item_cyclone"
+				"item"		"item_magic_wand"
+			}
+			"Situational"
+			{
+				"item"		"item_blink"
+				"item"		"item_arcane_boots"
+				"item"		"item_rod_of_atos"
+				"item"		"item_kaya"
+			}
+			"Utility"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_glimmer_cape"
+				"item"		"item_spirit_vessel"
+				"item"		"item_lotus_orb"
+				"item"		"item_guardian_greaves"
+			}
+			"Lategame"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_hurricane_pike"
+				"item"		"item_sheepstick"
+				"item"		"item_shivas_guard"
+			}
+			"Core Transition"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_greater_crit"
+				"item"		"item_nullifier"
+				"item"		"item_octarine_core"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_wind_lace"		"You're pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_urn_of_shadows"		"It gives you armor, regen and upgrades into one of the best items for your hero. Grab it ASAP and start roaming."
+			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
+			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
+			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
+			"item_force_staff"		"Saves allies and works great in combo with your Q"
+			"item_guardian_greaves"		"Your low armor makes this item pretty good for you: additional regen, arnor and overall strong aura for your team"
+			"item_ancient_janggo"		"May be good early as additional mobility item"
+			"item_rod_of_atos"		"Offensive replacement for Eul as setup for killing"
+			"item_blink"		"They won't catch you"
+			"item_nullifier"		"Additional strong lockdown, while also giving armor and high damage (works great on lvl 25)"
+			"item_hurricane_pike"		"Natural upgrade for Force Staff"
+			"item_octarine_core"		"Replacement for Kaya in case if you don't need Scythe or Shiva"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dark_willow_shadow_realm"
+			"2"		"dark_willow_cursed_crown"
+			"3"		"dark_willow_shadow_realm"
+			"4"		"dark_willow_bramble_maze"
+			"5"		"dark_willow_shadow_realm"
+			"6"		"dark_willow_bedlam"
+			"7"		"dark_willow_shadow_realm"
+			"8"		"dark_willow_bramble_maze"
+			"9"		"dark_willow_bramble_maze"
+			"10"		"special_bonus_cast_range_125"
+			"11"		"dark_willow_bramble_maze"
+			"12"		"dark_willow_bedlam"
+			"13"		"dark_willow_cursed_crown"
+			"14"		"dark_willow_cursed_crown"
+			"15"		"special_bonus_gold_income_15"
+			"16"		"dark_willow_cursed_crown"
+			"18"		"dark_willow_bedlam"
+			"20"		"special_bonus_unique_dark_willow_1"
+			"25"		"special_bonus_attack_speed_200"
+		}
+		"AbilityTooltips"
+		{
+			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
+			"dark_willow_cursed_crown"		"It's incredibly strong ability, but we don't really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
+			"special_bonus_gold_income_15"		"40 movement speed could be better for Core, but since you're playing support, additional GPM will be handy"
+			"special_bonus_unique_dark_willow_1"		"Since you're building a lot of mobility and surviveability, you won't really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
+			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won't be really useful most of the times won't change anything."
+			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won't be catched off guard)"
+		}
+	}
+}

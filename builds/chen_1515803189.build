@@ -1,0 +1,103 @@
+"guidedata"
+{
+	"Hero"		"chen"
+	"Title"		"Nerds Chen"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
+
+Thi build is based on Wagamama's and IceIceIce's replays.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B237"
+	"TimePublished"		"0x000000005A86B237"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_sobi_mask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+				"item"		"item_clarity"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_basilius"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_arcane_boots"
+				"item"		"item_aether_lens"
+			}
+			"Situational Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_force_staff"
+				"item"		"item_invis_sword"
+				"item"		"item_blink"
+			}
+			"Nuker (agressive)"
+			{
+				"item"		"item_dagon_5"
+				"item"		"item_kaya"
+				"item"		"item_ethereal_blade"
+				"item"		"item_octarine_core"
+			}
+			"Utility (Defensive)"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
+			}
+			"Situational"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_aether_lens"		"Solving Chen's mana issues while extending his cast range to maximum."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don't really need it every time, especially after recent changes and with this playstyle. Consider buying it if you're playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"chen_holy_persuasion"
+			"2"		"chen_test_of_faith"
+			"3"		"chen_holy_persuasion"
+			"4"		"chen_penitence"
+			"5"		"chen_test_of_faith"
+			"6"		"chen_hand_of_god"
+			"7"		"chen_test_of_faith"
+			"8"		"chen_test_of_faith"
+			"9"		"chen_penitence"
+			"10"		"special_bonus_cast_range_200"
+			"11"		"chen_penitence"
+			"12"		"chen_hand_of_god"
+			"15"		"special_bonus_unique_chen_3"
+			"18"		"chen_hand_of_god"
+			"20"		"special_bonus_gold_income_30"
+			"25"		"special_bonus_unique_chen_2"
+		}
+		"AbilityTooltips"
+		{
+			"chen_holy_persuasion"		"Send whole first creepwave to base"
+		}
+	}
+}

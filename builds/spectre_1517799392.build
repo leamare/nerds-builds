@@ -1,0 +1,154 @@
+"guidedata"
+{
+	"Hero"		"spectre"
+	"Title"		"Nerds Spectre"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
+
+Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B425"
+	"TimePublished"		"0x000000005A86B425"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_stout_shield"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_radiance"
+				"item"		"item_spirit_vessel"
+				"item"		"item_manta"
+			}
+			"Regen Items (Urn/Vessel replacements)"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_mask_of_madness"
+				"item"		"item_vanguard"
+			}
+			"Situational Early"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_ancient_janggo"
+				"item"		"item_orb_of_venom"
+				"item"		"item_diffusal_blade"
+			}
+			"Lategame"
+			{
+				"item"		"item_heart"
+				"item"		"item_abyssal_blade"
+				"item"		"item_butterfly"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+				"item"		"item_refresher"
+			}
+			"Situational"
+			{
+				"item"		"item_skadi"
+				"item"		"item_ethereal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_assault"
+				"item"		"item_silver_edge"
+				"item"		"item_mjollnir"
+				"item"		"item_bloodthorn"
+				"item"		"item_sphere"
+				"item"		"item_nullifier"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"If your lane will be uncontested - you can get it right away (but it's better to get in side shop)"
+			"item_infused_raindrop"		"Super cheap, makes us tankier against magic damage and regenerates enough mana."
+			"item_enchanted_mango"		"Usually mango is the best thing due to health regen and emergency mana button."
+			"item_flask"		"If the lane will be fine, maybe a little bit contested - get a salve for yourself"
+			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
+			"item_tango"		"If the lane will be tough - get more tangoes."
+			"item_phase_boots"		"We need those as soon as possible. We are going to join fights after level 6 and for that we need some damage and mobility since we won't hit hard enough and we are slow. Phase also accelerates our farm so it's one of the best things you can make."
+			"item_hand_of_midas"		"NO."
+			"item_urn_of_shadows"		"Gives enough tankiness and mana regen, while also gives us ability to heal ourselves, deal damage to enemies out of reah and it's cheaper than drums."
+			"item_orchid"		"Can be purchased early as an alternative to diffusal blade in some way"
+			"item_bloodthorn"		"Why? Since 7.00 attack speed bonuses apply to illusions (and this is actually all we care about), and bloodthorn gives a lot of it and a lot of damage for the hero, crits, silence and mana regen. The last one is important since our lvl25 dagger talent is super good, but we need mana regen for it."
+			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don't have it in your team and really need armor"
+			"item_heart"		"Heart is that point of becoming out-of-control. It replaces any of your cheap regen items, while also making you very hard to kill in fights (not only because of HP pool, but also because of ability to get out, regen ad re-engage)."
+			"item_black_king_bar"		"Doesn't synergyse with hero well. Sometimes it's just necessary (against a lot of control, for example), but most of the time you just want to dodge everything and come in when all the spells were used. In MoM build you may even skip radiance or get it later, but BKB will make you unstoppable."
+			"item_sphere"		"vs Doom or other target spells that make you struggle"
+			"item_vanguard"		"Gives a lot of tankiness and sustain, BUT doesn't boost farming speed, while also being quite expensive.
+Good for tower dives (and very agressive plays) or against summons/high attack speed."
+			"item_blade_mail"		"It's good on Spectre in general because of its stats and because of all that damage reflection theme. You can get it early instead of Ring of Aquila OR you can get it in lategame. It works quite well at any stage of the game."
+			"item_radiance"		"~21-25 - The item we want to get almost every time. It accelerates our farm, deals shitload of damage in fights + miss chance. Even in losing scenarios it can be a game-changer item, so don't bother buying a late radiance. If you gone for Core MoM build, still get it, but maybe after BKB (its optional tho)"
+			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
+			"item_manta"		"Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit."
+			"item_silver_edge"		"Gives a lot of stats and attack speed, good versus heroes who rely on their passives or deal a lot of damage, but it doesn't really synergyse with our hero."
+			"item_mjollnir"		"One of the best damage items for Spectre: you want to get damage, so Mjolnir's active works well, lightnings deal a lot of damage and attack speed bonus is quite huge."
+			"item_skadi"		"Gives a lot of stats and slow passive (which should work on illusions too), so it's one of the best items to pick up actually"
+			"item_mask_of_madness"		"Probably the best item to replace Urn to be agressive early. Quite cheap, gives a lot of attack speed and can replace Manta early in fights. It also boosts our farm and makes our fighting potential higher, so you won't get your radiance much later. Good against squishy targets, against low-control lineups or when you have a really good lane. Works better with Aquila."
+			"item_diffusal_blade"		"It's quite good as cheap damage source. Can be picked up somewhere between phase and radiance to fight early. Illusions don't benefit much from it, but it still makes haunt DPS higher and stops enemies from running away, so you should get it for early mana/agility boost and later replace it with etherial/butterfly."
+			"item_ethereal_blade"		"Jokes aside, this item is pretty good in terms of stats: more strength, more agility."
+			"item_orb_of_venom"		"A little bit of slow with haunt can be helpful (if you have slot)"
+			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don't really need it or just have more important slot to have. Altho, it's actually pretty good as 6-7th slot."
+			"item_ring_of_aquila"		"Armor and a lot of cheap damage early on. It should replace your QB at some point (and replaced with manta later on). Alternatively, you can get Blade Mail, but it's more expensive."
+			"item_stout_shield"		"You can get double stout shield against hard lanes with a lot of physical harass"
+			"item_spirit_vessel"		"This item is basically cheap heart. If you didn't go for Urn, it's probably better to skip it and go straight for heart later on, but Vessel as is gives a lot of things Spectre loves: movement speed, HP and percentage-based heal/damage."
+			"item_helm_of_the_dominator"		"Doesn't really synergises with our abilities (creep won't be able to go to fights with us), but you can use it for farming and scout enemy territory with neutral creep for easy pickoffs."
+			"item_hood_of_defiance"		"Same as Vanguard, but a little bit cheaper and better against magic damage heavy lineups."
+			"item_ancient_janggo"		"Usually you'll run out of slots, but it works well if you're not going to get Vessel and Aquila, but need movement speed and mana sustain."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"spectre_spectral_dagger"
+			"2"		"spectre_desolate"
+			"3"		"spectre_spectral_dagger"
+			"4"		"spectre_dispersion"
+			"5"		"spectre_spectral_dagger"
+			"6"		"spectre_haunt"
+			"7"		"spectre_spectral_dagger"
+			"8"		"spectre_desolate"
+			"9"		"spectre_desolate"
+			"10"		"special_bonus_unique_spectre_2"
+			"11"		"spectre_desolate"
+			"12"		"spectre_haunt"
+			"13"		"spectre_dispersion"
+			"14"		"spectre_dispersion"
+			"15"		"special_bonus_all_stats_8"
+			"16"		"spectre_dispersion"
+			"18"		"spectre_haunt"
+			"20"		"special_bonus_hp_500"
+			"25"		"special_bonus_unique_spectre_5"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_unique_spectre_2"		"If you're going to get a regen item, you won't need health regen early, so you can double down on your main source of damage: Desolate."
+			"special_bonus_hp_regen_5"		"Altho, if you don't want to get a regen item early, you can just get health regen and double down on your damage and fighting."
+			"special_bonus_all_stats_8"		"More stats means more surviveability, more surviveability means more damage."
+		}
+	}
+}

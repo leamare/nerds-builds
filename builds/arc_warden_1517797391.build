@@ -1,0 +1,162 @@
+"guidedata"
+{
+	"Hero"		"arc_warden"
+	"Title"		"Nerds Arc Warden"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
+This build was based on VaxaStyle's steams and replays. http://twitch.tv/vaxastyle"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B1D4"
+	"TimePublished"		"0x000000005A86B1D4"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items (Mid)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Starting Items (Safelane)"
+			{
+				"item"		"item_tango"
+				"item"		"item_sobi_mask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_aquila"
+				"item"		"item_boots"
+				"item"		"item_infused_raindrop"
+			}
+			"Core"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_maelstrom"
+				"item"		"item_travel_boots"
+			}
+			"Situational Early"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
+				"item"		"item_blink"
+			}
+			"A - Agressive Initiator (Soft Disable)"
+			{
+				"item"		"item_invis_sword"
+				"item"		"item_bloodthorn"
+				"item"		"item_nullifier"
+			}
+			"B - Safe initiator (Hard Disable)"
+			{
+				"item"		"item_hurricane_pike"
+				"item"		"item_manta"
+				"item"		"item_sheepstick"
+			}
+			"C - Fast game"
+			{
+				"item"		"item_diffusal_blade"
+				"item"		"item_desolator"
+				"item"		"item_mask_of_madness"
+			}
+			"Lategame"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_butterfly"
+				"item"		"item_silver_edge"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots_2"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_skadi"
+				"item"		"item_necronomicon_3"
+				"item"		"item_assault"
+				"item"		"item_shivas_guard"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_infused_raindrop"		"Additional mana regen and magic damage block, good to get early against heroes like Zeus, SF, Tinker"
+			"item_magic_stick"		"Another one early item, good to get against heroes who want to spam their abilities a lot, like Zeus, SF, PA, Bristle. You don't really need to upgrade it since you will need slot really soon, so it will be just a waste of money"
+			"item_travel_boots"		"~16-32 min - Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don't need to care about movement speed anymore"
+			"item_sheepstick"		"Additional lockdown, one of the best lategame items for Arc since you have not one, but two hexes. It can be replaced with Bloodthorn+nullifier combo, but hex is better since it cannot be dispelled (while nullifier+bloodthorn combo can be purged with everything)"
+			"item_orchid"		"Lockdown ability and damage bonus, gives us early kill potential"
+			"item_bloodthorn"		"Probably the best damage item for Arc: lockdown, crits and utility from using it twice"
+			"item_hurricane_pike"		"~20 min - Stat boost and additional escape for cases when something goes wrong (can be used offensively too).
+Usually replaces Shadow Blade"
+			"item_necronomicon_3"		"Works out fine against invis heroes or like bonus pushing power"
+			"item_black_king_bar"		"If you are going to join fights early and be in epicenter of them, you should probably get BKB most of the time, usually against heroes with high magic damage or controlling spells. Don't be afraid to get it early and use it every time: it will pay off sooner than you think"
+			"item_shivas_guard"		"High armor boost and strong AoE nuke+slow, works on double too. Increases our tankiness in fights even more"
+			"item_blade_mail"		"Since we are tanky enough, it's good to stop enemies from trying to bring us down or at least deal reasonable amounts of damage to them"
+			"item_monkey_king_bar"		"High attack speed inside of magnetic field, a lot of potential mini-bash procs"
+			"item_butterfly"		"High damage increase and tankiness from miss chance. It's cheap enough so we can continue our pressure, while also providing decent damage against towers."
+			"item_manta"		"Good when you need dispel and additional damage. Works fine with butterfly, but mjolnir won't proc"
+			"item_mjollnir"		"Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you're going to participate in fights by yourself"
+			"item_skadi"		"It may turn you into walking tank. Altho, you will have low damage output and won't be able to use properly all of you slots (considering two of them being octarine and BoTs already, you will have only three effective slots)"
+			"item_octarine_core"		"Works pretty well woth Mjolnir, decreases downtime between tempest doubles, midases and BoTs, while also makng us tanky as hell. Combining it with 30% lifesteal on level 25 and 15% CDR on level 20 makes Arc very hard to kill and reduces downtime of the double to 9 seconds."
+			"item_ancient_janggo"		"Endless drum charges and early tankiness. There's no room for it, but it can be purchased after midas just to boost our fighting capabilities a little more"
+			"item_ring_of_aquila"		"Natural upgrade to our Wraith Band, gives enough mana regen to spam spells"
+			"item_sobi_mask"		"It may not give you any damage, but you can't buy it in sideshop. Upgrade to Ring of Basilius ASAP and you will get +3 to all stats (from x3 iron branch), +2 armor, mana regen and +7 damage, which is better than anything else you can buy early."
+			"item_wraith_band"		"Good-old Wraith band, good enough for every ranged agility core, both for safelane or midlane, upgrade to Aquila ASAP. You can get another one in midlane for additional stats and damage."
+			"item_hand_of_midas"		"Timing: around 8-10 minutes
+The item is must-have for Arc: double midas is your main farming tool."
+			"item_maelstrom"		"~13-23 min - Maelstrom is already good enough for your hero, considering having a lot of attack speed, but also increases farming a lot (magnetic field + maelstrom almost completely kills creepwave)"
+			"item_blink"		"Good for initiating from long range with hex and preventing enemy from reacting. 
+ALTERATIVE TO Hurricane Pike, Shadow Blade"
+			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
+ALTERNATIVES: Hurricane Pike, Blink Dagger"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"arc_warden_flux"
+			"2"		"arc_warden_spark_wraith"
+			"3"		"arc_warden_flux"
+			"4"		"arc_warden_spark_wraith"
+			"5"		"arc_warden_flux"
+			"6"		"arc_warden_tempest_double"
+			"7"		"arc_warden_flux"
+			"8"		"arc_warden_spark_wraith"
+			"9"		"arc_warden_spark_wraith"
+			"10"		"special_bonus_attack_speed_25"
+			"11"		"arc_warden_magnetic_field"
+			"12"		"arc_warden_tempest_double"
+			"13"		"arc_warden_magnetic_field"
+			"14"		"arc_warden_magnetic_field"
+			"15"		"special_bonus_hp_350"
+			"16"		"arc_warden_magnetic_field"
+			"18"		"arc_warden_tempest_double"
+			"20"		"special_bonus_cooldown_reduction_10"
+			"25"		"special_bonus_lifesteal_30"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_lifesteal_30"		"Both spell and attack lifesteal? You will become nearly unkillable!"
+			"special_bonus_attack_speed_25"		"More attack speed = more lightning procs, faster farm and higher damage output. Flux is just unreliable and not really useful in lategame."
+			"special_bonus_attack_damage_30"		"Higher damage output is more valuable. You will already have enough tankiness"
+			"special_bonus_cooldown_reduction_10"		"Attack range could be nice, but since we are going to be in frontline all the time, we don't need it that much, while CDR talent will decrease downtime between doubles even more"
+			"arc_warden_flux"		"Even while sparks are more useful for farming, Flux is much more useful for killing people (double flux = 100% slow or 100 ms on targeted hero and a lot of damage), so you want to max out it first"
+			"arc_warden_magnetic_field"		"Our strongest spell for both offensive (a lot of bonus attack speed) and defensive (save allies, yourself or even your base from being attacked) plays, altho not really useful for killing early on"
+			"arc_warden_spark_wraith"		"We can spam it with octarine and aquila, it can help us out in lane so we won't get ganked, RQQEE combo will kill almost anybody in early game"
+			"arc_warden_tempest_double"		"Your main trick. With double you can instakill a lot of heroes, splitfarm and be quite useful in fights. Just remember that you need as much effective slots (active items you can use twice or use without losing charges) as possible to get maximum value out of it"
+		}
+	}
+}

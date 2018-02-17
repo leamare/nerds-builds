@@ -1,0 +1,126 @@
+"guidedata"
+{
+	"Hero"		"weaver"
+	"Title"		"Nerds Weaver"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.09"
+	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
+
+This build is untraditional and situational. Use the hero on this position with this build on your own risk.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
+This build is based on VP.Lil's matches."
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x000000003085286A"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005A86B48C"
+	"TimePublished"		"0x000000005A86B48C"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_blight_stone"
+				"item"		"item_tango"
+				"item"		"item_clarity"
+				"item"		"item_branches"
+				"item"		"item_courier"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_boots"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_diffusal_blade"
+				"item"		"item_spirit_vessel"
+			}
+			"Situational Early"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_infused_raindrop"
+				"item"		"item_hand_of_midas"
+				"item"		"item_sphere"
+			}
+			"Utility"
+			{
+				"item"		"item_assault"
+				"item"		"item_lotus_orb"
+				"item"		"item_pipe"
+				"item"		"item_vladmir"
+				"item"		"item_guardian_greaves"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_black_king_bar"
+				"item"		"item_hurricane_pike"
+			}
+			"Core Transition"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_skadi"
+				"item"		"item_butterfly"
+				"item"		"item_bloodthorn"
+				"item"		"item_mjollnir"
+				"item"		"item_desolator"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_infused_raindrop"		"Extra mana regen and early game tankiness against nukes"
+			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it's pretty good to have early."
+			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don't need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
+			"item_hand_of_midas"		"If you think that game is going to be super long, it's probably best choice since you don't have abilty to farm really fast."
+			"item_urn_of_shadows"		"Good for surviving in fights, outlving the opponents."
+			"item_hurricane_pike"		"Bonus attack range, stats and ability to save allies once again with forcestaff active. Pretty nice, huh?"
+			"item_assault"		"Pretty good on weaver because of our minusarmor playstyle."
+			"item_sphere"		"Another good stat item, useful for allies (if you use it on your frontliner every time)."
+			"item_diffusal_blade"		"Cheap damage item for agi heroes, good for dealing with silences"
+			"item_orb_of_venom"		"Alternative to early blight stone for harassing in lane. Blight stone is still better because of medallion upgrade, but who knows, who knows."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"weaver_shukuchi"
+			"2"		"weaver_geminate_attack"
+			"3"		"weaver_the_swarm"
+			"4"		"weaver_shukuchi"
+			"5"		"weaver_shukuchi"
+			"6"		"weaver_time_lapse"
+			"7"		"weaver_shukuchi"
+			"8"		"weaver_the_swarm"
+			"9"		"weaver_the_swarm"
+			"10"		"special_bonus_mana_break_20"
+			"11"		"weaver_the_swarm"
+			"12"		"weaver_time_lapse"
+			"13"		"weaver_geminate_attack"
+			"14"		"weaver_geminate_attack"
+			"15"		"special_bonus_strength_12"
+			"16"		"weaver_geminate_attack"
+			"18"		"weaver_time_lapse"
+			"20"		"special_bonus_unique_weaver_4"
+			"25"		"special_bonus_unique_weaver_2"
+		}
+		"AbilityTooltips"
+		{
+			"weaver_the_swarm"		"Our main harassing, fighting and farming tool."
+			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
+			"weaver_geminate_attack"		"If you don't need shikuchi early, you can skill this one first. It's pretty good for harassing enemy early."
+			"weaver_time_lapse"		"Don't be afraid to use it. There's no shame to use it when you think you need to. If there's a signs of emergency - hit it to disengage and run out."
+		}
+	}
+}
