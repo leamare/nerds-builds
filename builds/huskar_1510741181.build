@@ -4,18 +4,20 @@
 	"Title"		"Nerds Huskar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
 	"GameplayVersion"		"7.09"
-	"Overview"		""
-	"GuideRevision"		"9"
+	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B3BF"
-	"TimePublished"		"0x000000005A86B3BF"
+	"TimeUpdated"		"0x000000005A91F111"
+	"TimePublished"		"0x000000005A91F111"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"#DOTA_Item_Build_Starting_Items"
+			"Starting Items."
 			{
 				"item"		"item_tango"
 				"item"		"item_branches"
@@ -44,12 +46,12 @@
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_blink"
-				"item"		"item_phase_boots"
 				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
+				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -74,6 +76,18 @@
 		}
 		"ItemTooltips"
 		{
+			"item_armlet"		"~5-8 min
+Your essential game-winning item. Cheap cost effective stats, armor and toggle ability in theory can make you unkillable early on."
+			"item_heavens_halberd"		"~13-19 min
+Additional HP and slow, but most importantly - miss chance and disarm, that allow you to continue showballing."
+			"item_solar_crest"		"Can work as replacement or addition to halberd. Good against phys damage lineups."
+			"item_dragon_lance"		"~15 min and on
+Good stats and upgrade into hurricane pike, that may solve some mobility issues"
+			"item_blink"		"Solve mobility issues with it or get to backlines of enemy formation (to kill enemies like sniper)"
+			"item_black_king_bar"		"Your main threats are disables. If enemy has a lot of them, BKB may help you focus most important targets."
+			"item_monkey_king_bar"		"High attack speed and pure damage. Disgusting."
+			"item_guardian_greaves"		"Usually you don't even need to upgrade your boots. Altho, if you 100% sure you're not going to lategame, you may want to go for greaves because of ridiculous HP regen aura under 20% HP and strong aura for your team in general."
+			"item_sphere"		"Usually BKB is better in terms of dealing with disables, but it may help against some scary stuff like DOOM"
 		}
 	}
 	"AbilityBuild"
@@ -103,6 +117,7 @@
 		"AbilityTooltips"
 		{
 			"special_bonus_unique_huskar"		"Both talents are situational: choose based on your own feelings on what's happening in the game"
+			"special_bonus_attack_range_125"		"While having inner vitality off cooldown is great, you won't really have enough mana to spam it that much, while additional attack range may help you even without mana."
 		}
 	}
 }
