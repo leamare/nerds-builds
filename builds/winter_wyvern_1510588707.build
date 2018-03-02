@@ -3,37 +3,37 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on 6k+ offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"13"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B498"
-	"TimePublished"		"0x000000005A86B498"
+	"TimeUpdated"		"0x000000005A987240"
+	"TimePublished"		"0x000000005A987240"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_boots"
 				"item"		"item_tango"
 				"item"		"item_clarity"
 				"item"		"item_branches"
+				"item"		"item_wind_lace"
 			}
 			"Starting Items (Midlane)"
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_null_talisman"
 				"item"		"item_phase_boots"
 			}
@@ -90,7 +90,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"winter_wyvern_arctic_burn"
 			"8"		"winter_wyvern_cold_embrace"
 			"9"		"winter_wyvern_splinter_blast"
-			"10"		"special_bonus_attack_damage_50"
+			"10"		"special_bonus_attack_damage_60"
 			"11"		"winter_wyvern_splinter_blast"
 			"12"		"winter_wyvern_winters_curse"
 			"13"		"winter_wyvern_cold_embrace"

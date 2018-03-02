@@ -3,17 +3,17 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 This build is based on EG.Universe, Mineski.IceIceIce,  Haldor's matches on offlane/core Dark Willow.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A88959B"
-	"TimePublished"		"0x000000005A88959B"
+	"TimeUpdated"		"0x000000005A98739A"
+	"TimePublished"		"0x000000005A98739A"
 	"ItemBuild"
 	{
 		"Items"

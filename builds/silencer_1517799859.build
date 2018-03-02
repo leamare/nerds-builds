@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B3DF"
-	"TimePublished"		"0x000000005A86B3DF"
+	"TimeUpdated"		"0x000000005A9872F9"
+	"TimePublished"		"0x000000005A9872F9"
 	"ItemBuild"
 	{
 		"Items"

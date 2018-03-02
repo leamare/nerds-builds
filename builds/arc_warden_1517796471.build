@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden (Nuker)"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"3"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B21B"
-	"TimePublished"		"0x000000005A86B21B"
+	"TimeUpdated"		"0x000000005A9873D8"
+	"TimePublished"		"0x000000005A9873D8"
 	"ItemBuild"
 	{
 		"Items"
@@ -105,7 +105,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"arc_warden_flux"
 			"8"		"arc_warden_spark_wraith"
 			"9"		"arc_warden_spark_wraith"
-			"10"		"special_bonus_attack_speed_25"
+			"10"		"special_bonus_cooldown_reduction_8"
 			"11"		"arc_warden_magnetic_field"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
@@ -113,7 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_arc_warden_2"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
-			"20"		"special_bonus_cooldown_reduction_10"
+			"20"		"special_bonus_unique_arc_warden_3"
 			"25"		"special_bonus_unique_arc_warden"
 		}
 		"AbilityTooltips"

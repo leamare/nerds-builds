@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"6"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B47B"
-	"TimePublished"		"0x000000005A86B47B"
+	"TimeUpdated"		"0x000000005A987288"
+	"TimePublished"		"0x000000005A987288"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,8 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_ring_of_aquila"
-				"item"		"item_blight_stone"
 				"item"		"item_boots"
+				"item"		"item_blight_stone"
 			}
 			"Core"
 			{
@@ -49,15 +49,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hand_of_midas"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_vladmir"
-				"item"		"item_phase_boots"
 				"item"		"item_ancient_janggo"
-				"item"		"item_solar_crest"
+				"item"		"item_phase_boots"
 			}
 			"Situational Early"
 			{
 				"item"		"item_pipe"
 				"item"		"item_tranquil_boots"
 				"item"		"item_blight_stone"
+				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
@@ -92,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~5-10 min
+			"item_hand_of_midas"		"~5-9 min
 It doesn't fit really well into HotD build, but if you are going to go full-core with Vladimir's Offering, rushing Midas is the way to go early."
 			"item_vladmir"		"13-16 min.
 Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Works better if you're going to lategame anyway."

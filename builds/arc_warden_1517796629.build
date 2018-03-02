@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.10"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges), while also being able to roam early. This build is untraditional.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"3"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A86B20B"
-	"TimePublished"		"0x000000005A86B20B"
+	"TimeUpdated"		"0x000000005A9873CA"
+	"TimePublished"		"0x000000005A9873CA"
 	"ItemBuild"
 	{
 		"Items"
@@ -134,7 +134,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"arc_warden_flux"
 			"8"		"arc_warden_spark_wraith"
 			"9"		"arc_warden_spark_wraith"
-			"10"		"special_bonus_attack_speed_25"
+			"10"		"special_bonus_cooldown_reduction_8"
 			"11"		"arc_warden_spark_wraith"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
@@ -142,7 +142,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_350"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
-			"20"		"special_bonus_cooldown_reduction_10"
+			"20"		"special_bonus_attack_range_125"
 			"25"		"special_bonus_lifesteal_30"
 		}
 		"AbilityTooltips"

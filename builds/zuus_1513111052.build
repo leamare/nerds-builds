@@ -2,13 +2,13 @@
 {
 	"Hero"		"zuus"
 	"Title"		"zeus draft"
-	"GameplayVersion"		"7.07c"
+	"GameplayVersion"		"7.09"
 	"Overview"		""
-	"GuideRevision"		"1"
+	"GuideRevision"		"2"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A303E0C"
+	"TimeUpdated"		"0x000000005A98074A"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -29,9 +29,9 @@
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_arcane_boots"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_kaya"
 				"item"		"item_aether_lens"
-				"item"		"item_ultimate_scepter"
 			}
 			"#DOTA_Item_Build_Luxury"
 			{
@@ -75,7 +75,7 @@
 			"15"		"special_bonus_movement_speed_40"
 			"16"		"zuus_static_field"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_3"
+			"20"		"special_bonus_cooldown_reduction_15"
 			"25"		"special_bonus_unique_zeus_2"
 		}
 		"AbilityTooltips"
