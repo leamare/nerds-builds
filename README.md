@@ -6,7 +6,9 @@ It's a collection of Dota 2 in-game guides.
 
 Initially it was started as "untraditional" builds, right now all the builds are based on high-rank stats (Divine stats provided by Stratz.com and based on custom reports made with League Report Generator), stream VODs and opinions from hero spammers.
 
-Unlike Standart Hero Builds (from Torte De Lini), every Nerds Hero Guide is built around the idea of player being "advanced" player. A guide isn't plan for your game, but more like a collection of drafts and ideas that points out general patterns in item builds, suggests situational alternatives for various situations and made with "don't need to search for an item in the shop" principle in mind. The goal is to make a guide for every hero and position it can be played on and add up information about alternatives and timings for every item, as well as have every build be up to date.
+Unlike Standart Hero Builds (from Torte De Lini), every Nerds Hero Guide is built around the idea of player being "advanced" player. A guide isn't plan for your game, but more like a collection of drafts and ideas that points out general patterns in item builds, suggests situational alternatives for various situations and made with "don't need to search for an item in the shop" principle in mind.
+
+The goal is to make a guide for every hero and position it can be played on and add up information about alternatives and timings for every item, as well as have every build be up to date. It's not about making Core Crystal Maiden a thing. The main purpose of the project is to provide players with up-to-date builds trends and show the way to make weird stuff work, if you really want.
 
 Right now there aren't many builds available, but we are working on it.
 
