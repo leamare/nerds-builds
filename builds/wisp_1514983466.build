@@ -3,13 +3,13 @@
 	"Hero"		"wisp"
 	"Title"		"Nerds Io (based on MiKUSHiRU)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.07d"
+	"GameplayVersion"		"7.10"
 	"Overview"		""
-	"GuideRevision"		"1"
+	"GuideRevision"		"2"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A4CD02A"
+	"TimeUpdated"		"0x000000005A9AEAA7"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -21,36 +21,38 @@
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
-			"#DOTA_Item_Build_Early_Game"
+			"Early"
 			{
 				"item"		"item_bottle"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_null_talisman"
 			}
-			"#DOTA_Item_Build_Core_Items"
+			"Core"
 			{
 				"item"		"item_veil_of_discord"
 				"item"		"item_spirit_vessel"
 				"item"		"item_blink"
 			}
-			"#DOTA_Item_Build_Luxury"
+			"Situational Early"
 			{
 				"item"		"item_mask_of_madness"
-				"item"		"item_armlet"
-				"item"		"item_black_king_bar"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_maelstrom"
 				"item"		"item_tranquil_boots"
 				"item"		"item_phase_boots"
-				"item"		"item_power_treads"
 				"item"		"item_solar_crest"
 			}
-			"#DOTA_HeroGuide_Untitled"
+			"Lategame"
 			{
 				"item"		"item_heart"
 				"item"		"item_assault"
 				"item"		"item_desolator"
 				"item"		"item_greater_crit"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_armlet"
+				"item"		"item_maelstrom"
 			}
 		}
 		"ItemTooltips"
