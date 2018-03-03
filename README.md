@@ -10,6 +10,8 @@ Unlike Standart Hero Builds (from Torte De Lini), every Nerds Hero Guide is buil
 
 Right now there aren't many builds available, but we are working on it.
 
+[List of all available builds](BUILDS.md)
+
 ## How to use?
 
 Files in this repository are backups from my guides folder. These files are used by Dota 2 game client and its guides editor.
