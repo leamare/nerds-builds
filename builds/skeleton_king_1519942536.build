@@ -1,16 +1,21 @@
 "guidedata"
 {
 	"Hero"		"skeleton_king"
-	"Title"		"Untitled"
+	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
 	"GameplayVersion"		"7.10"
-	"Overview"		""
-	"GuideRevision"		"1"
-	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
+
+This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
+The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A987B88"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000005A9AE667"
+	"TimePublished"		"0x000000005A9AE667"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,26 +27,55 @@
 				"item"		"item_flask"
 				"item"		"item_stout_shield"
 			}
-			"#DOTA_Item_Build_Early_Game"
+			"Early"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ward_observer"
+			}
+			"Core"
 			{
 				"item"		"item_helm_of_the_dominator"
-			}
-			"#DOTA_Item_Build_Core_Items"
-			{
-				"item"		"item_power_treads"
 				"item"		"item_ancient_janggo"
+				"item"		"item_power_treads"
 			}
-			"#DOTA_Item_Build_Luxury"
+			"Situational"
 			{
 				"item"		"item_blink"
 				"item"		"item_meteor_hammer"
-				"item"		"item_guardian_greaves"
-				"item"		"item_assault"
+				"item"		"item_blade_mail"
+				"item"		"item_solar_crest"
+			}
+			"Utility"
+			{
 				"item"		"item_vladmir"
+				"item"		"item_guardian_greaves"
+				"item"		"item_force_staff"
+				"item"		"item_heavens_halberd"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_shivas_guard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_bloodthorn"
+			}
+			"Core Transition"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_echo_sabre"
+				"item"		"item_hand_of_midas"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
 			}
 		}
 		"ItemTooltips"
 		{
+			"item_ward_observer"		"Use wards to guide your skeletons between camps. Early on it's your farming item."
+			"item_helm_of_the_dominator"		"~11-14 min
+Try to dominate big satyr and push with your team or initiate with a centaur. These two are your best bets"
 		}
 	}
 	"AbilityBuild"
