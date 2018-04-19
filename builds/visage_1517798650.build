@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.12"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB219A2"
-	"TimePublished"		"0x000000005AB219A2"
+	"TimeUpdated"		"0x000000005AC104D8"
+	"TimePublished"		"0x000000005AC104D8"
 	"ItemBuild"
 	{
 		"Items"
@@ -145,12 +145,16 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"visage_soul_assumption"		"Our another killing/finishing up spell. It's generally not a good idea to not skill this, but for a core Visage it won't be a problem to get a bunch of levels. Early on it won't be that useful with higher levels, so it's better to leave as level 1 skill until later point."
 			"visage_gravekeepers_cloak"		"Main difference in Lil's skillbuild and mine is prefering to max Gravekeeper's Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
 			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he's almost completely useless. Don't be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you're close to aghs or lvl 12/18."
-			"special_bonus_unique_visage_2"		"Absolutely must have. Who cares about damage amplification from spells if you will have three ferrari's on the map driving around and pushing everything?"
+			"special_bonus_unique_visage_2"		"Who cares about damage amplification from spells if you will have three ferraris on the map driving around and pushing everything?"
 			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
 
 + 
 
 Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_unique_visage_3"		"It's good when you're dominating and won't be able to get much from XP talent. "
+			"special_bonus_exp_boost_40"		"Altho, in most case XP gain helps you to get level 20 and 25 talents much faster, both of them are huge power spikes."
+			"special_bonus_unique_visage_5"		"Good in cases when you have aghs slot and play more like a tank than damage dealer."
+			"special_bonus_unique_visage_6"		"Better in almost every case. 4 familliars with aghs or \"free slot\" to buy something instead of aghs. In both cases this talent helps much more than cloak upgrade."
 		}
 	}
 }

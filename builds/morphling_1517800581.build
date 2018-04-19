@@ -3,17 +3,17 @@
 	"Hero"		"morphling"
 	"Title"		"Nerds Morphling"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.12"
 	"Overview"		"Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"5"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB21ACF"
-	"TimePublished"		"0x000000005AB21ACF"
+	"TimeUpdated"		"0x000000005AC10BFD"
+	"TimePublished"		"0x000000005AC10BFD"
 	"ItemBuild"
 	{
 		"Items"

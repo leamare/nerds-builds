@@ -3,17 +3,17 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Bane (based on EG.Universe)"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.12"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 This build is based on games of EG.Universe and KheZzu.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"12"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB21B4A"
-	"TimePublished"		"0x000000005AB21B4A"
+	"TimeUpdated"		"0x000000005AC10550"
+	"TimePublished"		"0x000000005AC10550"
 	"ItemBuild"
 	{
 		"Items"

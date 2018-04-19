@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.12"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"11"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB21B0D"
-	"TimePublished"		"0x000000005AB21B0D"
+	"TimeUpdated"		"0x000000005AC10B98"
+	"TimePublished"		"0x000000005AC10B98"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
+				"item"		"item_blight_stone"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
-				"item"		"item_clarity"
 			}
 			"Starting Items / Middle"
 			{
@@ -37,24 +35,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_bracer"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_ancient_janggo"
 				"item"		"item_dragon_lance"
+				"item"		"item_force_staff"
 				"item"		"item_hurricane_pike"
+				"item"		"item_ancient_janggo"
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
 				"item"		"item_hand_of_midas"
 				"item"		"item_cyclone"
-				"item"		"item_rod_of_atos"
 				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
 				"item"		"item_hood_of_defiance"
+				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -97,7 +94,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_vladmir"		"Another one useful aura for team. Cheap, really useful while attacking highground,"
 			"item_ring_of_basilius"		"Mana regen and armor aura are extremely useful for us since we have no armor on lvl 1 and not really big mana regen on early levels."
 			"item_pipe"		"Good to pick up against magic-heavy heroes, like Zeus or Lesh. You can even purchase only hood for yourself for the first time since it gives you a lot against heroes like this."
-			"item_urn_of_shadows"		"Extra heal and stats is always good. It makes us even tankier, saves our Nature's Attendants from unnesessary usage and extra mana regen."
 			"item_sheepstick"		"One of the best late-game choices. Gives us reliable disable, awesome stats, mana regen and also increases our skill damage amplification from int."
 			"item_orchid"		"Relatively cheap, offers lockdown, mana regen and attackspeed. Works pretty well as offensive slot"
 			"item_bloodthorn"		"Attack speed, mana regen, +80 attack damage, true strike, crit, One of the best offensive choices for any int hero."
@@ -117,7 +113,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
 			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."
 			"item_ancient_janggo"		"Cheap stats item and movespeed aura. Good for playing semi-support, but in other case silver edge is still better."
-			"item_rod_of_atos"		"Good stats, but, more importantly, it's quite cheap and gives us really nice lockdown ability. We want to be tanky and dominate early, so RoA looks incredibly good because of that."
 		}
 	}
 	"AbilityBuild"
@@ -141,7 +136,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_attack_damage_50"
 			"16"		"enchantress_enchant"
 			"18"		"enchantress_impetus"
-			"20"		"special_bonus_unique_enchantress_1"
+			"20"		"special_bonus_unique_enchantress_3"
 			"25"		"special_bonus_unique_enchantress_4"
 		}
 		"AbilityTooltips"

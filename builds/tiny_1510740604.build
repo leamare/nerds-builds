@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.12"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"12"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB21A86"
-	"TimePublished"		"0x000000005AB21A86"
+	"TimeUpdated"		"0x000000005AC103C2"
+	"TimePublished"		"0x000000005AC103C2"
 	"ItemBuild"
 	{
 		"Items"
@@ -44,6 +44,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ancient_janggo"
 				"item"		"item_echo_sabre"
 				"item"		"item_blink"
+				"item"		"item_soul_ring"
 				"item"		"item_solar_crest"
 			}
 			"Lategame"
