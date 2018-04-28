@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.12"
+	"GameplayVersion"		"7.14"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
 This build was based on VaxaStyle's steams and replays. http://twitch.tv/vaxastyle"
-	"GuideRevision"		"6"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AC1053C"
-	"TimePublished"		"0x000000005AC1053C"
+	"TimeUpdated"		"0x000000005AE27A30"
+	"TimePublished"		"0x000000005AE27A30"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,15 +41,15 @@ This build was based on VaxaStyle's steams and replays. http://twitch.tv/vaxasty
 			"Core"
 			{
 				"item"		"item_hand_of_midas"
-				"item"		"item_maelstrom"
+				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blade_mail"
-				"item"		"item_ancient_janggo"
 				"item"		"item_blink"
 				"item"		"item_meteor_hammer"
+				"item"		"item_yasha"
 			}
 			"Agressive (Soft Disable)"
 			{
@@ -65,7 +65,6 @@ This build was based on VaxaStyle's steams and replays. http://twitch.tv/vaxasty
 			}
 			"Lategame"
 			{
-				"item"		"item_mjollnir"
 				"item"		"item_butterfly"
 				"item"		"item_silver_edge"
 				"item"		"item_monkey_king_bar"
@@ -105,7 +104,6 @@ Usually replaces Shadow Blade"
 			"item_mjollnir"		"Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you're going to participate in fights by yourself"
 			"item_skadi"		"It may turn you into walking tank. Altho, you will have low damage output and won't be able to use properly all of you slots (considering two of them being octarine and BoTs already, you will have only three effective slots)"
 			"item_octarine_core"		"Works pretty well woth Mjolnir, decreases downtime between tempest doubles, midases and BoTs, while also makng us tanky as hell. Combining it with 30% lifesteal on level 25 and 15% CDR on level 20 makes Arc very hard to kill and reduces downtime of the double to 9 seconds."
-			"item_ancient_janggo"		"Endless drum charges and early tankiness. There's no room for it, but it can be purchased after midas just to boost our fighting capabilities a little more"
 			"item_ring_of_aquila"		"Natural upgrade to our Wraith Band, gives enough mana regen to spam spells"
 			"item_sobi_mask"		"It may not give you any damage, but you can't buy it in sideshop. Upgrade to Ring of Basilius ASAP and you will get +3 to all stats (from x3 iron branch), +2 armor, mana regen and +7 damage, which is better than anything else you can buy early."
 			"item_wraith_band"		"Good-old Wraith band, good enough for every ranged agility core, both for safelane or midlane, upgrade to Aquila ASAP. You can get another one in midlane for additional stats and damage."

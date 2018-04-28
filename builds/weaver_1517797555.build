@@ -3,18 +3,18 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.11"
+	"GameplayVersion"		"7.14"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
 This build is based on VP.Lil's matches."
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AB21974"
-	"TimePublished"		"0x000000005AB21974"
+	"TimeUpdated"		"0x000000005AE27587"
+	"TimePublished"		"0x000000005AE27587"
 	"ItemBuild"
 	{
 		"Items"

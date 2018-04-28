@@ -2,13 +2,13 @@
 {
 	"Hero"		"zuus"
 	"Title"		"zeus draft"
-	"GameplayVersion"		"7.09"
+	"GameplayVersion"		"7.14"
 	"Overview"		""
-	"GuideRevision"		"2"
+	"GuideRevision"		"3"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A98074A"
+	"TimeUpdated"		"0x000000005AE27561"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
