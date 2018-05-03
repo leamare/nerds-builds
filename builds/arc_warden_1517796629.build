@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"8"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE279E1"
-	"TimePublished"		"0x000000005AE279E1"
+	"TimeUpdated"		"0x000000005AE8429C"
+	"TimePublished"		"0x000000005AE8429C"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,7 +24,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wind_lace"
 				"item"		"item_ward_observer"
 				"item"		"item_courier"
-				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
@@ -85,13 +86,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_blink"		"More offensive alternative to force staff. You won't be able to save somebody, but you will be able to initiate from far away with hex or diffusal."
 			"item_wind_lace"		"We need to fix some of our mobility issues early. Wind Lace is pretty good for us to have at the start, so we can roam around the map and gank more effectively"
-			"item_ring_of_protection"		"Can be purchased instead of wind lace if you are going to harass enemy in lane first. You want both, but you won't have enough money. Won't be upgraded but still nice to have"
-			"item_boots"		"Must-have roaming item. With both wind lace and boots we will be fast enough to create some action on the map and move around the lanes"
 			"item_ghost"		"Against REALLY HIGH phys damage lineups"
 			"item_clarity"		"We are going to use a lot of spells early, so we will need a lot of mana regen in the beginning. Can be skipped if you don't have enough money"
 			"item_tango"		"Another reasonable choice: instead of early wind lace or ring of protection you can buy two sets of tangoes."
 			"item_travel_boots"		"Ability to split-push and teleport from other part of the map. Pretty straight forward"
-			"item_phase_boots"		"Brown boots ASAP, then you can leave it as it is and buy BoTs later, or buy Phase Boots early to be faster and get bonus damage. Issue: it will be sold anyway. You will go for BoTs anyway."
 			"item_hand_of_midas"		"You won't get much time and space to farm, so most of your money will come from assists and structures, so your midas will be probably late (somewhere between min 16-30), but it's fine: aside from drums and tranquils we don't need that much, while midas will just allow us to buy expensive stuff"
 			"item_vladmir"		"You will be a backliner most of the time, but it's just good and cheap aura to have for your team."
 			"item_pipe"		"Since 6.88 (I believe) pipes stack, so you can get it against high-magic damage lineups (tinker, zeus) and just cover up your team with magic shield twice"
@@ -110,13 +108,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and endless diffusal charges on your tempest double."
 			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn't have diffusal blade or other purge)"
 			"item_arcane_boots"		"Another one good pickup. Can be disassebled, can be used on double and original, pretty good choice. Tranquils are usually better because of health regen and armor, which is AW's problems early, but if your team has mana issues, you can pick up arcanes, even as second boot"
-			"item_orb_of_venom"		"Not necessary, but quite nice to have for early ganks, so we will have additional slow and early damage from poison"
 			"item_ancient_janggo"		"Gives us a little bit of stats and solves our mana regen issues, so we can spam our spells. And not obly that: you can summon tempest double and use Drum while not spending any charges, basically having endless drums in every fight."
-			"item_medallion_of_courage"		"Arc Warden doesn't have much starting armor, so against some heavy-phys lineups it's probably good to have. It's good in lineups with heavy phys damage as well since you can use it savely with your double."
 			"item_solar_crest"		"Awesome upgrade for medallion: miss chance, a lot of armor and very good price"
 			"item_smoke_of_deceit"		"It's hard for us to gank since we don't have blink, invisibility or mobility spell, so smoke will help us to gank early and not get spotted"
 			"item_guardian_greaves"		"Debuff that prevents multiple healing lasts for almost 38 seconds, greaves have 40 seconds cooldown. It doesn't give us any benefit with double, so you want to get it only when nobody else gets it and your team REALLY needs it"
-			"item_ring_of_aquila"		"Cheap damage+mana regen+armor for agi hero"
 			"item_tranquil_boots"		"Ultimate ganking boots. Higher movement speed, armor and solution for our bad early health regen."
 			"item_glimmer_cape"		"Good to have against magic-heavy lineups or to reset enemy focus from an ally"
 		}
