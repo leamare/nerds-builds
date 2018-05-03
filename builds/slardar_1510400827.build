@@ -1,15 +1,15 @@
 "guidedata"
 {
 	"Hero"		"slardar"
-	"Title"		"Nerds Slardar (based on Liquid.Miracle- pub)"
+	"Title"		"WIP Nerds Slardar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.07c"
+	"GameplayVersion"		"7.14"
 	"Overview"		""
-	"GuideRevision"		"3"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005A1041FA"
+	"TimeUpdated"		"0x000000005AE83C72"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -21,7 +21,7 @@
 				"item"		"item_flask"
 				"item"		"item_stout_shield"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"#DOTA_Item_Build_Early_Game"
