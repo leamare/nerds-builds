@@ -10,12 +10,12 @@ This build is untraditional and may require additional understanding of hero's l
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE27564"
-	"TimePublished"		"0x000000005AE27564"
+	"TimeUpdated"		"0x000000005AE83A3E"
+	"TimePublished"		"0x000000005AE83A3E"
 	"ItemBuild"
 	{
 		"Items"
@@ -88,9 +88,9 @@ Try to dominate big satyr and push with your team or initiate with a centaur. Th
 		"AbilityOrder"
 		{
 			"1"		"skeleton_king_mortal_strike"
-			"2"		"skeleton_king_vampiric_aura"
+			"2"		"skeleton_king_hellfire_blast"
 			"3"		"skeleton_king_mortal_strike"
-			"4"		"skeleton_king_hellfire_blast"
+			"4"		"skeleton_king_vampiric_aura"
 			"5"		"skeleton_king_mortal_strike"
 			"6"		"skeleton_king_reincarnation"
 			"7"		"skeleton_king_hellfire_blast"
