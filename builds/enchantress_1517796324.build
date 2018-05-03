@@ -3,27 +3,29 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.12"
+	"GameplayVersion"		"7.14"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
 Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide-688"
-	"GuideRevision"		"6"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AC10BA3"
-	"TimePublished"		"0x000000005AC10BA3"
+	"TimeUpdated"		"0x000000005AE83F99"
+	"TimePublished"		"0x000000005AE83F99"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_wind_lace"
 				"item"		"item_clarity"
-				"item"		"item_smoke_of_deceit"
-				"item"		"item_magic_stick"
+				"item"		"item_tango"
+				"item"		"item_blight_stone"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
@@ -88,7 +90,6 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 		{
 			"item_infused_raindrop"		"may be a good purchase: mana regen, magic damage block"
 			"item_wind_lace"		"Good addition for roaming. Since we already have the highest movement speed in the game, it will be cheaper and more useful tha boots."
-			"item_ring_of_protection"		"Not necessary, but quite nice to have to be a little bit tankier. Altho, you will probably sell it later without upgrading into something."
 			"item_moon_shard"		"All-in damage output item. Good for defending situations or for stomping, but usually not worth getting it early"
 			"item_magic_stick"		"Grab it as soon as you can (maybe even at start instead of ring of protection). You don't have much of HP or mana, so constant usage of magic stick may save the day for you"
 			"item_clarity"		"While we will be roaming and farming jungle, we will use Enchant quite a lot, so we will run out of mana quickly. We don't need any regen, but some mana potions could help."
@@ -96,7 +97,6 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_travel_boots"		"Natural lategame upgrade for any boot"
 			"item_phase_boots"		"Mobility and damage. Can be replaced with threads, but who cares about threads anyway, phase boots are just better for roaming and coming in and out in fights."
 			"item_hand_of_midas"		"With our low farming speed and experience leak, it can be a nice purchase if you're not fighting a lot or if you're going into late game anyway"
-			"item_mekansm"		"if your team needs additional pushing power or don't have natural mek/greaves carrier, you may get this one"
 			"item_vladmir"		"Not really good ench item, but it's a good aura after all."
 			"item_buckler"		"Works well if your team needs a little bit more armor and/or if you're going for mekansm later"
 			"item_pipe"		"best against high magic damage lineups, obviously. Not a big deal"
@@ -117,7 +117,6 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_skadi"		"Huge stats boost and, once again, long range utility: you can still attack people from behind, while also applying slow. It's also useful for tanking purposes too, the main downside is it's price."
 			"item_blight_stone"		"Good for roaming and jungle farming with creeps"
 			"item_ancient_janggo"		"Cheap stats item and movespeed aura. Good for playing semi-support, but in other case silver edge is still better. Small tip: Disassemble your Basilius and sell ring of protection, you won't need it and can make drums faster."
-			"item_smoke_of_deceit"		"Not necessary, but quite useful for ganking early with your creep. Even if you won't use it, it can be used later on"
 			"item_rod_of_atos"		"Good stats, but, more importantly, it's quite cheap and gives us really nice lockdown ability. We want to be tanky and dominate early, so RoA looks incredibly good because of that."
 			"item_glimmer_cape"		"A little bit of attack speed, useful active ability for saving people from focus."
 		}
