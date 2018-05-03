@@ -1,15 +1,15 @@
 "guidedata"
 {
 	"Hero"		"naga_siren"
-	"Title"		"Untitled"
+	"Title"		"WIP"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
 	"GameplayVersion"		"7.14"
 	"Overview"		""
-	"GuideRevision"		"2"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE2768A"
+	"TimeUpdated"		"0x000000005AE83D62"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -19,8 +19,8 @@
 			{
 				"item"		"item_tango"
 				"item"		"item_wind_lace"
-				"item"		"item_clarity"
-				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -51,6 +51,9 @@
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_shivas_guard"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
 			}
 		}
 		"ItemTooltips"
