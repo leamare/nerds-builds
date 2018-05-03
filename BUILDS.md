@@ -33,9 +33,6 @@ Winter Wyvern | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedeta
 
 Hero | Role | File
 -- | -- | --
-Brewmaster | Offlane | [builds\brewmaster_1513112457.build](builds\brewmaster_1513112457.build)
 Doom | Offlane | [builds\doom_bringer_1513111352.build](builds\doom_bringer_1513111352.build)
 Naga Siren | Support | [builds\naga_siren_1519913507.build](builds\naga_siren_1519913507.build)
 Slardar | Core | [builds\slardar_1510400827.build](builds\slardar_1510400827.build)
-Io | Core | [builds\wisp_1514983466.build](builds\wisp_1514983466.build)
-Zeus | Support? | [builds\zuus_1513111052.build](builds\zuus_1513111052.build)
