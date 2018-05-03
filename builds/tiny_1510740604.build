@@ -2,17 +2,17 @@
 {
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
-	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
 	"GameplayVersion"		"7.14"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE27626"
-	"TimePublished"		"0x000000005AE27626"
+	"TimeUpdated"		"0x000000005AE71678"
+	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,28 +23,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_stout_shield"
 				"item"		"item_flask"
 				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 				"item"		"item_branches"
-				"item"		"item_clarity"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_soul_ring"
 				"item"		"item_boots"
 				"item"		"item_infused_raindrop"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_invis_sword"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_echo_sabre"
 			}
 			"Situational Early"
 			{
+				"item"		"item_ring_of_aquila"
 				"item"		"item_ancient_janggo"
-				"item"		"item_echo_sabre"
 				"item"		"item_blink"
-				"item"		"item_soul_ring"
 				"item"		"item_solar_crest"
 			}
 			"Lategame"
