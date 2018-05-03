@@ -8,12 +8,12 @@
 
 This build is based on EG.Universe, Mineski.IceIceIce,  Haldor's matches on offlane/core Dark Willow.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"36"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE279BA"
-	"TimePublished"		"0x000000005AE279BA"
+	"TimeUpdated"		"0x000000005AE8A2D4"
+	"TimePublished"		"0x000000005AE8A2D4"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_boots"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
 				"item"		"item_ward_observer"
 			}
 			"Early"
@@ -41,21 +46,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_ghost"
-				"item"		"item_ancient_janggo"
 				"item"		"item_force_staff"
 				"item"		"item_power_treads"
+				"item"		"item_bottle"
 			}
 			"Lategame"
 			{
 				"item"		"item_mjollnir"
+				"item"		"item_sphere"
 				"item"		"item_hurricane_pike"
 				"item"		"item_octarine_core"
 				"item"		"item_travel_boots"
 				"item"		"item_shivas_guard"
-				"item"		"item_sphere"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
-				"item"		"item_greater_crit"
 			}
 			"Utility"
 			{
