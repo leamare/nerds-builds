@@ -36,3 +36,4 @@ Hero | Role | File
 Doom | Offlane | [builds\doom_bringer_1513111352.build](builds\doom_bringer_1513111352.build)
 Naga Siren | Support | [builds\naga_siren_1519913507.build](builds\naga_siren_1519913507.build)
 Slardar | Core | [builds\slardar_1510400827.build](builds\slardar_1510400827.build)
+Dark Willow | Core | [builds\dark_willow_1518900620.build](builds\dark_willow_1518900620.build)
