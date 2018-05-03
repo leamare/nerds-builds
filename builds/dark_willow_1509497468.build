@@ -2,19 +2,19 @@
 {
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
-	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
 	"GameplayVersion"		"7.14"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 This build is based on my own (~47th on Dotabuff) experience of playing the hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE279C3"
-	"TimePublished"		"0x000000005AE279C3"
+	"TimeUpdated"		"0x000000005AE840E8"
+	"TimePublished"		"0x000000005AE840E8"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,21 +31,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_clarity"
-				"item"		"item_infused_raindrop"
 				"item"		"item_magic_stick"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_infused_raindrop"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_soul_ring"
-				"item"		"item_cyclone"
-				"item"		"item_magic_wand"
+				"item"		"item_veil_of_discord"
+				"item"		"item_blink"
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
-				"item"		"item_veil_of_discord"
+				"item"		"item_spirit_vessel"
+				"item"		"item_cyclone"
 				"item"		"item_arcane_boots"
 				"item"		"item_kaya"
 			}
@@ -53,7 +55,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_force_staff"
 				"item"		"item_glimmer_cape"
-				"item"		"item_spirit_vessel"
 				"item"		"item_lotus_orb"
 				"item"		"item_guardian_greaves"
 			}
@@ -78,14 +79,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_wind_lace"		"You're pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
-			"item_urn_of_shadows"		"It gives you armor, regen and upgrades into one of the best items for your hero. Grab it ASAP and start roaming."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
 			"item_force_staff"		"Saves allies and works great in combo with your Q"
 			"item_guardian_greaves"		"Your low armor makes this item pretty good for you: additional regen, arnor and overall strong aura for your team"
 			"item_ancient_janggo"		"May be good early as additional mobility item"
-			"item_blink"		"They won't catch you"
 			"item_nullifier"		"Additional strong lockdown, while also giving armor and high damage (works great on lvl 25)"
 			"item_hurricane_pike"		"Natural upgrade for Force Staff"
 			"item_octarine_core"		"Replacement for Kaya in case if you don't need Scythe or Shiva"
