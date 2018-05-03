@@ -7,12 +7,12 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"6"
+	"GuideRevision"		"7"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE2766A"
-	"TimePublished"		"0x000000005AE2766A"
+	"TimeUpdated"		"0x000000005AE83D12"
+	"TimePublished"		"0x000000005AE83D12"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,46 +29,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_ring_of_aquila"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
 				"item"		"item_hurricane_pike"
 				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
-				"item"		"item_hand_of_midas"
-				"item"		"item_bottle"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_invis_sword"
-				"item"		"item_blade_mail"
-				"item"		"item_sphere"
 				"item"		"item_blink"
-				"item"		"item_rod_of_atos"
-				"item"		"item_null_talisman"
 				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
+				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_silver_edge"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
+				"item"		"item_assault"
 				"item"		"item_moon_shard"
 				"item"		"item_shivas_guard"
-				"item"		"item_assault"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_sphere"
 				"item"		"item_skadi"
 				"item"		"item_black_king_bar"
 				"item"		"item_refresher"
@@ -84,7 +82,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_moon_shard"		"With our high-damage output and mediocre attack speed, Moon Shard as glass-cannon type damage increase works pretty well, as well as 7th slot"
 			"item_magic_wand"		"Basically, cheap stats increase, nothing more. It will never be bad choice for early game."
 			"item_power_treads"		"Bonus damage from int or tankiness and attack speed. These early stats from threads are pretty strong in terms of boosting our farming speed and fighting capablities."
-			"item_hand_of_midas"		"If you're able to get it pretty early after threads - better do it. This item will slow you down a bit, but getting your items faster later on is much more valuable."
 			"item_sheepstick"		"Instant lockdown, mana regen, a little bit of tankiness and massive int increase. Basically best item for Silencer in late game"
 			"item_orchid"		"Massive damage and attack speed increase, but not really good for getting it early since getting Sheepstick early is more valuable, while RoA can replace Orchid as instant lockdown."
 			"item_bloodthorn"		"Best offensive choice for any int core because of massive damage increase, can also be bought as some kind of replacement to MKB"
@@ -95,7 +92,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_black_king_bar"		"The item we don't really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
 			"item_shivas_guard"		"With our agressive plays, pretty often bought item: massive int and armor increase, works as huge boost to our durability"
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
-			"item_blade_mail"		"Early int+armor increase. Works well with other stats items, altho we don't really need it."
 			"item_mjollnir"		"We don't really need lightnings, but Mjolnir gives us a lot of AoE damage and huge attack speed boost, so it may be good alternative to AC or Moon Shard"
 			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it's goo only when you need raw hp increase and damage"
 			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
