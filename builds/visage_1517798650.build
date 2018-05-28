@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.14"
+	"GameplayVersion"		"7.16"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"12"
+	"GuideRevision"		"16"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE2758E"
-	"TimePublished"		"0x000000005AE2758E"
+	"TimeUpdated"		"0x000000005B0C09E1"
+	"TimePublished"		"0x000000005B0C09E1"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,25 +36,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ring_of_aquila"
 				"item"		"item_boots"
 				"item"		"item_blight_stone"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_helm_of_the_dominator"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_vladmir"
-				"item"		"item_ancient_janggo"
 				"item"		"item_phase_boots"
 			}
 			"Situational Early"
 			{
 				"item"		"item_pipe"
 				"item"		"item_tranquil_boots"
-				"item"		"item_solar_crest"
+				"item"		"item_ancient_janggo"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
 				"item"		"item_bloodthorn"
@@ -109,6 +109,7 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
 			"item_helm_of_the_dominator"		"~8-12 min
 Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
+			"item_ancient_janggo"		"Stats and movement speed boost. It's not that good after nerfs, but the movement speed value is hard to underestimate"
 		}
 	}
 	"AbilityBuild"

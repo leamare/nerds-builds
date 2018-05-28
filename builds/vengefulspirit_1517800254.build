@@ -3,16 +3,16 @@
 	"Hero"		"vengefulspirit"
 	"Title"		"Nerds Vengeful Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.14"
+	"GameplayVersion"		"7.16"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"8"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE27604"
-	"TimePublished"		"0x000000005AE27604"
+	"TimeUpdated"		"0x000000005B0C09D7"
+	"TimePublished"		"0x000000005B0C09D7"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,6 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_sobi_mask"
 				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
@@ -29,12 +30,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
 				"item"		"item_ring_of_aquila"
+				"item"		"item_flask"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_dragon_lance"
-				"item"		"item_mask_of_madness"
 				"item"		"item_hurricane_pike"
 				"item"		"item_yasha"
 			}
@@ -46,15 +47,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
+				"item"		"item_mask_of_madness"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_phase_boots"
-				"item"		"item_diffusal_blade"
-				"item"		"item_solar_crest"
-				"item"		"item_sphere"
-				"item"		"item_vladmir"
 				"item"		"item_desolator"
+				"item"		"item_solar_crest"
 				"item"		"item_blink"
+				"item"		"item_ancient_janggo"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
@@ -67,13 +67,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_moon_shard"
 				"item"		"item_greater_crit"
 			}
-			"Situational Late"
+			"Situational"
 			{
-				"item"		"item_sheepstick"
+				"item"		"item_sphere"
 				"item"		"item_assault"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
 				"item"		"item_black_king_bar"
 				"item"		"item_mjollnir"
-				"item"		"item_ultimate_scepter"
 			}
 			"http://dotablog.ileamare.ru/builds"
 			{
@@ -86,8 +87,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ALTERNATIVES: Power Threads"
 			"item_power_treads"		"Probably the best boots to get because of attack speed increase, as well as tankiness or damage from agility.
 ALTERNATIVE: Phase Boots"
-			"item_vladmir"		"Since we already have percentage-based damage aura, why not grab lifesteal and another percentage-based damage aura, so we can dominate even harder?
-ALTERNATIVES: Ring of Aquila"
 			"item_sheepstick"		"Even while we have stun and we are going to be agility core, it's still remains as ultimate lockdown item for ranged cores."
 			"item_bloodthorn"		"The best core item at the moment: silence, crits, attack speed boost and a lot of damage. It's expensive and doesn't really work well with our skillset, but it's too good to ignore it"
 			"item_hurricane_pike"		"Natural upgrade to Lance. More stats and mobility."
