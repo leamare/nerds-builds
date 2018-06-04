@@ -16,7 +16,7 @@ Right now there aren't many builds available, but we are working on it.
 
 ## How can I use this site?
 
-You can read buildfiles (it's just a code, but it's human readable) and get into builds. You can also go directly to GitHub of the project to look over all the changes that were made.
+You can read buildfiles (it's just a code, but it's human readable) and get into builds. You can also go directly to [GitHub of the project to look over all the changes that were made](https://github.com/leamare/nerds-builds/commits/master).
 
 ## How to use these guides in game?
 
