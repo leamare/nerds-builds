@@ -14,7 +14,17 @@ Right now there aren't many builds available, but we are working on it.
 
 [List of all available builds](BUILDS.md)
 
-## How to use?
+## How can I use this site?
+
+You can read buildfiles (it's just a code, but it's human readable) and get into builds. You can also go directly to GitHub of the project to look over all the changes that were made.
+
+## How to use these guides in game?
+
+Choose the build you're most interested in, open its Steam page and just subscribe.
+
+Alternatively, you can just use them in game, most of them are available from guides section.
+
+
 
 Files in this repository are backups from my guides folder. These files are used by Dota 2 game client and its guides editor.
 
