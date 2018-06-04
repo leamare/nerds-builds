@@ -1,0 +1,134 @@
+"guidedata"
+{
+	"Hero"		"lion"
+	"Title"		"Experimental Lion"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.16"
+	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
+
+Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
+
+Discuss this build ans suggest your own changes at Spectral Alliance discord channel: http://spectralalliance.ru/
+The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
+	"GuideRevision"		"15"
+	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005B0C0976"
+	"TimePublished"		"0x000000005B0C0976"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_wind_lace"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_bracer"
+			}
+			"Core - Utility"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_blink"
+				"item"		"item_ancient_janggo"
+			}
+			"Core - Semicarry"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
+				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_aether_lens"
+			}
+			"Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_shivas_guard"
+				"item"		"item_ethereal_blade"
+				"item"		"item_lotus_orb"
+			}
+			"Lategame"
+			{
+				"item"		"item_bloodthorn"
+				"item"		"item_hurricane_pike"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_ghost"
+				"item"		"item_assault"
+				"item"		"item_silver_edge"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_power_treads"		"If you want to use full potential of your +90 dmg talent, you need some stats and attack speed. Power treads works well with it."
+			"item_aether_lens"		"Even while you don't really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
+			"item_blink"		"The most important Lion item. If you aren't going for a full utility, you can delay it, but mobility is still essential for your initiation."
+			"item_tranquil_boots"		"Mobility + HP regen"
+			"item_ancient_janggo"		"Additional mobility and HP"
+			"item_helm_of_the_dominator"		"Huge HP regen bost, additional boost to initiation via jungle creeps"
+			"item_medallion_of_courage"		"Both armor boost and damage output increase."
+			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
+			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
+			"item_ethereal_blade"		"Potential save against physical damage"
+			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
+			"item_bloodthorn"		"Attack speed boost, mana boost, additional disable and true strike. Best attack speed/damage boost item"
+			"item_hurricane_pike"		"Additional mobility, stats and attack range"
+			"item_silver_edge"		"Additional initiation and stats"
+			"item_ghost"		"Potential self-save against physical damage"
+			"item_ultimate_scepter"		"It's good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren't really focused on this aspect of Lion."
+			"item_assault"		"Both armor and attack speed boost. Works well for semi-carry Lion"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lion_impale"
+			"2"		"lion_mana_drain"
+			"3"		"lion_impale"
+			"4"		"lion_voodoo"
+			"5"		"lion_impale"
+			"6"		"lion_finger_of_death"
+			"7"		"lion_impale"
+			"8"		"lion_mana_drain"
+			"9"		"lion_mana_drain"
+			"10"		"special_bonus_attack_damage_90"
+			"11"		"lion_mana_drain"
+			"12"		"lion_finger_of_death"
+			"13"		"lion_voodoo"
+			"14"		"lion_voodoo"
+			"15"		"special_bonus_gold_income_20"
+			"16"		"lion_voodoo"
+			"18"		"lion_finger_of_death"
+			"20"		"special_bonus_hp_500"
+			"25"		"special_bonus_unique_lion_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
