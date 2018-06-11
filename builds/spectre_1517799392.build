@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.16"
+	"GameplayVersion"		"7.17"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"24"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B0C09AE"
-	"TimePublished"		"0x000000005B0C09AE"
+	"TimeUpdated"		"0x000000005B1E9504"
+	"TimePublished"		"0x000000005B1E9504"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,15 +24,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_stout_shield"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_phase_boots"
-				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
+				"item"		"item_power_treads"
 			}
 			"Regen Items"
 			{
@@ -56,11 +55,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_ring_of_aquila"
-				"item"		"item_infused_raindrop"
 				"item"		"item_blade_mail"
-				"item"		"item_power_treads"
+				"item"		"item_infused_raindrop"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_soul_ring"
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -106,7 +105,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 Good for tower dives (and very agressive plays) or against summons/high attack speed.
 
 ALTERNATIVES: Hood of Defiance, HotD"
-			"item_blade_mail"		"Either cheap replacement for manta early on or good solution against high damage output burst heroes (Phantom Assassin, Tinker)"
+			"item_blade_mail"		"Either cheap replacement for manta early on or good solution against high damage output burst heroes (Phantom Assassin, Tinker, Slark)"
 			"item_radiance"		"~21-25 - The item we want to get almost every time. It accelerates our farm, deals shitload of damage in fights + miss chance. Even in losing scenarios it can be a game-changer item, so don't bother buying a late radiance. If you gone for Core MoM build, still get it, but maybe after BKB (its optional tho)"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
 			"item_manta"		"Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit."
@@ -115,7 +114,8 @@ ALTERNATIVES: Hood of Defiance, HotD"
 			"item_diffusal_blade"		"It's quite good as cheap damage source. Can be picked up somewhere between phase and radiance to fight early. Illusions don't benefit much from it, but it still makes haunt DPS higher and stops enemies from running away, so you should get it for early mana/agility boost and later replace it with etherial/butterfly."
 			"item_ethereal_blade"		"Jokes aside, this item is pretty good in terms of stats: more strength, more agility."
 			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don't really need it or just have more important slot to have. Altho, it's actually pretty good as 6-7th slot."
-			"item_ring_of_aquila"		"Armor and a lot of cheap damage early on. It should replace your QB at some point (and replaced with manta later on). Alternatively, you can get Blade Mail, but it's more expensive."
+			"item_ring_of_aquila"		"Armor and a lot of cheap damage early on.
+Good when you're pressured under tower or need a bit more armor. Alternatively, you can get Blade Mail, but it's more expensive."
 			"item_stout_shield"		"You can get double stout shield against hard lanes with a lot of physical harass"
 			"item_spirit_vessel"		"This item is basically cheap heart. If you didn't go for Urn, it's probably better to skip it and go straight for heart later on, but Vessel as is gives a lot of things Spectre loves: movement speed, HP and percentage-based heal/damage."
 			"item_helm_of_the_dominator"		"Doesn't really synergises with our abilities (creep won't be able to go to fights with us), but you can use it for farming and scout enemy territory with neutral creep for easy pickoffs.
