@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.16
+## Patch: 7.17
 
 ---
 
