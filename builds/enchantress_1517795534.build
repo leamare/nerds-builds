@@ -7,24 +7,24 @@
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B1E9575"
-	"TimePublished"		"0x000000005B1E9575"
+	"TimeUpdated"		"0x000000005B25E9E3"
+	"TimePublished"		"0x000000005B25E9E3"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_orb_of_venom"
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
-				"item"		"item_faerie_fire"
-				"item"		"item_enchanted_mango"
 			}
 			"Starting Items / Middle"
 			{
@@ -34,27 +34,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_boots"
+				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_power_treads"
+				"item"		"item_bracer"
 			}
 			"Core"
 			{
-				"item"		"item_dragon_lance"
-				"item"		"item_force_staff"
-				"item"		"item_hurricane_pike"
 				"item"		"item_ancient_janggo"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_dragon_lance"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_hand_of_midas"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_rod_of_atos"
 				"item"		"item_blight_stone"
 				"item"		"item_cyclone"
 				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
-				"item"		"item_hood_of_defiance"
-				"item"		"item_phase_boots"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
@@ -74,6 +74,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_skadi"
 				"item"		"item_nullifier"
+				"item"		"item_blink"
 			}
 			"Utility"
 			{
@@ -131,7 +132,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"enchantress_untouchable"
 			"8"		"enchantress_natures_attendants"
 			"9"		"enchantress_natures_attendants"
-			"10"		"special_bonus_movement_speed_25"
+			"10"		"special_bonus_magic_resistance_15"
 			"11"		"enchantress_natures_attendants"
 			"12"		"enchantress_impetus"
 			"13"		"enchantress_enchant"
