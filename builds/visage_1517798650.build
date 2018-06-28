@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"22"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B1E942F"
-	"TimePublished"		"0x000000005B1E942F"
+	"TimeUpdated"		"0x000000005B2FAD96"
+	"TimePublished"		"0x000000005B2FAD96"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,9 +33,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_aquila"
-				"item"		"item_blight_stone"
+				"item"		"item_headdress"
 				"item"		"item_magic_wand"
+				"item"		"item_blight_stone"
 			}
 			"Core"
 			{
@@ -45,22 +45,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_pipe"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_vladmir"
 				"item"		"item_phase_boots"
-				"item"		"item_pipe"
-				"item"		"item_tranquil_boots"
-				"item"		"item_ancient_janggo"
-				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
-				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_refresher"
+				"item"		"item_aeon_disk"
+				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
@@ -68,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
-				"item"		"item_shivas_guard"
 				"item"		"item_heart"
 				"item"		"item_nullifier"
 				"item"		"item_hurricane_pike"
@@ -79,6 +77,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
 				"item"		"item_guardian_greaves"
+				"item"		"item_shivas_guard"
 				"item"		"item_moon_shard"
 			}
 			"http://dotablog.ileamare.ru/builds"
@@ -87,10 +86,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~5-9 min
-It doesn't fit really well into HotD build, but if you are going to go full-core with Vladimir's Offering, rushing Midas is the way to go early."
 			"item_vladmir"		"13-16 min.
-Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Works better if you're going to lategame anyway."
+Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Great if you want to boost your damage output or play against crimson guard or Rubick."
 			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups."
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
 			"item_bloodthorn"		"Perfect offensive item: crit, silence, attackspeed. a lot of damage."
@@ -105,12 +102,12 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_medallion_of_courage"		"One of the best ways for us to amplify our damage wth familliars. Also solves mana regen issues"
 			"item_solar_crest"		"After midas, this will be the cheapest and most cost-effective thing we can get: -7 armor to -12 armor and miss chance is actually pretty huge. It will increase our farming speed, kill potential and ability to save allies. Small tip: use it or medallion on creep under tower's attack so it can tank."
 			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. It doesn't give another useful bonuses, it's not that reliable, but, well, it's something. It also works well as defensive choice (gives more health)."
-			"item_tranquil_boots"		"While a lot of people prefer threads, I like tranquils more: out-of-battle regen and increased movement speed to be able to gank more effecively"
 			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
 			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
 			"item_helm_of_the_dominator"		"~8-12 min
 Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
-			"item_ancient_janggo"		"Stats and movement speed boost. It's not that good after nerfs, but the movement speed value is hard to underestimate"
+			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
+			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
 		}
 	}
 	"AbilityBuild"
@@ -121,17 +118,18 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"2"		"visage_gravekeepers_cloak"
 			"3"		"visage_grave_chill"
 			"4"		"visage_soul_assumption"
-			"5"		"visage_gravekeepers_cloak"
+			"5"		"visage_grave_chill"
 			"6"		"visage_summon_familiars"
-			"7"		"visage_gravekeepers_cloak"
-			"8"		"visage_grave_chill"
+			"7"		"visage_grave_chill"
+			"8"		"visage_gravekeepers_cloak"
 			"9"		"visage_gravekeepers_cloak"
 			"10"		"special_bonus_cast_range_125"
-			"11"		"visage_grave_chill"
+			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"
 			"13"		"visage_soul_assumption"
 			"14"		"visage_soul_assumption"
 			"15"		"special_bonus_unique_visage_3"
+			"16"		"visage_soul_assumption"
 			"18"		"visage_summon_familiars"
 			"20"		"special_bonus_unique_visage_2"
 			"25"		"special_bonus_unique_visage_6"
