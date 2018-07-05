@@ -30,7 +30,13 @@ Files in this repository are backups from my guides folder. These files are used
 
 Buildfile format is human readable and looks like JSON in some way. You can edit it with any text editor and just suggest your commentaries and ideas as pull requests.
 
-You can install these guides into Steam/userdata/(your steam id)/570/remote/guides" folder.
+You can install these guides into "%ProgramFiles%/Steam/userdata/(your steam id)/570/remote/guides" folder.
+
+It's recommended to make a symlink for this directory in your repo folder, so all the files will be located here. You can do that with following console commands:
+
+- For windows - `mklink /D builds %SteamGuidesFolder`
+
+- For linux and other unix-like - `ln -s %SteamGuidesFolder% builds`
 
 ## How can I suggest changes?
 
