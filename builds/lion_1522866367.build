@@ -3,19 +3,19 @@
 	"Hero"		"lion"
 	"Title"		"Experimental Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.18"
+	"GameplayVersion"		"7.19"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 Discuss this build ans suggest your own changes at Spectral Alliance discord channel: http://spectralalliance.ru/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B37A037"
-	"TimePublished"		"0x000000005B37A037"
+	"TimeUpdated"		"0x000000005B5F2747"
+	"TimePublished"		"0x000000005B5F2747"
 	"ItemBuild"
 	{
 		"Items"
