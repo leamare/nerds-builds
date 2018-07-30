@@ -3,16 +3,16 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.18"
+	"GameplayVersion"		"7.19"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"14"
+	"GuideRevision"		"16"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5BC6DD"
-	"TimePublished"		"0x000000005B5BC6DD"
+	"TimeUpdated"		"0x000000005B5F2686"
+	"TimePublished"		"0x000000005B5F2686"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,26 +37,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_infused_raindrop"
 			}
-			"Core"
+			"Core - Midas"
 			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 			}
-			"Situational Early"
+			"Core - Bad start"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_blade_mail"
+				"item"		"item_mjollnir"
 				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_blade_mail"
+				"item"		"item_maelstrom"
 				"item"		"item_meteor_hammer"
 			}
-			"Agressive (Soft Disable)"
+			"Raw Damage"
 			{
 				"item"		"item_invis_sword"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 			}
-			"Safe (Hard Disable)"
+			"Stats and Hard Disable"
 			{
 				"item"		"item_hurricane_pike"
 				"item"		"item_manta"
@@ -78,6 +84,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_necronomicon_3"
 				"item"		"item_assault"
 				"item"		"item_shivas_guard"
+				"item"		"item_greater_crit"
 			}
 			"http://dotablog.ileamare.ru/builds"
 			{
@@ -110,7 +117,7 @@ Usually replaces Shadow Blade"
 The item is must-have for Arc: double midas is your main farming tool."
 			"item_maelstrom"		"~13-23 min - Maelstrom is already good enough for your hero, considering having a lot of attack speed, but also increases farming a lot (magnetic field + maelstrom almost completely kills creepwave)"
 			"item_blink"		"Good for initiating from long range with hex and preventing enemy from reacting. 
-ALTERATIVE TO Hurricane Pike, Shadow Blade"
+May be replaced with other mobility items, depending on situation: Hurricane Pike, Shadow Blade"
 			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
 ALTERNATIVES: Hurricane Pike, Blink Dagger"
 			"item_meteor_hammer"		"Works effectively in teamfights and for farming waves. Replaces Maelstrom in that regard, while also providing pretty good stats."
@@ -144,13 +151,17 @@ ALTERNATIVES: Hurricane Pike, Blink Dagger"
 		"AbilityTooltips"
 		{
 			"special_bonus_lifesteal_30"		"Both spell and attack lifesteal? You will become nearly unkillable!"
-			"special_bonus_attack_speed_25"		"More attack speed = more lightning procs, faster farm and higher damage output. Flux is just unreliable and not really useful in lategame."
+			"special_bonus_attack_speed_25"		"More attack speed = more lightning procs, faster farm and higher damage output. It's good when you aren't going to pick up Hand of Midas or any other active items."
 			"special_bonus_attack_damage_30"		"Higher damage output is more valuable. You will already have enough tankiness"
 			"special_bonus_cooldown_reduction_10"		"Attack range could be nice, but since we are going to be in frontline all the time, we don't need it that much, while CDR talent will decrease downtime between doubles even more"
 			"arc_warden_flux"		"Even while sparks are more useful for farming, Flux is much more useful for killing people (double flux = 100% slow or 100 ms on targeted hero and a lot of damage), so you want to max out it first"
 			"arc_warden_magnetic_field"		"Our strongest spell for both offensive (a lot of bonus attack speed) and defensive (save allies, yourself or even your base from being attacked) plays, altho not really useful for killing early on"
 			"arc_warden_spark_wraith"		"We can spam it with octarine and aquila, it can help us out in lane so we won't get ganked, RQQEE combo will kill almost anybody in early game"
 			"arc_warden_tempest_double"		"Your main trick. With double you can instakill a lot of heroes, splitfarm and be quite useful in fights. Just remember that you need as much effective slots (active items you can use twice or use without losing charges) as possible to get maximum value out of it"
+			"special_bonus_cooldown_reduction_8"		"Cooldown reduction in combination with Hand of Midas and Boots of Travel directly transitions into money, so even while 8% doesn't look like much, it's still pretty strong talent in that regard."
+			"special_bonus_attack_range_125"		"You're going to play like Sniper at that point most of the time, so additional attack range will be helpful."
+			"special_bonus_unique_arc_warden_3"		"Altho, -1.5s Spark cooldown is strong as well, especially when you're trying to control the area or just reliably get it off in fights."
+			"special_bonus_unique_arc_warden"		"If you don't feel like going for lifesteal and especially if you already got -1.5s Spark cooldown, this talens in going to be a blessing for you. "
 		}
 	}
 }
