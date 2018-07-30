@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"13"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B37A102"
-	"TimePublished"		"0x000000005B37A102"
+	"TimeUpdated"		"0x000000005B5BC6DD"
+	"TimePublished"		"0x000000005B5BC6DD"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,10 +45,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_blade_mail"
 				"item"		"item_blink"
 				"item"		"item_meteor_hammer"
-				"item"		"item_phase_boots"
 			}
 			"Agressive (Soft Disable)"
 			{
@@ -114,6 +114,7 @@ ALTERATIVE TO Hurricane Pike, Shadow Blade"
 			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
 ALTERNATIVES: Hurricane Pike, Blink Dagger"
 			"item_meteor_hammer"		"Works effectively in teamfights and for farming waves. Replaces Maelstrom in that regard, while also providing pretty good stats."
+			"item_power_treads"		"If you can't afford early midas."
 		}
 	}
 	"AbilityBuild"
