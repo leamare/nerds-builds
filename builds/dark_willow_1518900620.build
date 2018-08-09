@@ -3,17 +3,17 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.17"
+	"GameplayVersion"		"7.19"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 This build is based on EG.Universe, Mineski.IceIceIce,  Haldor's matches on offlane/core Dark Willow.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B1E959A"
-	"TimePublished"		"0x000000005B1E959A"
+	"TimeUpdated"		"0x000000005B63016B"
+	"TimePublished"		"0x000000005B63016B"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,38 +35,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_veil_of_discord"
 				"item"		"item_phase_boots"
+				"item"		"item_blink"
 				"item"		"item_cyclone"
-				"item"		"item_sphere"
 			}
 			"Situational Early"
 			{
-				"item"		"item_helm_of_iron_will"
-				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
 				"item"		"item_invis_sword"
 				"item"		"item_force_staff"
-				"item"		"item_blink"
 				"item"		"item_kaya"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
+				"item"		"item_sphere"
 				"item"		"item_mjollnir"
-				"item"		"item_octarine_core"
-				"item"		"item_hurricane_pike"
+				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
+				"item"		"item_nullifier"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational"
 			{
 				"item"		"item_shivas_guard"
+				"item"		"item_octarine_core"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_greater_crit"
-				"item"		"item_bloodthorn"
 				"item"		"item_assault"
-				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
-				"item"		"item_nullifier"
+				"item"		"item_aeon_disk"
 			}
 			"http://dotablog.ileamare.ru/builds"
 			{
