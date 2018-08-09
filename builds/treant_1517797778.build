@@ -8,12 +8,12 @@
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
 This build is based on replays of best support Treant matches on Divine 5 rank."
-	"GuideRevision"		"16"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2799"
-	"TimePublished"		"0x000000005B5F2799"
+	"TimeUpdated"		"0x000000005B62FB34"
+	"TimePublished"		"0x000000005B62FB34"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,15 +40,16 @@ This build is based on replays of best support Treant matches on Divine 5 rank."
 			}
 			"Situational Early"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
 				"item"		"item_force_staff"
 				"item"		"item_solar_crest"
 				"item"		"item_hand_of_midas"
-				"item"		"item_ultimate_scepter"
 			}
 			"Utility Slots"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
 				"item"		"item_assault"
@@ -57,6 +58,7 @@ This build is based on replays of best support Treant matches on Divine 5 rank."
 			}
 			"Lategame Luxury"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_refresher"

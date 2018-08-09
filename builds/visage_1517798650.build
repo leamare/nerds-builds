@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"26"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F27AA"
-	"TimePublished"		"0x000000005B5F27AA"
+	"TimeUpdated"		"0x000000005B6C5BE9"
+	"TimePublished"		"0x000000005B6C5BE9"
 	"ItemBuild"
 	{
 		"Items"
@@ -103,7 +103,6 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_solar_crest"		"After midas, this will be the cheapest and most cost-effective thing we can get: -7 armor to -12 armor and miss chance is actually pretty huge. It will increase our farming speed, kill potential and ability to save allies. Small tip: use it or medallion on creep under tower's attack so it can tank."
 			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. It doesn't give another useful bonuses, it's not that reliable, but, well, it's something. It also works well as defensive choice (gives more health)."
 			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
-			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
 			"item_helm_of_the_dominator"		"~8-12 min
 Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
@@ -150,7 +149,7 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 + 
 
 Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
-			"special_bonus_unique_visage_3"		"It's good when you're dominating and won't be able to get much from XP talent. "
+			"special_bonus_unique_visage_3"		"It's good when you're dominating and won't be able to get that much benefit from XP talent."
 			"special_bonus_exp_boost_40"		"Altho, in most case XP gain helps you to get level 20 and 25 talents much faster, both of them are huge power spikes."
 			"special_bonus_unique_visage_5"		"Good in cases when you have aghs slot and play more like a tank than damage dealer."
 			"special_bonus_unique_visage_6"		"Better in almost every case. 4 familliars with aghs or \"free slot\" to buy something instead of aghs. In both cases this talent helps much more than cloak upgrade."

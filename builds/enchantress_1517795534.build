@@ -7,12 +7,12 @@
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2717"
-	"TimePublished"		"0x000000005B5F2717"
+	"TimeUpdated"		"0x000000005B6C6184"
+	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
 		"Items"
@@ -47,34 +47,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_blight_stone"
+				"item"		"item_maelstrom"
 				"item"		"item_hand_of_midas"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_rod_of_atos"
-				"item"		"item_blight_stone"
-				"item"		"item_cyclone"
-				"item"		"item_blade_mail"
-				"item"		"item_spirit_vessel"
 				"item"		"item_force_staff"
+				"item"		"item_blade_mail"
+				"item"		"item_rod_of_atos"
+				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_moon_shard"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
-				"item"		"item_travel_boots"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
 				"item"		"item_sphere"
 				"item"		"item_silver_edge"
 				"item"		"item_black_king_bar"
-				"item"		"item_shivas_guard"
 				"item"		"item_mjollnir"
-				"item"		"item_skadi"
-				"item"		"item_nullifier"
 				"item"		"item_blink"
+				"item"		"item_skadi"
+				"item"		"item_shivas_guard"
+				"item"		"item_nullifier"
 			}
 			"Utility"
 			{

@@ -8,12 +8,12 @@
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
 Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide-688"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2726"
-	"TimePublished"		"0x000000005B5F2726"
+	"TimeUpdated"		"0x000000005B630035"
+	"TimePublished"		"0x000000005B630035"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,34 +30,28 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_hand_of_midas"
 				"item"		"item_ancient_janggo"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
 				"item"		"item_dragon_lance"
-				"item"		"item_rod_of_atos"
+				"item"		"item_power_treads"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_cyclone"
-				"item"		"item_blight_stone"
-				"item"		"item_force_staff"
-				"item"		"item_infused_raindrop"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_buckler"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_force_staff"
 				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
-				"item"		"item_medallion_of_courage"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_silver_edge"
 				"item"		"item_sheepstick"
+				"item"		"item_silver_edge"
 				"item"		"item_bloodthorn"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
@@ -69,15 +63,13 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 				"item"		"item_vladmir"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
-				"item"		"item_guardian_greaves"
 			}
 			"Situational"
 			{
+				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
-				"item"		"item_solar_crest"
 				"item"		"item_sphere"
 				"item"		"item_ghost"
-				"item"		"item_skadi"
 				"item"		"item_shivas_guard"
 				"item"		"item_mjollnir"
 				"item"		"item_assault"
@@ -88,17 +80,13 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 		}
 		"ItemTooltips"
 		{
-			"item_infused_raindrop"		"may be a good purchase: mana regen, magic damage block"
 			"item_wind_lace"		"Good addition for roaming. Since we already have the highest movement speed in the game, it will be cheaper and more useful tha boots."
 			"item_moon_shard"		"All-in damage output item. Good for defending situations or for stomping, but usually not worth getting it early"
 			"item_magic_stick"		"Grab it as soon as you can (maybe even at start instead of ring of protection). You don't have much of HP or mana, so constant usage of magic stick may save the day for you"
 			"item_clarity"		"While we will be roaming and farming jungle, we will use Enchant quite a lot, so we will run out of mana quickly. We don't need any regen, but some mana potions could help."
 			"item_dust"		"Useful to get early against invisible heroes so you can gank and kill them as soon as possible"
 			"item_travel_boots"		"Natural lategame upgrade for any boot"
-			"item_phase_boots"		"Mobility and damage. Can be replaced with threads, but who cares about threads anyway, phase boots are just better for roaming and coming in and out in fights."
-			"item_hand_of_midas"		"With our low farming speed and experience leak, it can be a nice purchase if you're not fighting a lot or if you're going into late game anyway"
 			"item_vladmir"		"Not really good ench item, but it's a good aura after all."
-			"item_buckler"		"Works well if your team needs a little bit more armor and/or if you're going for mekansm later"
 			"item_pipe"		"best against high magic damage lineups, obviously. Not a big deal"
 			"item_urn_of_shadows"		"A little bit of tankiness, mana regen, periodic damage and additional heal so we won't use our Nature's Attendants when we don't need to."
 			"item_sheepstick"		"Mana regen and reliable lockdown, a little bit of stats too"
@@ -114,10 +102,8 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_hood_of_defiance"		"Since we can deal with physical damage from autoattacks but still aren't tanky enough, getting casual hood may be pretty good desicion."
 			"item_dragon_lance"		"The main item we need to get. Stats and attack range - our main sources of tankiness and damage."
 			"item_silver_edge"		"The best Ench item after Pike. Gives a lot of stats, attack speed and damage, mobility, additional escape and long-range utility (with Break effect)."
-			"item_skadi"		"Huge stats boost and, once again, long range utility: you can still attack people from behind, while also applying slow. It's also useful for tanking purposes too, the main downside is it's price."
 			"item_blight_stone"		"Good for roaming and jungle farming with creeps"
 			"item_ancient_janggo"		"Cheap stats item and movespeed aura. Good for playing semi-support, but in other case silver edge is still better. Small tip: Disassemble your Basilius and sell ring of protection, you won't need it and can make drums faster."
-			"item_rod_of_atos"		"Good stats, but, more importantly, it's quite cheap and gives us really nice lockdown ability. We want to be tanky and dominate early, so RoA looks incredibly good because of that."
 			"item_glimmer_cape"		"A little bit of attack speed, useful active ability for saving people from focus."
 		}
 	}

@@ -7,19 +7,19 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"12"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2764"
-	"TimePublished"		"0x000000005B5F2764"
+	"TimeUpdated"		"0x000000005B6C5C83"
+	"TimePublished"		"0x000000005B6C5C83"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items / Midlane"
 			{
-				"item"		"item_wraith_band"
+				"item"		"item_null_talisman"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
@@ -40,22 +40,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 				"item"		"item_ancient_janggo"
 				"item"		"item_hurricane_pike"
-				"item"		"item_orchid"
+				"item"		"item_invis_sword"
 			}
 			"Situational Early"
 			{
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_invis_sword"
 				"item"		"item_blink"
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
+				"item"		"item_rod_of_atos"
+				"item"		"item_orchid"
 			}
 			"Lategame"
 			{
-				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
 				"item"		"item_bloodthorn"
 				"item"		"item_assault"
@@ -94,7 +94,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
 			"item_mjollnir"		"We don't really need lightnings, but Mjolnir gives us a lot of AoE damage and huge attack speed boost, so it may be good alternative to AC or Moon Shard"
 			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it's goo only when you need raw hp increase and damage"
-			"item_sobi_mask"		"Upgrade to Bazilius ASAP"
+			"item_sobi_mask"		"Upgrade to Basilius ASAP on lane"
 		}
 	}
 	"AbilityBuild"
