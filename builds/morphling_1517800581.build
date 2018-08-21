@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"12"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2753"
-	"TimePublished"		"0x000000005B5F2753"
+	"TimeUpdated"		"0x000000005B62FE19"
+	"TimePublished"		"0x000000005B62FE19"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,40 +28,45 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_boots"
+				"item"		"item_arcane_boots"
 				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
-				"item"		"item_tranquil_boots"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
+				"item"		"item_aether_lens"
 				"item"		"item_blink"
-				"item"		"item_force_staff"
-				"item"		"item_solar_crest"
+				"item"		"item_ancient_janggo"
+				"item"		"item_tranquil_boots"
 			}
 			"Situational Early"
 			{
-				"item"		"item_hand_of_midas"
-				"item"		"item_aether_lens"
+				"item"		"item_solar_crest"
 				"item"		"item_cyclone"
-				"item"		"item_glimmer_cape"
 				"item"		"item_blade_mail"
-				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_power_treads"
+			}
+			"Utility"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_pipe"
+				"item"		"item_guardian_greaves"
+				"item"		"item_glimmer_cape"
+				"item"		"item_spirit_vessel"
+				"item"		"item_lotus_orb"
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
 				"item"		"item_ethereal_blade"
 			}
 			"Situational"
 			{
 				"item"		"item_hurricane_pike"
-				"item"		"item_rod_of_atos"
-				"item"		"item_pipe"
-				"item"		"item_guardian_greaves"
+				"item"		"item_aeon_disk"
+				"item"		"item_meteor_hammer"
 			}
 			"Core Transition"
 			{
@@ -77,8 +82,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_blink"		"Increasing initiation range even more, while also providing ability to choose better position (and knock enemy closer to our allies), or even jump in close distance and make dodging our projectile much harder."
 			"item_magic_wand"		"Since we will have a lot of problems with our manapool, Wand will be pretty handy on early stages."
-			"item_hand_of_midas"		"Allowing us to catch up in long games (and potentially giving us abilty to become proper core)"
-			"item_vladmir"		"Another cheap armor item, doesn't do much for us, but useful for our team"
 			"item_pipe"		"Useful thing against high magic damage lineups (you will probably face that a lot since you're playing morphling)"
 			"item_urn_of_shadows"		"Mana regen and healing for our team will be always handy for utility hero"
 			"item_sheepstick"		"Providing even more control for our team (like our stun gun wasn't already enough)"
@@ -95,9 +98,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ancient_janggo"		"A little bit of tankiness, a little bit of mana, a little bit of mana regen. Not the best item to get, but it's cheap and provides a lot of useful bonuses."
 			"item_solar_crest"		"Strong armor item, mana regen, allowes us to save allies from massive physical damage, while also solves our armor problems (when we're morphed to str)"
 			"item_guardian_greaves"		"Ultimate support item, huge armor boost and nice regen aura for our team"
-			"item_rod_of_atos"		"Straight HP boost, mana boost and cheap lockdown"
 			"item_tranquil_boots"		"At some point, with Lens and mana talent, we won't need arcanes anymore, while extra mobility and health regen will be pretty handy for support morphling"
 			"item_glimmer_cape"		"Another saving item, useful when you need to save somebody from massive magic damage or from instant focus"
+			"item_arcane_boots"		"Early pickup, disassemble later for other boots"
 		}
 	}
 	"AbilityBuild"

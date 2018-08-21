@@ -1,20 +1,19 @@
 "guidedata"
 {
 	"Hero"		"weaver"
-	"Title"		"Nerds Weaver"
+	"Title"		"Nerds Weaver (Support/Offlane)"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
 	"GameplayVersion"		"7.19"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
-This build is untraditional and situational. Use the hero on this position with this build on your own risk.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
-This build is based on VP.Lil's matches."
-	"GuideRevision"		"15"
+This build is based on Immortal rank support and utility offlane Weaver matches.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F27ED"
-	"TimePublished"		"0x000000005B5F27ED"
+	"TimeUpdated"		"0x000000005B7C56E4"
+	"TimePublished"		"0x000000005B7C56E4"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,9 +36,9 @@ This build is based on VP.Lil's matches."
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_solar_crest"
-				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
@@ -72,7 +71,7 @@ This build is based on VP.Lil's matches."
 				"item"		"item_mjollnir"
 				"item"		"item_desolator"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
@@ -118,6 +117,7 @@ This build is based on VP.Lil's matches."
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
 			"weaver_geminate_attack"		"If you don't need shikuchi early, you can skill this one first. It's pretty good for harassing enemy early."
 			"weaver_time_lapse"		"Don't be afraid to use it. There's no shame to use it when you think you need to. If there's a signs of emergency - hit it to disengage and run out."
+			"special_bonus_mana_break_20"		"Great for snowballing or mana requiring heroes (like Wraith King)"
 		}
 	}
 }

@@ -9,12 +9,12 @@ Lifestealer lacks three things: attack speed, armor and mobility. He is also goo
 Since 7.07 there is a new way to play the hero, which is based on increasing his farming power with radiance, as well as amplify his damage and early Roshan potential with Solar Crest. That way he becomes durable tank, while also being able to fight early and get Radiance in a good timing window.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"13"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2740"
-	"TimePublished"		"0x000000005B5F2740"
+	"TimeUpdated"		"0x000000005B62FEDB"
+	"TimePublished"		"0x000000005B62FEDB"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,35 +31,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_phase_boots"
 				"item"		"item_blight_stone"
+				"item"		"item_power_treads"
+				"item"		"item_armlet"
 			}
-			"Core - Tanky Core"
+			"Core"
 			{
 				"item"		"item_radiance"
 				"item"		"item_solar_crest"
 				"item"		"item_sange_and_yasha"
 			}
-			"Core - Active Fighter"
-			{
-				"item"		"item_armlet"
-				"item"		"item_desolator"
-			}
 			"Situational Early"
 			{
 				"item"		"item_manta"
 				"item"		"item_blink"
-				"item"		"item_echo_sabre"
 				"item"		"item_orchid"
+				"item"		"item_desolator"
 			}
 			"Lategame"
 			{
 				"item"		"item_assault"
 				"item"		"item_nullifier"
+				"item"		"item_abyssal_blade"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_abyssal_blade"
 			}
 			"Situational"
 			{
@@ -87,8 +83,6 @@ Amplifies our mobility even further, as well as attack speed. Gives a lot of HP 
 "
 			"item_manta"		"Good SnY replacement if you need to deal with silences. In other cases it's not that good."
 			"item_blink"		"Works well if you need to catch off guard somebody like Sniper"
-			"item_echo_sabre"		"Cheaper replacement for SnY, but it worse in a way. No mobility, but burst damage and slow"
-			"item_phase_boots"		"Mobility is your bread and butter. No other boot is going to work better for you."
 		}
 	}
 	"AbilityBuild"

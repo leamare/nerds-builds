@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B6C77A1"
-	"TimePublished"		"0x000000005B6C77A1"
+	"TimeUpdated"		"0x000000005B7C5586"
+	"TimePublished"		"0x000000005B7C5586"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,8 +36,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_boots"
-				"item"		"item_null_talisman"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_phase_boots"
 			}
 			"Core"
@@ -54,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blink"
 				"item"		"item_solar_crest"
 				"item"		"item_mask_of_madness"
+				"item"		"item_null_talisman"
 			}
 			"Lategame"
 			{
@@ -104,6 +106,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_mask_of_madness"		"Good item to increase attack speed drastically for a short period when you really need it. Works well when you have a mana item, Mjolnir and Aghs"
 			"item_monkey_king_bar"		"vs Miss chance"
 			"item_solar_crest"		"Cheap replacement for Orchid/Bloodthorn"
+			"item_ring_of_aquila"		"Strong laning stage item with high value for a cheap price."
 		}
 	}
 	"AbilityBuild"
