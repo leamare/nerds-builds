@@ -3,19 +3,19 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 Discuss this build ans suggest your own changes at Spectral Alliance discord channel: http://spectralalliance.ru/
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"19"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B6C5CD8"
-	"TimePublished"		"0x000000005B6C5CD8"
+	"TimeUpdated"		"0x000000005BC322F2"
+	"TimePublished"		"0x000000005BC322F2"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,9 +50,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_glimmer_cape"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_aether_lens"
+				"item"		"item_ghost"
 			}
 			"Utility"
 			{
@@ -60,6 +60,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_lotus_orb"
+				"item"		"item_force_staff"
+				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
@@ -70,15 +72,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ghost"
+				"item"		"item_aeon_disk"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_black_king_bar"
 				"item"		"item_greater_crit"
+				"item"		"item_sheepstick"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
