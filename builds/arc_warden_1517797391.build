@@ -3,16 +3,16 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"16"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2686"
-	"TimePublished"		"0x000000005B5F2686"
+	"TimeUpdated"		"0x000000005BC324B3"
+	"TimePublished"		"0x000000005BC324B3"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,10 +26,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Safelane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_sobi_mask"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -51,10 +52,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_wraith_band"
+				"item"		"item_magic_wand"
 				"item"		"item_blade_mail"
+				"item"		"item_necronomicon"
 				"item"		"item_maelstrom"
-				"item"		"item_meteor_hammer"
 			}
 			"Raw Damage"
 			{
@@ -78,15 +79,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_necronomicon_3"
+				"item"		"item_assault"
+				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
 				"item"		"item_octarine_core"
 				"item"		"item_skadi"
-				"item"		"item_necronomicon_3"
-				"item"		"item_assault"
 				"item"		"item_shivas_guard"
-				"item"		"item_greater_crit"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
@@ -120,23 +121,23 @@ The item is must-have for Arc: double midas is your main farming tool."
 May be replaced with other mobility items, depending on situation: Hurricane Pike, Shadow Blade"
 			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
 ALTERNATIVES: Hurricane Pike, Blink Dagger"
-			"item_meteor_hammer"		"Works effectively in teamfights and for farming waves. Replaces Maelstrom in that regard, while also providing pretty good stats."
 			"item_power_treads"		"If you can't afford early midas."
+			"item_necronomicon"		"Good pickup before or right after Hand of Midas to boost your farm and fighting capabilities. Can be upgraded further later on to get true sight."
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"arc_warden_flux"
-			"2"		"arc_warden_spark_wraith"
-			"3"		"arc_warden_flux"
-			"4"		"arc_warden_spark_wraith"
-			"5"		"arc_warden_flux"
+			"1"		"arc_warden_spark_wraith"
+			"2"		"arc_warden_flux"
+			"3"		"arc_warden_spark_wraith"
+			"4"		"arc_warden_flux"
+			"5"		"arc_warden_spark_wraith"
 			"6"		"arc_warden_tempest_double"
-			"7"		"arc_warden_flux"
-			"8"		"arc_warden_spark_wraith"
-			"9"		"arc_warden_spark_wraith"
+			"7"		"arc_warden_spark_wraith"
+			"8"		"arc_warden_flux"
+			"9"		"arc_warden_flux"
 			"10"		"special_bonus_cooldown_reduction_8"
 			"11"		"arc_warden_magnetic_field"
 			"12"		"arc_warden_tempest_double"
