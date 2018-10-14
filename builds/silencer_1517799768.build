@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"silencer"
-	"Title"		"Nerds Silencer"
+	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"14"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B6C5C83"
-	"TimePublished"		"0x000000005B6C5C83"
+	"TimeUpdated"		"0x000000005BC3264B"
+	"TimePublished"		"0x000000005BC3264B"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,15 +21,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
 			}
 			"Starting Items / Safelane"
 			{
 				"item"		"item_tango"
-				"item"		"item_sobi_mask"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -42,15 +43,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_ancient_janggo"
-				"item"		"item_hurricane_pike"
 				"item"		"item_invis_sword"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blink"
 				"item"		"item_power_treads"
 				"item"		"item_rod_of_atos"
 				"item"		"item_orchid"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -65,6 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_blink"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_sphere"
 				"item"		"item_skadi"
@@ -72,7 +74,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_refresher"
 				"item"		"item_mjollnir"
 			}
-			"Uhttp://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
@@ -94,7 +96,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
 			"item_mjollnir"		"We don't really need lightnings, but Mjolnir gives us a lot of AoE damage and huge attack speed boost, so it may be good alternative to AC or Moon Shard"
 			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it's goo only when you need raw hp increase and damage"
-			"item_sobi_mask"		"Upgrade to Basilius ASAP on lane"
 		}
 	}
 	"AbilityBuild"
