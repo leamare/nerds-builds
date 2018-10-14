@@ -1,0 +1,111 @@
+"guidedata"
+{
+	"Hero"		"beastmaster"
+	"Title"		"Nerds Beastmaster"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.19d"
+	"Overview"		""
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005BC323FF"
+	"TimePublished"		"0x000000005BC323FF"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_blight_stone"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_invis_sword"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_soul_ring"
+				"item"		"item_blink"
+				"item"		"item_armlet"
+			}
+			"Lategame"
+			{
+				"item"		"item_necronomicon_3"
+				"item"		"item_solar_crest"
+				"item"		"item_assault"
+				"item"		"item_nullifier"
+				"item"		"item_refresher"
+				"item"		"item_silver_edge"
+			}
+			"Utility"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
+				"item"		"item_pipe"
+				"item"		"item_lotus_orb"
+				"item"		"item_crimson_guard"
+				"item"		"item_force_staff"
+			}
+			"Situational"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_phase_boots"		"~6-10"
+			"item_medallion_of_courage"		"~6-10"
+			"item_invis_sword"		"~15"
+			"item_necronomicon_3"		"~22-27"
+			"item_assault"		"~33"
+			"item_helm_of_the_dominator"		"~10"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"beastmaster_wild_axes"
+			"2"		"beastmaster_inner_beast"
+			"3"		"beastmaster_wild_axes"
+			"4"		"beastmaster_inner_beast"
+			"5"		"beastmaster_wild_axes"
+			"6"		"beastmaster_primal_roar"
+			"7"		"beastmaster_wild_axes"
+			"8"		"beastmaster_inner_beast"
+			"9"		"beastmaster_inner_beast"
+			"10"		"special_bonus_exp_boost_25"
+			"11"		"beastmaster_call_of_the_wild"
+			"12"		"beastmaster_primal_roar"
+			"13"		"beastmaster_call_of_the_wild"
+			"14"		"beastmaster_call_of_the_wild"
+			"15"		"special_bonus_armor_6"
+			"16"		"beastmaster_call_of_the_wild"
+			"18"		"beastmaster_primal_roar"
+			"20"		"special_bonus_unique_beastmaster"
+			"25"		"special_bonus_unique_beastmaster_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
