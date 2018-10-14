@@ -3,16 +3,16 @@
 	"Hero"		"huskar"
 	"Title"		"Nerds Huskar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"21"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F272F"
-	"TimePublished"		"0x000000005B5F272F"
+	"TimeUpdated"		"0x000000005BC32347"
+	"TimePublished"		"0x000000005BC32347"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,7 +34,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_ring_of_protection"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_magic_wand"
 				"item"		"item_helm_of_iron_will"
 			}
@@ -46,10 +46,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_blink"
+				"item"		"item_bracer"
 				"item"		"item_blade_mail"
-				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
+				"item"		"item_blink"
+				"item"		"item_spirit_vessel"
 				"item"		"item_power_treads"
 				"item"		"item_phase_boots"
 			}
@@ -70,7 +71,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_guardian_greaves"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
