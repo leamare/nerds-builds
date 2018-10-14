@@ -1,0 +1,95 @@
+"guidedata"
+{
+	"Hero"		"sven"
+	"Title"		"WIP"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.19"
+	"Overview"		"MSS"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005B7C448C"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_tranquil_boots"
+				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_ancient_janggo"
+			}
+			"Utility"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_vladmir"
+				"item"		"item_pipe"
+				"item"		"item_spirit_vessel"
+				"item"		"item_assault"
+				"item"		"item_force_staff"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+			}
+			"COre Transition"
+			{
+				"item"		"item_echo_sabre"
+				"item"		"item_greater_crit"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"sven_storm_bolt"
+			"2"		"sven_warcry"
+			"3"		"sven_storm_bolt"
+			"4"		"sven_warcry"
+			"5"		"sven_storm_bolt"
+			"6"		"sven_gods_strength"
+			"7"		"sven_warcry"
+			"8"		"sven_warcry"
+			"9"		"sven_great_cleave"
+			"10"		"special_bonus_mp_regen_2"
+			"11"		"sven_storm_bolt"
+			"12"		"sven_gods_strength"
+			"13"		"sven_great_cleave"
+			"14"		"sven_great_cleave"
+			"15"		"special_bonus_movement_speed_30"
+			"16"		"sven_great_cleave"
+			"18"		"sven_gods_strength"
+			"20"		"special_bonus_unique_sven"
+			"25"		"special_bonus_unique_sven_2"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_unique_sven_3"		"Good vs clinkz (dispels first)"
+		}
+	}
+}

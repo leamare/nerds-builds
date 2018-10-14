@@ -1,0 +1,99 @@
+"guidedata"
+{
+	"Hero"		"techies"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.17"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005B1E947B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
+				"item"		"item_tranquil_boots"
+				"item"		"item_void_stone"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_force_staff"
+			}
+			"Utility"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_shivas_guard"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
+				"item"		"item_travel_boots"
+				"item"		"item_hurricane_pike"
+			}
+			"Core Transition (lvl 25)"
+			{
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+			}
+			"Situational"
+			{
+				"item"		"item_aether_lens"
+				"item"		"item_blink"
+				"item"		"item_dagon_5"
+				"item"		"item_ethereal_blade"
+				"item"		"item_heart"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"techies_land_mines"
+			"2"		"techies_suicide"
+			"3"		"techies_land_mines"
+			"4"		"techies_suicide"
+			"5"		"techies_land_mines"
+			"6"		"techies_remote_mines"
+			"7"		"techies_land_mines"
+			"8"		"techies_stasis_trap"
+			"9"		"techies_suicide"
+			"10"		"special_bonus_unique_techies_3"
+			"11"		"techies_stasis_trap"
+			"12"		"techies_remote_mines"
+			"13"		"techies_suicide"
+			"14"		"techies_stasis_trap"
+			"15"		"special_bonus_mp_regen_4"
+			"16"		"techies_stasis_trap"
+			"18"		"techies_remote_mines"
+			"20"		"special_bonus_gold_income_25"
+			"25"		"special_bonus_attack_damage_251"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

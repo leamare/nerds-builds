@@ -1,0 +1,101 @@
+"guidedata"
+{
+	"Hero"		"alchemist"
+	"Title"		"WIP"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.19"
+	"Overview"		""
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005B7B0E06"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_magic_wand"
+				"item"		"item_armlet"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_radiance"
+				"item"		"item_blink"
+				"item"		"item_manta"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_invis_sword"
+			}
+			"Lategame"
+			{
+				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_mjollnir"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_shivas_guard"
+				"item"		"item_monkey_king_bar"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_armlet"		"~6-8 min"
+			"item_radiance"		"~8-10 min"
+			"item_blink"		"~10 min"
+			"item_manta"		"~15-18 min"
+			"item_invis_sword"		"~14+ min"
+			"item_octarine_core"		"~22-25 min"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"alchemist_goblins_greed"
+			"2"		"alchemist_acid_spray"
+			"3"		"alchemist_acid_spray"
+			"4"		"alchemist_goblins_greed"
+			"5"		"alchemist_acid_spray"
+			"6"		"alchemist_chemical_rage"
+			"7"		"alchemist_acid_spray"
+			"8"		"alchemist_goblins_greed"
+			"9"		"alchemist_goblins_greed"
+			"10"		"alchemist_unstable_concoction"
+			"11"		"alchemist_unstable_concoction"
+			"12"		"alchemist_chemical_rage"
+			"13"		"alchemist_unstable_concoction"
+			"14"		"special_bonus_unique_alchemist"
+			"15"		"special_bonus_hp_400"
+			"16"		"alchemist_unstable_concoction"
+			"18"		"alchemist_chemical_rage"
+			"20"		"special_bonus_unique_alchemist_2"
+			"25"		"special_bonus_unique_alchemist_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

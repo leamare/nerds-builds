@@ -1,0 +1,125 @@
+"guidedata"
+{
+	"Hero"		"shadow_demon"
+	"Title"		"WIPNerds Shadow Demon (based on SlashStrike)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.19d"
+	"Overview"		"
+
+Pros:
+
+Great wave-clear
+Has a save
+2 set-ups and massive damage
+
+Cons:
+
+No mobility spell
+
+SD’s starting armor and HP are pretty good, his damage is on the low side but acceptable and alleviated by proper Disruption use to secure denies and last-hits as well as having the illusions to help in hit-trading.
+
+Pretty much his only weakness is that he’s not very fast and doesn’t have a mobility spell. However, considering how insanely good Shadow Poison is at scouting, this weakness is easily played around. When you have a ~2k range scouting spell on a 2.5 second cd, if you ever get caught off guard by a non-invisible hero it’s completely your fault for not scouting them. And if they were invisible, it’s still your fault for not buying your own sentries.
+
+This build is based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005BC3224F"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items (Midlane)"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Starting items (Offlane)"
+			{
+				"item"		"item_clarity"
+				"item"		"item_clarity"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_tango"
+				"item"		"item_wind_lace"
+			}
+			"Early"
+			{
+				"item"		"item_wind_lace"
+				"item"		"item_arcane_boots"
+				"item"		"item_infused_raindrop"
+				"item"		"item_magic_wand"
+			}
+			"Core"
+			{
+				"item"		"item_aether_lens"
+				"item"		"item_tranquil_boots"
+				"item"		"item_meteor_hammer"
+			}
+			"Situational Early"
+			{
+				"item"		"item_blink"
+				"item"		"item_cyclone"
+				"item"		"item_lotus_orb"
+				"item"		"item_force_staff"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_aeon_disk"
+				"item"		"item_ultimate_scepter"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_aether_lens"		"Aether Lens is your first core item. It allows you to initiate with Disruption and also use hammer on towers or Disruption targets from much further away (fog, trees, etc.) all of which is absolutely crucial for this build. It also makes the Soul Catcher much easier to land, lets you ult pretty much anyone you want in fights, and lastly the range increase on poison is also noticeable although not the biggest deal since its range is already massive."
+			"item_meteor_hammer"		"It is not situational despite its meme-y reputation, and should be bought every time. It not only gives you incredible solo kill potential, but also provides you with the structure damage you lack to go with your amazing wave-clear."
+			"item_tranquil_boots"		"Tranquil Boots are an absolute must, for merely 500 gold you are almost doubling the MS you get and also getting more HP regen than a pipe gives you. The only down-side is that they deactivate when you attack or get attacked – well GUESS WHAT, you never attack and if you play properly you should very rarely be getting attacked also! "
+			"item_blink"		"Blink increases your safety-zone massively when split-pushing by giving you an escape, as well as increasing your catch-range by a ton, since blink range is also boosted by lens."
+			"item_cyclone"		"Eul’s gives you yet another disable / set-up, more movement speed and can also function as a Linken’s breaker which enemies will often pick up against an SD."
+			"item_force_staff"		"Force-staff, similarly to Eul’s can act as a Linken’s breaker (the cheapest one) and boosts your mobility. Whether this is a good pick-up or not generally depends more on the enemy team and how many of their heroes are countered by Force (heroes like Riki, Clock, Ursa, Sven, etc.)"
+			"item_sheepstick"		"Scythe of Vyse is obviously always good when you just need a hard disable versus slippery heroes, and further boosts your solo-kill potential."
+			"item_ultimate_scepter"		"Agh’s gives you 3 charges on your ult as well as adding the Break effect, obviously good if there are any passives to be broken (it pierces BKB unlike Silver Edge), but also just for controlling multiple enemy cores that don’t have mobility spells (sometimes better to have 2 more purges than a hex versus melee carries with immunity or that buy BKB like Jug/Naix/Sven/Luna/Troll)"
+			"item_aeon_disk"		"Aeon Disk is pretty good in a lot of games as a 4th or 5th item because enemies will try to jump you first since you’re a saving hero, and between the 2.5s of Disk and 2.5s of Disruption you have enough time for a guaranteed blink out."
+			"item_lotus_orb"		"Lotus Orb is another great item that you can either put on whoever is front-lining or save for yourself to deal with enemy silences."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"shadow_demon_disruption"
+			"2"		"shadow_demon_shadow_poison"
+			"3"		"shadow_demon_shadow_poison"
+			"4"		"shadow_demon_soul_catcher"
+			"5"		"shadow_demon_shadow_poison"
+			"6"		"shadow_demon_demonic_purge"
+			"7"		"shadow_demon_shadow_poison"
+			"8"		"shadow_demon_disruption"
+			"9"		"shadow_demon_soul_catcher"
+			"10"		"special_bonus_exp_boost_30"
+			"11"		"shadow_demon_disruption"
+			"12"		"shadow_demon_soul_catcher"
+			"13"		"shadow_demon_disruption"
+			"14"		"shadow_demon_soul_catcher"
+			"15"		"special_bonus_unique_shadow_demon_4"
+			"16"		"shadow_demon_demonic_purge"
+			"18"		"shadow_demon_demonic_purge"
+			"20"		"special_bonus_unique_shadow_demon_3"
+			"25"		"special_bonus_unique_shadow_demon_7"
+		}
+		"AbilityTooltips"
+		{
+			"shadow_demon_disruption"		"Disruption at level 1 allows you to secure bounty runes and range creep denies. You max poison first, always, since it’s your farming and wave-pushing tool. After that you want to level Disruption and Soul Catcher simultaneously, with Disruption being maxed first because its cooldown scales significantly better."
+			"shadow_demon_shadow_poison"		"Main farming/damage tool"
+			"shadow_demon_demonic_purge"		"DO NOT LEVEL UP DEMONIC PURGE before maxing out your other spells, it adds literally nothing but +100 damage. While the spell is amazing at level 1, its 2nd and 3rd levels are definitely top 5 contenders for worst skill-point value in the game. "
+			"special_bonus_exp_boost_30"		"The illusion is strong, can do a lot and lasts a long time in the late-game etc. but the fact is that his other talents are all stronger and 30% XP Gain helps you get there really, really fast."
+			"special_bonus_unique_shadow_demon_4"		"35 movement speed is no joke, and this hero runs around a lot. However, once again the 25% Shadow Poison damage is just a huge difference maker. "
+			"special_bonus_unique_shadow_demon_3"		"This is probably the most one-sided choice of all, the cooldown reduction is what sends this hero into OP territory, Shadow Poison basically becomes your auto-attack, it takes you only 4 seconds to insta-kill a creepwave from two screens away (if you’re good at aiming), it takes you 5 seconds to pop a hero for 2000+ damage, etc."
+			"special_bonus_unique_shadow_demon_7"		"2 charges of Disruption basically means you have no down-time, no weak moment where ‘oh, he used Disruption, I can go on him now’, because you always have another one ready. You can save 2 allies, save an ally and get illusions of the enemy carry, disrupt 2 enemy cores, save an ally and yourself as well, the possibilities are endless."
+		}
+	}
+}

@@ -1,0 +1,98 @@
+"guidedata"
+{
+	"Hero"		"bloodseeker"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.17"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005B21F7BC"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_flask"
+			}
+			"Early"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_aquila"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_blade_mail"
+				"item"		"item_black_king_bar"
+				"item"		"item_invis_sword"
+			}
+			"#DOTA_Item_Build_UntitledCategory"
+			{
+				"item"		"item_manta"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_abyssal_blade"
+			}
+			"Situational Early"
+			{
+				"item"		"item_cyclone"
+			}
+			"Lategame"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_silver_edge"
+				"item"		"item_assault"
+				"item"		"item_skadi"
+				"item"		"item_butterfly"
+				"item"		"item_heart"
+			}
+			"Situational"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_monkey_king_bar"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bloodseeker_bloodrage"
+			"2"		"bloodseeker_thirst"
+			"3"		"bloodseeker_thirst"
+			"4"		"bloodseeker_bloodrage"
+			"5"		"bloodseeker_thirst"
+			"6"		"bloodseeker_rupture"
+			"7"		"bloodseeker_thirst"
+			"8"		"bloodseeker_blood_bath"
+			"9"		"bloodseeker_blood_bath"
+			"10"		"special_bonus_armor_8"
+			"11"		"bloodseeker_blood_bath"
+			"12"		"bloodseeker_rupture"
+			"13"		"bloodseeker_blood_bath"
+			"14"		"bloodseeker_bloodrage"
+			"15"		"special_bonus_hp_300"
+			"16"		"bloodseeker_bloodrage"
+			"18"		"bloodseeker_rupture"
+			"20"		"special_bonus_lifesteal_25"
+			"25"		"special_bonus_unique_bloodseeker_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

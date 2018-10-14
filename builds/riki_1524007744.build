@@ -1,0 +1,92 @@
+"guidedata"
+{
+	"Hero"		"riki"
+	"Title"		"WIP"
+	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"GameplayVersion"		"7.14"
+	"Overview"		""
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005AE83D51"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_wraith_band"
+				"item"		"item_magic_stick"
+				"item"		"item_blight_stone"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_diffusal_blade"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_basher"
+				"item"		"item_blink"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_abyssal_blade"
+				"item"		"item_butterfly"
+				"item"		"item_desolator"
+				"item"		"item_sphere"
+			}
+			"http://dotablog.ileamare.ru/builds"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"riki_permanent_invisibility"
+			"2"		"riki_smoke_screen"
+			"3"		"riki_blink_strike"
+			"4"		"riki_permanent_invisibility"
+			"5"		"riki_permanent_invisibility"
+			"6"		"riki_tricks_of_the_trade"
+			"7"		"riki_permanent_invisibility"
+			"8"		"riki_blink_strike"
+			"9"		"riki_blink_strike"
+			"10"		"riki_blink_strike"
+			"11"		"special_bonus_agility_8"
+			"12"		"riki_tricks_of_the_trade"
+			"13"		"riki_smoke_screen"
+			"14"		"riki_smoke_screen"
+			"15"		"special_bonus_unique_riki_2"
+			"16"		"riki_smoke_screen"
+			"18"		"riki_tricks_of_the_trade"
+			"20"		"special_bonus_unique_riki_3"
+			"25"		"special_bonus_unique_riki_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
