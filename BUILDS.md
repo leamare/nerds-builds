@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.19
+## Patch: 7.19d
 
 ---
 
@@ -17,6 +17,7 @@ Dark Willow | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetail
 Dark Willow | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1396923037) |  [builds/dark_willow_1518900620.build](builds/dark_willow_1518900620.build)
 Enchantress | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [builds/enchantress_1517795534.build](builds/enchantress_1517795534.build)
 Enchantress | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [builds/enchantress_1517796324.build](builds/enchantress_1517796324.build)
+Grimstroke | Mid Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [builds/grimstroke_1535353295.build](builds/grimstroke_1535353295.build)
 Huskar | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608892) | [builds/huskar_1510741181.build](builds/huskar_1510741181.build)
 Leshrac | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1401022207) | [builds/leshrac_1525173582.build](builds/leshrac_1525173582.build)
 Lifestealer | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1318136390) | [builds/life_stealer_1520015205.build](builds/life_stealer_1520015205.build)
@@ -24,14 +25,13 @@ Lion | Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=
 Morphling | Support/Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [builds/morphling_1517800581.build](builds/morphling_1517800581.build)
 Silencer | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=917140515) | [builds/silencer_1517799768.build](builds/silencer_1517799768.build)
 Silencer | Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=905824211) | [builds/silencer_1517799859.build](builds/silencer_1517799859.build)
-Wraith King | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1319304803) | [builds/skeleton_king_1519942536.build](builds/skeleton_king_1519942536.build)
 Spectre | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836049799) | [builds/spectre_1517799392.build](builds/spectre_1517799392.build)
 Tiny | Core (Offlane?) | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201609040) | [builds/tiny_1510740604.build](builds/tiny_1510740604.build)
 Treant Protector | Roaming Support (Offlane?) | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=917506257) | [builds/treant_1517797778.build](builds/treant_1517797778.build)
 Ursa | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1472044989) | [builds/ursa_1532975264.build](builds/ursa_1532975264.build)
 Vengeful Spirit | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=906051803) | [builds/vengefulspirit_1517800254.build](builds/vengefulspirit_1517800254.build)
 Visage | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836044023) | [builds/visage_1517798650.build](builds/visage_1517798650.build)
-Weaver | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [builds/weaver_1517797555.build](builds/weaver_1517797555.build)
+Weaver | Support/Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [builds/weaver_1517797555.build](builds/weaver_1517797555.build)
 Winter Wyvern | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [builds/winter_wyvern_1510588707.build](builds/winter_wyvern_1510588707.build)
 Wraith King | Roaming Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1319304803) | [builds/skeleton_king_1519942536.build](builds/skeleton_king_1519942536.build)
 
@@ -39,10 +39,17 @@ Wraith King | Roaming Support | [Steam](https://steamcommunity.com/sharedfiles/f
 
 Hero | Role | File
 -- | -- | --
+Alchemist | Core | [builds/alchemist_1533216412.build](builds/alchemist_1533216412.build)
+Bloodseeker | Core | [builds/bloodseeker_1528952764.build](builds/bloodseeker_1528952764.build)
 Doom | Offlane | [builds/doom_bringer_1513111352.build](builds/doom_bringer_1513111352.build)
 Naga Siren | Support | [builds/naga_siren_1519913507.build](builds/naga_siren_1519913507.build)
+Necrophos | Core | [builds/necrolyte_1533217100.build](builds/necrolyte_1533217100.build)
+Riki | Core | [builds/riki_1524007744.build](builds/riki_1524007744.build)
 Slardar | Core | [builds/slardar_1510400827.build](builds/slardar_1510400827.build)
+Sven | Support | [builds/sven_1534870569.build](builds/sven_1534870569.build)
 Axe | Offlane | [builds/axe_1525176769.build](builds/axe_1525176769.build)
 Night Stalker | Offlane | [builds/night_stalker_1527942469.build](builds/night_stalker_1527942469.build)
 Outworld Devourer | Core | [builds/obsidian_destroyer_1525195140.build](builds/obsidian_destroyer_1525195140.build)
 Pangolier | Offlane | [builds/pangolier_1527943470.build](builds/pangolier_1527943470.build)
+Techies | Support | [builds/techies_1525192697.build](builds/techies_1525192697.build)
+Shadow Demon | Core | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)
