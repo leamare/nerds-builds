@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"arc_warden"
-	"Title"		"Nerds Arc Warden (Nuker)"
+	"Title"		"Nerds Nuker Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"13"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F24DB"
-	"TimePublished"		"0x000000005B5F24DB"
+	"TimeUpdated"		"0x000000005BC324E7"
+	"TimePublished"		"0x000000005BC324E7"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,10 +26,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_ring_of_aquila"
 				"item"		"item_boots"
-				"item"		"item_hand_of_midas"
 				"item"		"item_bottle"
-				"item"		"item_wind_lace"
+				"item"		"item_necronomicon"
 			}
 			"Core"
 			{
@@ -40,17 +40,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_hand_of_midas"
 				"item"		"item_orchid"
 				"item"		"item_cyclone"
 				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
+				"item"		"item_necronomicon_3"
+				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
-				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
@@ -62,12 +62,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core Transition"
 			{
+				"item"		"item_bloodthorn"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_hurricane_pike"
 				"item"		"item_moon_shard"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
@@ -88,7 +89,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_lotus_orb"		"Useful utility item for our team, may be a good item to get if nobody in your team already got it."
 			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it's counterpart as getting-out tool"
 			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage"
-			"item_arcane_boots"		"Useful for our playstyle, makes us a little bit more helpful for our team"
 			"item_octarine_core"		"Lower cooldown, additional tankiness..."
 			"item_veil_of_discord"		"Pretty good solution for increasing our damage output for a cheap price"
 		}
@@ -97,15 +97,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"arc_warden_flux"
-			"2"		"arc_warden_spark_wraith"
-			"3"		"arc_warden_flux"
-			"4"		"arc_warden_spark_wraith"
-			"5"		"arc_warden_flux"
+			"1"		"arc_warden_spark_wraith"
+			"2"		"arc_warden_flux"
+			"3"		"arc_warden_spark_wraith"
+			"4"		"arc_warden_flux"
+			"5"		"arc_warden_spark_wraith"
 			"6"		"arc_warden_tempest_double"
-			"7"		"arc_warden_flux"
-			"8"		"arc_warden_spark_wraith"
-			"9"		"arc_warden_spark_wraith"
+			"7"		"arc_warden_spark_wraith"
+			"8"		"arc_warden_flux"
+			"9"		"arc_warden_flux"
 			"10"		"special_bonus_cooldown_reduction_8"
 			"11"		"arc_warden_magnetic_field"
 			"12"		"arc_warden_tempest_double"
