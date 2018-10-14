@@ -1,0 +1,147 @@
+"guidedata"
+{
+	"Hero"		"grimstroke"
+	"Title"		"Nerds Mid Grimstroke"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.19d"
+	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
+
+This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005BC32126"
+	"TimePublished"		"0x000000005BC32126"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early "
+			{
+				"item"		"item_bottle"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_boots"
+				"item"		"item_null_talisman"
+			}
+			"Core"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_kaya"
+				"item"		"item_travel_boots"
+			}
+			"Situational Early"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_blink"
+				"item"		"item_cyclone"
+				"item"		"item_ghost"
+			}
+			"Lategame"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
+				"item"		"item_shivas_guard"
+				"item"		"item_bloodthorn"
+				"item"		"item_sphere"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_ethereal_blade"
+				"item"		"item_aeon_disk"
+				"item"		"item_hurricane_pike"
+				"item"		"item_assault"
+				"item"		"item_silver_edge"
+			}
+			"Full Nuker Way"
+			{
+				"item"		"item_dagon_5"
+				"item"		"item_ethereal_blade"
+				"item"		"item_meteor_hammer"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_kaya"		"Helps with mana issues and amplifies damage output even more. If you're playing against specific matchup or you're playing from behind, you can replace it with something else (Eul's Scepter most commonly)"
+			"item_travel_boots"		"Next pickup to get once you have everything else. At this point you should already have GPM talent and all other items. With BoTs we can start splitpushing and jumping around the map to constantly force fights. Additionally, it will give us massive boost to movement speed"
+			"item_cyclone"		"Setup for Phantom's embrace, additional escape, linken's breaker. Way to deal with silences and stuff like Kunkka's X mark"
+			"item_null_talisman"		"Early stats/damage for laning and later Veil upgrade. Two nulls + aquila will guarantee us enough attack damage for lane, HP and mana for fighting"
+			"item_bottle"		"It's necessary for us to be able to constantly spam our spells on lane and play agressively. With Ink Swell on and a rune ward you can secure enough runes to have charges at any time"
+			"item_ring_of_aquila"		"Good pickup early to get additional stats, armor and mana regen. Unless you're against some kind of specific matchup, it's better to pickup before boots"
+			"item_boots"		"Additional movement speed, ideally before level 4-5, so you can start pressuring opponent with Ink Swell"
+			"item_veil_of_discord"		"Good stats for early game and magic damage amplification. Grim already wants just a little bit more stats for mana/hp, so this upgrade is already pretty good, but additional armor and active ability make it even better"
+			"item_force_staff"		"Against slows and melee heroes (Ursa, Riki, Monkey King...)"
+			"item_ghost"		"Against high physical damage, but low stuns (Phantom Assassin, Ursa...)"
+			"item_blink"		"Good fo situations when you need to initiate (no initiator) or close the gap instantly to use spells (against Weaver or Storm).
+
+It doesn't really work in combination with Ink Swell: stun duration scales from time the target spent in AoE. The only way to combo it is to use it and instantly blink to enemy."
+			"item_mjollnir"		"Helps a little bit with attack speed (we don't really need attack damage), also useful to prevent enemies from attacking you. Works well with Kaya, spell amp talent and Grim's int gain."
+			"item_sheepstick"		"Double hex, mana regen, good stats. Can be used to setup Phantom's Embrace as well"
+			"item_octarine_core"		"If you don't need hex, you can replace your kaya with Octarine, increasing your HP/mana pool, reducing all cooldowns and effectively being hard to take down. It's rather agressive choice, so be careful"
+			"item_shivas_guard"		"Good replacement for Veil: additional int (spell amplification), aura, mana pool and huge armor boost."
+			"item_bloodthorn"		"Another agressive choice. If you're sure you don't need hex and you're going to transition into physical damage core to be more effective at pushing - go for it."
+			"item_sphere"		"Great choice for Grimstroke. Doesn't let enemy hold you from casting or running around with Ink Swell, gives additional mana and HP regen, as well as massive stats boost"
+			"item_aeon_disk"		"Save/tankiness item against nullifier combos or burst initiators (Clinkz, Storm Spirit, Earthshaker...)"
+			"item_silver_edge"		"Massive stats boost + repositioning"
+			"item_assault"		"Alternative to Shiva's. You don't really need mana pool anyway at this point, so you can pick it up and start transitioning into hybrid carry"
+			"item_hurricane_pike"		"Natural upgrade to Force Staff and stats boost. Also works well against Techies (safer push)"
+			"item_black_king_bar"		"When its hard to fight and enemy has too much magic. Stuns, silences, you name it"
+			"item_dagon_5"		"Going all-in for magic damage for double dagon combo"
+			"item_ethereal_blade"		"Addition for double dagon combo + high damage from stat gain + ok-ish choice for transitioning into hybrid core. Can be used as upgrade to Ghost Scepter"
+			"item_meteor_hammer"		"Going all-in for magic damage means you probably don't have that much"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"grimstroke_dark_artistry"
+			"2"		"grimstroke_spirit_walk"
+			"3"		"grimstroke_dark_artistry"
+			"4"		"grimstroke_ink_creature"
+			"5"		"grimstroke_dark_artistry"
+			"6"		"grimstroke_spirit_walk"
+			"7"		"grimstroke_dark_artistry"
+			"8"		"grimstroke_spirit_walk"
+			"9"		"grimstroke_spirit_walk"
+			"10"		"special_bonus_gold_income_15"
+			"11"		"grimstroke_soul_chain"
+			"12"		"grimstroke_soul_chain"
+			"13"		"grimstroke_ink_creature"
+			"14"		"grimstroke_ink_creature"
+			"15"		"special_bonus_spell_amplify_12"
+			"16"		"grimstroke_ink_creature"
+			"18"		"grimstroke_soul_chain"
+			"20"		"special_bonus_unique_grimstroke_4"
+			"25"		"special_bonus_unique_grimstroke_2"
+		}
+		"AbilityTooltips"
+		{
+			"grimstroke_dark_artistry"		"Your main farming spell, as well as tool for dominating your lane. Try to catch your opponent at lasthit attempt and harass him with this spell, using it through creepwave. Early on you don't want to hit ranged creep with it unless it's at half HP, but after level 3 it's your tool to secure ranged creep every wave."
+			"grimstroke_ink_creature"		"The spell is pretty useful in teamfights and deals a lot of damage after full duration, but in most cases during laning stage your opponent will be able to kill the phantom, so it's not reliable to use as a harassing tool.  Try to use it as vision tool instead and hold your opponent while catching up with Ink Swell."
+			"grimstroke_spirit_walk"		"It's your main teamfighting/escaping tool. Use it to secure runes, run in and out of fights, catch up to opponents, save your allies or just run somewhere faster. Early on your goal will be like this: get level 4-5, harass opponent with stroke of fate and once he gets too close, use phantom embrace and instantly start diving towards enemy with ink swell on. It will either force enemy to attack-move (and you will catch up to him and stun) or run away with phantom (you just scare him and retreat)."
+			"grimstroke_soul_chain"		"You don't need it early on (since you're 1v1), but you can skill it situationally. Altho, even while it's good for combos like Dagon-Ethereal, you won't use it specifically for combos most of the time. Think of it as BKB piercing slow (to reposition and wait for BKB to end), tool to hold enemy in place (like Weaver), but mostly as a setup tool for your Ink Swell - Phantom - Stroke of Fate combos."
+			"special_bonus_unique_grimstroke_3"		"Even while we're double downing on Stroke of Fate, the only scenario for this talent is base defending (which means you're losing)"
+			"special_bonus_unique_grimstroke_4"		"This talent enables Phantom's Embrace, making it actually hard to kill during fight. With this talent it actually becomes reliable silence."
+			"special_bonus_spell_amplify_12"		"Considering all our magic damage and huge boost of spell amplification offered, it's to-go choice."
+			"special_bonus_cast_range_125"		"Cast range is good, but as core Grimstroke it doesn't really matter since we're going to be close to fight by ourselves anyway.  Alternative talent is just way better."
+			"special_bonus_unique_grimstroke_2"		"This talent completes our spam-nuke nature , amplifying our damage output even more. With this talent Stroke of Fate relably oneshots regular creepwave."
+			"special_bonus_unique_grimstroke_1"		"It may be good for combos with tanky bruicers and heroes like Phoenix, but for core Grimstroke it's not really the way to go."
+			"special_bonus_gold_income_15"		"Free GPM at level 10? On a core hero? Sure!"
+			"special_bonus_movement_speed_30"		"Even while it's useful for our hero, we actually don't need it: we already have enough."
+		}
+	}
+}
