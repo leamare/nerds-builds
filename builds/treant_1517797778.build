@@ -3,17 +3,17 @@
 	"Hero"		"treant"
 	"Title"		"Nerds Treant Protector"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.19"
-	"Overview"		"Treant Protector is Strength support hero. He is successful with roaming around on enemy territory and playing agressive, giving allies a lot of information, participating in fights as much as possible and saving allies.
+	"GameplayVersion"		"7.19d"
+	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds
-This build is based on replays of best support Treant matches on Divine 5 rank."
-	"GuideRevision"		"17"
+This build is based on Immortal rank support Treant matches.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B62FB34"
-	"TimePublished"		"0x000000005B62FB34"
+	"TimeUpdated"		"0x000000005BC31EDA"
+	"TimePublished"		"0x000000005BC31EDA"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,60 +21,87 @@ This build is based on replays of best support Treant matches on Divine 5 rank."
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_ward_observer"
-				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 				"item"		"item_enchanted_mango"
+				"item"		"item_stout_shield"
+				"item"		"item_orb_of_venom"
 			}
 			"Early"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
 				"item"		"item_meteor_hammer"
 				"item"		"item_blink"
-				"item"		"item_cyclone"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
+				"item"		"item_cyclone"
 				"item"		"item_soul_ring"
-				"item"		"item_ancient_janggo"
 				"item"		"item_force_staff"
-				"item"		"item_solar_crest"
 				"item"		"item_hand_of_midas"
 			}
 			"Utility Slots"
 			{
-				"item"		"item_spirit_vessel"
-				"item"		"item_lotus_orb"
+				"item"		"item_quelling_blade"
+				"item"		"item_solar_crest"
 				"item"		"item_pipe"
-				"item"		"item_assault"
 				"item"		"item_vladmir"
 				"item"		"item_gem"
+				"item"		"item_lotus_orb"
 			}
 			"Lategame Luxury"
 			{
 				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
-				"item"		"item_refresher"
 				"item"		"item_shivas_guard"
+				"item"		"item_assault"
 				"item"		"item_travel_boots"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_meteor_hammer"		"~15-17 min"
-			"item_blink"		"~16-20 min"
-			"item_cyclone"		"~22 min"
-			"item_ultimate_scepter"		"~22 min"
+			"item_meteor_hammer"		"~15-17 min
+Use it to either farm every creepwave without leaving invisibility and to constantly pressure lanes OR to add additional stun on top of your roots while enemy is disabled"
+			"item_blink"		"~16-20 min
+Your most important item. You may skip Meteor Hammer, but you need to get Blink no matter what. With it you will be able to actually use your ultimate properly, but also use root from your passive (walk around trees - blink - instantly hit while effect is still active)"
+			"item_cyclone"		"~22 min
+Movement speed and mana regen are nice, it may help you with scouting or playing against silences/Kunkka or something similar"
+			"item_ultimate_scepter"		"~22-35 min
+Awesome upgrade that allowes you to place vision nearly everywhere. Your main goal is to scout as agressively as possible. In that case you will be able to pressure lanes (meteor hammer) and place vision (aghs). Another thing to note - it helps with successful ultimate uses while also denying enemy farm and giving money to you. Try to get it if you have enough money and space"
+			"item_stout_shield"		"Shield is good if you have extra money and you're going to brawl on lane a lot"
+			"item_ward_sentry"		"Early sentry for quick dewarding early on"
+			"item_orb_of_venom"		"Another item to pick up if you have starting money left is OoV. It will increase your damage output a little bit and will add a little bit more kill potential to what you already have"
+			"item_tranquil_boots"		"High movement speed bonus to be able to run from tree to tree around and scout"
+			"item_wind_lace"		"Even more movement speed so you will never be out of invisibility"
+			"item_magic_wand"		"Additional HP and source of mana for emergency situations"
+			"item_urn_of_shadows"		"Pretty good stats overall (HP, mana regen, armor) and one of the best items to get on a position 4 support"
+			"item_spirit_vessel"		"Natural upgrade to urn. The best item to get for a position 4 support, awesome stats for Treant specifically (HP, movement speed) and pretty good for continuing magic damage and utility theme of the hero"
+			"item_soul_ring"		"May help you early on to keep up with your mana usage, but it may be a bit too much in terms of your money"
+			"item_force_staff"		"Additional save (against heroes like Monkey King, Riki and so on), can be used as initiation tool as well"
+			"item_hand_of_midas"		"If you have extra early money and know for sure that the game will be either long or hard in terms of farming, you can try to get Hand of Midas. But try to not delay it for too long and don't rush it"
+			"item_quelling_blade"		"For dewarding and passing through treelines"
+			"item_gem"		"For dewarding while scouting"
+			"item_solar_crest"		"A little bit of extra armor to make your ally or yourself a bit tankier or to deal with enemy armor/evasion"
+			"item_pipe"		"For magic heavy lineups"
+			"item_lotus_orb"		"For purging debuffs from allies in case you can afford it"
+			"item_vladmir"		"Additional strong aura for your team if nobody else is going to buy it and you're going to finish early anyway"
+			"item_refresher"		"Works well with Overgrowth (and scepter). Can be used for both fighting and farming, depending on what you need from it"
+			"item_sheepstick"		"Better continuation of utility theme: additional reliable disable that won't be hard to farm once you have scepter or hammer"
+			"item_octarine_core"		"Additional cooldown reduction, works well with aghs-refresher theme for both farming and fighting"
+			"item_shivas_guard"		"Another utility way upgrade: useful aura, nuke and additional crowd control after Overgrowth"
+			"item_assault"		"Nice pickup if your team doesn't have any AC carriers and you need armor or struggle to push"
 		}
 	}
 	"AbilityBuild"
@@ -83,26 +110,36 @@ This build is based on replays of best support Treant matches on Divine 5 rank."
 		{
 			"1"		"treant_natures_guise"
 			"2"		"treant_leech_seed"
-			"3"		"treant_living_armor"
-			"4"		"treant_living_armor"
-			"5"		"treant_natures_guise"
+			"3"		"treant_leech_seed"
+			"4"		"treant_natures_guise"
+			"5"		"treant_leech_seed"
 			"6"		"treant_overgrowth"
-			"7"		"treant_living_armor"
-			"8"		"treant_leech_seed"
-			"9"		"treant_living_armor"
+			"7"		"treant_leech_seed"
+			"8"		"treant_natures_guise"
+			"9"		"treant_natures_guise"
 			"10"		"special_bonus_cooldown_reduction_10"
-			"11"		"treant_natures_guise"
+			"11"		"treant_living_armor"
 			"12"		"treant_overgrowth"
-			"13"		"treant_natures_guise"
-			"14"		"treant_leech_seed"
+			"13"		"treant_living_armor"
+			"14"		"treant_living_armor"
 			"15"		"special_bonus_attack_damage_90"
-			"16"		"treant_leech_seed"
+			"16"		"treant_living_armor"
 			"18"		"treant_overgrowth"
-			"20"		"special_bonus_unique_treant_2"
+			"20"		"special_bonus_unique_treant_4"
 			"25"		"special_bonus_unique_treant_5"
 		}
 		"AbilityTooltips"
 		{
+			"treant_living_armor"		"Even while it's Treant's sinature ability, your main purpose early on is to dominate the lane. For that you need to max other spells to maximize kill potential and snowball."
+			"treant_natures_guise"		"Skill it to be annoying piece of tree. Be invisible, wait for a moment and then start attacking target with lower amount of regen to bully it out of lane. Root after hit should buy you some time to get additional one-two hits early on.
+Later into the game try to run around enemy jungle while being invisible, place wards and scout. Try to not show on the map. When you have blink - try to initiate with root from invisibility."
+			"treant_leech_seed"		"Strong slow + heal + damage spell for early brawling. As you get level 2 you will be able to kill somebody on your lane with your laning buddy. Try to max it out first to maximize your hero damage and kill potential early on."
+			"special_bonus_cooldown_reduction_10"		"Additional cooldown reduction means lower cooldown on Overgrowth, Meteor Hammer and potentially even Eyes in the Forest. Additional living armor instances won't matter that much agaist it."
+			"special_bonus_attack_damage_90"		"Having additional damage is pretty good for either farming or fighting, considering it's +90."
+			"special_bonus_unique_treant_3"		"It's  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
+			"special_bonus_unique_treant_4"		"Additional root duration works well iin combination with blink. 4 second duration root that pierces spell immunity and effectively has no downtime? Why not!"
+			"special_bonus_unique_treant_7"		"Good for teamfighting scenarios if you're sure you don't need AoE for your ult and/or don't have aghs."
+			"special_bonus_unique_treant_5"		"This talent makes better both your ultimate and vision from your agh's trees. Go-to talent if you're going all in for your ultimate (scepter, refresher, etc)"
 		}
 	}
 }
