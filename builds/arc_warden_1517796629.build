@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"arc_warden"
-	"Title"		"Nerds Arc Warden"
+	"Title"		"Nerds Support Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.19"
+	"GameplayVersion"		"7.19d"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges), while also being able to roam early. This build is untraditional.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: http://dotablog.ileamare.ru/builds"
-	"GuideRevision"		"16"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B5F2530"
-	"TimePublished"		"0x000000005B5F2530"
+	"TimeUpdated"		"0x000000005BC324D8"
+	"TimePublished"		"0x000000005BC324D8"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,18 +38,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_force_staff"
+				"item"		"item_necronomicon"
 				"item"		"item_diffusal_blade"
 			}
-			"Situational"
+			"Situational Early"
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_ghost"
 				"item"		"item_blink"
-				"item"		"item_meteor_hammer"
+				"item"		"item_maelstrom"
 			}
 			"Lategame"
 			{
-				"item"		"item_maelstrom"
+				"item"		"item_necronomicon_3"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
@@ -69,16 +70,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_vladmir"
 			}
-			"Situational Late"
+			"Situational"
 			{
-				"item"		"item_necronomicon_3"
 				"item"		"item_assault"
 				"item"		"item_sphere"
 				"item"		"item_guardian_greaves"
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"
+				"item"		"item_meteor_hammer"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://leamare.github.io/nerds-builds/"
 			{
 			}
 		}
