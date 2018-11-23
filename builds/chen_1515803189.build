@@ -3,18 +3,18 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 Thi build is based on Wagamama's and IceIceIce's replays.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC323CF"
-	"TimePublished"		"0x000000005BC323CF"
+	"TimeUpdated"		"0x000000005BF415C8"
+	"TimePublished"		"0x000000005BF415C8"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,6 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_holy_locket"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
@@ -60,6 +61,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 				"item"		"item_pipe"
+				"item"		"item_solar_crest"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -76,18 +78,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"chen_holy_persuasion"
-			"2"		"chen_test_of_faith"
+			"2"		"chen_divine_favor"
 			"3"		"chen_holy_persuasion"
 			"4"		"chen_penitence"
-			"5"		"chen_test_of_faith"
+			"5"		"chen_divine_favor"
 			"6"		"chen_hand_of_god"
-			"7"		"chen_test_of_faith"
-			"8"		"chen_test_of_faith"
+			"7"		"chen_divine_favor"
+			"8"		"chen_divine_favor"
 			"9"		"chen_penitence"
 			"10"		"special_bonus_exp_boost_35"
 			"11"		"chen_penitence"
 			"12"		"chen_hand_of_god"
+			"13"		"chen_holy_persuasion"
+			"14"		"chen_holy_persuasion"
 			"15"		"special_bonus_unique_chen_3"
+			"16"		"chen_penitence"
 			"18"		"chen_hand_of_god"
 			"20"		"special_bonus_gold_income_30"
 			"25"		"special_bonus_unique_chen_2"

@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.19d
+## Patch: 7.20b
 
 ---
 
@@ -40,16 +40,10 @@ Wraith King | Roaming Support | [Steam](https://steamcommunity.com/sharedfiles/f
 Hero | Role | File
 -- | -- | --
 Alchemist | Core | [builds/alchemist_1533216412.build](builds/alchemist_1533216412.build)
-Bloodseeker | Core | [builds/bloodseeker_1528952764.build](builds/bloodseeker_1528952764.build)
 Doom | Offlane | [builds/doom_bringer_1513111352.build](builds/doom_bringer_1513111352.build)
 Naga Siren | Support | [builds/naga_siren_1519913507.build](builds/naga_siren_1519913507.build)
 Necrophos | Core | [builds/necrolyte_1533217100.build](builds/necrolyte_1533217100.build)
 Riki | Core | [builds/riki_1524007744.build](builds/riki_1524007744.build)
-Slardar | Core | [builds/slardar_1510400827.build](builds/slardar_1510400827.build)
 Sven | Support | [builds/sven_1534870569.build](builds/sven_1534870569.build)
-Axe | Offlane | [builds/axe_1525176769.build](builds/axe_1525176769.build)
-Night Stalker | Offlane | [builds/night_stalker_1527942469.build](builds/night_stalker_1527942469.build)
-Outworld Devourer | Core | [builds/obsidian_destroyer_1525195140.build](builds/obsidian_destroyer_1525195140.build)
-Pangolier | Offlane | [builds/pangolier_1527943470.build](builds/pangolier_1527943470.build)
 Techies | Support | [builds/techies_1525192697.build](builds/techies_1525192697.build)
 Shadow Demon | Core | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)

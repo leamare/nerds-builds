@@ -3,19 +3,19 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 Discuss this build ans suggest your own changes at Spectral Alliance discord channel: http://spectralalliance.ru/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC322F2"
-	"TimePublished"		"0x000000005BC322F2"
+	"TimeUpdated"		"0x000000005BF32B03"
+	"TimePublished"		"0x000000005BF32B03"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,24 +35,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wind_lace"
 				"item"		"item_bracer"
 			}
-			"Core - Utility"
+			"Core"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
 				"item"		"item_ancient_janggo"
-			}
-			"Core - Semicarry"
-			{
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
-				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_medallion_of_courage"
 				"item"		"item_aether_lens"
 				"item"		"item_ghost"
+				"item"		"item_phase_boots"
 			}
 			"Utility"
 			{
@@ -92,7 +86,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_blink"		"The most important Lion item. If you aren't going for a full utility, you can delay it, but mobility is still essential for your initiation."
 			"item_tranquil_boots"		"Mobility + HP regen"
 			"item_ancient_janggo"		"Additional mobility and HP"
-			"item_helm_of_the_dominator"		"Huge HP regen bost, additional boost to initiation via jungle creeps"
 			"item_medallion_of_courage"		"Both armor boost and damage output increase."
 			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"

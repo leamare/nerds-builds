@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC32193"
-	"TimePublished"		"0x000000005BC32193"
+	"TimeUpdated"		"0x000000005BF82F13"
+	"TimePublished"		"0x000000005BF82F13"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,47 +21,52 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_stout_shield"
-				"item"		"item_flask"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
+				"item"		"item_bracer"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
-				"item"		"item_soul_ring"
-				"item"		"item_boots"
-				"item"		"item_infused_raindrop"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_blink"
 				"item"		"item_invis_sword"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_echo_sabre"
+				"item"		"item_greater_crit"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ring_of_aquila"
+				"item"		"item_bottle"
+				"item"		"item_quelling_blade"
+				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
-				"item"		"item_blink"
 				"item"		"item_solar_crest"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_blade_mail"
 			}
 			"Lategame"
 			{
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
+				"item"		"item_heart"
 				"item"		"item_butterfly"
-				"item"		"item_bloodthorn"
-				"item"		"item_greater_crit"
-				"item"		"item_monkey_king_bar"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
-				"item"		"item_heart"
 				"item"		"item_manta"
 				"item"		"item_shivas_guard"
+				"item"		"item_bloodthorn"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

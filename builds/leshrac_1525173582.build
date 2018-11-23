@@ -3,43 +3,45 @@
 	"Hero"		"leshrac"
 	"Title"		"Nerds Leshrac"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Leshrac is an intelligence hero who can be played at every position and transition into powerful core at the end of the game. The hero farms extremely fast, has lockdown and the only things he needs are mana regen and surviveability, so he can deal more damage and outlive opponents. His Diabolic Edict ability allowes him to become a powerful core hero and essentially be able to almost singlehandedly end the game at later stages.
 
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC32337"
-	"TimePublished"		"0x000000005BC32337"
+	"TimeUpdated"		"0x000000005BF82FD7"
+	"TimePublished"		"0x000000005BF82FD7"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_soul_ring"
-				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_bloodstone"
 				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_ring_of_aquila"
 				"item"		"item_null_talisman"
 				"item"		"item_force_staff"
 			}
@@ -81,7 +83,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ~32 min"
 			"item_magic_wand"		"Emergency button to get extra HP and Mana during early fights."
 			"item_bottle"		"Bottle isn't that good nowadays and Soul Ring almost completely replaces Bottle as mana source. Altho, if you're sure you'll be able to secure runes and you feel free on your lane, it's pretty good item to have: Leshrac naturally loves to push lane, so you will have enough time to check runes during creepwave downtime."
-			"item_ring_of_aquila"		"Additional mana regen, stats and armor. Pretty good item to have on lane. Alternative: 2nd Null Talisman"
 			"item_null_talisman"		"Better early game stat item for a mana dependant int hero. If you want to play more agressively, you can get 2nd one."
 			"item_force_staff"		"Emergency situation save item. Just in case you need to run away from slows or ground-changing lockdowns."
 			"item_octarine_core"		"Natural lategame item for any caster core. Lesser cooldowns, more HP and mana, as well as spell lifesteal, which is huge for a high AoE damage output caster like Leshrac."

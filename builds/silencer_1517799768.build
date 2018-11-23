@@ -3,25 +3,26 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC3264B"
-	"TimePublished"		"0x000000005BC3264B"
+	"TimeUpdated"		"0x000000005BF82F75"
+	"TimePublished"		"0x000000005BF82F75"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items / Midlane"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
 			}
 			"Starting Items / Safelane"
 			{
@@ -34,21 +35,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_aquila"
-				"item"		"item_boots"
-				"item"		"item_magic_wand"
 				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_crown"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
 				"item"		"item_ancient_janggo"
 				"item"		"item_invis_sword"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 				"item"		"item_rod_of_atos"
 				"item"		"item_orchid"
 				"item"		"item_hand_of_midas"

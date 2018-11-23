@@ -3,38 +3,40 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC32126"
-	"TimePublished"		"0x000000005BC32126"
+	"TimeUpdated"		"0x000000005BF82FFE"
+	"TimePublished"		"0x000000005BF82FFE"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Early "
 			{
-				"item"		"item_bottle"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_boots"
 				"item"		"item_null_talisman"
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_crown"
 			}
 			"Core"
 			{
+				"item"		"item_boots"
 				"item"		"item_veil_of_discord"
-				"item"		"item_kaya"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_travel_boots"
 			}
 			"Situational Early"
@@ -78,9 +80,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_kaya"		"Helps with mana issues and amplifies damage output even more. If you're playing against specific matchup or you're playing from behind, you can replace it with something else (Eul's Scepter most commonly)"
 			"item_travel_boots"		"Next pickup to get once you have everything else. At this point you should already have GPM talent and all other items. With BoTs we can start splitpushing and jumping around the map to constantly force fights. Additionally, it will give us massive boost to movement speed"
 			"item_cyclone"		"Setup for Phantom's embrace, additional escape, linken's breaker. Way to deal with silences and stuff like Kunkka's X mark"
-			"item_null_talisman"		"Early stats/damage for laning and later Veil upgrade. Two nulls + aquila will guarantee us enough attack damage for lane, HP and mana for fighting"
+			"item_null_talisman"		"Even tho you don't want to get it as starting item, one additional Null Talisman for laning is always a good idea since it will help you establish your lane dominance."
 			"item_bottle"		"It's necessary for us to be able to constantly spam our spells on lane and play agressively. With Ink Swell on and a rune ward you can secure enough runes to have charges at any time"
-			"item_ring_of_aquila"		"Good pickup early to get additional stats, armor and mana regen. Unless you're against some kind of specific matchup, it's better to pickup before boots"
 			"item_boots"		"Additional movement speed, ideally before level 4-5, so you can start pressuring opponent with Ink Swell"
 			"item_veil_of_discord"		"Good stats for early game and magic damage amplification. Grim already wants just a little bit more stats for mana/hp, so this upgrade is already pretty good, but additional armor and active ability make it even better"
 			"item_force_staff"		"Against slows and melee heroes (Ursa, Riki, Monkey King...)"
@@ -102,6 +103,8 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"item_dagon_5"		"Going all-in for magic damage for double dagon combo"
 			"item_ethereal_blade"		"Addition for double dagon combo + high damage from stat gain + ok-ish choice for transitioning into hybrid core. Can be used as upgrade to Ghost Scepter"
 			"item_meteor_hammer"		"Going all-in for magic damage means you probably don't have that much"
+			"item_kaya_and_sange"		"Perfect item for a squishy caster core. You generally want to get Kaya, but Sange and Kaya makes it perfet upgrade that not only amplifies all the bonuses, but also makes you tankier and adds a bit of status resistance to your kit."
+			"item_crown"		"Since you are going to get Veil anyway, getting Crown and three branches instead of Null Talisman is a safe choice. It gives you almost the same amount of stats (excluding spell amp), but also give you a lot more HP and attack speed that may be more useful for early laning considering you hero's weak HP pool early on."
 		}
 	}
 	"AbilityBuild"

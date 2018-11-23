@@ -3,17 +3,17 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC31EA5"
-	"TimePublished"		"0x000000005BC31EA5"
+	"TimeUpdated"		"0x000000005BF82EF0"
+	"TimePublished"		"0x000000005BF82EF0"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,21 +29,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_orb_of_venom"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_lifesteal"
 				"item"		"item_blink"
 				"item"		"item_basher"
 			}
 			"SItuational Early"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_lifesteal"
 				"item"		"item_magic_wand"
 				"item"		"item_quelling_blade"
+				"item"		"item_meteor_hammer"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Lategame"
 			{
@@ -76,8 +77,6 @@ One of most important items for Ursa. With it you can close the gap instantly an
 			"item_helm_of_the_dominator"		"~11-15 min
 Push capabilities (auras and Catapult), as well as additional lockdown (with Centaur or Troll). You can also use your dominated creep to tank Roshan or scout enemy territory.
 You can skip it and replace with Morbid Mask (or skip it at all)"
-			"item_ring_of_aquila"		"~7-10 min
-Early and cheap stats and, what's more important, mana sustain to keep using Overpower/Clap to bully your lane opponents, as well as manipulate creepwave."
 			"item_basher"		"~18-23 min
 WIth maximum attack speed from Overpower you will get almost guaranteed bash on one of your attacks. WIth it you can manfight and kill almost every hero in 1v1 fights early on. Use this advantage to get a pickoff and then force a fight/get an objective with your team."
 			"item_phase_boots"		"~3-6 min
@@ -115,7 +114,7 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 			"7"		"ursa_fury_swipes"
 			"8"		"ursa_earthshock"
 			"9"		"ursa_fury_swipes"
-			"10"		"special_bonus_mp_regen_175"
+			"10"		"special_bonus_mp_regen_3"
 			"11"		"ursa_fury_swipes"
 			"12"		"ursa_enrage"
 			"13"		"ursa_overpower"

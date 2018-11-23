@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC32657"
-	"TimePublished"		"0x000000005BC32657"
+	"TimeUpdated"		"0x000000005BF32B80"
+	"TimePublished"		"0x000000005BF32B80"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,9 +21,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_courier"
 				"item"		"item_tango"
-				"item"		"item_branches"
 				"item"		"item_wind_lace"
 				"item"		"item_ward_observer"
+				"item"		"item_clarity"
+				"item"		"item_clarity"
 			}
 			"Early"
 			{
@@ -34,14 +35,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_force_staff"
 				"item"		"item_glimmer_cape"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ghost"
-				"item"		"item_veil_of_discord"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_cyclone"
 				"item"		"item_hand_of_midas"
 			}
@@ -50,7 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
-				"item"		"item_vladmir"
+				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
@@ -83,7 +83,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_magic_wand"		"Cheap stats and ability to replenish your hp/mana. Since Silencer's HP regen is quite low and his mana pool (comparing to his skills) isn't really big at early stages, it will be quite useful."
 			"item_ghost"		"Works well against high-phys-dmg cores. You're not really tanky against that so it should be purchased ASAP."
 			"item_hand_of_midas"		"If you know that the game will be long and there will not be enough kill possibilities, it's probably the best choice to pick up."
-			"item_vladmir"		"Not really good purchase for Silencer, but gives massive damage and armor boost to the whole team."
 			"item_sheepstick"		"Shitload of damage, some HP and powerful control"
 			"item_cyclone"		"Another one choice against high-phys-damage cores, as well as silences, slows and other shitty debuffs. Also gives quite nice mana regen boost, but isn't really good Silencer item after all to be purchased every time."
 			"item_force_staff"		"Number one item for any Silencer: increases hp regen, mobility and damage output, builds into hurricane pike, another must-have item for Silencer."
@@ -95,7 +94,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_mjollnir"		"Good lategame item to deal some kind of massive AoE damage. Not really needed most of the time"
 			"item_skadi"		"Stat-heavy item, slow. Good in cases when you don't need control or MKB, but need stats and damage"
 			"item_ancient_janggo"		"Cheap stats and additional mana regen, as well as another mobility upgrade. Later I'd like to replace drums with Silver Edge."
-			"item_veil_of_discord"		"Stat-heavy item. Silencer doesn't really need Veil's active, but if your team would appreciate it (magic-heavy lineup), it can be quite nice pickup"
 			"item_guardian_greaves"		"A lot of people choose Arcane boots to build greaves then, but it's actually quite useless for Silencer himself since it doesn't give him anything he needs."
 			"item_rod_of_atos"		"Works fine against elusive heroes, gives quite good damage and health boost, as well as some kind of control and all that for a low price."
 			"item_tranquil_boots"		"Silencer's base HP regen is quite low, so it will be quite useful inbetween ganks. And another important note: tranqs increase your mobility even more. For core it will be better to get phase or threads, but for support Silencer tranquils are the best choice."

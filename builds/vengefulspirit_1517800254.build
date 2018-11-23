@@ -3,16 +3,16 @@
 	"Hero"		"vengefulspirit"
 	"Title"		"Nerds Vengeful Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC31E9E"
-	"TimePublished"		"0x000000005BC31E9E"
+	"TimeUpdated"		"0x000000005BF82EE0"
+	"TimePublished"		"0x000000005BF82EE0"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,9 +28,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
-				"item"		"item_boots"
-				"item"		"item_ring_of_aquila"
 				"item"		"item_power_treads"
 			}
 			"Core"
@@ -116,7 +116,6 @@ ALTERNATIVES: Solar Crest, Butterfly, Diffusal Blade
 ALTERNATIVES: Butterfly, Desolator, Eye of Skadi"
 			"item_solar_crest"		"Defensive alternative to Desolator. Doesn't boost our pushing speed (no minus armor for towers) and doesn't give damage, but gives a lot of armor, miss chance as well as a lot of minus armor (more than deso) against heroes, roshan and regenerates a lot of mana.
 ALTERNATIVES: Yasha, Desolator"
-			"item_ring_of_aquila"		"ALTERNATIVE: Vladimirs Offering"
 			"item_vladmir"		"Great upgrade for Basilius. Buffs your team, makes you tankier and useful even after death. You can make aquila early and disassemble it for Vladmir's and Pike.
 ALTERNATIVE TO: Aquila, Mask of Madness, Helm of the Dominator"
 		}

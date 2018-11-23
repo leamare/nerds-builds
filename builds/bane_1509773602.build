@@ -3,17 +3,17 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Offlane Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 This build is based on games of EG.Universe and KheZzu.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC3251A"
-	"TimePublished"		"0x000000005BC3251A"
+	"TimeUpdated"		"0x000000005BF314DE"
+	"TimePublished"		"0x000000005BF314DE"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,17 +31,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
+				"item"		"item_crown"
 			}
 			"Core"
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_aether_lens"
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 			}
 			"Situational Early"
 			{
-				"item"		"item_mask_of_madness"
 				"item"		"item_force_staff"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_glimmer_cape"
@@ -98,7 +97,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_bane_4"
 			"16"		"bane_nightmare"
 			"18"		"bane_fiends_grip"
-			"20"		"special_bonus_movement_speed_65"
+			"20"		"special_bonus_movement_speed_50"
 			"25"		"special_bonus_unique_bane_2"
 		}
 		"AbilityTooltips"

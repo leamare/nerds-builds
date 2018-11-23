@@ -3,25 +3,26 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC324B3"
-	"TimePublished"		"0x000000005BC324B3"
+	"TimeUpdated"		"0x000000005BF83161"
+	"TimePublished"		"0x000000005BF83161"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items (Mid)"
 			{
-				"item"		"item_wraith_band"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
 			}
 			"Starting Items (Safelane)"
 			{
@@ -34,13 +35,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_aquila"
-				"item"		"item_boots"
-				"item"		"item_infused_raindrop"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_necronomicon"
 			}
 			"Core - Midas"
 			{
 				"item"		"item_hand_of_midas"
+				"item"		"item_boots"
 				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 			}
@@ -54,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_blade_mail"
-				"item"		"item_necronomicon"
 				"item"		"item_maelstrom"
 			}
 			"Raw Damage"
@@ -97,7 +99,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_magic_stick"		"Another one early item, good to get against heroes who want to spam their abilities a lot, like Zeus, SF, PA, Bristle. You don't really need to upgrade it since you will need slot really soon, so it will be just a waste of money"
 			"item_travel_boots"		"~16-32 min - Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don't need to care about movement speed anymore"
 			"item_sheepstick"		"Additional lockdown, one of the best lategame items for Arc since you have not one, but two hexes. It can be replaced with Bloodthorn+nullifier combo, but hex is better since it cannot be dispelled (while nullifier+bloodthorn combo can be purged with everything)"
-			"item_orchid"		"Lockdown ability and damage bonus, gives us early kill potential"
 			"item_bloodthorn"		"Probably the best damage item for Arc: lockdown, crits and utility from using it twice"
 			"item_hurricane_pike"		"~20 min - Stat boost and additional escape for cases when something goes wrong (can be used offensively too).
 Usually replaces Shadow Blade"
@@ -111,9 +112,6 @@ Usually replaces Shadow Blade"
 			"item_mjollnir"		"Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you're going to participate in fights by yourself"
 			"item_skadi"		"It may turn you into walking tank. Altho, you will have low damage output and won't be able to use properly all of you slots (considering two of them being octarine and BoTs already, you will have only three effective slots)"
 			"item_octarine_core"		"Works pretty well woth Mjolnir, decreases downtime between tempest doubles, midases and BoTs, while also makng us tanky as hell. Combining it with 30% lifesteal on level 25 and 15% CDR on level 20 makes Arc very hard to kill and reduces downtime of the double to 9 seconds."
-			"item_ring_of_aquila"		"Natural upgrade to our Wraith Band, gives enough mana regen to spam spells"
-			"item_sobi_mask"		"It may not give you any damage, but you can't buy it in sideshop. Upgrade to Ring of Basilius ASAP and you will get +3 to all stats (from x3 iron branch), +2 armor, mana regen and +7 damage, which is better than anything else you can buy early."
-			"item_wraith_band"		"Good-old Wraith band, good enough for every ranged agility core, both for safelane or midlane, upgrade to Aquila ASAP. You can get another one in midlane for additional stats and damage."
 			"item_hand_of_midas"		"Timing: around 8-10 minutes
 The item is must-have for Arc: double midas is your main farming tool."
 			"item_maelstrom"		"~13-23 min - Maelstrom is already good enough for your hero, considering having a lot of attack speed, but also increases farming a lot (magnetic field + maelstrom almost completely kills creepwave)"
@@ -143,7 +141,7 @@ ALTERNATIVES: Hurricane Pike, Blink Dagger"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
 			"14"		"arc_warden_magnetic_field"
-			"15"		"special_bonus_hp_350"
+			"15"		"special_bonus_hp_300"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
 			"20"		"special_bonus_attack_range_125"

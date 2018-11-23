@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC3217F"
-	"TimePublished"		"0x000000005BC3217F"
+	"TimeUpdated"		"0x000000005BF6C214"
+	"TimePublished"		"0x000000005BF6C214"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,26 +33,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_aquila"
 				"item"		"item_magic_wand"
 				"item"		"item_blight_stone"
 				"item"		"item_boots"
+				"item"		"item_headdress"
 			}
 			"Core"
 			{
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_rod_of_atos"
 				"item"		"item_pipe"
 				"item"		"item_vladmir"
 				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
@@ -97,7 +99,7 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_desolator"		"Offensive choice. No lockdown, but increases our -armor potential and damage vs towers. I pick it up mostly in cases when the game is already won."
 			"item_blight_stone"		"One blight stone goes into medallion, another one just lies in our inventory to provide another -2 armor. Pretty useful, cheap, can be upgraded into deso later."
 			"item_medallion_of_courage"		"One of the best ways for us to amplify our damage wth familliars. Also solves mana regen issues"
-			"item_solar_crest"		"After midas, this will be the cheapest and most cost-effective thing we can get: -7 armor to -12 armor and miss chance is actually pretty huge. It will increase our farming speed, kill potential and ability to save allies. Small tip: use it or medallion on creep under tower's attack so it can tank."
+			"item_solar_crest"		"Use it on summoned catapult or familliar while pushing to instantly melt towers."
 			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. It doesn't give another useful bonuses, it's not that reliable, but, well, it's something. It also works well as defensive choice (gives more health)."
 			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
 			"item_helm_of_the_dominator"		"~8-12 min

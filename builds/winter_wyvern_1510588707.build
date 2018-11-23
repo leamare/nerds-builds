@@ -3,18 +3,18 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.19d"
+	"GameplayVersion"		"7.20"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC31E45"
-	"TimePublished"		"0x000000005BC31E45"
+	"TimeUpdated"		"0x000000005BF82EA8"
+	"TimePublished"		"0x000000005BF82EA8"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,61 +22,68 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Offlane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_wind_lace"
+				"item"		"item_tango"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Starting Items (Midlane)"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_force_staff"
 				"item"		"item_hurricane_pike"
 				"item"		"item_maelstrom"
 			}
+			"Utility Slots"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_solar_crest"
+				"item"		"item_holy_locket"
+				"item"		"item_lotus_orb"
+			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_hand_of_midas"
-				"item"		"item_glimmer_cape"
-				"item"		"item_cyclone"
 				"item"		"item_blink"
-				"item"		"item_solar_crest"
 				"item"		"item_mask_of_madness"
-				"item"		"item_null_talisman"
+				"item"		"item_hand_of_midas"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
 				"item"		"item_mjollnir"
 				"item"		"item_bloodthorn"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
 				"item"		"item_greater_crit"
-				"item"		"item_nullifier"
 				"item"		"item_bloodstone"
-				"item"		"item_skadi"
+				"item"		"item_nullifier"
 				"item"		"item_sphere"
 				"item"		"item_black_king_bar"
-				"item"		"item_shivas_guard"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_aeon_disk"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -84,7 +91,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_phase_boots"		"It's valuable for us to make attack damage as strong as possible for the cheapest price, so we can start zoning opponents efficiently.  That's the main reason we want Phase Boots (even while Treads are abailable at side shop, we don't get much that much benefit from them) and double null talisman on whatever lane."
 			"item_boots"		"The first thing you want to do on your lane is to zone opponent away with Arctic Burn, get as much lasthits as possible and get early Boots for yourself. Wyvern is pretty slow hero, so this additional mobility early on is crusual for both your attack and defence."
 			"item_force_staff"		"Additional mobility/save with a higher potential than Lance early on"
 			"item_hurricane_pike"		"Natural upgrade to Force Staff. Allowes us to get better position and zone opponents from miles away"
@@ -100,14 +106,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_greater_crit"		"Cheap offensive option if you want to get more damage, but don't really want to delay the game too much and won't be able to get top-tier alternatives"
 			"item_nullifier"		"Rarely needed since you should have enough lockdown and damage and you Scythe is better in most cases, while Nullifier projectile is pretty slow and you're going to stay away in fights. Altho, it can work in combination with blink or Winter's Curse (use it right at the end of your ultimate, so enemy won't be able to dodge it)"
 			"item_bloodstone"		"One of the most popular solutions for enabling Aghs build early on in terms of mana regen. Altho, it gives only mana regen/mana pool and HP boost."
-			"item_skadi"		"Huge stats boost and additional slow. Good if you wand HP, damage, mana and attack speed at the same time (and don't really need additional lockdown)"
 			"item_sphere"		"OK-ish item to get if you're being locked down a bit too much or playing againstDoom"
 			"item_black_king_bar"		"...but BKB is usually better choice against lockdown than Linkens"
 			"item_shivas_guard"		"OK-ish choice if you need armor. It's not really good item for core Wyvern since you need to get other stuff first, and when it comes to Shivas, you will usually be attacking from too far away for it to get benefit from it (as well as AC)"
 			"item_mask_of_madness"		"Good item to increase attack speed drastically for a short period when you really need it. Works well when you have a mana item, Mjolnir and Aghs"
 			"item_monkey_king_bar"		"vs Miss chance"
 			"item_solar_crest"		"Cheap replacement for Orchid/Bloodthorn"
-			"item_ring_of_aquila"		"Strong laning stage item with high value for a cheap price."
+			"item_yasha_and_kaya"		"Offensive replacement for Euls. Manacost reduction and attack speed are very valuable for Wyvern and she doesn't need to go for Sange and Kaya since she's naturally pretty tanky."
 		}
 	}
 	"AbilityBuild"

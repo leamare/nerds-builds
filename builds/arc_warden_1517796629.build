@@ -3,17 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Support Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.19d"
-	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges), while also being able to roam early. This build is untraditional.
+	"GameplayVersion"		"7.20"
+	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
+
+This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BC324D8"
-	"TimePublished"		"0x000000005BC324D8"
+	"TimeUpdated"		"0x000000005BF31410"
+	"TimePublished"		"0x000000005BF31410"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,44 +25,39 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_wind_lace"
 				"item"		"item_ward_observer"
-				"item"		"item_courier"
 				"item"		"item_enchanted_mango"
-				"item"		"item_branches"
+				"item"		"item_courier"
+				"item"		"item_clarity"
 			}
 			"Early"
 			{
-				"item"		"item_tranquil_boots"
+				"item"		"item_boots"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_wind_lace"
-				"item"		"item_ancient_janggo"
-				"item"		"item_smoke_of_deceit"
 			}
 			"Core"
 			{
-				"item"		"item_hand_of_midas"
+				"item"		"item_meteor_hammer"
+				"item"		"item_tranquil_boots"
 				"item"		"item_force_staff"
-				"item"		"item_necronomicon"
-				"item"		"item_diffusal_blade"
 			}
 			"Situational Early"
 			{
 				"item"		"item_arcane_boots"
+				"item"		"item_bottle"
+				"item"		"item_ancient_janggo"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_ghost"
 				"item"		"item_blink"
-				"item"		"item_maelstrom"
+				"item"		"item_hand_of_midas"
+				"item"		"item_medallion_of_courage"
 			}
 			"Lategame"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_necronomicon_3"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
-				"item"		"item_silver_edge"
-			}
-			"Core Transition"
-			{
-				"item"		"item_travel_boots"
-				"item"		"item_mjollnir"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_bloodthorn"
 			}
 			"Utility"
 			{
@@ -68,7 +65,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_glimmer_cape"
 				"item"		"item_pipe"
-				"item"		"item_vladmir"
+			}
+			"Core Transition"
+			{
+				"item"		"item_diffusal_blade"
+				"item"		"item_travel_boots"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
@@ -77,7 +81,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_guardian_greaves"
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"
-				"item"		"item_meteor_hammer"
+				"item"		"item_silver_edge"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -92,7 +96,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_tango"		"Another reasonable choice: instead of early wind lace or ring of protection you can buy two sets of tangoes."
 			"item_travel_boots"		"Ability to split-push and teleport from other part of the map. Pretty straight forward"
 			"item_hand_of_midas"		"You won't get much time and space to farm, so most of your money will come from assists and structures, so your midas will be probably late (somewhere between min 16-30), but it's fine: aside from drums and tranquils we don't need that much, while midas will just allow us to buy expensive stuff"
-			"item_vladmir"		"You will be a backliner most of the time, but it's just good and cheap aura to have for your team."
 			"item_pipe"		"Since 6.88 (I believe) pipes stack, so you can get it against high-magic damage lineups (tinker, zeus) and just cover up your team with magic shield twice"
 			"item_sheepstick"		"It's very expensive for position 4/5 support, but in very long game scenario we will be able to transition into core and we will get a lot of money, so we can afford sheepstick and, well, double hex in fights is very strong."
 			"item_bloodthorn"		"Ultimate damage solution, mostly because you will have two of bloodthorns and lightnings so you will benefit from attack speed and crits a lot."
@@ -104,7 +107,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_lotus_orb"		"Purging negative effects from allies with doubled speed is quite nice, altho it has low cooldown anyway so somebody else can get it instead"
 			"item_silver_edge"		"Break, -50% damage debuff, all of that can't be dispelled. It provides us invis and some pickoff ability, but think of it more like about utility item: it boosts our stats and damage a little bit, but also gives us ability to turn enemy core into useless hero for a while with this damage reduction"
 			"item_mjollnir"		"Natural upgrade to your maelstrom, increases damage output for a very good price"
-			"item_maelstrom"		"If you know that you need some damage or just want to farm up a little bit faster, this it the best item to get, since Maelstrom+Magnetic field will result in getting 90-100% of a creepwave while just autoattacking (so you can just send your double to farm with shift-queue)"
 			"item_desolator"		"It's not really cheap for us and against heroes medallion will be better, but if we need something to get structures early and nobody gets deso, you can buy it."
 			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and endless diffusal charges on your tempest double."
 			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn't have diffusal blade or other purge)"
@@ -121,8 +123,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"arc_warden_flux"
-			"2"		"arc_warden_spark_wraith"
+			"1"		"arc_warden_spark_wraith"
+			"2"		"arc_warden_flux"
 			"3"		"arc_warden_flux"
 			"4"		"arc_warden_magnetic_field"
 			"5"		"arc_warden_flux"
@@ -150,8 +152,12 @@ We will be relying on our physical damage anyway, our sparks are going to be mos
 			"special_bonus_cooldown_reduction_10"		"In AW-core build I mentioned that both talents are good. In support build you are going to play as utility guy with active items and skills, so your main focus will be not attack range and sieging, but using these items as much as possible, co CDR is more valueable"
 			"arc_warden_flux"		"Our main ganking spell. It's not very reliable because it can be muted nearby allies, so you need to get very good moment early to use it: right after new creepwave arrives and when enemy is far away from tower"
 			"arc_warden_magnetic_field"		"Main support spell. Allowes us to save allies from physical attacks and also save structures with a free glyph. Altho, you need to position it in a very good way, so enemy won't be able to bet inside of the field or force enemy to be out of position to get inside. And again, it fully works on tower"
-			"arc_warden_spark_wraith"		"It's pretty good level 4 nuke, but as level 1 spell it's pretty much only a slow and vision spell."
-			"arc_warden_tempest_double"		"Double every item, double every spell. With RQQEE combo we can pretty much kill any hero (if you have Q and E on level 4), we can use level 4, double midas, endless charge-based items (drums, diffusal), double hex and so on. You want to get as many active items as you can."
+			"arc_warden_spark_wraith"		"It's pretty good level 4 nuke, but as level 1 spell it's pretty much only a slow and vision spell.
+
+The first thing you do as Arc, is you go to the rune and use a spark wraith on every choke point and rune spawn area. Also use it to harass enemy core from a distance."
+			"arc_warden_tempest_double"		"Keep TP scroll in your inventory past level 6 and gank with your tempest double, applying pressure and creating kill potential.
+
+Double every item, double every spell. With RQQEE combo we can pretty much kill any hero (if you have Q and E on level 4), we can use level 4, double midas, endless charge-based items (drums, diffusal), double hex and so on. You want to get as many active items as you can."
 		}
 	}
 }
