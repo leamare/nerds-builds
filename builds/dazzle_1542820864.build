@@ -11,12 +11,12 @@ Early on you want to get a point into Shadow Wave to keep yourself alive on lane
 This build is not traditional, and wthile it is still pretty strong and reliable if you have some experience playing with it, as for 7.20b, your team may just report you. Remember that while playing.
 This build is based on Immortal rank Core Dazzle matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF8457B"
-	"TimePublished"		"0x000000005BF8457B"
+	"TimeUpdated"		"0x000000005BF86506"
+	"TimePublished"		"0x000000005BF86506"
 	"ItemBuild"
 	{
 		"Items"
@@ -140,6 +140,20 @@ You can use it for fighting since you will always have somebody to heal in melee
 		}
 		"AbilityTooltips"
 		{
+			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect's duration will be refreshed with your every attack and it also stacks with itself. COmbining with Bad Juju, you can use it as farming tool as well"
+			"dazzle_shallow_grave"		"You don't really need it early on, but having a value point still won't hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
+			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It's also your farming tool and wave clearing tool.
+
+It deals more damage with more units being healed by it. You can use it on lane against melee heroes (or ranged heroes who will walk across creepwave) and in fights you can combo it with your teammates or illusions/summons.
+
+Try to spam it every time it's off cooldown. At level 12 you shouldn't have much mana issues and this spell will make your all team unstoppable."
+			"dazzle_bad_juju"		"Your main DPS/farming tool. As soon as you get it, all your farming items will have less of a cooldown, all your spells will be stronger and any of your harass will destroy your enemies"
+			"special_bonus_attack_damage_75"		"This amount of damage is way to valuable to ignore it, but in combination with all our spells you will be the strongest hero on the map at least for a while"
+			"special_bonus_unique_dazzle_2"		"You will be in the middle of a fight most of the time, so you don't really need cast range, while additional heal/damage will give you way more value considering Shadow Wave spam"
+			"special_bonus_movement_speed_40"		"If you lack some mobility and need to catch up to fast enemies - why not pick it up? +40 MS is A LOT, considering every MS item giving percentage based bonuses"
+			"special_bonus_unique_dazzle_3"		"Upgrading damage on an already strong DPS spell even further will make it hard to deal with at any stage, so why not?"
+			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won't be able to run away anymore."
+			"special_bonus_unique_dazzle_4"		"You don't really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
 		}
 	}
 }
