@@ -15,6 +15,7 @@ Chen | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1
 Dark Willow | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1187400450) | [builds/dark_willow_1509497468.build](builds/dark_willow_1509497468.build)
 Dark Willow | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1190695676) | [builds/dark_willow_1509628818.build](builds/dark_willow_1509628818.build)
 Dark Willow | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1396923037) |  [builds/dark_willow_1518900620.build](builds/dark_willow_1518900620.build)
+Dazzle | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1572131797) | [builds/dazzle_1542820864.build](builds/dazzle_1542820864.build)
 Enchantress | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [builds/enchantress_1517795534.build](builds/enchantress_1517795534.build)
 Enchantress | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [builds/enchantress_1517796324.build](builds/enchantress_1517796324.build)
 Grimstroke | Mid Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [builds/grimstroke_1535353295.build](builds/grimstroke_1535353295.build)
