@@ -3,16 +3,16 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.20"
+	"GameplayVersion"		"7.20e"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"24"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF83161"
-	"TimePublished"		"0x000000005BF83161"
+	"TimeUpdated"		"0x000000005C0E1568"
+	"TimePublished"		"0x000000005C0E1568"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_circlet"
 				"item"		"item_slippers"
-				"item"		"item_circlet"
 				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Starting Items (Safelane)"
 			{
@@ -35,7 +37,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_necronomicon"
@@ -58,6 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_blade_mail"
 				"item"		"item_maelstrom"
+				"item"		"item_wraith_band"
 			}
 			"Raw Damage"
 			{

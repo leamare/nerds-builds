@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.20"
+	"GameplayVersion"		"7.20e"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"37"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF6C214"
-	"TimePublished"		"0x000000005BF6C214"
+	"TimeUpdated"		"0x000000005C12094B"
+	"TimePublished"		"0x000000005C12094B"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,28 +33,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_blight_stone"
-				"item"		"item_boots"
 				"item"		"item_headdress"
+				"item"		"item_magic_wand"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_medallion_of_courage"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
+				"item"		"item_phase_boots"
+				"item"		"item_rod_of_atos"
 				"item"		"item_solar_crest"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
-				"item"		"item_rod_of_atos"
+				"item"		"item_null_talisman"
 				"item"		"item_pipe"
-				"item"		"item_vladmir"
-				"item"		"item_phase_boots"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
@@ -65,12 +65,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
-				"item"		"item_rod_of_atos"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
 				"item"		"item_heart"
 				"item"		"item_nullifier"
 				"item"		"item_hurricane_pike"
+				"item"		"item_kaya_and_sange"
 			}
 			"Utility"
 			{
@@ -86,7 +86,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_vladmir"		"13-16 min.
+			"item_vladmir"		"8-14 min
 Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Great if you want to boost your damage output or play against crimson guard or Rubick."
 			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups."
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
@@ -100,7 +100,7 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_blight_stone"		"One blight stone goes into medallion, another one just lies in our inventory to provide another -2 armor. Pretty useful, cheap, can be upgraded into deso later."
 			"item_medallion_of_courage"		"One of the best ways for us to amplify our damage wth familliars. Also solves mana regen issues"
 			"item_solar_crest"		"Use it on summoned catapult or familliar while pushing to instantly melt towers."
-			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. It doesn't give another useful bonuses, it's not that reliable, but, well, it's something. It also works well as defensive choice (gives more health)."
+			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. Pretty cheap, gives Visage additional lockdown and tankiness"
 			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
 			"item_helm_of_the_dominator"		"~8-12 min
 Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."

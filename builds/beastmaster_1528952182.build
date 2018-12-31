@@ -3,14 +3,16 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.20"
-	"Overview"		""
-	"GuideRevision"		"8"
+	"GameplayVersion"		"7.20e"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF43FB1"
-	"TimePublished"		"0x000000005BF43FB1"
+	"TimeUpdated"		"0x000000005C1182BC"
+	"TimePublished"		"0x000000005C1182BC"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,34 +29,34 @@
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_blight_stone"
+				"item"		"item_bracer"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_medallion_of_courage"
-				"item"		"item_invis_sword"
+				"item"		"item_necronomicon_3"
+				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_soul_ring"
 				"item"		"item_blink"
 				"item"		"item_armlet"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_necronomicon_3"
-				"item"		"item_solar_crest"
 				"item"		"item_assault"
-				"item"		"item_nullifier"
 				"item"		"item_refresher"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+				"item"		"item_solar_crest"
 				"item"		"item_silver_edge"
 			}
 			"Utility"
 			{
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_vladmir"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_crimson_guard"
@@ -62,9 +64,10 @@
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_sphere"
+				"item"		"item_nullifier"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -77,31 +80,30 @@
 			"item_invis_sword"		"~15"
 			"item_necronomicon_3"		"~22-27"
 			"item_assault"		"~33"
-			"item_helm_of_the_dominator"		"~10"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"beastmaster_wild_axes"
+			"1"		"beastmaster_call_of_the_wild_boar"
 			"2"		"beastmaster_inner_beast"
-			"3"		"beastmaster_wild_axes"
+			"3"		"beastmaster_call_of_the_wild_boar"
 			"4"		"beastmaster_inner_beast"
-			"5"		"beastmaster_wild_axes"
+			"5"		"beastmaster_call_of_the_wild_boar"
 			"6"		"beastmaster_primal_roar"
-			"7"		"beastmaster_wild_axes"
+			"7"		"beastmaster_call_of_the_wild_boar"
 			"8"		"beastmaster_inner_beast"
 			"9"		"beastmaster_inner_beast"
 			"10"		"special_bonus_exp_boost_25"
-			"11"		"beastmaster_call_of_the_wild_boar"
+			"11"		"beastmaster_wild_axes"
 			"12"		"beastmaster_primal_roar"
-			"13"		"beastmaster_call_of_the_wild_boar"
-			"14"		"beastmaster_call_of_the_wild_boar"
-			"15"		"special_bonus_armor_6"
-			"16"		"beastmaster_call_of_the_wild_boar"
+			"13"		"beastmaster_wild_axes"
+			"14"		"beastmaster_wild_axes"
+			"15"		"special_bonus_unique_beastmaster_2"
+			"16"		"beastmaster_wild_axes"
 			"18"		"beastmaster_primal_roar"
-			"20"		"special_bonus_unique_beastmaster"
+			"20"		"special_bonus_hp_500"
 			"25"		"special_bonus_unique_beastmaster_4"
 		}
 		"AbilityTooltips"

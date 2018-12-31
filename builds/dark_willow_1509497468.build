@@ -3,18 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.20"
-	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
-
-This build is based on my own (~47th on Dotabuff) experience of playing the hero.
+	"GameplayVersion"		"7.20e"
+	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF315A8"
-	"TimePublished"		"0x000000005BF315A8"
+	"TimeUpdated"		"0x000000005C11886D"
+	"TimePublished"		"0x000000005C11886D"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,30 +22,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_courier"
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_enchanted_mango"
 				"item"		"item_ward_observer"
-				"item"		"item_circlet"
+				"item"		"item_clarity"
+				"item"		"item_mantle"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_infused_raindrop"
+				"item"		"item_null_talisman"
 				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_spirit_vessel"
 				"item"		"item_blink"
 				"item"		"item_cyclone"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_veil_of_discord"
+				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
 				"item"		"item_arcane_boots"
+				"item"		"item_bracer"
 			}
 			"Utility"
 			{
@@ -65,13 +65,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_mjollnir"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
-				"item"		"item_greater_crit"
-				"item"		"item_nullifier"
 				"item"		"item_octarine_core"
 				"item"		"item_guardian_greaves"
+			}
+			"Core Transition"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_greater_crit"
+				"item"		"item_nullifier"
+				"item"		"item_kaya_and_sange"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -88,7 +92,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ancient_janggo"		"May be good early as additional mobility item"
 			"item_nullifier"		"Additional strong lockdown, while also giving armor and high damage (works great on lvl 25)"
 			"item_hurricane_pike"		"Natural upgrade for Force Staff"
-			"item_octarine_core"		"Replacement for Kaya in case if you don't need Scythe or Shiva"
 		}
 	}
 	"AbilityBuild"
@@ -98,22 +101,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"dark_willow_bramble_maze"
 			"2"		"dark_willow_shadow_realm"
 			"3"		"dark_willow_cursed_crown"
-			"4"		"dark_willow_bramble_maze"
-			"5"		"dark_willow_bramble_maze"
+			"4"		"dark_willow_shadow_realm"
+			"5"		"dark_willow_shadow_realm"
 			"6"		"dark_willow_bedlam"
 			"7"		"dark_willow_shadow_realm"
-			"8"		"dark_willow_bramble_maze"
-			"9"		"dark_willow_shadow_realm"
+			"8"		"dark_willow_cursed_crown"
+			"9"		"dark_willow_cursed_crown"
 			"10"		"special_bonus_cast_range_125"
-			"11"		"dark_willow_shadow_realm"
+			"11"		"dark_willow_cursed_crown"
 			"12"		"dark_willow_bedlam"
-			"13"		"dark_willow_cursed_crown"
-			"14"		"dark_willow_cursed_crown"
+			"13"		"dark_willow_bramble_maze"
+			"14"		"dark_willow_bramble_maze"
 			"15"		"special_bonus_gold_income_15"
-			"16"		"dark_willow_cursed_crown"
+			"16"		"dark_willow_bramble_maze"
 			"18"		"dark_willow_bedlam"
 			"20"		"special_bonus_unique_dark_willow_1"
-			"25"		"special_bonus_attack_speed_200"
+			"25"		"special_bonus_unique_dark_willow_2"
 		}
 		"AbilityTooltips"
 		{

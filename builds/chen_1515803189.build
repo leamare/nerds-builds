@@ -3,18 +3,16 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.20"
+	"GameplayVersion"		"7.20e"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
-Thi build is based on Wagamama's and IceIceIce's replays.
-
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF415C8"
-	"TimePublished"		"0x000000005BF415C8"
+	"TimeUpdated"		"0x000000005C11862F"
+	"TimePublished"		"0x000000005C11862F"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,44 +22,53 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blight_stone"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_tango"
+				"item"		"item_clarity"
 				"item"		"item_clarity"
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_solar_crest"
+				"item"		"item_phase_boots"
 				"item"		"item_holy_locket"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_force_staff"
+				"item"		"item_power_treads"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
 				"item"		"item_aether_lens"
 			}
-			"Nuker (agressive)"
+			"Utility"
 			{
-				"item"		"item_dagon_5"
-				"item"		"item_kaya"
-				"item"		"item_ethereal_blade"
-				"item"		"item_octarine_core"
+				"item"		"item_force_staff"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_assault"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_guardian_greaves"
-				"item"		"item_travel_boots"
-				"item"		"item_sheepstick"
-				"item"		"item_pipe"
-				"item"		"item_solar_crest"
+				"item"		"item_mjollnir"
+				"item"		"item_silver_edge"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_rod_of_atos"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_greater_crit"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

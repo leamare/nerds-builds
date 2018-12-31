@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Support Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.20"
+	"GameplayVersion"		"7.20e"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005BF31410"
-	"TimePublished"		"0x000000005BF31410"
+	"TimeUpdated"		"0x000000005C1775E1"
+	"TimePublished"		"0x000000005C1775E1"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,13 +32,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_urn_of_shadows"
-				"item"		"item_wind_lace"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_tranquil_boots"
 			}
 			"Core"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_meteor_hammer"
-				"item"		"item_tranquil_boots"
 				"item"		"item_force_staff"
 			}
 			"Situational Early"
@@ -46,25 +46,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_arcane_boots"
 				"item"		"item_bottle"
 				"item"		"item_ancient_janggo"
-				"item"		"item_ring_of_basilius"
 				"item"		"item_ghost"
 				"item"		"item_blink"
 				"item"		"item_hand_of_midas"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_yasha"
 			}
 			"Lategame"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
 				"item"		"item_necronomicon_3"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 			}
 			"Utility"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
 				"item"		"item_glimmer_cape"
 				"item"		"item_pipe"
+				"item"		"item_spirit_vessel"
 			}
 			"Core Transition"
 			{
@@ -117,6 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_guardian_greaves"		"Debuff that prevents multiple healing lasts for almost 38 seconds, greaves have 40 seconds cooldown. It doesn't give us any benefit with double, so you want to get it only when nobody else gets it and your team REALLY needs it"
 			"item_tranquil_boots"		"Ultimate ganking boots. Higher movement speed, armor and solution for our bad early health regen."
 			"item_glimmer_cape"		"Good to have against magic-heavy lineups or to reset enemy focus from an ally"
+			"item_yasha"		"Helps us to deal with Arc's low movement speed"
 		}
 	}
 	"AbilityBuild"
