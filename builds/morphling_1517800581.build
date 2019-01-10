@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C0E1C76"
-	"TimePublished"		"0x000000005C0E1C76"
+	"TimeUpdated"		"0x000000005C32305E"
+	"TimePublished"		"0x000000005C32305E"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,6 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_blade_mail"
 				"item"		"item_phase_boots"
+				"item"		"item_ring_of_basilius"
 			}
 			"Utility"
 			{
