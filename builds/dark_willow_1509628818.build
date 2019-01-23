@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C1189A3"
-	"TimePublished"		"0x000000005C1189A3"
+	"TimeUpdated"		"0x000000005C47F154"
+	"TimePublished"		"0x000000005C47F154"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,14 +21,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_circlet"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
+				"item"		"item_bracer"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 				"item"		"item_helm_of_iron_will"
 			}
@@ -41,10 +43,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_null_talisman"
 				"item"		"item_soul_ring"
 				"item"		"item_bottle"
 				"item"		"item_force_staff"
 				"item"		"item_kaya_and_sange"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_ghost"
 			}
 			"Utility"
 			{
@@ -64,7 +69,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
 				"item"		"item_octarine_core"
 				"item"		"item_hurricane_pike"
