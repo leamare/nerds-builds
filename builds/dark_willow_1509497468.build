@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.20e"
+	"GameplayVersion"		"7.21"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C11886D"
-	"TimePublished"		"0x000000005C11886D"
+	"TimeUpdated"		"0x000000005C50C62A"
+	"TimePublished"		"0x000000005C50C62A"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,24 +30,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_null_talisman"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
 				"item"		"item_cyclone"
-				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
 				"item"		"item_veil_of_discord"
 				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
 				"item"		"item_arcane_boots"
-				"item"		"item_bracer"
 			}
 			"Utility"
 			{
@@ -58,10 +56,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_sheepstick"
-				"item"		"item_hurricane_pike"
-				"item"		"item_travel_boots"
 				"item"		"item_shivas_guard"
+				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
@@ -75,6 +73,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_nullifier"
+				"item"		"item_hurricane_pike"
 				"item"		"item_kaya_and_sange"
 			}
 			"https://leamare.github.io/nerds-builds/"

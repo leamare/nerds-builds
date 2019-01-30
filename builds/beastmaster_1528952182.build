@@ -3,16 +3,16 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.20e"
+	"GameplayVersion"		"7.21"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"17"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C1182BC"
-	"TimePublished"		"0x000000005C1182BC"
+	"TimeUpdated"		"0x000000005C50C5E1"
+	"TimePublished"		"0x000000005C50C5E1"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,8 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_necronomicon_3"
 				"item"		"item_vladmir"
+				"item"		"item_necronomicon_3"
 			}
 			"Situational Early"
 			{
@@ -78,7 +78,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_phase_boots"		"~6-10"
 			"item_medallion_of_courage"		"~6-10"
 			"item_invis_sword"		"~15"
-			"item_necronomicon_3"		"~22-27"
 			"item_assault"		"~33"
 		}
 	}
@@ -100,7 +99,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"beastmaster_primal_roar"
 			"13"		"beastmaster_wild_axes"
 			"14"		"beastmaster_wild_axes"
-			"15"		"special_bonus_unique_beastmaster_2"
+			"15"		"special_bonus_armor_6"
 			"16"		"beastmaster_wild_axes"
 			"18"		"beastmaster_primal_roar"
 			"20"		"special_bonus_hp_500"
