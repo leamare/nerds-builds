@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"55"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C51F94F"
-	"TimePublished"		"0x000000005C51F94F"
+	"TimeUpdated"		"0x000000005C5764AC"
+	"TimePublished"		"0x000000005C5764AC"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,26 +30,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_bracer"
-				"item"		"item_bracer"
+				"item"		"item_wraith_band"
 				"item"		"item_soul_ring"
+				"item"		"item_bracer"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
+				"item"		"item_vitality_booster"
 				"item"		"item_manta"
 				"item"		"item_diffusal_blade"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
+				"item"		"item_ancient_janggo"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_blade_mail"
+				"item"		"item_power_treads"
 				"item"		"item_radiance"
 				"item"		"item_vanguard"
+				"item"		"item_blade_mail"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -64,13 +65,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sphere"
 				"item"		"item_nullifier"
 				"item"		"item_silver_edge"
-				"item"		"item_spirit_vessel"
 				"item"		"item_assault"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -96,7 +97,8 @@ Good for tower dives (and very agressive plays) or against summons/high attack s
 
 ALTERNATIVES: Hood of Defiance, HotD"
 			"item_blade_mail"		"Either cheap replacement for manta early on or good solution against high damage output burst heroes (Phantom Assassin, Tinker, Slark)"
-			"item_radiance"		"~20-30 - The item we want to get almost every time. It accelerates our farm, deals shitload of damage in fights + miss chance. Even in losing scenarios it can be a game-changer item, so don't bother buying a late radiance. If you gone for Core MoM build, still get it, but maybe after BKB (its optional tho)"
+			"item_radiance"		"~20-30
+The item we want to get almost every time. It accelerates our farm, deals shitload of damage in fights + miss chance. Even in losing scenarios it can be a game-changer item, so don't bother buying a late radiance. If you gone for Core MoM build, still get it, but maybe after BKB (its optional tho)"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
 			"item_manta"		"Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit."
 			"item_silver_edge"		"Gives a lot of stats and attack speed, good versus heroes who rely on their passives or deal a lot of damage, but it doesn't really synergyse with our hero."
