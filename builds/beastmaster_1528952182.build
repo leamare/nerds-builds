@@ -4,15 +4,17 @@
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
 	"GameplayVersion"		"7.21"
-	"Overview"		"
+	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
+
+Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C50C5E1"
-	"TimePublished"		"0x000000005C50C5E1"
+	"TimeUpdated"		"0x000000005C5D2B0C"
+	"TimePublished"		"0x000000005C5D2B0C"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,46 +23,50 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_stout_shield"
 				"item"		"item_tango"
+				"item"		"item_tango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
+				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
 				"item"		"item_vladmir"
+				"item"		"item_phase_boots"
 				"item"		"item_necronomicon_3"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bottle"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_quelling_blade"
+				"item"		"item_bracer"
 				"item"		"item_soul_ring"
-				"item"		"item_blink"
-				"item"		"item_armlet"
+				"item"		"item_vanguard"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_invis_sword"
+				"item"		"item_armlet"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_assault"
+				"item"		"item_silver_edge"
 				"item"		"item_refresher"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_solar_crest"
-				"item"		"item_silver_edge"
 			}
 			"Utility"
 			{
+				"item"		"item_crimson_guard"
+				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
-				"item"		"item_crimson_guard"
-				"item"		"item_force_staff"
 			}
 			"Situational"
 			{
@@ -75,10 +81,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_phase_boots"		"~6-10"
-			"item_medallion_of_courage"		"~6-10"
-			"item_invis_sword"		"~15"
-			"item_assault"		"~33"
+			"item_phase_boots"		"Perfect boots for a strength melee hero. Additional armor, chasing potential and a bit of damage that works well with attack speed boost that we already have"
+			"item_medallion_of_courage"		"Good early armor solution, works well for agressive plays in combination with all the summons and our skillset"
+			"item_invis_sword"		"Additional mobility and escape/initiation"
+			"item_assault"		"Good addition to all the auras theme. It's not only buffs your teammates, but also debuffs enemies with negative armor effectively increasing your damage output. It also works great while split pushing since negative armor aura works on buildings as well"
+			"item_ring_of_basilius"		"Early armor/mana/damage boost, to be later used as part of Vladmir's Offering"
+			"item_vladmir"		"Armor and damage boost for our summons. It works well with all the auras theme for your team, but it also significantly increases your damage output early on, buffing your boars"
+			"item_necronomicon_3"		"Additional summons, farming tool and more map control. Necronomicon is always good for Beastmaster just because of his aura and potential damage, but level 1 necronomicon also boosts his farming speed significantly. With level 3 Necronomicon and Hawk you can also scout around and destroy all the enemy vision"
+			"item_blink"		"Blink Dagger helps a lot with initiation, but it is also useful as escape tool. Both of these purposes allow Beastmaster to play agressively around the map"
+			"item_quelling_blade"		"Additional creep damage to dominate the lane"
+			"item_bracer"		"Cheap early stats to increase your tankiness for early fighting"
+			"item_soul_ring"		"Cheap HP/mana source, good if you're going to skip Vlads"
+			"item_vanguard"		"Good early tankiness solution, to be upgraded into Crimson Guard"
+			"item_force_staff"		"Escape tool for cases when Blink or Shadow Blade won't be enough (vs. Riki, Ursa, etc)"
+			"item_armlet"		"Good solution for snowballing when you had a great start"
+			"item_solar_crest"		"Natural upgrade to Medallion. Great stats as well as offensive capabilities: you can debuff your enemy for a quick kill or buff another core on your team"
+			"item_silver_edge"		"Natural upgrade to Shadow Blade. It's also good against tanky enemy heroes who rely on their passives and can survive your focus because of that (Timbersaw, Bristleback, Huskar)"
+			"item_refresher"		"Great teamfight addition for lategame"
+			"item_travel_boots"		"Split pushing tool. You can purchase it somewhat early (after Necronomicon) to just fly around the map and apply pressure or get it later if you can't successfully fight with your team yet"
+			"item_crimson_guard"		"Against summons or as natural Vanguard upgrade"
+			"item_ultimate_scepter"		"Better if you need to fight with your team a lot and you're relying on your ult.  It will effectively reduce your teamfighting downtime and will allow to fight more often"
 		}
 	}
 	"AbilityBuild"
@@ -99,14 +121,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"beastmaster_primal_roar"
 			"13"		"beastmaster_wild_axes"
 			"14"		"beastmaster_wild_axes"
-			"15"		"special_bonus_armor_6"
+			"15"		"special_bonus_unique_beastmaster"
 			"16"		"beastmaster_wild_axes"
 			"18"		"beastmaster_primal_roar"
-			"20"		"special_bonus_hp_500"
+			"20"		"special_bonus_unique_beastmaster_2"
 			"25"		"special_bonus_unique_beastmaster_4"
 		}
 		"AbilityTooltips"
 		{
+			"special_bonus_unique_beastmaster_2"		"While 500 HP is still a lot, Boars are way too powerful at any stage of the game. In combination with Vladmir's offering this talent makes them way too scary and powerful to fight against"
+			"special_bonus_unique_beastmaster"		"More of a situational choice. Wild Axes is a good skill for splitpushing and bursting Roared opponent"
+			"beastmaster_call_of_the_wild_boar"		"Early fighting, map control, scouting and lane dominating tool. Level 4 Boars are also your first real powerspike because of their high damage and slow
+
+Boars can be used to zone out enemy supports early on, block or stack neutral camps. Hawks can be used for scouting and blocking camps"
+			"beastmaster_inner_beast"		"It's great pushing tool as well as early brawling tool. It works well with all your summons and pushing strats. It's also great in combination with Primal Roar since it allowes to burst enemy targets down"
+			"beastmaster_wild_axes"		"Wild Axes is pretty much useless still early on (compared to others), but it can be useful later on to quickly kill creepwaves or burst down stunned enemies. You can also use it to stack and farm neutrals (especially ancients)"
+			"beastmaster_primal_roar"		"It's the longest reliable stun in the game that also pierces Spell Immunity. It's your only teamfight spell, but it's also one of the most powerful ones. Altho it works better for getting pickoffs before getting objectives or forcing a fight with enemy team. Early on it may be used to kill your lane opponent (usually enemy carry) and burst him down with your summons"
 		}
 	}
 }
