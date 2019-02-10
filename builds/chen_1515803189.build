@@ -6,13 +6,15 @@
 	"GameplayVersion"		"7.21"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
+not traditional
+
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C50C5EB"
-	"TimePublished"		"0x000000005C50C5EB"
+	"TimeUpdated"		"0x000000005C5D0E6A"
+	"TimePublished"		"0x000000005C5D0E6A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,40 +24,42 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blight_stone"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_clarity"
+				"item"		"item_tango"
 				"item"		"item_tango"
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_null_talisman"
 				"item"		"item_bracer"
 				"item"		"item_boots"
-				"item"		"item_magic_wand"
+				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_solar_crest"
-				"item"		"item_holy_locket"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_ancient_janggo"
+				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
-				"item"		"item_aether_lens"
 			}
 			"Utility"
 			{
+				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 				"item"		"item_helm_of_the_dominator"
+				"item"		"item_holy_locket"
 				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
@@ -76,7 +80,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_aether_lens"		"Solving Chen's mana issues while extending his cast range to maximum."
 			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don't really need it every time, especially after recent changes and with this playstyle. Consider buying it if you're playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
@@ -84,14 +87,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"chen_holy_persuasion"
-			"2"		"chen_divine_favor"
-			"3"		"chen_holy_persuasion"
+			"1"		"chen_divine_favor"
+			"2"		"chen_holy_persuasion"
+			"3"		"chen_divine_favor"
 			"4"		"chen_penitence"
 			"5"		"chen_divine_favor"
 			"6"		"chen_hand_of_god"
 			"7"		"chen_divine_favor"
-			"8"		"chen_divine_favor"
+			"8"		"chen_holy_persuasion"
 			"9"		"chen_penitence"
 			"10"		"special_bonus_exp_boost_35"
 			"11"		"chen_penitence"

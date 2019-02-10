@@ -7,92 +7,84 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C50C5C0"
-	"TimePublished"		"0x000000005C50C5C0"
+	"TimeUpdated"		"0x000000005C5F66E5"
+	"TimePublished"		"0x000000005C5F66E5"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items (Mid)"
 			{
-				"item"		"item_circlet"
 				"item"		"item_slippers"
 				"item"		"item_slippers"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_slippers"
 				"item"		"item_branches"
 			}
 			"Starting Items (Safelane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
+				"item"		"item_enchanted_mango"
 				"item"		"item_slippers"
-				"item"		"item_flask"
+				"item"		"item_slippers"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
-				"item"		"item_necronomicon"
-			}
-			"Core - Midas"
-			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_boots"
-				"item"		"item_mjollnir"
-				"item"		"item_travel_boots"
 			}
-			"Core - Bad start"
+			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_maelstrom"
+				"item"		"item_travel_boots"
 				"item"		"item_mjollnir"
-				"item"		"item_blink"
+				"item"		"item_invis_sword"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
+				"item"		"item_necronomicon"
+				"item"		"item_power_treads"
 				"item"		"item_blade_mail"
-				"item"		"item_maelstrom"
-				"item"		"item_wraith_band"
-			}
-			"Raw Damage"
-			{
-				"item"		"item_invis_sword"
-				"item"		"item_bloodthorn"
-				"item"		"item_nullifier"
-			}
-			"Stats and Hard Disable"
-			{
-				"item"		"item_hurricane_pike"
-				"item"		"item_manta"
-				"item"		"item_sheepstick"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
+				"item"		"item_bloodthorn"
+				"item"		"item_nullifier"
+				"item"		"item_sheepstick"
 				"item"		"item_butterfly"
+				"item"		"item_greater_crit"
 				"item"		"item_silver_edge"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots_2"
 			}
 			"Situational"
 			{
+				"item"		"item_hurricane_pike"
+				"item"		"item_manta"
+				"item"		"item_diffusal_blade"
 				"item"		"item_necronomicon_3"
-				"item"		"item_assault"
-				"item"		"item_greater_crit"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
+				"item"		"item_assault"
 				"item"		"item_octarine_core"
 				"item"		"item_skadi"
 				"item"		"item_shivas_guard"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -102,27 +94,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_travel_boots"		"~16-32 min - Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don't need to care about movement speed anymore"
 			"item_sheepstick"		"Additional lockdown, one of the best lategame items for Arc since you have not one, but two hexes. It can be replaced with Bloodthorn+nullifier combo, but hex is better since it cannot be dispelled (while nullifier+bloodthorn combo can be purged with everything)"
 			"item_bloodthorn"		"Probably the best damage item for Arc: lockdown, crits and utility from using it twice"
-			"item_hurricane_pike"		"~20 min - Stat boost and additional escape for cases when something goes wrong (can be used offensively too).
+			"item_hurricane_pike"		"~20 min
+Stat boost and additional escape for cases when something goes wrong (can be used offensively too). Very good against gap closers (PA, Clockwerk, Riki)
 Usually replaces Shadow Blade"
 			"item_necronomicon_3"		"Works out fine against invis heroes or like bonus pushing power"
 			"item_black_king_bar"		"If you are going to join fights early and be in epicenter of them, you should probably get BKB most of the time, usually against heroes with high magic damage or controlling spells. Don't be afraid to get it early and use it every time: it will pay off sooner than you think"
 			"item_shivas_guard"		"High armor boost and strong AoE nuke+slow, works on double too. Increases our tankiness in fights even more"
 			"item_blade_mail"		"Since we are tanky enough, it's good to stop enemies from trying to bring us down or at least deal reasonable amounts of damage to them"
-			"item_monkey_king_bar"		"High attack speed inside of magnetic field, a lot of potential mini-bash procs"
+			"item_monkey_king_bar"		"High attack speed inside of magnetic field, a lot of potential procs"
 			"item_butterfly"		"High damage increase and tankiness from miss chance. It's cheap enough so we can continue our pressure, while also providing decent damage against towers."
-			"item_manta"		"Good when you need dispel and additional damage. Works fine with butterfly, but mjolnir won't proc"
+			"item_manta"		"Good when you need dispel and additional damage, but also good for pushing. Generally good because of its stats, especially when it comes to raw movement speed boost
+Works fine with butterfly and diffusal"
 			"item_mjollnir"		"Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you're going to participate in fights by yourself"
 			"item_skadi"		"It may turn you into walking tank. Altho, you will have low damage output and won't be able to use properly all of you slots (considering two of them being octarine and BoTs already, you will have only three effective slots)"
 			"item_octarine_core"		"Works pretty well woth Mjolnir, decreases downtime between tempest doubles, midases and BoTs, while also makng us tanky as hell. Combining it with 30% lifesteal on level 25 and 15% CDR on level 20 makes Arc very hard to kill and reduces downtime of the double to 9 seconds."
-			"item_hand_of_midas"		"Timing: around 8-10 minutes
-The item is must-have for Arc: double midas is your main farming tool."
+			"item_hand_of_midas"		"~5-10 minutes
+Arc Warden's signature farming tool. Can be skipped if you are behind"
 			"item_maelstrom"		"~13-23 min - Maelstrom is already good enough for your hero, considering having a lot of attack speed, but also increases farming a lot (magnetic field + maelstrom almost completely kills creepwave)"
 			"item_blink"		"Good for initiating from long range with hex and preventing enemy from reacting. 
 May be replaced with other mobility items, depending on situation: Hurricane Pike, Shadow Blade"
 			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
 ALTERNATIVES: Hurricane Pike, Blink Dagger"
-			"item_power_treads"		"If you can't afford early midas."
-			"item_necronomicon"		"Good pickup before or right after Hand of Midas to boost your farm and fighting capabilities. Can be upgraded further later on to get true sight."
+			"item_power_treads"		"If you can't afford early midas and desperately need to fight somehow"
+			"item_necronomicon"		"~10 min
+Good pickup before or right after Hand of Midas to boost your farming capabilities. It's good when you ca afford farming for a little bit more or don't really know do you want to go for Midas or not. Big advantage is having additional mana regen and HP, as well as better jungling capabilities.
+
+Can be upgraded further later on to get true sight."
+			"item_nullifier"		"Good when paired with Bloodthorn"
+			"item_diffusal_blade"		"Works great in combination with Manta. Essentially provides cheap damage and additional crowd control"
 		}
 	}
 	"AbilityBuild"

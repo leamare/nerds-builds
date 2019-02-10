@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C50C632"
-	"TimePublished"		"0x000000005C50C632"
+	"TimeUpdated"		"0x000000005C55EBF4"
+	"TimePublished"		"0x000000005C55EBF4"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 				"item"		"item_helm_of_iron_will"
@@ -37,14 +37,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_veil_of_discord"
 				"item"		"item_cyclone"
+				"item"		"item_veil_of_discord"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_null_talisman"
-				"item"		"item_soul_ring"
 				"item"		"item_bottle"
 				"item"		"item_force_staff"
 				"item"		"item_kaya_and_sange"
@@ -84,7 +84,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_power_treads"		"With our basic attack time every point of attack speed works super well for us, as well as extra tankiness. In some cases it may work."
+			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring "
 			"item_veil_of_discord"		"Lane-dominating item. If you can afford staying on lane, you can rush helm of iron will and then complete discord, so you will have enough stats and HP regen, as well as damage."
 		}
 	}
