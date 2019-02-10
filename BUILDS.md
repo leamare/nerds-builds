@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.20b
+## Patch: 7.21
 
 ---
 
@@ -17,6 +17,7 @@ Dark Willow | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/fi
 Dark Willow | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1190695676) | [builds/dark_willow_1509628818.build](builds/dark_willow_1509628818.build)
 Dark Willow | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1396923037) |  [builds/dark_willow_1518900620.build](builds/dark_willow_1518900620.build)
 Dazzle | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1572131797) | [builds/dazzle_1542820864.build](builds/dazzle_1542820864.build)
+Doom | Offlane | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1650678243) | [builds/doom_bringer_1513111352.build](builds/doom_bringer_1513111352.build)
 Drow Ranger | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1584779697) | [builds/drow_ranger_1543541907.build](builds/drow_ranger_1543541907.build)
 Enchantress | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [builds/enchantress_1517795534.build](builds/enchantress_1517795534.build)
 Enchantress | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [builds/enchantress_1517796324.build](builds/enchantress_1517796324.build)
@@ -47,7 +48,6 @@ Wraith King | Roaming Support | [Steam](https://steamcommunity.com/sharedfiles/f
 Hero | Role | File
 -- | -- | --
 Alchemist | Core | [builds/alchemist_1533216412.build](builds/alchemist_1533216412.build)
-Doom | Offlane | [builds/doom_bringer_1513111352.build](builds/doom_bringer_1513111352.build)
 Naga Siren | Support | [builds/naga_siren_1519913507.build](builds/naga_siren_1519913507.build)
 Necrophos | Core | [builds/necrolyte_1533217100.build](builds/necrolyte_1533217100.build)
 Riki | Core | [builds/riki_1524007744.build](builds/riki_1524007744.build)
