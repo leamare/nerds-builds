@@ -42,6 +42,10 @@ It's recommended to make a symlink for this directory in your repo folder, so al
 
 You can just checkout the repository, edit build file and make a pull request. If changes you made are useful, it will be merged into main branch. Another way is creating an issue in repository about change you'd like to make (for example "Treant (Roaming): commentaries" or "Enchantress (roaming): replace dragon lance with dagon"). There will be a discussion on that point and it will result in final decision and build changes.
 
+**All the changes or suggested builds should be first discussed through issues on GitHub or directly on [Spectral Alliance Discord channel](https://discord.gg/7zKeeV8)**. Since all of the builds were initially published in my Steam profile it would be more convinient to publish all of them here (while also giving credit to original author). Same goes to all changes of the builds that were already published.
+
+Publishing all the builds is kind of two-sided coin, but since the project is open to suggestions, it will ensure that it won't die when I'll burn up working on Nerds Hero Builds (I still will need to publish every change by myself, but it's not a big deal). **Please, consider that before submitting any changes.** And discuss them wherever you want if you have any suggestions.
+
 ## How are builds published?
 
 This repository is more like "send your suggestions" part. All the builds are published in my steam profile and new ones will be as well. There's no way to "share" editing rights between various users, so we can just deal with it.

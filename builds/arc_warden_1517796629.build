@@ -10,12 +10,12 @@ This strategy works well against ranged push strats, low mobility heroes. It als
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C69480F"
-	"TimePublished"		"0x000000005C69480F"
+	"TimeUpdated"		"0x000000005C69C7B3"
+	"TimePublished"		"0x000000005C69C7B3"
 	"ItemBuild"
 	{
 		"Items"
@@ -111,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_silver_edge"		"Break, -50% damage debuff, all of that can't be dispelled. It provides us invis and some pickoff ability, but think of it more like about utility item: it boosts our stats and damage a little bit, but also gives us ability to turn enemy core into useless hero for a while with this damage reduction"
 			"item_mjollnir"		"Natural upgrade to your maelstrom, increases damage output for a very good price"
 			"item_desolator"		"It's not really cheap for us and against heroes medallion will be better, but if we need something to get structures early and nobody gets deso, you can buy it."
-			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and endless diffusal charges on your tempest double."
+			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and twice effective slow (with your double)"
 			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn't have diffusal blade or other purge)"
 			"item_arcane_boots"		"Another one good pickup. Can be disassebled, can be used on double and original, pretty good choice. Tranquils are usually better because of health regen and armor, which is AW's problems early, but if your team has mana issues, you can pick up arcanes, even as second boot"
 			"item_ancient_janggo"		"Gives us a little bit of stats and solves our mana regen issues, so we can spam our spells. And not obly that: you can summon tempest double and use Drum while not spending any charges, basically having endless drums in every fight."
