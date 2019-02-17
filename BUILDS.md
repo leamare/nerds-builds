@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.21
+## Patch: 7.21b
 
 ---
 
@@ -11,6 +11,7 @@ Arc Warden | Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails
 Arc Warden | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=917504030) | [builds/arc_warden_1517797391.build](builds/arc_warden_1517797391.build)
 Bane | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1190692799) | [builds/bane_1509773602.build](builds/bane_1509773602.build)
 Beastmaster | Offlane | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1459274094) | [builds/beastmaster_1528952182.build](builds/beastmaster_1528952182.build)
+Bounty Hunter | Core (pos1/2/3) | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [builds\bounty_hunter_1549567475.build](builds\bounty_hunter_1549567475.build)
 Chen | Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1288577137) | [builds/chen_1515803189.build](builds/chen_1515803189.build)
 Dark Seer | Offlane | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1575855657) | [builds/dark_seer_1543137404.build](builds/dark_seer_1543137404.build)
 Dark Willow | Roaming Support | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1187400450) | [builds/dark_willow_1509497468.build](builds/dark_willow_1509497468.build)
@@ -51,6 +52,4 @@ Alchemist | Core | [builds/alchemist_1533216412.build](builds/alchemist_15332164
 Naga Siren | Support | [builds/naga_siren_1519913507.build](builds/naga_siren_1519913507.build)
 Necrophos | Core | [builds/necrolyte_1533217100.build](builds/necrolyte_1533217100.build)
 Riki | Core | [builds/riki_1524007744.build](builds/riki_1524007744.build)
-Sven | Support | [builds/sven_1534870569.build](builds/sven_1534870569.build)
 Techies | Support | [builds/techies_1525192697.build](builds/techies_1525192697.build)
-Shadow Demon | Core | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)
