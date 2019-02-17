@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21"
+	"GameplayVersion"		"7.21b"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C51FB3A"
-	"TimePublished"		"0x000000005C51FB3A"
+	"TimeUpdated"		"0x000000005C69459B"
+	"TimePublished"		"0x000000005C69459B"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,40 +23,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
-			"Starting items / Safelane"
-			{
-				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_blight_stone"
-			}
 			"Early"
 			{
 				"item"		"item_headdress"
-				"item"		"item_magic_wand"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_hand_of_midas"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_boots"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_vladmir"
+				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
+				"item"		"item_magic_wand"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_null_talisman"
-				"item"		"item_bracer"
-				"item"		"item_pipe"
-				"item"		"item_rod_of_atos"
-				"item"		"item_tranquil_boots"
 				"item"		"item_phase_boots"
-				"item"		"item_blade_mail"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
@@ -65,6 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_rod_of_atos"
 				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
 				"item"		"item_silver_edge"
@@ -72,18 +64,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_desolator"
 				"item"		"item_nullifier"
 				"item"		"item_hurricane_pike"
-				"item"		"item_kaya_and_sange"
 			}
 			"Utility"
 			{
-				"item"		"item_guardian_greaves"
 				"item"		"item_shivas_guard"
-				"item"		"item_moon_shard"
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
+				"item"		"item_moon_shard"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -109,6 +102,7 @@ In case somebody already made Vlads.
 Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
 			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
+			"item_headdress"		"Even tho we're not going to pick up HotD most of the time, it's still good to have early on for it's price. It can be used later to get Pipe or Greaves"
 		}
 	}
 	"AbilityBuild"
@@ -117,13 +111,13 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 		{
 			"1"		"visage_grave_chill"
 			"2"		"visage_gravekeepers_cloak"
-			"3"		"visage_grave_chill"
-			"4"		"visage_soul_assumption"
-			"5"		"visage_grave_chill"
+			"3"		"visage_gravekeepers_cloak"
+			"4"		"visage_grave_chill"
+			"5"		"visage_soul_assumption"
 			"6"		"visage_summon_familiars"
 			"7"		"visage_grave_chill"
 			"8"		"visage_gravekeepers_cloak"
-			"9"		"visage_gravekeepers_cloak"
+			"9"		"visage_grave_chill"
 			"10"		"special_bonus_cast_range_100"
 			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"
