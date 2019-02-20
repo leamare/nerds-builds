@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C69459B"
-	"TimePublished"		"0x000000005C69459B"
+	"TimeUpdated"		"0x000000005C6D42A7"
+	"TimePublished"		"0x000000005C6D42A7"
 	"ItemBuild"
 	{
 		"Items"
@@ -103,6 +103,7 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
 			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
 			"item_headdress"		"Even tho we're not going to pick up HotD most of the time, it's still good to have early on for it's price. It can be used later to get Pipe or Greaves"
+			"item_hand_of_midas"		"We need levels as fast as possible to get to this juicy level 12 powerspike. Until then there's not much point in getting something else since Cloak is enough for surviveability and Headdress is enough for sustain"
 		}
 	}
 	"AbilityBuild"
