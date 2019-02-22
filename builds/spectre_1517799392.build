@@ -9,22 +9,24 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C69D19F"
-	"TimePublished"		"0x000000005C69D19F"
+	"TimeUpdated"		"0x000000005C6EBE0E"
+	"TimePublished"		"0x000000005C6EBE0E"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_tango"
-				"item"		"item_tango"
 				"item"		"item_stout_shield"
-				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
@@ -32,9 +34,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_wraith_band"
 				"item"		"item_soul_ring"
-				"item"		"item_bracer"
+				"item"		"item_wraith_band"
 			}
 			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_manta"
+				"item"		"item_radiance"
+			}
+			"Core - No Radiance"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_diffusal_blade"
@@ -43,31 +51,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_ancient_janggo"
-				"item"		"item_urn_of_shadows"
-				"item"		"item_power_treads"
-				"item"		"item_radiance"
-				"item"		"item_vanguard"
 				"item"		"item_blade_mail"
+				"item"		"item_hand_of_midas"
+				"item"		"item_ancient_janggo"
+				"item"		"item_bracer"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_magic_wand"
+				"item"		"item_vanguard"
 				"item"		"item_hood_of_defiance"
 			}
 			"Lategame"
 			{
-				"item"		"item_sheepstick"
-				"item"		"item_heart"
 				"item"		"item_butterfly"
-				"item"		"item_travel_boots"
+				"item"		"item_heart"
 				"item"		"item_abyssal_blade"
+				"item"		"item_sheepstick"
 				"item"		"item_skadi"
+				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_refresher"
 			}
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_black_king_bar"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sphere"
 				"item"		"item_nullifier"
@@ -88,8 +96,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_flask"		"If the lane will be fine, maybe a little bit contested - get a salve for yourself"
 			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
 			"item_tango"		"If the lane will be tough - get more tangoes."
-			"item_phase_boots"		"Extra movement speed and damage makes it more agressive choice."
-			"item_hand_of_midas"		"NO."
+			"item_phase_boots"		"Extra movement speed and damage makes it more agressive choice"
+			"item_hand_of_midas"		"7.21 meta. Good pickup after Wraith Band if you had kind of OK-ish lane and can afford going for Midas. It's usually good to go straight for Radiance afterwards"
 			"item_urn_of_shadows"		"Even while it's usually the best item you can get for Spectre, in most games your position 4 will get it and your team will benedit more from having only one urn on him. If nobody gets urn - you can buy it to get more damage in fights on focused target."
 			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don't have it in your team and really need armor"
 			"item_heart"		"Heart is that point of becoming out-of-control. It replaces any of your cheap regen items, while also making you very hard to kill in fights (not only because of HP pool, but also because of ability to get out, regen ad re-engage)."
@@ -103,10 +111,10 @@ ALTERNATIVES: Hood of Defiance, HotD"
 			"item_radiance"		"~20-30
 The item we want to get almost every time. It accelerates our farm, deals shitload of damage in fights + miss chance. Even in losing scenarios it can be a game-changer item, so don't bother buying a late radiance. If you gone for Core MoM build, still get it, but maybe after BKB (its optional tho)"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
-			"item_manta"		"Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit."
+			"item_manta"		"Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit"
 			"item_silver_edge"		"Gives a lot of stats and attack speed, good versus heroes who rely on their passives or deal a lot of damage, but it doesn't really synergyse with our hero."
 			"item_skadi"		"Gives a lot of stats and slow passive (which should work on illusions too), so it's one of the best items to pick up actually"
-			"item_diffusal_blade"		"It's quite good as cheap damage source. Works well with manta, helps with mana pool and makes us stronger in general."
+			"item_diffusal_blade"		"It's quite good as cheap damage source. Works well with manta, helps with mana pool and makes us stronger in general"
 			"item_ethereal_blade"		"Jokes aside, this item is pretty good in terms of stats: more strength, more agility."
 			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don't really need it or just have more important slot to have. Altho, it's actually pretty good as 6-7th slot."
 			"item_stout_shield"		"You can get double stout shield against hard lanes with a lot of physical harass"
@@ -114,8 +122,9 @@ The item we want to get almost every time. It accelerates our farm, deals shitlo
 			"item_hood_of_defiance"		"Same as Vanguard, but a little bit cheaper and better against magic damage heavy lineups.
 
 ALTERNATIVES: Vanguard, HotD"
-			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP."
+			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_soul_ring"		"Good pickup if you're going to play hybrid nuker Spectre for early farming. Solves all mana issues and allowes to spam Spectral Dagger"
+			"item_ancient_janggo"		"Cheap stats, kinda works as cheap Yasha/Manta replacement early on"
 		}
 	}
 	"AbilityBuild"
