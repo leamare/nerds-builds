@@ -7,12 +7,12 @@
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C694701"
-	"TimePublished"		"0x000000005C694701"
+	"TimeUpdated"		"0x000000005C7273C2"
+	"TimePublished"		"0x000000005C7273C2"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,7 +26,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
-			"Starting Items / Middle"
+			"Starting Items (Middle)"
 			{
 				"item"		"item_crown"
 				"item"		"item_branches"
@@ -37,24 +37,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
-				"item"		"item_bracer"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_dragon_lance"
+				"item"		"item_ancient_janggo"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
+				"item"		"item_hand_of_midas"
 				"item"		"item_force_staff"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_cyclone"
-				"item"		"item_hand_of_midas"
 				"item"		"item_blade_mail"
 				"item"		"item_rod_of_atos"
 			}
@@ -77,17 +75,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_sphere"
 				"item"		"item_silver_edge"
 				"item"		"item_black_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_blink"
 				"item"		"item_skadi"
-				"item"		"item_nullifier"
 				"item"		"item_aeon_disk"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
