@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C6D4217"
-	"TimePublished"		"0x000000005C6D4217"
+	"TimeUpdated"		"0x000000005C730264"
+	"TimePublished"		"0x000000005C730264"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,11 +28,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Early_Game"
 			{
 				"item"		"item_boots"
-				"item"		"item_lifesteal"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
 				"item"		"item_blink"
 				"item"		"item_basher"
 			}
@@ -41,7 +41,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_quelling_blade"
 				"item"		"item_orb_of_venom"
-				"item"		"item_hand_of_midas"
+				"item"		"item_lifesteal"
 			}
 			"Lategame"
 			{
@@ -100,7 +100,7 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 			"item_manta"		"Additional mobility, works as offensive solution to silences"
 			"item_desolator"		"Additional damage boost, works well for killing structures"
 			"item_hand_of_midas"		"7.21 meta
-If you had an ok-ish lane then it's good"
+If you had an ok-ish lane then it's good. And it still benefits Ursa a lot and allowes him to scale well"
 		}
 	}
 	"AbilityBuild"
