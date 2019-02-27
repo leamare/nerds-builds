@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C6D2696"
-	"TimePublished"		"0x000000005C6D2696"
+	"TimeUpdated"		"0x000000005C727387"
+	"TimePublished"		"0x000000005C727387"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_slippers"
 				"item"		"item_slippers"
-				"item"		"item_slippers"
-				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Starting Items (Safelane)"
