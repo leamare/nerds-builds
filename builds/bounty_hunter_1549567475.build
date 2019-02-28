@@ -1,0 +1,136 @@
+"guidedata"
+{
+	"Hero"		"bounty_hunter"
+	"Title"		"Nerds Bounty Hunter (pos1-3)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.21b"
+	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
+
+Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"8"
+	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005C730308"
+	"TimePublished"		"0x000000005C730308"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ancient_janggo"
+				"item"		"item_sange_and_yasha"
+			}
+			"Situational Early"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_vanguard"
+				"item"		"item_vladmir"
+				"item"		"item_bottle"
+			}
+			"Lategame"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_butterfly"
+				"item"		"item_satanic"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Utility"
+			{
+				"item"		"item_crimson_guard"
+				"item"		"item_heavens_halberd"
+				"item"		"item_sheepstick"
+				"item"		"item_assault"
+			}
+			"Situational"
+			{
+				"item"		"item_manta"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_desolator"
+				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_abyssal_blade"
+				"item"		"item_skadi"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"To secure early lasthits against stronger laners"
+			"item_ancient_janggo"		"Flat movement speed increase and mana sustain to start snowballing early on"
+			"item_sange_and_yasha"		"Another snowballing item and another flat movement speed bonus. It makes you strong at both defense and offense"
+			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won't be able to catch up to you"
+			"item_vladmir"		"Early damage/armor boost. Usually good when you're position 3 and you want to start pushing agressively with your team"
+			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it's active component drastically increases your damage output
+
+You can also use it on friendly catapult or another core on your team to push faster"
+			"item_butterfly"		"Great lategame addition in terms of damage/defense. A lot of evasion, a lot of attack speed, a lot of attack damage - great for everything!"
+			"item_monkey_king_bar"		"Nice addition if you need even more damage or playing against miss chance heroes "
+			"item_desolator"		"Nice agressive addition to amplify your damage output"
+			"item_satanic"		"Good pickup to increase tankiness, it also stacks with SnY making you hard to lock with disables"
+			"item_crimson_guard"		"Good tankiness and utility item overall, good solution against physical damage"
+			"item_vanguard"		"Good early tankiness solution. Can be upgraded into Crimson Guard (utility way) which is pretty good item for your team overall"
+			"item_heavens_halberd"		"Good tankiness solution, works well against high damage enemy cores"
+			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH's damage output it won't be a problem anyway"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bounty_hunter_jinada"
+			"2"		"bounty_hunter_wind_walk"
+			"3"		"bounty_hunter_jinada"
+			"4"		"bounty_hunter_shuriken_toss"
+			"5"		"bounty_hunter_jinada"
+			"6"		"bounty_hunter_track"
+			"7"		"bounty_hunter_jinada"
+			"8"		"bounty_hunter_wind_walk"
+			"9"		"bounty_hunter_shuriken_toss"
+			"10"		"special_bonus_exp_boost_25"
+			"11"		"bounty_hunter_shuriken_toss"
+			"12"		"bounty_hunter_track"
+			"13"		"bounty_hunter_shuriken_toss"
+			"14"		"bounty_hunter_wind_walk"
+			"15"		"special_bonus_attack_speed_50"
+			"16"		"bounty_hunter_wind_walk"
+			"18"		"bounty_hunter_track"
+			"20"		"special_bonus_unique_bounty_hunter"
+			"25"		"special_bonus_evasion_50"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_exp_boost_25"		"Works great with all this snowballing theme"
+			"special_bonus_movement_speed_20"		"If you snowball even more than needed (have more exp than anybody early on) you can skip +exp talent and get even more movement speed"
+			"special_bonus_attack_speed_50"		"This much attack speed is no joke, it's just a very good deal even comparing to its alternative"
+			"special_bonus_unique_bounty_hunter"		"Since you're going to play around Jinada, it's always good to make it even stronger"
+			"special_bonus_evasion_50"		"You may think that evasion is unreliable but the thing is the more evasion you have the more reliable it becomes, especially if you're snowballing. WIth this talent and butterfly it will be almost impossible to kill you with regular attacks (and much harder even with MKB)"
+		}
+	}
+}
