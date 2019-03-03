@@ -3,18 +3,18 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.21b"
+	"GameplayVersion"		"7.21c"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C694169"
-	"TimePublished"		"0x000000005C694169"
+	"TimeUpdated"		"0x000000005C7BADEE"
+	"TimePublished"		"0x000000005C7BADEE"
 	"ItemBuild"
 	{
 		"Items"
@@ -89,6 +89,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -99,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_maelstrom"		"Additional increase in our farming capabilities, as well as boosting our teamfight damage. You  can get it before pike if you're sure you won't need stats and positioning"
 			"item_mjollnir"		"Relatively cheap upgrade with huge damage boost (from attack speed and active ability)"
 			"item_soul_ring"		"You can get it instead of one of null talismans as your mana sustain, but considering Offlane Wyvern being all about winning the lane and getting all-in on damage output, you will sell it pretty soon"
-			"item_hand_of_midas"		"If you're still successfully winning your lane, but not sure about being able to finish in first 25-35 minutes, you can get Midas after Force Staff, so you'll be able to keep up later on. Altho, you already farm pretty quickly with Mjolnir and you don't want to spend 2k gold on an item that doesn't help you in fights."
+			"item_hand_of_midas"		"If you're still successfully winning your lane, but not sure about being able to finish in first 5-10 minutes, you can get Midas after Force Staff, so you'll be able to keep up later on. Altho, you already farm pretty quickly with Mjolnir and you don't want to spend 2k gold on an item that doesn't help you in fights."
 			"item_blink"		"Agressive positioning solution, helps with better positioning for your ults (and future Hex)"
 			"item_cyclone"		"Cheap mobility and mana regen. Can be good in case if you're playing against Kunkka or some sort of silences"
 			"item_bloodthorn"		"Huge mana regen and damage boost. Active ability has pretty good synergy with Winter's Curse (you just need to use it on the ult's target at a proper time to maximize damage output), but the main reason to pick it up is great passive stats that give us everything our hero needs"

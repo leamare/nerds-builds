@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"bounty_hunter"
-	"Title"		"Nerds Bounty Hunter (pos1-3)"
-	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21b"
+	"Title"		"Nerds Bounty Hunter"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.21c"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C730308"
-	"TimePublished"		"0x000000005C730308"
+	"TimeUpdated"		"0x000000005C7BB4D4"
+	"TimePublished"		"0x000000005C7BB4D4"
 	"ItemBuild"
 	{
 		"Items"

@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21b"
+	"GameplayVersion"		"7.21c"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C6946D2"
-	"TimePublished"		"0x000000005C6946D2"
+	"TimeUpdated"		"0x000000005C7BB0CB"
+	"TimePublished"		"0x000000005C7BB0CB"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,10 +50,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_sheepstick"
+				"item"		"item_shivas_guard"
 				"item"		"item_mjollnir"
 				"item"		"item_bloodthorn"
 				"item"		"item_octarine_core"
-				"item"		"item_shivas_guard"
 				"item"		"item_sphere"
 				"item"		"item_moon_shard"
 			}
@@ -75,6 +75,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"

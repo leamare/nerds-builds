@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.21b"
+	"GameplayVersion"		"7.21c"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C69418A"
-	"TimePublished"		"0x000000005C69418A"
+	"TimeUpdated"		"0x000000005C7BAE0B"
+	"TimePublished"		"0x000000005C7BAE0B"
 	"ItemBuild"
 	{
 		"Items"
@@ -105,7 +105,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"weaver_time_lapse"
 			"13"		"weaver_the_swarm"
 			"14"		"weaver_the_swarm"
-			"15"		"special_bonus_mana_break_20"
+			"15"		"special_bonus_strength_14"
 			"16"		"weaver_the_swarm"
 			"18"		"weaver_time_lapse"
 			"20"		"special_bonus_unique_weaver_4"
@@ -117,7 +117,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
 			"weaver_geminate_attack"		"If you don't need shikuchi early, you can skill this one first. It's pretty good for harassing enemy early."
 			"weaver_time_lapse"		"Don't be afraid to use it. There's no shame to use it when you think you need to. If there's a signs of emergency - hit it to disengage and run out."
-			"special_bonus_mana_break_20"		"Great for snowballing or mana requiring heroes (like Wraith King)"
 		}
 	}
 }
