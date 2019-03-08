@@ -1,0 +1,123 @@
+"guidedata"
+{
+	"Hero"		"mars"
+	"Title"		"Nerds Mars (early version)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.21c"
+	"Overview"		"Mars is a tanky strength hero.
+
+This is an early version of the build. To be updated later.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"9"
+	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005C8112CE"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_flask"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_boots"
+				"item"		"item_quelling_blade"
+				"item"		"item_soul_ring"
+				"item"		"item_blight_stone"
+			}
+			"Core - Carry"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_bfury"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_invis_sword"
+			}
+			"Core - Offlane"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_vladmir"
+				"item"		"item_sange_and_yasha"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bracer"
+				"item"		"item_ancient_janggo"
+				"item"		"item_desolator"
+				"item"		"item_echo_sabre"
+				"item"		"item_blade_mail"
+				"item"		"item_maelstrom"
+				"item"		"item_blink"
+			}
+			"Utility"
+			{
+				"item"		"item_vladmir"
+				"item"		"item_crimson_guard"
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+			}
+			"Lategame"
+			{
+				"item"		"item_silver_edge"
+				"item"		"item_assault"
+				"item"		"item_satanic"
+				"item"		"item_abyssal_blade"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_heart"
+				"item"		"item_mjollnir"
+				"item"		"item_armlet"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"mars_spear"
+			"2"		"mars_bulwark"
+			"3"		"mars_spear"
+			"4"		"mars_gods_rebuke"
+			"5"		"mars_spear"
+			"6"		"mars_arena_of_blood"
+			"7"		"mars_spear"
+			"8"		"mars_gods_rebuke"
+			"9"		"mars_bulwark"
+			"10"		"special_bonus_strength_8"
+			"11"		"mars_gods_rebuke"
+			"12"		"mars_arena_of_blood"
+			"13"		"mars_gods_rebuke"
+			"14"		"mars_bulwark"
+			"15"		"special_bonus_attack_damage_35"
+			"16"		"mars_bulwark"
+			"18"		"mars_arena_of_blood"
+			"20"		"special_bonus_unique_mars_spear_stun_duration"
+			"25"		"special_bonus_unique_mars_arena_of_blood_hp_regen"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

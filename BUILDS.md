@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.21b
+## Patch: 7.21c
 
 ---
 
@@ -27,6 +27,8 @@ Huskar | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=12
 Leshrac | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1401022207) | [builds/leshrac_1525173582.build](builds/leshrac_1525173582.build)
 Lifestealer | Core | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1318136390) | [builds/life_stealer_1520015205.build](builds/life_stealer_1520015205.build)
 Lion | Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1352342730) | [builds/lion_1522866367.build](builds/lion_1522866367.build)
+Mars | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [builds/mars_1551812621.build](builds/mars_1551812621.build)
+Mars | Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [builds/mars_1551813312.build](builds/mars_1551813312.build)
 Morphling | Support/Offlane | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [builds/morphling_1517800581.build](builds/morphling_1517800581.build)
 Rubick | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609326506) | [builds/rubick_1544208773.build](builds/rubick_1544208773.build)
 Shadow Demon | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609337231) | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)
