@@ -9,12 +9,12 @@ Main issue that comes with his main strength is that Ravage Tide is useless when
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://twitch.tv/XaKoH"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BAEF1"
-	"TimePublished"		"0x000000005C7BAEF1"
+	"TimeUpdated"		"0x000000005C7E5D23"
+	"TimePublished"		"0x000000005C7E5D23"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,10 +38,9 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
-				"item"		"item_bracer"
 				"item"		"item_soul_ring"
 				"item"		"item_boots"
+				"item"		"item_vladmir"
 			}
 			"Core"
 			{
@@ -52,7 +51,7 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			}
 			"Situational Early"
 			{
-				"item"		"item_vladmir"
+				"item"		"item_bracer"
 				"item"		"item_bottle"
 				"item"		"item_magic_wand"
 				"item"		"item_invis_sword"
