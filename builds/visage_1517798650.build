@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BAE1A"
-	"TimePublished"		"0x000000005C7BAE1A"
+	"TimeUpdated"		"0x000000005C88BE37"
+	"TimePublished"		"0x000000005C88BE37"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,29 +25,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_headdress"
-				"item"		"item_hand_of_midas"
-				"item"		"item_boots"
+				"item"		"item_vladmir"
+				"item"		"item_blight_stone"
+				"item"		"item_wind_lace"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_boots"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_vladmir"
-				"item"		"item_ancient_janggo"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_null_talisman"
 				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_headdress"
+				"item"		"item_ancient_janggo"
+				"item"		"item_pipe"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_guardian_greaves"
-				"item"		"item_pipe"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
@@ -87,7 +89,7 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
 			"item_bloodthorn"		"Perfect offensive item: crit, silence, attackspeed. a lot of damage."
 			"item_hurricane_pike"		"Another defensive choice. Good stats, attack range, mobility. Altho, most of the time you won't need it."
-			"item_ultimate_scepter"		"With new lvl 25 talent it's not as required as it used to be, but it still very good item for both offensive (additional familliar as damage) and defensive (additional stun and stats) purposes."
+			"item_ultimate_scepter"		"With new lvl 25 talent it's not as required as it used to be, but it still very good item for both offensive (additional familliar as damage) and defensive (additional stun and stats) purposes"
 			"item_assault"		"Our general tool (after medallion-aghs) to amplify tankiness, tower damage, help our team with aura and just kill things faster."
 			"item_shivas_guard"		"If you arenot going to pick up AC, it's probably another choice for you. Altho, while we want to get AC tight after aghs, shiva's will be our very last slot to get."
 			"item_lotus_orb"		"And another one glimmer cape alternative, but this one is more like team-oriented and used only for it's purging part."
@@ -103,7 +105,8 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
 			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
 			"item_headdress"		"Even tho we're not going to pick up HotD most of the time, it's still good to have early on for it's price. It can be used later to get Pipe or Greaves"
-			"item_hand_of_midas"		"We need levels as fast as possible to get to this juicy level 12 powerspike. Until then there's not much point in getting something else since Cloak is enough for surviveability and Headdress is enough for sustain"
+			"item_hand_of_midas"		"We need levels as fast as possible to get to this juicy level 12 powerspike. Until then there's not much point in getting something else since Cloak is enough for surviveability and Headdress is enough for sustain. Works well if the game will be delayed anyway and you had a decent lane"
+			"item_guardian_greaves"		"Powerful aura and a lot of sustain. Usually you tend to not upgrade your boots as Visage for a long time, and Greaves work well with all this \"early pressure\" playstyle"
 		}
 	}
 	"AbilityBuild"
