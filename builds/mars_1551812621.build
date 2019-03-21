@@ -6,15 +6,15 @@
 	"GameplayVersion"		"7.21c"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He also has two spammable spells that in combination with his great stats turn him into a great laner and farmer. The only thing he lacks in terms of that is mana sustain and the only thing he's missing overall is some kind of defense from magic. He is almost impossible to damage with attack damage early on, while also having great pickoff capabilities, burst damage and teamfight potential.
 
-There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. The first and the main major item you'll buy is Rod of Atos. It will help you catch up to people, setup your Spear and give you great stats - a lot of mana from int and a lot of damage and HP from strength. After that point all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
+There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"12"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C870278"
-	"TimePublished"		"0x000000005C870278"
+	"TimeUpdated"		"0x000000005C8DA327"
+	"TimePublished"		"0x000000005C8DA327"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,50 +37,49 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early Game"
 			{
-				"item"		"item_bottle"
 				"item"		"item_quelling_blade"
+				"item"		"item_soul_ring"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_rod_of_atos"
-				"item"		"item_black_king_bar"
+				"item"		"item_vladmir"
+				"item"		"item_blink"
+				"item"		"item_desolator"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_bracer"
-				"item"		"item_solar_crest"
-				"item"		"item_vladmir"
-				"item"		"item_invis_sword"
+				"item"		"item_bottle"
+				"item"		"item_rod_of_atos"
 				"item"		"item_ancient_janggo"
 				"item"		"item_blade_mail"
-				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_invis_sword"
 			}
 			"Utility"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
-				"item"		"item_guardian_greaves"
 			}
 			"Lategame"
 			{
 				"item"		"item_assault"
 				"item"		"item_satanic"
 				"item"		"item_silver_edge"
-				"item"		"item_desolator"
 				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_heart"
 			}
 			"Situational"
 			{
 				"item"		"item_bfury"
-				"item"		"item_heart"
 				"item"		"item_radiance"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_guardian_greaves"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -96,12 +95,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_rod_of_atos"		"Cheap long range setup and awesome stats. Consider it being a kind of Sange and Yasha with a lot of mana and almost always reliable disable to setup your Spear"
 			"item_black_king_bar"		"Usually BKB is a situational item, but Mars is weak against magic and he gets a lot of value from BKB anyway, so it may be a great item to pickup"
 			"item_soul_ring"		"Another way to sustain your mana"
-			"item_bracer"		"Early stats"
 			"item_solar_crest"		"Somewhat utility item, may be good on both your enemy (in combinaton with God's Rebuke) and your ally (attack speed bonus)"
 			"item_vladmir"		"Great item for a tanky utility core, works great if your team don't have it"
 			"item_invis_sword"		"Instant initiation with Arena of Blood"
 			"item_ancient_janggo"		"Cheap early stats, mana sustain"
-			"item_blink"		"Another good initiation item"
+			"item_blink"		"Good initiation item for initiation and running people down"
 			"item_radiance"		"Good farming item if you have a lot of early money.  You are hard to take down so damage from Radiance (especially in arena) will add up"
 			"item_bfury"		"Another way to farm, works mostly because of God's Rebuke. Buy it only if you need to accelerate your farm and you're your team's only core"
 			"item_assault"		"As a strength core hero Mars loves attack speed and armor, both are provided by AC"

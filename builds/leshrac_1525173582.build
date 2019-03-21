@@ -9,12 +9,12 @@
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BB09B"
-	"TimePublished"		"0x000000005C7BB09B"
+	"TimeUpdated"		"0x000000005C91DBDC"
+	"TimePublished"		"0x000000005C91DBDC"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,35 +32,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
-				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_bloodstone"
+				"item"		"item_rod_of_atos"
 				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_null_talisman"
 				"item"		"item_force_staff"
+				"item"		"item_soul_ring"
 			}
 			"Lategame"
 			{
-				"item"		"item_aeon_disk"
+				"item"		"item_bloodstone"
 				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
 				"item"		"item_ghost"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_heart"
-				"item"		"item_sheepstick"
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
 				"item"		"item_blink"
@@ -124,7 +124,7 @@ Alternative to Blink Dagger"
 			"7"		"leshrac_lightning_storm"
 			"8"		"leshrac_diabolic_edict"
 			"9"		"leshrac_diabolic_edict"
-			"10"		"special_bonus_mp_250"
+			"10"		"special_bonus_armor_5"
 			"11"		"leshrac_diabolic_edict"
 			"12"		"leshrac_diabolic_edict"
 			"13"		"leshrac_split_earth"
@@ -142,7 +142,6 @@ Alternative to Blink Dagger"
 			"leshrac_diabolic_edict"		"Your main push potential. This skill essentially turns you into proper carry who  can end the game by himself, as well as pickoff potential.
 Natural combo: Storm - Eul - Split Earth - Edict and chase enemy down until he's dead"
 			"leshrac_pulse_nova"		"Strong farming and teamfight spell, but it's too expensive until the point when you get bloodstone."
-			"special_bonus_mp_250"		"Even while armor is valuable for Leshrac, you need more mana to be able to deal more damage. Alternative just isn't that good."
 			"special_bonus_strength_15"		"More HP means you can deal damage longer, which can make a difference. "
 			"special_bonus_unique_leshrac_3"		"Even while you'd like to double down on surviveability, Pulse Nova damage talent significantly improves your damage output for the same manacost."
 			"special_bonus_unique_leshrac_1"		"More than two times longer edict which means more than two times more damage. More edict damage means better push, which is exactly what we want."

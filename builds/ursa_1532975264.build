@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BAE7C"
-	"TimePublished"		"0x000000005C7BAE7C"
+	"TimeUpdated"		"0x000000005C91D56A"
+	"TimePublished"		"0x000000005C91D56A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,30 +22,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_flask"
 				"item"		"item_tango"
+				"item"		"item_tango"
 				"item"		"item_stout_shield"
-				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
-				"item"		"item_boots"
+				"item"		"item_phase_boots"
+				"item"		"item_quelling_blade"
+				"item"		"item_magic_wand"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_blink"
-				"item"		"item_lifesteal"
+				"item"		"item_ancient_janggo"
 				"item"		"item_basher"
+				"item"		"item_blink"
 			}
 			"SItuational Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_quelling_blade"
+				"item"		"item_lifesteal"
 				"item"		"item_orb_of_venom"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
 				"item"		"item_abyssal_blade"
-				"item"		"item_desolator"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
@@ -74,8 +76,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_blink"		"~10-15 min
-One of most important items for Ursa. With it you can close the gap instantly and start attacking a target. In most scenarios after you use Overpower and Blink to enemy hero, he will not be able to get away. "
+			"item_blink"		"One of most important items for Ursa. With it you can close the gap instantly and start attacking a target. In most scenarios after you use Overpower and Blink to enemy hero, he will not be able to get away. "
 			"item_basher"		"~18-23 min
 WIth maximum attack speed from Overpower you will get almost guaranteed bash on one of your attacks. WIth it you can manfight and kill almost every hero in 1v1 fights early on. Use this advantage to get a pickoff and then force a fight/get an objective with your team."
 			"item_phase_boots"		"~3-6 min
