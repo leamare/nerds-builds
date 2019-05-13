@@ -3,19 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.21c"
+	"GameplayVersion"		"7.21d"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
-Discuss this build ans suggest your own changes at Spectral Alliance discord channel: http://spectralalliance.ru/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BB03B"
-	"TimePublished"		"0x000000005C7BB03B"
+	"TimeUpdated"		"0x000000005CD864D7"
+	"TimePublished"		"0x000000005CD864D7"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,17 +32,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_blink"
+				"item"		"item_aether_lens"
+				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
-				"item"		"item_aether_lens"
+				"item"		"item_blink"
 				"item"		"item_ghost"
 				"item"		"item_phase_boots"
+				"item"		"item_force_staff"
 			}
 			"Utility"
 			{
@@ -51,8 +53,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_lotus_orb"
-				"item"		"item_force_staff"
-				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
@@ -105,11 +105,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"6"		"lion_finger_of_death"
 			"7"		"lion_impale"
 			"8"		"lion_mana_drain"
-			"9"		"lion_mana_drain"
+			"9"		"lion_voodoo"
 			"10"		"special_bonus_attack_damage_90"
 			"11"		"lion_mana_drain"
 			"12"		"lion_finger_of_death"
-			"13"		"lion_voodoo"
+			"13"		"lion_mana_drain"
 			"14"		"lion_voodoo"
 			"15"		"special_bonus_gold_income_25"
 			"16"		"lion_voodoo"

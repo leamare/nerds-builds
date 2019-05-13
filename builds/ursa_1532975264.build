@@ -3,17 +3,17 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21c"
+	"GameplayVersion"		"7.21d"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C91D56A"
-	"TimePublished"		"0x000000005C91D56A"
+	"TimeUpdated"		"0x000000005C9A00F6"
+	"TimePublished"		"0x000000005C9A00F6"
 	"ItemBuild"
 	{
 		"Items"

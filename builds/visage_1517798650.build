@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21c"
+	"GameplayVersion"		"7.21d"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C88BE37"
-	"TimePublished"		"0x000000005C88BE37"
+	"TimeUpdated"		"0x000000005CD85EF7"
+	"TimePublished"		"0x000000005CD85EF7"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,15 +25,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_vladmir"
 				"item"		"item_blight_stone"
-				"item"		"item_wind_lace"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_boots"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_vladmir"
+				"item"		"item_ancient_janggo"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 			}
@@ -41,10 +41,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_null_talisman"
-				"item"		"item_phase_boots"
 				"item"		"item_hand_of_midas"
+				"item"		"item_phase_boots"
 				"item"		"item_headdress"
-				"item"		"item_ancient_janggo"
 				"item"		"item_pipe"
 			}
 			"Lategame"
@@ -115,13 +114,13 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 		{
 			"1"		"visage_grave_chill"
 			"2"		"visage_gravekeepers_cloak"
-			"3"		"visage_gravekeepers_cloak"
-			"4"		"visage_grave_chill"
-			"5"		"visage_soul_assumption"
+			"3"		"visage_grave_chill"
+			"4"		"visage_soul_assumption"
+			"5"		"visage_grave_chill"
 			"6"		"visage_summon_familiars"
-			"7"		"visage_grave_chill"
-			"8"		"visage_gravekeepers_cloak"
-			"9"		"visage_grave_chill"
+			"7"		"visage_gravekeepers_cloak"
+			"8"		"visage_grave_chill"
+			"9"		"visage_gravekeepers_cloak"
 			"10"		"special_bonus_cast_range_100"
 			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"

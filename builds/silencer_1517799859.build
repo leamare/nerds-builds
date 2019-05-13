@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.21c"
+	"GameplayVersion"		"7.21d"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BAF50"
-	"TimePublished"		"0x000000005C7BAF50"
+	"TimeUpdated"		"0x000000005C9A0302"
+	"TimePublished"		"0x000000005C9A0302"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,28 +21,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_courier"
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
 				"item"		"item_ward_observer"
 				"item"		"item_clarity"
 				"item"		"item_clarity"
 			}
 			"Early"
 			{
-				"item"		"item_tranquil_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_bracer"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
-				"item"		"item_force_staff"
 			}
 			"Core"
 			{
-				"item"		"item_ancient_janggo"
+				"item"		"item_tranquil_boots"
+				"item"		"item_force_staff"
 				"item"		"item_glimmer_cape"
-				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ghost"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_cyclone"
+				"item"		"item_ancient_janggo"
 				"item"		"item_hand_of_midas"
 			}
 			"Utility"
@@ -54,6 +54,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
 				"item"		"item_shivas_guard"
@@ -63,7 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_refresher"
 				"item"		"item_assault"
 			}
-			"Situational Late"
+			"Situational"
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_necronomicon_3"

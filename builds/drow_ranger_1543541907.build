@@ -3,18 +3,18 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21c"
+	"GameplayVersion"		"7.21d"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 Based on OG.Topson's ranked and professional matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C7BB111"
-	"TimePublished"		"0x000000005C7BB111"
+	"TimeUpdated"		"0x000000005CD4893F"
+	"TimePublished"		"0x000000005CD4893F"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,35 +33,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_slippers"
+				"item"		"item_slippers"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
 			}
 			"Early Game"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
-				"item"		"item_wraith_band"
-				"item"		"item_boots"
+				"item"		"item_power_treads"
 			}
 			"Core Items"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_blink"
+				"item"		"item_dragon_lance"
+				"item"		"item_yasha"
 				"item"		"item_manta"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
+				"item"		"item_wind_lace"
+				"item"		"item_blink"
 				"item"		"item_diffusal_blade"
-				"item"		"item_mask_of_madness"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_silver_edge"
 				"item"		"item_butterfly"
 				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -73,6 +73,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_mjollnir"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_mask_of_madness"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -88,7 +90,7 @@ If you want to go all-in for farming and can get it relatively early, it may be 
 			"item_power_treads"		"~10 min
 Even while Drow wants attack speed more than damage, getting additional agility for such a cheap price is way too valuable for her"
 			"item_wraith_band"		"Stack as much of Wraith Bands as you possibly can, saving a slot for boots and blink. This will allow you to keep on moving during early game"
-			"item_blink"		"Main mobility and farming tool"
+			"item_blink"		"Main mobility and farming tool. Get it if you're going to play agressively around pickoffs"
 			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more"
 			"item_hurricane_pike"		"Both mobility and surviveability item, that will also help with keeping distance"
 			"item_diffusal_blade"		"Cheap agility and ability to control your enemy. It's usually too cheap to purchase considering Drow's farming speed, but it may be helpful"
@@ -105,17 +107,17 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 	{
 		"AbilityOrder"
 		{
-			"1"		"drow_ranger_trueshot"
-			"2"		"drow_ranger_frost_arrows"
-			"3"		"drow_ranger_trueshot"
-			"4"		"drow_ranger_frost_arrows"
-			"5"		"drow_ranger_wave_of_silence"
+			"1"		"drow_ranger_frost_arrows"
+			"2"		"drow_ranger_trueshot"
+			"3"		"drow_ranger_frost_arrows"
+			"4"		"drow_ranger_wave_of_silence"
+			"5"		"drow_ranger_frost_arrows"
 			"6"		"drow_ranger_marksmanship"
 			"7"		"drow_ranger_trueshot"
-			"8"		"drow_ranger_trueshot"
-			"9"		"drow_ranger_frost_arrows"
+			"8"		"drow_ranger_frost_arrows"
+			"9"		"drow_ranger_trueshot"
 			"10"		"special_bonus_movement_speed_20"
-			"11"		"drow_ranger_frost_arrows"
+			"11"		"drow_ranger_trueshot"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"
