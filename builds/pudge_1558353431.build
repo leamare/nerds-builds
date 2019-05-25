@@ -1,0 +1,97 @@
+"guidedata"
+{
+	"Hero"		"pudge"
+	"Title"		"Nerds Mid Pudge (based MATUMBAMAN)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22"
+	"Overview"		""
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005CE8DBA8"
+	"TimePublished"		"0x000000005CE8DBA8"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_buckler"
+				"item"		"item_magic_wand"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_rod_of_atos"
+				"item"		"item_crimson_guard"
+			}
+			"Situational Early"
+			{
+				"item"		"item_ring_of_protection"
+				"item"		"item_vanguard"
+				"item"		"item_force_staff"
+				"item"		"item_blink"
+				"item"		"item_pipe"
+				"item"		"item_soul_ring"
+			}
+			"Lategame"
+			{
+				"item"		"item_radiance"
+				"item"		"item_shivas_guard"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_assault"
+				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
+				"item"		"item_abyssal_blade"
+				"item"		"item_mjollnir"
+				"item"		"item_heavens_halberd"
+				"item"		"item_ethereal_blade"
+				"item"		"item_heart"
+				"item"		"item_lotus_orb"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"pudge_rot"
+			"2"		"pudge_flesh_heap"
+			"3"		"pudge_rot"
+			"4"		"pudge_meat_hook"
+			"5"		"pudge_rot"
+			"6"		"pudge_dismember"
+			"7"		"pudge_rot"
+			"8"		"pudge_flesh_heap"
+			"9"		"pudge_flesh_heap"
+			"10"		"pudge_flesh_heap"
+			"11"		"special_bonus_unique_pudge_2"
+			"12"		"pudge_dismember"
+			"13"		"pudge_meat_hook"
+			"14"		"pudge_meat_hook"
+			"15"		"special_bonus_spell_lifesteal_13"
+			"16"		"pudge_meat_hook"
+			"18"		"pudge_dismember"
+			"20"		"special_bonus_gold_income_30"
+			"25"		"special_bonus_unique_pudge_1"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

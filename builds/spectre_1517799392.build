@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21d"
+	"GameplayVersion"		"7.22"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"80"
+	"GuideRevision"		"81"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CD85F25"
-	"TimePublished"		"0x000000005CD85F25"
+	"TimeUpdated"		"0x000000005CE8DC55"
+	"TimePublished"		"0x000000005CE8DC55"
 	"ItemBuild"
 	{
 		"Items"
@@ -65,14 +65,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_abyssal_blade"
 				"item"		"item_sheepstick"
-				"item"		"item_skadi"
 				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
 				"item"		"item_refresher"
 			}
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
+				"item"		"item_skadi"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_ethereal_blade"

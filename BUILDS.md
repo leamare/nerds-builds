@@ -1,6 +1,8 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.21c
+## Patch: 7.22
+
+### Total builds published: 44 (out of ~210)
 
 ---
 
@@ -32,6 +34,7 @@ Lion | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/
 Mars | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [builds/mars_1551812621.build](builds/mars_1551812621.build)
 Mars | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [builds/mars_1551813312.build](builds/mars_1551813312.build)
 Morphling | Support/Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [builds/morphling_1517800581.build](builds/morphling_1517800581.build)
+Pudge | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1750985856) | [builds/pudge_1558353431.build](builds/pudge_1558353431.build)
 Rubick | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609326506) | [builds/rubick_1544208773.build](builds/rubick_1544208773.build)
 Shadow Demon | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609337231) | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)
 Silencer | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917140515) | [builds/silencer_1517799768.build](builds/silencer_1517799768.build)
@@ -49,13 +52,3 @@ Visage | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?i
 Weaver | Support/Offlane | ~ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [builds/weaver_1517797555.build](builds/weaver_1517797555.build)
 Winter Wyvern | Offlane | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [builds/winter_wyvern_1510588707.build](builds/winter_wyvern_1510588707.build)
 Wraith King | Roaming Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1319304803) | [builds/skeleton_king_1519942536.build](builds/skeleton_king_1519942536.build)
-
-## Not published (yet?)
-
-Hero | Role | File
--- | -- | --
-Alchemist | Core | [builds/alchemist_1533216412.build](builds/alchemist_1533216412.build)
-Naga Siren | Support | [builds/naga_siren_1519913507.build](builds/naga_siren_1519913507.build)
-Necrophos | Core | [builds/necrolyte_1533217100.build](builds/necrolyte_1533217100.build)
-Riki | Core | [builds/riki_1524007744.build](builds/riki_1524007744.build)
-Techies | Support | [builds/techies_1525192697.build](builds/techies_1525192697.build)

@@ -1,0 +1,99 @@
+"guidedata"
+{
+	"Hero"		"lion"
+	"Title"		"Nerds Core Lion"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"8"
+	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005CE8DA64"
+	"TimePublished"		"0x000000005CE8DA64"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_invis_sword"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_blink"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_force_staff"
+				"item"		"item_cyclone"
+			}
+			"Lategame"
+			{
+				"item"		"item_sphere"
+				"item"		"item_octarine_core"
+				"item"		"item_ethereal_blade"
+				"item"		"item_silver_edge"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_heart"
+				"item"		"item_refresher"
+				"item"		"item_aeon_disk"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lion_impale"
+			"2"		"lion_mana_drain"
+			"3"		"lion_impale"
+			"4"		"lion_voodoo"
+			"5"		"lion_impale"
+			"6"		"lion_finger_of_death"
+			"7"		"lion_impale"
+			"8"		"lion_mana_drain"
+			"9"		"lion_voodoo"
+			"10"		"special_bonus_attack_damage_90"
+			"11"		"lion_mana_drain"
+			"12"		"lion_finger_of_death"
+			"13"		"lion_voodoo"
+			"14"		"lion_mana_drain"
+			"15"		"special_bonus_gold_income_25"
+			"16"		"lion_voodoo"
+			"18"		"lion_finger_of_death"
+			"20"		"special_bonus_hp_500"
+			"25"		"special_bonus_unique_lion_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

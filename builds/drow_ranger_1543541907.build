@@ -3,18 +3,18 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21d"
+	"GameplayVersion"		"7.22"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 Based on OG.Topson's ranked and professional matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"13"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CD4893F"
-	"TimePublished"		"0x000000005CD4893F"
+	"TimeUpdated"		"0x000000005CE8D99C"
+	"TimePublished"		"0x000000005CE8D99C"
 	"ItemBuild"
 	{
 		"Items"

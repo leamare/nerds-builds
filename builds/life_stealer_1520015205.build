@@ -3,18 +3,18 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Lifestealer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21d"
+	"GameplayVersion"		"7.22"
 	"Overview"		"Lifestealer is a strength core hero who is extremely good against high HP targets. His skillset allowes him to outlive opponents in fights and be durable, while Feast gives him damage based on enemy HP.
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage. This idea is what his classic playstyle is built around.
 Since 7.07 there is a new way to play the hero, which is based on increasing his farming power with radiance, as well as amplify his damage and early Roshan potential with Solar Crest. That way he becomes durable tank, while also being able to fight early and get Radiance in a good timing window.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CB9E92F"
-	"TimePublished"		"0x000000005CB9E92F"
+	"TimeUpdated"		"0x000000005CE8DA5A"
+	"TimePublished"		"0x000000005CE8DA5A"
 	"ItemBuild"
 	{
 		"Items"

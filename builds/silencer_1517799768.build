@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.21d"
+	"GameplayVersion"		"7.22"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005C9A00A9"
-	"TimePublished"		"0x000000005C9A00A9"
+	"TimeUpdated"		"0x000000005CE8DBF7"
+	"TimePublished"		"0x000000005CE8DBF7"
 	"ItemBuild"
 	{
 		"Items"

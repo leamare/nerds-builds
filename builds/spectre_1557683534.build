@@ -1,0 +1,105 @@
+"guidedata"
+{
+	"Hero"		"spectre"
+	"Title"		"Experimental Support Spectre"
+	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"GameplayVersion"		"7.22"
+	"Overview"		"
+
+This build is untraditional and situational. Use the hero on this position with this build on your own risk.
+This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005CE8DC67"
+	"TimePublished"		"0x000000005CE8DC67"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_orb_of_venom"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
+			}
+			"Situational"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
+				"item"		"item_ghost"
+				"item"		"item_ultimate_scepter"
+			}
+			"Utility"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_assault"
+				"item"		"item_crimson_guard"
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+				"item"		"item_ethereal_blade"
+				"item"		"item_lotus_orb"
+				"item"		"item_rod_of_atos"
+			}
+			"Core Transition"
+			{
+				"item"		"item_yasha"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_manta"
+				"item"		"item_diffusal_blade"
+				"item"		"item_heart"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"spectre_spectral_dagger"
+			"2"		"spectre_desolate"
+			"3"		"spectre_spectral_dagger"
+			"4"		"spectre_dispersion"
+			"5"		"spectre_spectral_dagger"
+			"6"		"spectre_haunt"
+			"7"		"spectre_spectral_dagger"
+			"8"		"spectre_dispersion"
+			"9"		"spectre_dispersion"
+			"10"		"special_bonus_all_stats_5"
+			"11"		"spectre_dispersion"
+			"12"		"spectre_haunt"
+			"13"		"spectre_desolate"
+			"14"		"spectre_desolate"
+			"15"		"special_bonus_unique_spectre"
+			"16"		"spectre_desolate"
+			"18"		"spectre_haunt"
+			"20"		"special_bonus_hp_500"
+			"25"		"special_bonus_unique_spectre_5"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
