@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8D9E9"
-	"TimePublished"		"0x000000005CE8D9E9"
+	"TimeUpdated"		"0x000000005D477DDE"
+	"TimePublished"		"0x000000005D477DDE"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,55 +24,59 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mantle"
 				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early "
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_boots"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
+				"item"		"item_kaya"
 				"item"		"item_veil_of_discord"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_travel_boots"
+				"item"		"item_yasha_and_kaya"
 			}
 			"Situational Early"
 			{
 				"item"		"item_force_staff"
-				"item"		"item_blink"
 				"item"		"item_cyclone"
 				"item"		"item_ghost"
+				"item"		"item_rod_of_atos"
 			}
 			"Lategame"
 			{
 				"item"		"item_sheepstick"
-				"item"		"item_shivas_guard"
-				"item"		"item_mjollnir"
-				"item"		"item_bloodthorn"
 				"item"		"item_octarine_core"
-				"item"		"item_sphere"
 				"item"		"item_moon_shard"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
-				"item"		"item_assault"
+				"item"		"item_blink"
+				"item"		"item_sphere"
+				"item"		"item_shivas_guard"
 				"item"		"item_black_king_bar"
-				"item"		"item_yasha_and_kaya"
-				"item"		"item_ethereal_blade"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_aeon_disk"
-				"item"		"item_hurricane_pike"
 				"item"		"item_silver_edge"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_guardian_greaves"
 			}
 			"Full Nuker Way"
 			{
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
 				"item"		"item_meteor_hammer"
+			}
+			"Attack Damage way"
+			{
+				"item"		"item_assault"
+				"item"		"item_mjollnir"
+				"item"		"item_bloodthorn"
+				"item"		"item_hurricane_pike"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -95,7 +99,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_blink"		"Good fo situations when you need to initiate (no initiator) or close the gap instantly to use spells (against Weaver or Storm).
 
 It doesn't really work in combination with Ink Swell: stun duration scales from time the target spent in AoE. The only way to combo it is to use it and instantly blink to enemy."
-			"item_mjollnir"		"Helps a little bit with attack speed (we don't really need attack damage), also useful to prevent enemies from attacking you. Works well with Kaya, spell amp talent and Grim's int gain."
 			"item_sheepstick"		"Double hex, mana regen, good stats. Can be used to setup Phantom's Embrace as well"
 			"item_octarine_core"		"If you don't need hex, you can replace your kaya with Octarine, increasing your HP/mana pool, reducing all cooldowns and effectively being hard to take down. It's rather agressive choice, so be careful"
 			"item_shivas_guard"		"Good replacement for Veil: additional int (spell amplification), aura, mana pool and huge armor boost."
@@ -111,6 +114,7 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"item_meteor_hammer"		"Going all-in for magic damage means you probably don't have that much"
 			"item_kaya_and_sange"		"Perfect item for a squishy caster core. You generally want to get Kaya, but Sange and Kaya makes it perfet upgrade that not only amplifies all the bonuses, but also makes you tankier and adds a bit of status resistance to your kit."
 			"item_crown"		"Since you are going to get Veil anyway, getting Crown and three branches instead of Null Talisman is a safe choice. It gives you almost the same amount of stats (excluding spell amp), but also give you a lot more HP and attack speed that may be more useful for early laning considering you hero's weak HP pool early on."
+			"item_mjollnir"		"Helps a little bit with attack speed (we don't really need attack damage), also useful to prevent enemies from attacking you. Works well with Kaya, spell amp talent and Grim's int gain."
 		}
 	}
 	"AbilityBuild"

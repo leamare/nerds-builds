@@ -3,18 +3,18 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Rubick is an intelligence hero who can be played as strong caster core. Stealing and mastering enemies' abilities, Rubick becomes strong crowd controlling hero, while also having all routes to deal massive amounts of spell damage. Using enemy spells better than enemies themselves, Rubick creates significant advantage for his own team, while also using Fade Bolt to significantly lower physical damage output by enemy team.
 
 Good usage of Rubick's skillset allowes him to dominate the lane by using Fade Bolt at proper timing. Use your early advantage to start roaming around the map and setup some kills with Telekinesis, while also securing them with Fade Bolt. Surviving in fights is your main priority, so you want to stay as far as possible. After you reach level 15 and get Blink Dagger things will be much easier. Altho, main thing you need to consider - you're not the main damage dealer without proper enemy spells. You're utility core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x000000005FEC5FAA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DBD9"
-	"TimePublished"		"0x000000005CE8DBD9"
+	"TimeUpdated"		"0x000000005D489FE4"
+	"TimePublished"		"0x000000005D489FE4"
 	"ItemBuild"
 	{
 		"Items"

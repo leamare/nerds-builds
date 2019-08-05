@@ -1,0 +1,97 @@
+"guidedata"
+{
+	"Hero"		"luna"
+	"Title"		"Nerds Ion Cannon Luna"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22f"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000006CDAB50E"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D489852"
+	"TimePublished"		"0x000000005D489852"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_slippers"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+			}
+			"Core"
+			{
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_blink"
+				"item"		"item_ancient_janggo"
+				"item"		"item_invis_sword"
+			}
+			"Lategame"
+			{
+				"item"		"item_ethereal_blade"
+				"item"		"item_refresher"
+				"item"		"item_octarine_core"
+			}
+			"Situational"
+			{
+				"item"		"item_hurricane_pike"
+				"item"		"item_black_king_bar"
+				"item"		"item_skadi"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+				"item"		"item_manta"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"luna_lunar_blessing"
+			"2"		"luna_lucent_beam"
+			"3"		"luna_lunar_blessing"
+			"4"		"luna_lucent_beam"
+			"5"		"luna_lucent_beam"
+			"6"		"luna_eclipse"
+			"7"		"luna_lucent_beam"
+			"8"		"luna_moon_glaive"
+			"9"		"luna_moon_glaive"
+			"10"		"special_bonus_cast_range_400"
+			"11"		"luna_lunar_blessing"
+			"12"		"luna_eclipse"
+			"13"		"luna_lunar_blessing"
+			"14"		"luna_moon_glaive"
+			"15"		"special_bonus_unique_luna_2"
+			"16"		"luna_moon_glaive"
+			"18"		"luna_eclipse"
+			"20"		"special_bonus_unique_luna_1"
+			"25"		"special_bonus_unique_luna_5"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

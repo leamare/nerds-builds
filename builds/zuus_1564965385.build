@@ -1,0 +1,104 @@
+"guidedata"
+{
+	"Hero"		"zuus"
+	"Title"		"Nerds Zeus"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22f"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D4895EE"
+	"TimePublished"		"0x000000005D4895EE"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_arcane_boots"
+			}
+			"Core"
+			{
+				"item"		"item_aether_lens"
+				"item"		"item_kaya"
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_cyclone"
+				"item"		"item_blink"
+				"item"		"item_force_staff"
+			}
+			"Lategame"
+			{
+				"item"		"item_octarine_core"
+				"item"		"item_refresher"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_sheepstick"
+			}
+			"Situational"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_ghost"
+				"item"		"item_aeon_disk"
+				"item"		"item_ethereal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_bloodstone"
+				"item"		"item_shivas_guard"
+				"item"		"item_meteor_hammer"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_bottle"		"~2 min"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"zuus_lightning_bolt"
+			"2"		"zuus_arc_lightning"
+			"3"		"zuus_lightning_bolt"
+			"4"		"zuus_arc_lightning"
+			"5"		"zuus_lightning_bolt"
+			"6"		"zuus_thundergods_wrath"
+			"7"		"zuus_lightning_bolt"
+			"8"		"zuus_arc_lightning"
+			"9"		"zuus_arc_lightning"
+			"10"		"special_bonus_exp_boost_25"
+			"11"		"zuus_static_field"
+			"12"		"zuus_thundergods_wrath"
+			"13"		"zuus_static_field"
+			"14"		"zuus_static_field"
+			"15"		"special_bonus_movement_speed_30"
+			"16"		"zuus_static_field"
+			"18"		"zuus_thundergods_wrath"
+			"20"		"special_bonus_unique_zeus_3"
+			"25"		"special_bonus_unique_zeus_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

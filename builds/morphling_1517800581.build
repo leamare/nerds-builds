@@ -3,17 +3,17 @@
 	"Hero"		"morphling"
 	"Title"		"Nerds Support Morphling"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DB88"
-	"TimePublished"		"0x000000005CE8DB88"
+	"TimeUpdated"		"0x000000005D48A010"
+	"TimePublished"		"0x000000005D48A010"
 	"ItemBuild"
 	{
 		"Items"
@@ -60,7 +60,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_sheepstick"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_ethereal_blade"
 			}
@@ -69,6 +68,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hurricane_pike"
 				"item"		"item_aeon_disk"
 				"item"		"item_meteor_hammer"
+				"item"		"item_ultimate_scepter"
 			}
 			"Core Transition"
 			{
@@ -129,7 +129,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_morphling_8"
 			"16"		"morphling_morph_agi"
 			"18"		"morphling_replicate"
-			"20"		"special_bonus_unique_morphling_5"
+			"20"		"special_bonus_cooldown_reduction_15"
 			"25"		"special_bonus_unique_morphling_3"
 		}
 		"AbilityTooltips"

@@ -3,17 +3,17 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Roaming Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide-688 (Last updated for 7.07)"
-	"GuideRevision"		"28"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8D9AF"
-	"TimePublished"		"0x000000005CE8D9AF"
+	"TimeUpdated"		"0x000000005D48A07D"
+	"TimePublished"		"0x000000005D48A07D"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,8 +30,8 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_magic_wand"
-				"item"		"item_crown"
 			}
 			"Core"
 			{
@@ -42,13 +42,13 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
+				"item"		"item_hand_of_midas"
+				"item"		"item_spirit_vessel"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_force_staff"
 				"item"		"item_cyclone"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
-				"item"		"item_spirit_vessel"
 				"item"		"item_power_treads"
 			}
 			"Lategame"
@@ -132,7 +132,7 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"15"		"special_bonus_attack_damage_50"
 			"16"		"enchantress_natures_attendants"
 			"18"		"enchantress_impetus"
-			"20"		"special_bonus_unique_enchantress_1"
+			"20"		"special_bonus_unique_enchantress_3"
 			"25"		"special_bonus_unique_enchantress_4"
 		}
 		"AbilityTooltips"

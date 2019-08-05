@@ -1,21 +1,28 @@
 "guidedata"
 {
 	"Hero"		"pudge"
-	"Title"		"Nerds Mid Pudge (based MATUMBAMAN)"
+	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		""
-	"GuideRevision"		"5"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DBA8"
-	"TimePublished"		"0x000000005CE8DBA8"
+	"TimeUpdated"		"0x000000005D489FF3"
+	"TimePublished"		"0x000000005D489FF3"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"#DOTA_Item_Build_Starting_Items"
+			"Starting Items - Offlane"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+			}
+			"Starting Items - Midlane"
 			{
 				"item"		"item_stout_shield"
 				"item"		"item_branches"
@@ -24,19 +31,20 @@
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_buckler"
+				"item"		"item_ring_of_protection"
+				"item"		"item_quelling_blade"
+				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_buckler"
 				"item"		"item_rod_of_atos"
 				"item"		"item_crimson_guard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ring_of_protection"
+				"item"		"item_invis_sword"
 				"item"		"item_vanguard"
 				"item"		"item_force_staff"
 				"item"		"item_blink"
@@ -60,6 +68,10 @@
 				"item"		"item_ethereal_blade"
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
+				"item"		"item_ultimate_scepter"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
 			}
 		}
 		"ItemTooltips"
@@ -70,17 +82,17 @@
 	{
 		"AbilityOrder"
 		{
-			"1"		"pudge_rot"
-			"2"		"pudge_flesh_heap"
+			"1"		"pudge_flesh_heap"
+			"2"		"pudge_rot"
 			"3"		"pudge_rot"
-			"4"		"pudge_meat_hook"
-			"5"		"pudge_rot"
+			"4"		"pudge_flesh_heap"
+			"5"		"pudge_meat_hook"
 			"6"		"pudge_dismember"
 			"7"		"pudge_rot"
 			"8"		"pudge_flesh_heap"
 			"9"		"pudge_flesh_heap"
-			"10"		"pudge_flesh_heap"
-			"11"		"special_bonus_unique_pudge_2"
+			"10"		"special_bonus_unique_pudge_2"
+			"11"		"pudge_rot"
 			"12"		"pudge_dismember"
 			"13"		"pudge_meat_hook"
 			"14"		"pudge_meat_hook"

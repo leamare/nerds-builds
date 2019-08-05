@@ -1,0 +1,108 @@
+"guidedata"
+{
+	"Hero"		"lone_druid"
+	"Title"		"Nerds Lone Druid (bear)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22f"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D48950F"
+	"TimePublished"		"0x000000005D48950F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"#DOTA_Item_Build_Starting_Items_Secondary"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_quelling_blade"
+			}
+			"Early (Bear)"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_blight_stone"
+				"item"		"item_boots"
+			}
+			"Core (Bear)"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_mask_of_madness"
+				"item"		"item_phase_boots"
+				"item"		"item_radiance"
+			}
+			"Situational Early"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_pipe"
+				"item"		"item_vladmir"
+				"item"		"item_invis_sword"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_mjollnir"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_abyssal_blade"
+				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_mjollnir"		"May replace radiance early"
+			"item_hand_of_midas"		"~8-9"
+			"item_mask_of_madness"		"~10
+may skip"
+			"item_radiance"		"~18-20"
+			"item_invis_sword"		"(bear)"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lone_druid_spirit_bear"
+			"2"		"lone_druid_spirit_link"
+			"3"		"lone_druid_spirit_bear"
+			"4"		"lone_druid_savage_roar"
+			"5"		"lone_druid_spirit_bear"
+			"6"		"lone_druid_spirit_link"
+			"7"		"lone_druid_spirit_bear"
+			"8"		"lone_druid_spirit_link"
+			"9"		"lone_druid_spirit_link"
+			"10"		"special_bonus_hp_250"
+			"11"		"lone_druid_true_form"
+			"12"		"lone_druid_true_form"
+			"13"		"lone_druid_savage_roar"
+			"14"		"lone_druid_savage_roar"
+			"15"		"special_bonus_unique_lone_druid_2"
+			"16"		"lone_druid_savage_roar"
+			"18"		"lone_druid_true_form"
+			"20"		"special_bonus_unique_lone_druid_9"
+			"25"		"special_bonus_unique_lone_druid_10"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

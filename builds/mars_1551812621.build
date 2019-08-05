@@ -3,29 +3,22 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He also has two spammable spells that in combination with his great stats turn him into a great laner and farmer. The only thing he lacks in terms of that is mana sustain and the only thing he's missing overall is some kind of defense from magic. He is almost impossible to damage with attack damage early on, while also having great pickoff capabilities, burst damage and teamfight potential.
 
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DB32"
-	"TimePublished"		"0x000000005CE8DB32"
+	"TimeUpdated"		"0x000000005D48A01D"
+	"TimePublished"		"0x000000005D48A01D"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items - Middle"
-			{
-				"item"		"item_stout_shield"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_quelling_blade"
-			}
 			"Starting Items - Sidelane"
 			{
 				"item"		"item_stout_shield"
@@ -34,6 +27,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_flask"
+			}
+			"Starting Items - Middle"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early Game"
 			{
@@ -46,7 +46,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_vladmir"
 				"item"		"item_blink"
-				"item"		"item_desolator"
 			}
 			"Situational Early"
 			{
@@ -56,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blade_mail"
 				"item"		"item_black_king_bar"
 				"item"		"item_invis_sword"
+				"item"		"item_desolator"
 			}
 			"Utility"
 			{
@@ -69,17 +69,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_satanic"
 				"item"		"item_silver_edge"
-				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_heart"
 			}
 			"Situational"
 			{
-				"item"		"item_bfury"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_abyssal_blade"
 				"item"		"item_radiance"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_guardian_greaves"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -101,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ancient_janggo"		"Cheap early stats, mana sustain"
 			"item_blink"		"Good initiation item for initiation and running people down"
 			"item_radiance"		"Good farming item if you have a lot of early money.  You are hard to take down so damage from Radiance (especially in arena) will add up"
-			"item_bfury"		"Another way to farm, works mostly because of God's Rebuke. Buy it only if you need to accelerate your farm and you're your team's only core"
 			"item_assault"		"As a strength core hero Mars loves attack speed and armor, both are provided by AC"
 			"item_satanic"		"Almost instant heal in combination with God's Rebuke, additional tankiness/damage and status resistance"
 			"item_heart"		"More of a defensive alternative to Satanic"
@@ -115,22 +113,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"mars_gods_rebuke"
 			"2"		"mars_spear"
 			"3"		"mars_spear"
-			"4"		"mars_gods_rebuke"
+			"4"		"mars_bulwark"
 			"5"		"mars_spear"
 			"6"		"mars_arena_of_blood"
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
 			"10"		"special_bonus_strength_8"
-			"11"		"mars_bulwark"
+			"11"		"mars_gods_rebuke"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
-			"15"		"special_bonus_attack_damage_30"
+			"15"		"special_bonus_attack_damage_25"
 			"16"		"mars_bulwark"
 			"18"		"mars_arena_of_blood"
 			"20"		"special_bonus_unique_mars_spear_stun_duration"
-			"25"		"special_bonus_unique_mars_arena_of_blood_hp_regen"
+			"25"		"special_bonus_unique_mars_gods_rebuke_extra_crit"
 		}
 		"AbilityTooltips"
 		{

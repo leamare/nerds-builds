@@ -1,13 +1,14 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.22
+## Patch: 7.22f
 
-### Total builds published: 44 (out of ~210)
+### Total builds published: 52 (out of ~210 planned)
 
 ---
 
 Hero | Role | Commentaries | Link | File
 -- | -- | -- | --
+Alchemist | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826240453) | [builds/alchemist_1533216412.build](builds/alchemist_1533216412.build)
 Arc Warden | Nuker/Initiator | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916406164) | [builds/arc_warden_1517796471.build](builds/arc_warden_1517796471.build)
 Arc Warden | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=814024669) | [builds/arc_warden_1517796629.build](builds/arc_warden_1517796629.build)
 Arc Warden | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917504030) | [builds/arc_warden_1517797391.build](builds/arc_warden_1517797391.build)
@@ -27,10 +28,15 @@ Enchantress | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filed
 Enchantress | Roaming Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [builds/enchantress_1517796324.build](builds/enchantress_1517796324.build)
 Grimstroke | Mid Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [builds/grimstroke_1535353295.build](builds/grimstroke_1535353295.build)
 Huskar | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201608892) | [builds/huskar_1510741181.build](builds/huskar_1510741181.build)
+Invoker | Support QW |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826258386) | [builds/invoker_1564869408.build](builds/invoker_1564869408.build)
 Leshrac | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1401022207) | [builds/leshrac_1525173582.build](builds/leshrac_1525173582.build)
 Lifestealer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1318136390) | [builds/life_stealer_1520015205.build](builds/life_stealer_1520015205.build)
 Lion | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739757772) | [builds/lion_1557685229.build](builds/lion_1557685229.build)
 Lion | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1352342730) | [builds/lion_1522866367.build](builds/lion_1522866367.build)
+Lone Druid | Core Bear |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826260173) | [builds/lone_druid_1564967821.build](builds/lone_druid_1564967821.build)
+Luna | Core | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826278888) | [builds/luna_1565039095.build](builds/luna_1565039095.build)
+Luna | Core Nuker | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826272526) | [builds/luna_1565038649.build](builds/luna_1565038649.build)
+Luna | Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826262090) | [builds/luna_1550925602.build](builds/luna_1550925602.build)
 Mars | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [builds/mars_1551812621.build](builds/mars_1551812621.build)
 Mars | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [builds/mars_1551813312.build](builds/mars_1551813312.build)
 Morphling | Support/Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [builds/morphling_1517800581.build](builds/morphling_1517800581.build)
@@ -52,3 +58,5 @@ Visage | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?i
 Weaver | Support/Offlane | ~ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [builds/weaver_1517797555.build](builds/weaver_1517797555.build)
 Winter Wyvern | Offlane | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [builds/winter_wyvern_1510588707.build](builds/winter_wyvern_1510588707.build)
 Wraith King | Roaming Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1319304803) | [builds/skeleton_king_1519942536.build](builds/skeleton_king_1519942536.build)
+Zeus | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826263668) | [builds/zuus_1564965385.build](builds/zuus_1564965385.build)
+Zeus | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826265178) | [builds/zuus_1564965679.build](builds/zuus_1564965679.build)

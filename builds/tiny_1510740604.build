@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DC98"
-	"TimePublished"		"0x000000005CE8DC98"
+	"TimeUpdated"		"0x000000005D489F97"
+	"TimePublished"		"0x000000005D489F97"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,7 +30,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bracer"
-				"item"		"item_bracer"
+				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
 			}
@@ -45,7 +45,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bottle"
 				"item"		"item_quelling_blade"
-				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
 				"item"		"item_sange_and_yasha"

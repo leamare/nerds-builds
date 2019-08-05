@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8DCD8"
-	"TimePublished"		"0x000000005CE8DCD8"
+	"TimeUpdated"		"0x000000005D489F52"
+	"TimePublished"		"0x000000005D489F52"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,29 +26,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_blight_stone"
-				"item"		"item_medallion_of_courage"
-				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_bracer"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
+				"item"		"item_boots"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_vladmir"
-				"item"		"item_ancient_janggo"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_pipe"
+				"item"		"item_ancient_janggo"
 				"item"		"item_null_talisman"
 				"item"		"item_hand_of_midas"
 				"item"		"item_phase_boots"
 				"item"		"item_headdress"
-				"item"		"item_pipe"
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
@@ -57,9 +57,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_rod_of_atos"
-				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
+				"item"		"item_black_king_bar"
+				"item"		"item_rod_of_atos"
 				"item"		"item_silver_edge"
 				"item"		"item_heart"
 				"item"		"item_desolator"
@@ -72,6 +72,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
 				"item"		"item_moon_shard"
+				"item"		"item_guardian_greaves"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -82,7 +83,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_vladmir"		"~8-14 min
+			"item_vladmir"		"~8-17 min
 Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Great if you want to boost your damage output or play against crimson guard or Rubick."
 			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups."
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
@@ -115,11 +116,11 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"1"		"visage_grave_chill"
 			"2"		"visage_gravekeepers_cloak"
 			"3"		"visage_grave_chill"
-			"4"		"visage_soul_assumption"
+			"4"		"visage_gravekeepers_cloak"
 			"5"		"visage_grave_chill"
 			"6"		"visage_summon_familiars"
-			"7"		"visage_gravekeepers_cloak"
-			"8"		"visage_grave_chill"
+			"7"		"visage_grave_chill"
+			"8"		"visage_soul_assumption"
 			"9"		"visage_gravekeepers_cloak"
 			"10"		"special_bonus_cast_range_100"
 			"11"		"visage_gravekeepers_cloak"
@@ -129,7 +130,7 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"15"		"special_bonus_unique_visage_3"
 			"16"		"visage_soul_assumption"
 			"18"		"visage_summon_familiars"
-			"20"		"special_bonus_unique_visage_2"
+			"20"		"special_bonus_unique_visage_4"
 			"25"		"special_bonus_unique_visage_6"
 		}
 		"AbilityTooltips"
@@ -142,7 +143,6 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 			"visage_soul_assumption"		"Our another killing/finishing up spell. It's generally not a good idea to not skill this, but for a core Visage it won't be a problem to get a bunch of levels. Early on it won't be that useful with higher levels, so it's better to leave as level 1 skill until later point."
 			"visage_gravekeepers_cloak"		"Max Gravekeeper's Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
 			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he's almost completely useless. Don't be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you're close to aghs or lvl 12/18."
-			"special_bonus_unique_visage_2"		"Who cares about damage amplification from spells if you will have three ferraris on the map driving around and pushing everything?"
 			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
 
 + 

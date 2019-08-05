@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8D93F"
-	"TimePublished"		"0x000000005CE8D93F"
+	"TimeUpdated"		"0x000000005D48A2E7"
+	"TimePublished"		"0x000000005D48A2E7"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,26 +31,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_soul_ring"
 				"item"		"item_bracer"
-				"item"		"item_helm_of_iron_will"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_cyclone"
-				"item"		"item_veil_of_discord"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_bottle"
+				"item"		"item_veil_of_discord"
 				"item"		"item_hand_of_midas"
 				"item"		"item_ancient_janggo"
 				"item"		"item_force_staff"
 				"item"		"item_ghost"
-				"item"		"item_phase_boots"
+				"item"		"item_bottle"
 			}
 			"Utility"
 			{
@@ -62,12 +60,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_sphere"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_mjollnir"
+				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_bloodthorn"
-				"item"		"item_hurricane_pike"
 			}
 			"Situational"
 			{
@@ -80,7 +79,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
-				"item"		"item_ultimate_scepter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -113,8 +111,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_gold_income_20"
 			"16"		"dark_willow_cursed_crown"
 			"18"		"dark_willow_bedlam"
-			"20"		"special_bonus_spell_lifesteal_10"
-			"25"		"special_bonus_attack_speed_200"
+			"20"		"special_bonus_unique_dark_willow_3"
+			"25"		"special_bonus_attack_speed_175"
 		}
 		"AbilityTooltips"
 		{

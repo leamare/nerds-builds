@@ -1,16 +1,18 @@
 "guidedata"
 {
 	"Hero"		"alchemist"
-	"Title"		"WIP"
+	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.19"
-	"Overview"		""
-	"GuideRevision"		"3"
-	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"GameplayVersion"		"7.22f"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"13"
+	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005B7B0E06"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000005D489316"
+	"TimePublished"		"0x000000005D489316"
 	"ItemBuild"
 	{
 		"Items"
@@ -19,45 +21,56 @@
 			{
 				"item"		"item_stout_shield"
 				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_tango"
-				"item"		"item_branches"
-				"item"		"item_branches"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_magic_wand"
-				"item"		"item_armlet"
+				"item"		"item_bracer"
+				"item"		"item_bracer"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_radiance"
-				"item"		"item_blink"
+				"item"		"item_assault"
 				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
+				"item"		"item_soul_ring"
 				"item"		"item_bottle"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_invis_sword"
+				"item"		"item_blink"
+				"item"		"item_armlet"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
-				"item"		"item_assault"
+				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_mjollnir"
 				"item"		"item_moon_shard"
-				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter_2"
+				"item"		"item_travel_boots_2"
 			}
 			"Situational"
 			{
-				"item"		"item_shivas_guard"
+				"item"		"item_black_king_bar"
+				"item"		"item_silver_edge"
+				"item"		"item_satanic"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_octarine_core"
+				"item"		"item_mjollnir"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
+				"item"		"item_desolator"
+				"item"		"item_solar_crest"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
 			}
 		}
 		"ItemTooltips"
@@ -83,19 +96,20 @@
 			"7"		"alchemist_acid_spray"
 			"8"		"alchemist_goblins_greed"
 			"9"		"alchemist_goblins_greed"
-			"10"		"alchemist_unstable_concoction"
+			"10"		"special_bonus_unique_alchemist"
 			"11"		"alchemist_unstable_concoction"
 			"12"		"alchemist_chemical_rage"
 			"13"		"alchemist_unstable_concoction"
-			"14"		"special_bonus_unique_alchemist"
-			"15"		"special_bonus_hp_400"
+			"14"		"alchemist_unstable_concoction"
+			"15"		"special_bonus_attack_damage_50"
 			"16"		"alchemist_unstable_concoction"
 			"18"		"alchemist_chemical_rage"
-			"20"		"special_bonus_unique_alchemist_2"
-			"25"		"special_bonus_unique_alchemist_4"
+			"20"		"special_bonus_cleave_40"
+			"25"		"special_bonus_unique_alchemist_3"
 		}
 		"AbilityTooltips"
 		{
+			"special_bonus_hp_400"		"* Pretty good as well"
 		}
 	}
 }

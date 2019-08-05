@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22"
+	"GameplayVersion"		"7.22f"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"53"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005CE8D952"
-	"TimePublished"		"0x000000005CE8D952"
+	"TimeUpdated"		"0x000000005D48A2DF"
+	"TimePublished"		"0x000000005D48A2DF"
 	"ItemBuild"
 	{
 		"Items"
@@ -44,8 +44,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_veil_of_discord"
 				"item"		"item_rod_of_atos"
 				"item"		"item_arcane_boots"
 			}
@@ -69,9 +69,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_octarine_core"
 				"item"		"item_ghost"
+				"item"		"item_veil_of_discord"
 			}
 			"Core Transition"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_nullifier"

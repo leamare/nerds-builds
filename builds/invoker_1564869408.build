@@ -1,0 +1,108 @@
+"guidedata"
+{
+	"Hero"		"invoker"
+	"Title"		"Nerds Support QW Invoker"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.22f"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x000000006CDA7DD2"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D489472"
+	"TimePublished"		"0x000000005D489472"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_sobi_mask"
+				"item"		"item_ward_observer"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_phase_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_cyclone"
+				"item"		"item_force_staff"
+			}
+			"Lategame"
+			{
+				"item"		"item_refresher"
+				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_orchid"
+				"item"		"item_glimmer_cape"
+				"item"		"item_ghost"
+				"item"		"item_sphere"
+				"item"		"item_black_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_lotus_orb"
+				"item"		"item_aeon_disk"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"invoker_quas"
+			"2"		"invoker_wex"
+			"3"		"invoker_quas"
+			"4"		"invoker_wex"
+			"5"		"invoker_quas"
+			"6"		"invoker_wex"
+			"7"		"invoker_quas"
+			"8"		"invoker_wex"
+			"9"		"invoker_wex"
+			"10"		"special_bonus_unique_invoker_10"
+			"11"		"invoker_exort"
+			"12"		"invoker_quas"
+			"13"		"invoker_wex"
+			"14"		"invoker_exort"
+			"15"		"special_bonus_unique_invoker_9"
+			"16"		"invoker_exort"
+			"17"		"invoker_exort"
+			"18"		"invoker_exort"
+			"19"		"invoker_exort"
+			"20"		"special_bonus_unique_invoker_4"
+			"21"		"invoker_quas"
+			"22"		"invoker_wex"
+			"23"		"invoker_quas"
+			"24"		"invoker_exort"
+			"25"		"special_bonus_unique_invoker_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
