@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D48A331"
-	"TimePublished"		"0x000000005D48A331"
+	"TimeUpdated"		"0x000000005D5C6473"
+	"TimePublished"		"0x000000005D5C6473"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,28 +20,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Mid)"
 			{
 				"item"		"item_slippers"
-				"item"		"item_slippers"
+				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Starting Items (Safelane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_tango"
 				"item"		"item_slippers"
 				"item"		"item_slippers"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_clarity"
 			}
 			"Early"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_hand_of_midas"
-				"item"		"item_boots"
 			}
 			"Core"
 			{
@@ -140,7 +139,7 @@ Can be upgraded further later on to get true sight."
 			"7"		"arc_warden_spark_wraith"
 			"8"		"arc_warden_magnetic_field"
 			"9"		"arc_warden_magnetic_field"
-			"10"		"special_bonus_cooldown_reduction_8"
+			"10"		"special_bonus_attack_speed_35"
 			"11"		"arc_warden_magnetic_field"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"

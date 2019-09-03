@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D489F65"
-	"TimePublished"		"0x000000005D489F65"
+	"TimeUpdated"		"0x000000005D6E82CA"
+	"TimePublished"		"0x000000005D6E82CA"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,20 +22,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Offlane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
+				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
-				"item"		"item_faerie_fire"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_soul_ring"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_boots"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
@@ -52,13 +48,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
+				"item"		"item_null_talisman"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_hand_of_midas"
 				"item"		"item_maelstrom"
-				"item"		"item_ring_of_basilius"
-				"item"		"item_power_treads"
 				"item"		"item_ancient_janggo"
-				"item"		"item_rod_of_atos"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_cyclone"
 			}
 			"Lategame"
@@ -72,16 +68,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_bloodstone"
 				"item"		"item_nullifier"
 				"item"		"item_sphere"
-				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_mask_of_madness"
+				"item"		"item_rod_of_atos"
+				"item"		"item_yasha_and_kaya"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

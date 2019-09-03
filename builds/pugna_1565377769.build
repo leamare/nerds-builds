@@ -1,0 +1,100 @@
+"guidedata"
+{
+	"Hero"		"pugna"
+	"Title"		"Nerds Pugna"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22f"
+	"Overview"		""
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000006E74B8E5"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D6E8358"
+	"TimePublished"		"0x000000005D6E8358"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_arcane_boots"
+			}
+			"Core"
+			{
+				"item"		"item_aether_lens"
+				"item"		"item_dagon_5"
+				"item"		"item_travel_boots"
+			}
+			"Situational Early"
+			{
+				"item"		"item_wind_lace"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_cyclone"
+				"item"		"item_tranquil_boots"
+				"item"		"item_veil_of_discord"
+				"item"		"item_blink"
+				"item"		"item_force_staff"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational"
+			{
+				"item"		"item_aeon_disk"
+				"item"		"item_shivas_guard"
+				"item"		"item_rod_of_atos"
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_ethereal_blade"
+				"item"		"item_meteor_hammer"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"pugna_nether_blast"
+			"2"		"pugna_decrepify"
+			"3"		"pugna_nether_blast"
+			"4"		"pugna_decrepify"
+			"5"		"pugna_nether_blast"
+			"6"		"pugna_life_drain"
+			"7"		"pugna_nether_blast"
+			"8"		"pugna_decrepify"
+			"9"		"pugna_nether_ward"
+			"10"		"special_bonus_hp_225"
+			"11"		"pugna_decrepify"
+			"12"		"pugna_life_drain"
+			"13"		"pugna_nether_ward"
+			"14"		"pugna_nether_ward"
+			"15"		"special_bonus_unique_pugna_6"
+			"16"		"pugna_nether_ward"
+			"18"		"pugna_life_drain"
+			"20"		"special_bonus_unique_pugna_5"
+			"25"		"special_bonus_unique_pugna_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

@@ -1,0 +1,99 @@
+"guidedata"
+{
+	"Hero"		"wisp"
+	"Title"		"Nerds Core Io"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22f"
+	"Overview"		""
+	"GuideRevision"		"8"
+	"AssociatedWorkshopItemID"		"0x000000006E74C3AE"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D6E8443"
+	"TimePublished"		"0x000000005D6E8443"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Starting items (sidelane)"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_sobi_mask"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_wand"
+			}
+			"Core"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_maelstrom"
+				"item"		"item_heart"
+			}
+			"Situational Early"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_bottle"
+				"item"		"item_solar_crest"
+			}
+			"Lategame"
+			{
+				"item"		"item_mjollnir"
+				"item"		"item_black_king_bar"
+				"item"		"item_assault"
+			}
+			"Situational"
+			{
+				"item"		"item_greater_crit"
+				"item"		"item_desolator"
+				"item"		"item_satanic"
+				"item"		"item_rapier"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"wisp_tether"
+			"2"		"wisp_overcharge"
+			"3"		"wisp_spirits"
+			"4"		"wisp_spirits"
+			"5"		"wisp_spirits"
+			"6"		"wisp_relocate"
+			"7"		"wisp_spirits"
+			"8"		"wisp_overcharge"
+			"9"		"wisp_overcharge"
+			"10"		"special_bonus_unique_wisp_7"
+			"11"		"wisp_overcharge"
+			"12"		"wisp_relocate"
+			"13"		"wisp_tether"
+			"14"		"wisp_tether"
+			"15"		"special_bonus_unique_wisp"
+			"16"		"wisp_tether"
+			"18"		"wisp_relocate"
+			"20"		"special_bonus_armor_15"
+			"25"		"special_bonus_unique_wisp_4"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_gold_income_25"		"sit"
+		}
+	}
+}

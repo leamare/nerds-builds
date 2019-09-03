@@ -11,12 +11,12 @@ Early on you want to get a point into Shadow Wave to keep yourself alive on lane
 This build is not traditional, and wthile it is still pretty strong and reliable if you have some experience playing with it, as for 7.20b, your team may just report you. Remember that while playing.
 This build is based on Immortal rank Core Dazzle matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D48A2C9"
-	"TimePublished"		"0x000000005D48A2C9"
+	"TimeUpdated"		"0x000000005D4F2AA9"
+	"TimePublished"		"0x000000005D4F2AA9"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,26 +34,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_necronomicon"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_guardian_greaves"
+				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_rod_of_atos"
 				"item"		"item_blink"
 				"item"		"item_invis_sword"
-				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
 				"item"		"item_necronomicon_3"
-				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
 				"item"		"item_hurricane_pike"
@@ -104,7 +103,6 @@ You can use it for fighting since you will always have somebody to heal in melee
 			"item_yasha_and_kaya"		"You don't really need tankiness, but attack speed and movement speed are pretty useful for you to hunt enemies down and make your overall DPS higher"
 			"item_rod_of_atos"		"Makes you tankier and allows to catch enemies from a distance (as well as interrupt teleportation)"
 			"item_blink"		"Helps you with catching up to enemies and initiating on them"
-			"item_power_treads"		"Dazzle values attack speed a lot, but having extra bit of stats is more useful for you early on."
 			"item_sheepstick"		"Bad Juju makes it pretty awesome pickup for your hero since it will have its cooldown reduced by 50% and will allow you to control the flow of the fight"
 			"item_hurricane_pike"		"Additional stats and attack range, but what's more important - low cooldown force staff"
 			"item_assault"		"Additional improvement for all the armor and attack speed theme"
@@ -144,7 +142,7 @@ You can use it for fighting since you will always have somebody to heal in melee
 			"16"		"dazzle_shallow_grave"
 			"18"		"dazzle_bad_juju"
 			"20"		"special_bonus_unique_dazzle_3"
-			"25"		"special_bonus_unique_dazzle_1"
+			"25"		"special_bonus_unique_dazzle_4"
 		}
 		"AbilityTooltips"
 		{

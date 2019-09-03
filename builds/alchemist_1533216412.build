@@ -7,17 +7,17 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"13"
+	"GuideRevision"		"16"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D489316"
-	"TimePublished"		"0x000000005D489316"
+	"TimeUpdated"		"0x000000005D6E8233"
+	"TimePublished"		"0x000000005D6E8233"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"#DOTA_Item_Build_Starting_Items"
+			"Starting Items (Mid)"
 			{
 				"item"		"item_stout_shield"
 				"item"		"item_quelling_blade"
@@ -35,7 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_radiance"
 				"item"		"item_assault"
-				"item"		"item_manta"
+				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
@@ -48,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_skadi"
+				"item"		"item_manta"
 				"item"		"item_abyssal_blade"
 				"item"		"item_moon_shard"
 				"item"		"item_ultimate_scepter_2"
@@ -96,7 +96,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"alchemist_acid_spray"
 			"8"		"alchemist_goblins_greed"
 			"9"		"alchemist_goblins_greed"
-			"10"		"special_bonus_unique_alchemist"
+			"10"		"special_bonus_attack_speed_25"
 			"11"		"alchemist_unstable_concoction"
 			"12"		"alchemist_chemical_rage"
 			"13"		"alchemist_unstable_concoction"

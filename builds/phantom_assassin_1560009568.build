@@ -1,0 +1,93 @@
+"guidedata"
+{
+	"Hero"		"phantom_assassin"
+	"Title"		"Nerds Support PA"
+	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"GameplayVersion"		"7.22f"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D6E83C0"
+	"TimePublished"		"0x000000005D6E83C0"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_blight_stone"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_medallion_of_courage"
+			}
+			"Situational Early"
+			{
+				"item"		"item_vladmir"
+				"item"		"item_wind_lace"
+				"item"		"item_basher"
+			}
+			"Lategame"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_desolator"
+				"item"		"item_abyssal_blade"
+			}
+			"Situational"
+			{
+				"item"		"item_assault"
+				"item"		"item_black_king_bar"
+				"item"		"item_lotus_orb"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"phantom_assassin_stifling_dagger"
+			"2"		"phantom_assassin_phantom_strike"
+			"3"		"phantom_assassin_stifling_dagger"
+			"4"		"phantom_assassin_blur"
+			"5"		"phantom_assassin_stifling_dagger"
+			"6"		"phantom_assassin_coup_de_grace"
+			"7"		"phantom_assassin_stifling_dagger"
+			"8"		"phantom_assassin_phantom_strike"
+			"9"		"phantom_assassin_phantom_strike"
+			"10"		"special_bonus_attack_damage_15"
+			"11"		"phantom_assassin_phantom_strike"
+			"12"		"phantom_assassin_coup_de_grace"
+			"13"		"phantom_assassin_blur"
+			"14"		"phantom_assassin_blur"
+			"15"		"special_bonus_lifesteal_15"
+			"16"		"phantom_assassin_blur"
+			"18"		"phantom_assassin_coup_de_grace"
+			"20"		"special_bonus_corruption_4"
+			"25"		"special_bonus_unique_phantom_assassin"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
