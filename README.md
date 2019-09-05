@@ -34,7 +34,7 @@ You can install these guides into "%ProgramFiles%/Steam/userdata/(your steam id)
 
 It's recommended to make a symlink for this directory in your repo folder, so all the files will be located here. You can do that with following console commands:
 
-- For windows - `mklink /D builds %SteamGuidesFolder`
+- For windows - `mklink /J builds %SteamGuidesFolder`
 
 - For linux and other unix-like - `ln -s %SteamGuidesFolder% builds`
 
