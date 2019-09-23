@@ -1,16 +1,18 @@
 "guidedata"
 {
 	"Hero"		"monkey_king"
-	"Title"		"Untitled"
+	"Title"		"Nerds Monkey King"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22f"
-	"Overview"		""
-	"GuideRevision"		"1"
-	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"GameplayVersion"		"7.22g"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D50EE3D"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000005D782C97"
+	"TimePublished"		"0x000000005D782C97"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,22 +26,22 @@
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
-				"item"		"item_quelling_blade"
-				"item"		"item_boots"
 				"item"		"item_orb_of_venom"
 				"item"		"item_phase_boots"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_echo_sabre"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_maelstrom"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_mjollnir"
 			}
 			"Situational Early"
 			{
+				"item"		"item_quelling_blade"
 				"item"		"item_wraith_band"
 				"item"		"item_invis_sword"
-				"item"		"item_maelstrom"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -53,12 +55,15 @@
 				"item"		"item_black_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_sange_and_yasha"
 				"item"		"item_greater_crit"
 				"item"		"item_desolator"
 				"item"		"item_abyssal_blade"
 				"item"		"item_nullifier"
-				"item"		"item_mjollnir"
+				"item"		"item_radiance"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
 			}
 		}
 		"ItemTooltips"

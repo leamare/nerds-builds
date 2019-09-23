@@ -1,0 +1,102 @@
+"guidedata"
+{
+	"Hero"		"mirana"
+	"Title"		"Nerds Support Mirana"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.22g"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D782CB9"
+	"TimePublished"		"0x000000005D782CB9"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_sobi_mask"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_arcane_boots"
+				"item"		"item_spirit_vessel"
+				"item"		"item_force_staff"
+			}
+			"Situational Early"
+			{
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_bottle"
+				"item"		"item_medallion_of_courage"
+			}
+			"Lategame"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_solar_crest"
+				"item"		"item_guardian_greaves"
+				"item"		"item_sheepstick"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_ghost"
+				"item"		"item_vladmir"
+				"item"		"item_travel_boots"
+				"item"		"item_pipe"
+				"item"		"item_glimmer_cape"
+				"item"		"item_cyclone"
+				"item"		"item_dagon_5"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"mirana_arrow"
+			"2"		"mirana_leap"
+			"3"		"mirana_starfall"
+			"4"		"mirana_starfall"
+			"5"		"mirana_starfall"
+			"6"		"mirana_invis"
+			"7"		"mirana_starfall"
+			"8"		"mirana_arrow"
+			"9"		"mirana_leap"
+			"10"		"special_bonus_hp_200"
+			"11"		"mirana_leap"
+			"12"		"mirana_invis"
+			"13"		"mirana_leap"
+			"14"		"mirana_arrow"
+			"15"		"special_bonus_unique_mirana_3"
+			"16"		"mirana_arrow"
+			"18"		"mirana_invis"
+			"20"		"special_bonus_spell_amplify_12"
+			"25"		"special_bonus_unique_mirana_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

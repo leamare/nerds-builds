@@ -1,8 +1,8 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.22f
+## Patch: 7.22g
 
-### Total builds published: 52 (out of ~210 planned)
+### Total builds published: 58 (out of ~210 planned)
 
 ---
 
@@ -40,7 +40,10 @@ Luna | Core Nuker | | [Steam](https://steamcommunity.com/sharedfiles/filedetails
 Luna | Support | | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826262090) | [builds/luna_1550925602.build](builds/luna_1550925602.build)
 Mars | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [builds/mars_1551812621.build](builds/mars_1551812621.build)
 Mars | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [builds/mars_1551813312.build](builds/mars_1551813312.build)
+Mirana | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824958) | [builds/mirana_1568051607.build](builds/mirana_1568051607.build)
+Monkey King | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824659) | [builds/monkey_king_1565584957.build](builds/monkey_king_1565584957.build)
 Morphling | Support/Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [builds/morphling_1517800581.build](builds/morphling_1517800581.build)
+Night Stalker | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859825400) | [builds/night_stalker_1568122408.build](builds/night_stalker_1568122408.build)
 Phantom Assassin | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853144623) | [builds/phantom_assassin_1560009568.build](builds/phantom_assassin_1560009568.build)
 Pudge | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1750985856) | [builds/pudge_1558353431.build](builds/pudge_1558353431.build)
 Pugna | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853143269) | [builds/pugna_1565377769.build](builds/pugna_1565377769.build)
@@ -51,9 +54,9 @@ Silencer | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedeta
 Spectre | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=836049799) | [builds/spectre_1517799392.build](builds/spectre_1517799392.build)
 Spectre | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739726188) | [builds/spectre_1557683534.build](builds/spectre_1557683534.build)
 Sven | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1594812320) | [builds/sven_1534870569.build](builds/sven_1534870569.build)
+Tidehunter | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1593487437) | [builds/tidehunter_1543397847.build](builds/tidehunter_1543397847.build)
 Tiny | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201609040) | [builds/tiny_1510740604.build](builds/tiny_1510740604.build)
 Treant Protector | Roaming Support (Offlane?) | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917506257) | [builds/treant_1517797778.build](builds/treant_1517797778.build)
-Tidehunter | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1593487437) | [builds/tidehunter_1543397847.build](builds/tidehunter_1543397847.build)
 Ursa | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1472044989) | [builds/ursa_1532975264.build](builds/ursa_1532975264.build)
 Vengeful Spirit | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=906051803) | [builds/vengefulspirit_1517800254.build](builds/vengefulspirit_1517800254.build)
 Viper | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1669280746) | [builds/viper_1551201914.build](builds/viper_1551201914.build)
