@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22g"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D72BFD8"
-	"TimePublished"		"0x000000005D72BFD8"
+	"TimeUpdated"		"0x000000005D91A45B"
+	"TimePublished"		"0x000000005D91A45B"
 	"ItemBuild"
 	{
 		"Items"
@@ -130,7 +130,7 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"7"		"grimstroke_dark_artistry"
 			"8"		"grimstroke_spirit_walk"
 			"9"		"grimstroke_spirit_walk"
-			"10"		"special_bonus_gold_income_15"
+			"10"		"special_bonus_gold_income_90"
 			"11"		"grimstroke_soul_chain"
 			"12"		"grimstroke_soul_chain"
 			"13"		"grimstroke_ink_creature"
@@ -138,7 +138,7 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"15"		"special_bonus_spell_amplify_12"
 			"16"		"grimstroke_ink_creature"
 			"18"		"grimstroke_soul_chain"
-			"20"		"special_bonus_unique_grimstroke_4"
+			"20"		"special_bonus_unique_grimstroke_3"
 			"25"		"special_bonus_unique_grimstroke_2"
 		}
 		"AbilityTooltips"
@@ -153,7 +153,6 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"special_bonus_cast_range_125"		"Cast range is good, but as core Grimstroke it doesn't really matter since we're going to be close to fight by ourselves anyway.  Alternative talent is just way better."
 			"special_bonus_unique_grimstroke_2"		"This talent completes our spam-nuke nature , amplifying our damage output even more. With this talent Stroke of Fate relably oneshots regular creepwave."
 			"special_bonus_unique_grimstroke_1"		"It may be good for combos with tanky bruicers and heroes like Phoenix, but for core Grimstroke it's not really the way to go."
-			"special_bonus_gold_income_15"		"Free GPM at level 10? On a core hero? Sure!"
 			"special_bonus_movement_speed_30"		"Even while it's useful for our hero, we actually don't need it: we already have enough."
 		}
 	}

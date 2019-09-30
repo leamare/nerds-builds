@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22g"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D72BF72"
-	"TimePublished"		"0x000000005D72BF72"
+	"TimeUpdated"		"0x000000005D91A43A"
+	"TimePublished"		"0x000000005D91A43A"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,16 +28,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items - Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_sobi_mask"
+				"item"		"item_blight_stone"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
@@ -50,7 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_bracer"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"

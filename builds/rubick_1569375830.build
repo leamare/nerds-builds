@@ -1,0 +1,88 @@
+"guidedata"
+{
+	"Hero"		"rubick"
+	"Title"		"Untitled"
+	"GameplayVersion"		"7.22g"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D8AC656"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_sobi_mask"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_arcane_boots"
+			}
+			"Core"
+			{
+				"item"		"item_aether_lens"
+				"item"		"item_cyclone"
+			}
+			"Situational Early"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_tranquil_boots"
+				"item"		"item_force_staff"
+				"item"		"item_spirit_vessel"
+			}
+			"Lategame"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
+			}
+			"Situational"
+			{
+				"item"		"item_aeon_disk"
+				"item"		"item_rod_of_atos"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"rubick_fade_bolt"
+			"2"		"rubick_telekinesis"
+			"3"		"rubick_fade_bolt"
+			"4"		"rubick_arcane_supremacy"
+			"5"		"rubick_fade_bolt"
+			"6"		"rubick_spell_steal"
+			"7"		"rubick_fade_bolt"
+			"8"		"rubick_arcane_supremacy"
+			"9"		"rubick_arcane_supremacy"
+			"10"		"special_bonus_attack_damage_60"
+			"11"		"rubick_arcane_supremacy"
+			"12"		"rubick_telekinesis"
+			"13"		"rubick_telekinesis"
+			"14"		"rubick_spell_steal"
+			"15"		"special_bonus_cast_range_125"
+			"16"		"rubick_telekinesis"
+			"18"		"rubick_spell_steal"
+			"20"		"special_bonus_unique_rubick_3"
+			"25"		"special_bonus_unique_rubick_5"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

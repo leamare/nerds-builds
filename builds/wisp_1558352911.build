@@ -3,16 +3,16 @@
 	"Hero"		"wisp"
 	"Title"		"Nerds Core Io"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22g"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x000000006E74C3AE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D782C6A"
-	"TimePublished"		"0x000000005D782C6A"
+	"TimeUpdated"		"0x000000005D91A4C2"
+	"TimePublished"		"0x000000005D91A4C2"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,17 +27,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_sobi_mask"
+				"item"		"item_ring_of_protection"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Core"
 			{
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_maelstrom"
 				"item"		"item_heart"
@@ -95,7 +98,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_gold_income_25"		"sit"
 		}
 	}
 }

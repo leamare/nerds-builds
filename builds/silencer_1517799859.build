@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22g"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D72EC3E"
-	"TimePublished"		"0x000000005D72EC3E"
+	"TimeUpdated"		"0x000000005D91A60F"
+	"TimePublished"		"0x000000005D91A60F"
 	"ItemBuild"
 	{
 		"Items"
@@ -119,7 +119,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"silencer_global_silence"
 			"13"		"silencer_glaives_of_wisdom"
 			"14"		"silencer_glaives_of_wisdom"
-			"15"		"special_bonus_gold_income_20"
+			"15"		"special_bonus_gold_income_120"
 			"16"		"silencer_glaives_of_wisdom"
 			"18"		"silencer_global_silence"
 			"20"		"special_bonus_unique_silencer"
@@ -128,7 +128,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityTooltips"
 		{
 			"special_bonus_attack_speed_30"		"Obviously, AS talent is better because silencer wants to transition into core and the only thing he needs to start dealing more damage is actually attack speed."
-			"special_bonus_gold_income_10"		"200 health is A LOT, but with additional GPM it will be easier for us to catch up, while health can be purchased."
 			"silencer_curse_of_the_silent"		"Main thing we need in ganks is slow. More powerful slow = more chances to kill. Because of that Arcane Curse becomes our main skill to max out. Another thing about it: it's actually ridiculous how much damage you can deal with it in fights, so you shouldn't underestimate it."
 			"silencer_glaives_of_wisdom"		"While it's our damage dealing tool, we won't need it any time soon: Q or E after upgrade will deal much more damage, while also will allow us to actually kill people. Casting W manually on enemy while laning will allow us to harass opponents without creep aggro, so it's worth using skill point early"
 			"silencer_last_word"		"Nuke, silence and vision on target in ganks.Pretty good to get it maxed out after curse (or sometimes even instead of it)"

@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Offlane Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.22f"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D48A300"
-	"TimePublished"		"0x000000005D48A300"
+	"TimeUpdated"		"0x000000005D91A372"
+	"TimePublished"		"0x000000005D91A372"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,9 +26,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_circlet"
+				"item"		"item_mantle"
 				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{

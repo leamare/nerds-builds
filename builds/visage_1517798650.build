@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22g"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D7709FB"
-	"TimePublished"		"0x000000005D7709FB"
+	"TimeUpdated"		"0x000000005D91A676"
+	"TimePublished"		"0x000000005D91A676"
 	"ItemBuild"
 	{
 		"Items"
@@ -137,7 +137,6 @@ Try to dominate a catapult and push. If you can't - just get a random neutral an
 		{
 			"special_bonus_attack_damage_50"		"If we are going to be core and rely on physical damage, it's quite pointless to get cast range anyway, while 50 AD is actually a lot."
 			"special_bonus_hp_300"		"Double strike massively increases our damage output, altho 300 health is a lot, so it may be worth it for a hero with a lot of resists"
-			"special_bonus_gold_income_15"		"GPM talent is better for going into lategame, but if you manage to get midas before lvl10 (you are ahead) - get +XP talent and wreck them. Both talents are insanely good, depending on situation"
 			"special_bonus_exp_boost_25"		"Money won't be a problem and items won't give us as much as experience gain. With extra GPM you can get aghs and other shit faster, but who cares, you are already farming machine with your familliars and medallion."
 			"visage_grave_chill"		"Our main kill-potential spell. It's not only a slow, but also an attack speed buff for us and our familliars. It's also a good way to escape ganks."
 			"visage_soul_assumption"		"Our another killing/finishing up spell. It's generally not a good idea to not skill this, but for a core Visage it won't be a problem to get a bunch of levels. Early on it won't be that useful with higher levels, so it's better to leave as level 1 skill until later point."

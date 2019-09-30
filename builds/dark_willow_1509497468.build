@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22f"
+	"GameplayVersion"		"7.22h"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D48A2DF"
-	"TimePublished"		"0x000000005D48A2DF"
+	"TimeUpdated"		"0x000000005D91A3C5"
+	"TimePublished"		"0x000000005D91A3C5"
 	"ItemBuild"
 	{
 		"Items"
@@ -114,7 +114,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"dark_willow_bedlam"
 			"13"		"dark_willow_bramble_maze"
 			"14"		"dark_willow_bramble_maze"
-			"15"		"special_bonus_gold_income_20"
+			"15"		"special_bonus_gold_income_120"
 			"16"		"dark_willow_bramble_maze"
 			"18"		"dark_willow_bedlam"
 			"20"		"special_bonus_unique_dark_willow_3"
@@ -124,7 +124,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
 			"dark_willow_cursed_crown"		"It's incredibly strong ability, but we don't really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
-			"special_bonus_gold_income_15"		"40 movement speed could be better for Core, but since you're playing support, additional GPM will be handy"
 			"special_bonus_unique_dark_willow_1"		"Since you're building a lot of mobility and surviveability, you won't really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
 			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won't be really useful most of the times won't change anything."
 			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won't be catched off guard)"
