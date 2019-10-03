@@ -1,8 +1,10 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.22g
+## Patch: 7.22h
 
-### Total builds published: 58 (out of ~210 planned)
+### Total builds published: 62 (out of ~210 planned)
+
+### Descriptions ready: 32 out of 62
 
 ---
 
@@ -26,12 +28,14 @@ Doom | Offlane | ~ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/
 Drow Ranger | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1584779697) | [builds/drow_ranger_1543541907.build](builds/drow_ranger_1543541907.build)
 Enchantress | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [builds/enchantress_1517795534.build](builds/enchantress_1517795534.build)
 Enchantress | Roaming Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [builds/enchantress_1517796324.build](builds/enchantress_1517796324.build)
+Faceless Void | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879546300) | [builds/faceless_void_1570126879.build](builds/faceless_void_1570126879.build)
 Grimstroke | Mid Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [builds/grimstroke_1535353295.build](builds/grimstroke_1535353295.build)
 Huskar | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201608892) | [builds/huskar_1510741181.build](builds/huskar_1510741181.build)
 Invoker | Support QW |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826258386) | [builds/invoker_1564869408.build](builds/invoker_1564869408.build)
 Io | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853146030) | [builds/wisp_1558352911.build](builds/wisp_1558352911.build)
 Leshrac | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1401022207) | [builds/leshrac_1525173582.build](builds/leshrac_1525173582.build)
 Lifestealer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1318136390) | [builds/life_stealer_1520015205.build](builds/life_stealer_1520015205.build)
+Lina | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879573325) | [builds/lina_1570128822.build](lina_1570128822.build)
 Lion | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739757772) | [builds/lion_1557685229.build](builds/lion_1557685229.build)
 Lion | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1352342730) | [builds/lion_1522866367.build](builds/lion_1522866367.build)
 Lone Druid | Core Bear |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826260173) | [builds/lone_druid_1564967821.build](builds/lone_druid_1564967821.build)
@@ -51,6 +55,8 @@ Rubick | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?
 Shadow Demon | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609337231) | [builds/shadow_demon_1537995516.build](builds/shadow_demon_1537995516.build)
 Silencer | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917140515) | [builds/silencer_1517799768.build](builds/silencer_1517799768.build)
 Silencer | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=905824211) | [builds/silencer_1517799859.build](builds/silencer_1517799859.build)
+Slark | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879560305) | [builds/slark_1570127907.build](slark_1570127907.build)
+Sniper | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879536271) | [builds/sniper_1570126171.build](builds/sniper_1570126171.build)
 Spectre | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=836049799) | [builds/spectre_1517799392.build](builds/spectre_1517799392.build)
 Spectre | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739726188) | [builds/spectre_1557683534.build](builds/spectre_1557683534.build)
 Sven | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1594812320) | [builds/sven_1534870569.build](builds/sven_1534870569.build)
