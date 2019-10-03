@@ -9,12 +9,12 @@
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A4C9"
-	"TimePublished"		"0x000000005D91A4C9"
+	"TimeUpdated"		"0x000000005D94A030"
+	"TimePublished"		"0x000000005D94A030"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,40 +31,42 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_null_talisman"
+				"item"		"item_bottle"
 				"item"		"item_null_talisman"
 				"item"		"item_magic_wand"
-				"item"		"item_bottle"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_rod_of_atos"
 				"item"		"item_cyclone"
+				"item"		"item_travel_boots"
+				"item"		"item_black_king_bar"
+				"item"		"item_yasha_and_kaya"
 			}
 			"Situational Early"
 			{
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_rod_of_atos"
 				"item"		"item_force_staff"
 				"item"		"item_soul_ring"
 				"item"		"item_blink"
+				"item"		"item_arcane_boots"
 			}
 			"Lategame"
 			{
 				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
-				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
 				"item"		"item_aeon_disk"
-				"item"		"item_black_king_bar"
+				"item"		"item_bloodstone"
 				"item"		"item_ghost"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
-				"item"		"item_bloodstone"
+				"item"		"item_sphere"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -77,8 +79,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_soul_ring"		"Early tankiness, HP regen and a source of mana that may help to farm.
 ~4 min"
-			"item_arcane_boots"		"Solves mana problems and later on is disassembled into Bloodstone.
-~9 min"
 			"item_bloodstone"		"Surviveability, huge increase in mana/HP pool, as well as huge mana regen increase. You want to get it under any circumstances and earlier is better. Altho, it forces you to start playing more active to get Bloodstone charges, as well as more careful.
 ~17 min"
 			"item_cyclone"		"Mana regen, mobility and Split Earth setup.
@@ -93,8 +93,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_force_staff"		"Emergency situation save item. Just in case you need to run away from slows or ground-changing lockdowns."
 			"item_octarine_core"		"Natural lategame item for any caster core. Lesser cooldowns, more HP and mana, as well as spell lifesteal, which is huge for a high AoE damage output caster like Leshrac."
 			"item_travel_boots"		"Additional mobiliity and map control.  After disassembling Arcane boots early on you will have brown boots anyway, why not upgrade them to BoTs?"
-			"item_black_king_bar"		"When: Against stuns and lockdowns, magic damage, blade mails.
-Replaces one of lategame slots"
 			"item_ghost"		"When: Against high physical damage output lineups
 Replaces one of lategame slots, alternative to Black King Bar"
 			"item_ultimate_scepter"		"When: Snowballing out of control, getting slow talent at level 25
@@ -110,6 +108,7 @@ Alternative to Black King Bar"
 Replaces Eul's Scepter or Octarine Core
 Alternative to Blink Dagger"
 			"item_blink"		"May work as initiation/mobilty item. Replaces boots slot later on, Euls or any of lategame items."
+			"item_black_king_bar"		"You need it almost every game relatively early, so it may be considered a core item, can be replaced with an early Bloodstone"
 		}
 	}
 	"AbilityBuild"
@@ -117,20 +116,20 @@ Alternative to Blink Dagger"
 		"AbilityOrder"
 		{
 			"1"		"leshrac_split_earth"
-			"2"		"leshrac_lightning_storm"
-			"3"		"leshrac_lightning_storm"
+			"2"		"leshrac_diabolic_edict"
+			"3"		"leshrac_diabolic_edict"
 			"4"		"leshrac_split_earth"
-			"5"		"leshrac_split_earth"
+			"5"		"leshrac_diabolic_edict"
 			"6"		"leshrac_pulse_nova"
 			"7"		"leshrac_diabolic_edict"
-			"8"		"leshrac_diabolic_edict"
-			"9"		"leshrac_diabolic_edict"
-			"10"		"leshrac_diabolic_edict"
-			"11"		"special_bonus_armor_5"
+			"8"		"leshrac_split_earth"
+			"9"		"leshrac_split_earth"
+			"10"		"special_bonus_armor_5"
+			"11"		"leshrac_lightning_storm"
 			"12"		"leshrac_pulse_nova"
-			"13"		"leshrac_split_earth"
+			"13"		"leshrac_lightning_storm"
 			"14"		"leshrac_lightning_storm"
-			"15"		"special_bonus_movement_speed_30"
+			"15"		"special_bonus_strength_15"
 			"16"		"leshrac_lightning_storm"
 			"18"		"leshrac_pulse_nova"
 			"20"		"special_bonus_unique_leshrac_3"
@@ -143,7 +142,7 @@ Alternative to Blink Dagger"
 			"leshrac_diabolic_edict"		"Your main push potential. This skill essentially turns you into proper carry who  can end the game by himself, as well as pickoff potential.
 Natural combo: Storm - Eul - Split Earth - Edict and chase enemy down until he's dead"
 			"leshrac_pulse_nova"		"Strong farming and teamfight spell, but it's too expensive until the point when you get bloodstone."
-			"special_bonus_strength_15"		"More HP means you can deal damage longer, which can make a difference. "
+			"special_bonus_strength_15"		"More HP means you can deal damage longer, which can make a difference. However, mobility may be just as valuable in a game, so you should take it situationally"
 			"special_bonus_unique_leshrac_3"		"Even while you'd like to double down on surviveability, Pulse Nova damage talent significantly improves your damage output for the same manacost."
 			"special_bonus_unique_leshrac_1"		"More than two times longer edict which means more than two times more damage. More edict damage means better push, which is exactly what we want."
 			"special_bonus_unique_leshrac_2"		"You can get this talent instead, if you have enough damage to push on your team, but need additional slow."
