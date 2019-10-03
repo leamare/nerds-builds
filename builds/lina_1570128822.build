@@ -1,0 +1,96 @@
+"guidedata"
+{
+	"Hero"		"lina"
+	"Title"		"Nerds Support Lina"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000007008034D"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9643D9"
+	"TimePublished"		"0x000000005D9643D9"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_tango"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_arcane_boots"
+				"item"		"item_clarity"
+			}
+			"Core"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_aether_lens"
+				"item"		"item_tranquil_boots"
+				"item"		"item_cyclone"
+			}
+			"Situational Early"
+			{
+				"item"		"item_infused_raindrop"
+				"item"		"item_wind_lace"
+				"item"		"item_bracer"
+				"item"		"item_null_talisman"
+			}
+			"Lategame"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_force_staff"
+				"item"		"item_ghost"
+				"item"		"item_sheepstick"
+				"item"		"item_guardian_greaves"
+				"item"		"item_aeon_disk"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lina_light_strike_array"
+			"2"		"lina_fiery_soul"
+			"3"		"lina_dragon_slave"
+			"4"		"lina_dragon_slave"
+			"5"		"lina_dragon_slave"
+			"6"		"lina_laguna_blade"
+			"7"		"lina_dragon_slave"
+			"8"		"lina_light_strike_array"
+			"9"		"lina_light_strike_array"
+			"10"		"special_bonus_cast_range_125"
+			"11"		"lina_light_strike_array"
+			"12"		"lina_laguna_blade"
+			"13"		"lina_fiery_soul"
+			"14"		"lina_fiery_soul"
+			"15"		"special_bonus_hp_350"
+			"16"		"lina_fiery_soul"
+			"18"		"lina_laguna_blade"
+			"20"		"special_bonus_spell_amplify_14"
+			"25"		"special_bonus_unique_lina_1"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
