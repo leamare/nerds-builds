@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"53"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A345"
-	"TimePublished"		"0x000000005D91A345"
+	"TimeUpdated"		"0x000000005D9667E8"
+	"TimePublished"		"0x000000005D9667E8"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,39 +27,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Safelane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_slippers"
-				"item"		"item_slippers"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_ring_of_basilius"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_wraith_band"
+				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 				"item"		"item_invis_sword"
 			}
+			"Core - Early aggression"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_phase_boots"
+				"item"		"item_mask_of_madness"
+			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
+				"item"		"item_diffusal_blade"
 				"item"		"item_necronomicon"
 				"item"		"item_blink"
+				"item"		"item_magic_wand"
 				"item"		"item_blade_mail"
-				"item"		"item_diffusal_blade"
 				"item"		"item_force_staff"
-				"item"		"item_power_treads"
-				"item"		"item_yasha"
 			}
 			"Lategame"
 			{
+				"item"		"item_mjollnir"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 				"item"		"item_sheepstick"
@@ -70,14 +69,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_solar_crest"
+				"item"		"item_greater_crit"
 				"item"		"item_hurricane_pike"
 				"item"		"item_manta"
 				"item"		"item_ethereal_blade"
-				"item"		"item_greater_crit"
-				"item"		"item_necronomicon_3"
-				"item"		"item_octarine_core"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_octarine_core"
 				"item"		"item_assault"
 				"item"		"item_skadi"
 				"item"		"item_silver_edge"
@@ -100,7 +99,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_hurricane_pike"		"~20 min
 Stat boost and additional escape for cases when something goes wrong (can be used offensively too). Very good against gap closers (PA, Clockwerk, Riki)
 Usually replaces Shadow Blade"
-			"item_necronomicon_3"		"Works out fine against invis heroes or like bonus pushing power"
 			"item_black_king_bar"		"If you are going to join fights early and be in epicenter of them, you should probably get BKB most of the time, usually against heroes with high magic damage or controlling spells. Don't be afraid to get it early and use it every time: it will pay off sooner than you think"
 			"item_blade_mail"		"Since we are tanky enough, it's good to stop enemies from trying to bring us down or at least deal reasonable amounts of damage to them"
 			"item_monkey_king_bar"		"High attack speed inside of magnetic field, a lot of potential procs"
@@ -117,7 +115,6 @@ Arc Warden's signature farming tool. Can be skipped if you are behind"
 May be replaced with other mobility items, depending on situation: Hurricane Pike, Shadow Blade"
 			"item_invis_sword"		"~17 min - You can get it before maelstrom if you're afraid of dying. Generally a good item for Arc, that allowes you to initiate on somebody off-guard with double.
 ALTERNATIVES: Hurricane Pike, Blink Dagger"
-			"item_power_treads"		"If you can't afford early midas and desperately need to fight somehow"
 			"item_necronomicon"		"~10 min
 Good pickup before or right after Hand of Midas to boost your farming capabilities. It's good when you ca afford farming for a little bit more or don't really know do you want to go for Midas or not. Big advantage is having additional mana regen and HP, as well as better jungling capabilities.
 
