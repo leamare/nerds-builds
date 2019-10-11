@@ -1,0 +1,97 @@
+"guidedata"
+{
+	"Hero"		"lycan"
+	"Title"		"Nerds Lycan"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9F6BF5"
+	"TimePublished"		"0x000000005D9F6BF5"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_headdress"
+			}
+			"Core"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_necronomicon_3"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_blight_stone"
+				"item"		"item_ring_of_basilius"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_basher"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_solar_crest"
+				"item"		"item_nullifier"
+				"item"		"item_vladmir"
+				"item"		"item_silver_edge"
+				"item"		"item_desolator"
+				"item"		"item_sheepstick"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lycan_summon_wolves"
+			"2"		"lycan_feral_impulse"
+			"3"		"lycan_summon_wolves"
+			"4"		"lycan_feral_impulse"
+			"5"		"lycan_summon_wolves"
+			"6"		"lycan_shapeshift"
+			"7"		"lycan_summon_wolves"
+			"8"		"lycan_feral_impulse"
+			"9"		"lycan_feral_impulse"
+			"10"		"special_bonus_armor_5"
+			"11"		"lycan_howl"
+			"12"		"lycan_shapeshift"
+			"13"		"lycan_howl"
+			"14"		"lycan_howl"
+			"15"		"special_bonus_cooldown_reduction_12"
+			"16"		"lycan_howl"
+			"18"		"lycan_shapeshift"
+			"20"		"special_bonus_unique_lycan_1"
+			"25"		"special_bonus_unique_lycan_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
