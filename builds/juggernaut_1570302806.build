@@ -1,0 +1,101 @@
+"guidedata"
+{
+	"Hero"		"juggernaut"
+	"Title"		"Nerds Juggernaut"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000007065E632"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9F6C25"
+	"TimePublished"		"0x000000005D9F6C25"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_wraith_band"
+			}
+			"Core"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_mjollnir"
+				"item"		"item_manta"
+			}
+			"Situational Early"
+			{
+				"item"		"item_diffusal_blade"
+				"item"		"item_blink"
+				"item"		"item_bfury"
+			}
+			"Lategame"
+			{
+				"item"		"item_butterfly"
+				"item"		"item_abyssal_blade"
+				"item"		"item_skadi"
+				"item"		"item_nullifier"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_black_king_bar"
+				"item"		"item_satanic"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"juggernaut_blade_fury"
+			"2"		"juggernaut_blade_dance"
+			"3"		"juggernaut_blade_fury"
+			"4"		"juggernaut_healing_ward"
+			"5"		"juggernaut_blade_fury"
+			"6"		"juggernaut_omni_slash"
+			"7"		"juggernaut_blade_fury"
+			"8"		"juggernaut_blade_dance"
+			"9"		"juggernaut_blade_dance"
+			"10"		"special_bonus_all_stats_5"
+			"11"		"juggernaut_blade_dance"
+			"12"		"juggernaut_omni_slash"
+			"13"		"juggernaut_healing_ward"
+			"14"		"juggernaut_healing_ward"
+			"15"		"special_bonus_attack_speed_20"
+			"16"		"juggernaut_healing_ward"
+			"18"		"juggernaut_omni_slash"
+			"20"		"special_bonus_armor_10"
+			"25"		"special_bonus_hp_600"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
