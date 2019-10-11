@@ -1,0 +1,110 @@
+"guidedata"
+{
+	"Hero"		"windrunner"
+	"Title"		"Nerds Windranger"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x000000007065750F"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9F6389"
+	"TimePublished"		"0x000000005D9F6389"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items (Midlane)"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Starting items (Offlane)"
+			{
+				"item"		"item_blight_stone"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_javelin"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_maelstrom"
+			}
+			"Situational Early"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_blink"
+				"item"		"item_orchid"
+				"item"		"item_bottle"
+			}
+			"Lategame"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_satanic"
+				"item"		"item_mjollnir"
+				"item"		"item_greater_crit"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_bloodthorn"
+				"item"		"item_ghost"
+				"item"		"item_aeon_disk"
+				"item"		"item_abyssal_blade"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"windrunner_windrun"
+			"2"		"windrunner_powershot"
+			"3"		"windrunner_windrun"
+			"4"		"windrunner_powershot"
+			"5"		"windrunner_powershot"
+			"6"		"windrunner_focusfire"
+			"7"		"windrunner_powershot"
+			"8"		"windrunner_windrun"
+			"9"		"windrunner_windrun"
+			"10"		"special_bonus_mp_regen_2"
+			"11"		"windrunner_shackleshot"
+			"12"		"windrunner_focusfire"
+			"13"		"windrunner_shackleshot"
+			"14"		"windrunner_shackleshot"
+			"15"		"special_bonus_attack_range_125"
+			"16"		"windrunner_shackleshot"
+			"18"		"windrunner_focusfire"
+			"20"		"special_bonus_unique_windranger"
+			"25"		"special_bonus_cooldown_reduction_30"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
