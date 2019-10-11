@@ -1,0 +1,103 @@
+"guidedata"
+{
+	"Hero"		"phantom_lancer"
+	"Title"		"Nerds Phantom Lancer"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9F6B9F"
+	"TimePublished"		"0x000000005D9F6B9F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_flask"
+			}
+			"Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+			}
+			"Core"
+			{
+				"item"		"item_diffusal_blade"
+				"item"		"item_manta"
+				"item"		"item_heart"
+			}
+			"Situational Early"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_invis_sword"
+				"item"		"item_hood_of_defiance"
+			}
+			"Lategame"
+			{
+				"item"		"item_butterfly"
+				"item"		"item_abyssal_blade"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_satanic"
+				"item"		"item_skadi"
+				"item"		"item_bloodthorn"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_silver_edge"
+				"item"		"item_sphere"
+				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"phantom_lancer_spirit_lance"
+			"2"		"phantom_lancer_phantom_edge"
+			"3"		"phantom_lancer_phantom_edge"
+			"4"		"phantom_lancer_doppelwalk"
+			"5"		"phantom_lancer_phantom_edge"
+			"6"		"phantom_lancer_juxtapose"
+			"7"		"phantom_lancer_phantom_edge"
+			"8"		"phantom_lancer_doppelwalk"
+			"9"		"phantom_lancer_doppelwalk"
+			"10"		"special_bonus_attack_speed_20"
+			"11"		"phantom_lancer_doppelwalk"
+			"12"		"phantom_lancer_juxtapose"
+			"13"		"phantom_lancer_spirit_lance"
+			"14"		"phantom_lancer_spirit_lance"
+			"15"		"special_bonus_hp_275"
+			"16"		"phantom_lancer_spirit_lance"
+			"18"		"phantom_lancer_juxtapose"
+			"20"		"special_bonus_unique_phantom_lancer"
+			"25"		"special_bonus_unique_phantom_lancer_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
