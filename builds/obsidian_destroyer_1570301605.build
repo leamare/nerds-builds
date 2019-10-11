@@ -1,0 +1,100 @@
+"guidedata"
+{
+	"Hero"		"obsidian_destroyer"
+	"Title"		"Nerds Outside Delivery"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x000000007065E1E0"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005D9F6BD1"
+	"TimePublished"		"0x000000005D9F6BD1"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_power_treads"
+			}
+			"Core"
+			{
+				"item"		"item_kaya"
+				"item"		"item_blink"
+				"item"		"item_yasha_and_kaya"
+			}
+			"Situational Early"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_force_staff"
+				"item"		"item_hand_of_midas"
+			}
+			"Lategame"
+			{
+				"item"		"item_sheepstick"
+				"item"		"item_hurricane_pike"
+				"item"		"item_shivas_guard"
+				"item"		"item_moon_shard"
+				"item"		"item_refresher"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_octarine_core"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_kaya_and_sange"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"obsidian_destroyer_astral_imprisonment"
+			"2"		"obsidian_destroyer_equilibrium"
+			"3"		"obsidian_destroyer_astral_imprisonment"
+			"4"		"obsidian_destroyer_arcane_orb"
+			"5"		"obsidian_destroyer_astral_imprisonment"
+			"6"		"obsidian_destroyer_sanity_eclipse"
+			"7"		"obsidian_destroyer_astral_imprisonment"
+			"8"		"obsidian_destroyer_equilibrium"
+			"9"		"obsidian_destroyer_equilibrium"
+			"10"		"special_bonus_attack_speed_20"
+			"11"		"obsidian_destroyer_equilibrium"
+			"12"		"obsidian_destroyer_sanity_eclipse"
+			"13"		"obsidian_destroyer_arcane_orb"
+			"14"		"obsidian_destroyer_arcane_orb"
+			"15"		"special_bonus_mp_350"
+			"16"		"obsidian_destroyer_arcane_orb"
+			"18"		"obsidian_destroyer_sanity_eclipse"
+			"20"		"special_bonus_unique_outworld_devourer_4"
+			"25"		"special_bonus_unique_outworld_devourer"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
