@@ -7,12 +7,12 @@
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A463"
-	"TimePublished"		"0x000000005D91A463"
+	"TimeUpdated"		"0x000000005D99DCA5"
+	"TimePublished"		"0x000000005D99DCA5"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,18 +23,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_gauntlets"
 				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_bracer"
 				"item"		"item_bracer"
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
 				"item"		"item_armlet"
+				"item"		"item_dragon_lance"
 				"item"		"item_heavens_halberd"
 				"item"		"item_blink"
 			}
@@ -43,7 +43,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blade_mail"
 				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -88,17 +88,17 @@ Additional HP and slow, but most importantly - miss chance and disarm, that allo
 			"1"		"huskar_burning_spear"
 			"2"		"huskar_berserkers_blood"
 			"3"		"huskar_inner_fire"
-			"4"		"huskar_berserkers_blood"
+			"4"		"huskar_burning_spear"
 			"5"		"huskar_burning_spear"
 			"6"		"huskar_life_break"
 			"7"		"huskar_burning_spear"
 			"8"		"huskar_berserkers_blood"
-			"9"		"huskar_burning_spear"
+			"9"		"huskar_berserkers_blood"
 			"10"		"huskar_berserkers_blood"
-			"11"		"huskar_inner_fire"
+			"11"		"special_bonus_hp_225"
 			"12"		"huskar_life_break"
 			"13"		"huskar_inner_fire"
-			"14"		"special_bonus_attack_damage_15"
+			"14"		"huskar_inner_fire"
 			"15"		"special_bonus_unique_huskar_2"
 			"16"		"huskar_inner_fire"
 			"18"		"huskar_life_break"

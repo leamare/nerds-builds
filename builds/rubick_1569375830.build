@@ -1,31 +1,32 @@
 "guidedata"
 {
 	"Hero"		"rubick"
-	"Title"		"Untitled"
-	"GameplayVersion"		"7.22g"
-	"Overview"		""
-	"GuideRevision"		"1"
-	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"Title"		"Nerds Rubick"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.22h"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D8AC656"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000005D9F6B4C"
+	"TimePublished"		"0x000000005D9F6B4C"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_sobi_mask"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
+				"item"		"item_wind_lace"
 				"item"		"item_arcane_boots"
 			}
 			"Core"
@@ -51,6 +52,10 @@
 			{
 				"item"		"item_aeon_disk"
 				"item"		"item_rod_of_atos"
+				"item"		"item_ghost"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
 			}
 		}
 		"ItemTooltips"

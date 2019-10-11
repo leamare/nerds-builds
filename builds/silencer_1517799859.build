@@ -7,12 +7,12 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A60F"
-	"TimePublished"		"0x000000005D91A60F"
+	"TimeUpdated"		"0x000000005D99DE82"
+	"TimePublished"		"0x000000005D99DE82"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,16 +21,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_courier"
 				"item"		"item_tango"
+				"item"		"item_tango"
 				"item"		"item_ward_observer"
 				"item"		"item_clarity"
-				"item"		"item_clarity"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_flask"
 			}
 			"Early"
 			{
-				"item"		"item_wind_lace"
-				"item"		"item_boots"
-				"item"		"item_bracer"
 				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
@@ -40,39 +42,41 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_ghost"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_null_talisman"
 				"item"		"item_cyclone"
+				"item"		"item_rod_of_atos"
+				"item"		"item_ghost"
 				"item"		"item_ancient_janggo"
 				"item"		"item_hand_of_midas"
+				"item"		"item_power_treads"
 			}
 			"Utility"
 			{
-				"item"		"item_rod_of_atos"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
-				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
+				"item"		"item_refresher"
+				"item"		"item_hurricane_pike"
 				"item"		"item_silver_edge"
 				"item"		"item_shivas_guard"
 				"item"		"item_bloodthorn"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_refresher"
-				"item"		"item_assault"
 			}
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_necronomicon_3"
 				"item"		"item_guardian_greaves"
 				"item"		"item_mjollnir"
 				"item"		"item_skadi"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -106,7 +110,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"silencer_curse_of_the_silent"
-			"2"		"silencer_last_word"
+			"2"		"silencer_glaives_of_wisdom"
 			"3"		"silencer_curse_of_the_silent"
 			"4"		"silencer_last_word"
 			"5"		"silencer_curse_of_the_silent"
@@ -115,7 +119,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"silencer_last_word"
 			"9"		"silencer_last_word"
 			"10"		"special_bonus_armor_6"
-			"11"		"silencer_glaives_of_wisdom"
+			"11"		"silencer_last_word"
 			"12"		"silencer_global_silence"
 			"13"		"silencer_glaives_of_wisdom"
 			"14"		"silencer_glaives_of_wisdom"
