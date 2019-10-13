@@ -2,9 +2,9 @@
 
 ## Patch: 7.22h
 
-### Total builds published: 62 (out of ~210 planned)
+### Total builds published: 68 (out of ~210 planned)
 
-### Descriptions ready: 32 out of 62
+### Descriptions ready: 32 out of 68
 
 ---
 
