@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A65C"
-	"TimePublished"		"0x000000005D91A65C"
+	"TimeUpdated"		"0x000000005DA37FD0"
+	"TimePublished"		"0x000000005DA37FD0"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,7 +31,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_hand_of_midas"
+				"item"		"item_ancient_janggo"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
@@ -41,9 +41,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"SItuational Early"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_ancient_janggo"
-				"item"		"item_lifesteal"
 				"item"		"item_orb_of_venom"
+				"item"		"item_hand_of_midas"
+				"item"		"item_lifesteal"
 			}
 			"Lategame"
 			{
@@ -108,11 +108,11 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 			"1"		"ursa_fury_swipes"
 			"2"		"ursa_overpower"
 			"3"		"ursa_fury_swipes"
-			"4"		"ursa_earthshock"
+			"4"		"ursa_overpower"
 			"5"		"ursa_fury_swipes"
 			"6"		"ursa_enrage"
 			"7"		"ursa_fury_swipes"
-			"8"		"ursa_overpower"
+			"8"		"ursa_earthshock"
 			"9"		"ursa_overpower"
 			"10"		"special_bonus_mp_regen_3"
 			"11"		"ursa_overpower"
