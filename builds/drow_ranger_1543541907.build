@@ -8,12 +8,12 @@
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A3ED"
-	"TimePublished"		"0x000000005D91A3ED"
+	"TimeUpdated"		"0x000000005DABC2F1"
+	"TimePublished"		"0x000000005DABC2F1"
 	"ItemBuild"
 	{
 		"Items"
@@ -67,13 +67,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_sheepstick"
+				"item"		"item_basher"
 				"item"		"item_ethereal_blade"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_abyssal_blade"
 				"item"		"item_mask_of_madness"
+				"item"		"item_sheepstick"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
