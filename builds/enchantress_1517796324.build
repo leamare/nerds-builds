@@ -3,17 +3,17 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Roaming Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide-688 (Last updated for 7.07)"
-	"GuideRevision"		"36"
+	"GuideRevision"		"37"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A3F4"
-	"TimePublished"		"0x000000005D91A3F4"
+	"TimeUpdated"		"0x000000005DDFEF44"
+	"TimePublished"		"0x000000005DDFEF44"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,13 +30,14 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_buckler"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_ancient_janggo"
+				"item"		"item_power_treads"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_dragon_lance"
 				"item"		"item_hurricane_pike"
 			}
@@ -44,12 +45,11 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_spirit_vessel"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_force_staff"
 				"item"		"item_cyclone"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
@@ -107,7 +107,6 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_dragon_lance"		"The main item we need to get. Stats and attack range - our main sources of tankiness and damage."
 			"item_silver_edge"		"The best Ench item after Pike. Gives a lot of stats, attack speed and damage, mobility, additional escape and long-range utility (with Break effect)."
 			"item_blight_stone"		"Good for roaming and jungle farming with creeps"
-			"item_ancient_janggo"		"Cheap stats item and movespeed aura. Good for playing semi-support, but in other case silver edge is still better. Small tip: Disassemble your Basilius and sell ring of protection, you won't need it and can make drums faster."
 			"item_glimmer_cape"		"A little bit of attack speed, useful active ability for saving people from focus."
 		}
 	}
@@ -115,23 +114,23 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 	{
 		"AbilityOrder"
 		{
-			"1"		"enchantress_enchant"
+			"1"		"enchantress_impetus"
 			"2"		"enchantress_natures_attendants"
-			"3"		"enchantress_enchant"
-			"4"		"enchantress_untouchable"
-			"5"		"enchantress_enchant"
-			"6"		"enchantress_impetus"
-			"7"		"enchantress_untouchable"
-			"8"		"enchantress_untouchable"
-			"9"		"enchantress_untouchable"
+			"3"		"enchantress_impetus"
+			"4"		"enchantress_enchant"
+			"5"		"enchantress_impetus"
+			"6"		"enchantress_untouchable"
+			"7"		"enchantress_impetus"
+			"8"		"enchantress_natures_attendants"
+			"9"		"enchantress_natures_attendants"
 			"10"		"special_bonus_magic_resistance_15"
 			"11"		"enchantress_enchant"
-			"12"		"enchantress_impetus"
+			"12"		"enchantress_untouchable"
 			"13"		"enchantress_natures_attendants"
-			"14"		"enchantress_natures_attendants"
+			"14"		"enchantress_enchant"
 			"15"		"special_bonus_attack_damage_50"
-			"16"		"enchantress_natures_attendants"
-			"18"		"enchantress_impetus"
+			"16"		"enchantress_enchant"
+			"18"		"enchantress_untouchable"
 			"20"		"special_bonus_unique_enchantress_3"
 			"25"		"special_bonus_unique_enchantress_4"
 		}

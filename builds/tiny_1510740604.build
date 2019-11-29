@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A64D"
-	"TimePublished"		"0x000000005D91A64D"
+	"TimeUpdated"		"0x000000005DE12B9E"
+	"TimePublished"		"0x000000005DE12B9E"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,12 +20,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_stout_shield"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_ring_of_protection"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
@@ -81,15 +80,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"tiny_craggy_exterior"
 			"2"		"tiny_toss"
-			"3"		"tiny_craggy_exterior"
 			"4"		"tiny_avalanche"
-			"5"		"tiny_craggy_exterior"
 			"6"		"tiny_grow"
 			"7"		"tiny_toss"
 			"8"		"tiny_toss"
-			"9"		"tiny_craggy_exterior"
 			"10"		"special_bonus_attack_damage_30"
 			"11"		"tiny_toss"
 			"12"		"tiny_grow"
@@ -98,7 +93,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_400"
 			"16"		"tiny_avalanche"
 			"18"		"tiny_grow"
-			"20"		"special_bonus_unique_tiny_4"
+			"20"		"special_bonus_strength_20"
 			"25"		"special_bonus_unique_tiny_2"
 		}
 		"AbilityTooltips"

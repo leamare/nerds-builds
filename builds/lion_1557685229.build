@@ -3,16 +3,16 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Core Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"15"
+	"GuideRevision"		"16"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A4E0"
-	"TimePublished"		"0x000000005D91A4E0"
+	"TimeUpdated"		"0x000000005DDFF15A"
+	"TimePublished"		"0x000000005DDFF15A"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,10 +20,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_mantle"
+				"item"		"item_circlet"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{

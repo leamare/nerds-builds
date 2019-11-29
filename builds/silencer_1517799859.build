@@ -3,36 +3,38 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"42"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D99DE82"
-	"TimePublished"		"0x000000005D99DE82"
+	"TimeUpdated"		"0x000000005DE12802"
+	"TimePublished"		"0x000000005DE12802"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_courier"
 				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_ward_observer"
-				"item"		"item_clarity"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_wind_lace"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
@@ -42,7 +44,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_null_talisman"
 				"item"		"item_cyclone"
 				"item"		"item_rod_of_atos"

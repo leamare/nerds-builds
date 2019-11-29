@@ -1,0 +1,93 @@
+"guidedata"
+{
+	"Hero"		"snapfire"
+	"Title"		"Nerds Snapfire"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.23a"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DE0B05A"
+	"TimePublished"		"0x000000005DE0B05A"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_stick"
+				"item"		"item_bracer"
+			}
+			"Core"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_rod_of_atos"
+			}
+			"Situational Early"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_glimmer_cape"
+				"item"		"item_veil_of_discord"
+				"item"		"item_aether_lens"
+			}
+			"Lategame"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_guardian_greaves"
+				"item"		"item_sheepstick"
+				"item"		"item_lotus_orb"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"snapfire_firesnap_cookie"
+			"2"		"snapfire_lil_shredder"
+			"3"		"snapfire_scatterblast"
+			"4"		"snapfire_lil_shredder"
+			"5"		"snapfire_firesnap_cookie"
+			"6"		"snapfire_mortimer_kisses"
+			"7"		"snapfire_lil_shredder"
+			"8"		"snapfire_lil_shredder"
+			"9"		"snapfire_firesnap_cookie"
+			"10"		"special_bonus_hp_250"
+			"11"		"snapfire_firesnap_cookie"
+			"12"		"snapfire_mortimer_kisses"
+			"13"		"snapfire_scatterblast"
+			"14"		"snapfire_scatterblast"
+			"15"		"special_bonus_unique_snapfire_5"
+			"16"		"snapfire_scatterblast"
+			"18"		"snapfire_mortimer_kisses"
+			"20"		"special_bonus_unique_snapfire_4"
+			"25"		"special_bonus_unique_snapfire_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

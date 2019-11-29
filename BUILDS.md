@@ -1,10 +1,10 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.22h
+## Patch: 7.23a
 
-### Total builds published: 68 (out of ~210 planned)
+### Total builds published: 73 (out of ~214 planned)
 
-### Descriptions ready: 32 out of 68
+### Descriptions ready: 32 out of 72
 
 ---
 
@@ -36,6 +36,7 @@ Io | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=18
 Juggernaut | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885726258) | [builds/juggernaut_1570302806.build](builds/juggernaut_1570302806.build)
 Leshrac | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1401022207) | [builds/leshrac_1525173582.build](builds/leshrac_1525173582.build)
 Lifestealer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1318136390) | [builds/life_stealer_1520015205.build](builds/life_stealer_1520015205.build)
+Lifestealer | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1922924099) | [builds/life_stealer_1574960315.build](builds/life_stealer_1574960315.build)
 Lina | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879573325) | [builds/lina_1570128822.build](lina_1570128822.build)
 Lion | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739757772) | [builds/lion_1557685229.build](builds/lion_1557685229.build)
 Lion | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1352342730) | [builds/lion_1522866367.build](builds/lion_1522866367.build)
@@ -61,6 +62,8 @@ Shadow Demon | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedet
 Silencer | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917140515) | [builds/silencer_1517799768.build](builds/silencer_1517799768.build)
 Silencer | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=905824211) | [builds/silencer_1517799859.build](builds/silencer_1517799859.build)
 Slark | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879560305) | [builds/slark_1570127907.build](slark_1570127907.build)
+Snapfire | Offlane |  [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1923630478) | [builds/snapfire_1574954060.build](builds/snapfire_1574954060.build)
+Snapfire | Support | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1922972240) | [builds/snapfire_1574954067.build](builds/snapfire_1574954067.build)
 Sniper | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879536271) | [builds/sniper_1570126171.build](builds/sniper_1570126171.build)
 Spectre | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=836049799) | [builds/spectre_1517799392.build](builds/spectre_1517799392.build)
 Spectre | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739726188) | [builds/spectre_1557683534.build](builds/spectre_1557683534.build)
@@ -72,6 +75,8 @@ Ursa | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id
 Vengeful Spirit | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=906051803) | [builds/vengefulspirit_1517800254.build](builds/vengefulspirit_1517800254.build)
 Viper | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1669280746) | [builds/viper_1551201914.build](builds/viper_1551201914.build)
 Visage | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836044023) | [builds/visage_1517798650.build](builds/visage_1517798650.build)
+Void Spirit | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921591322) | [builds/void_spirit_1574795637.build](builds/void_spirit_1574795637.build)
+Void Spirit | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921841646) | [builds/void_spirit_1574826440.build](builds/void_spirit_1574826440.build)
 Weaver | Support/Offlane | ~ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [builds/weaver_1517797555.build](builds/weaver_1517797555.build)
 Windranger | Core/Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885697295) | [builds/windrunner_1570301129.build](builds/windrunner_1570301129.build)
 Winter Wyvern | Offlane | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [builds/winter_wyvern_1510588707.build](builds/winter_wyvern_1510588707.build)

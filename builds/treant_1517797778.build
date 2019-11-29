@@ -3,17 +3,17 @@
 	"Hero"		"treant"
 	"Title"		"Nerds Treant Protector"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A655"
-	"TimePublished"		"0x000000005D91A655"
+	"TimeUpdated"		"0x000000005DE12BFA"
+	"TimePublished"		"0x000000005DE12BFA"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,20 +22,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_orb_of_venom"
-				"item"		"item_stout_shield"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
-				"item"		"item_ward_sentry"
-				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_tranquil_boots"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
-				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_meteor_hammer"
 				"item"		"item_blink"
 				"item"		"item_spirit_vessel"
@@ -84,7 +84,6 @@ Your most important item. You may skip Meteor Hammer, but you need to get Blink 
 Movement speed and mana regen are nice, it may help you with scouting or playing against silences/Kunkka or something similar"
 			"item_ultimate_scepter"		"~22-35 min
 Awesome upgrade that allowes you to place vision nearly everywhere. Your main goal is to scout as agressively as possible. In that case you will be able to pressure lanes (meteor hammer) and place vision (aghs). Another thing to note - it helps with successful ultimate uses while also denying enemy farm and giving money to you. Try to get it if you have enough money and space"
-			"item_stout_shield"		"Shield is good if you have extra money and you're going to brawl on lane a lot"
 			"item_ward_sentry"		"Early sentry for quick dewarding early on"
 			"item_orb_of_venom"		"Another item to pick up if you have starting money left is OoV. It will increase your damage output a little bit and will add a little bit more kill potential to what you already have"
 			"item_tranquil_boots"		"High movement speed bonus to be able to run from tree to tree around and scout"
@@ -112,25 +111,25 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 	{
 		"AbilityOrder"
 		{
-			"1"		"treant_natures_guise"
-			"2"		"treant_leech_seed"
+			"1"		"treant_leech_seed"
+			"2"		"treant_living_armor"
 			"3"		"treant_leech_seed"
-			"4"		"treant_natures_guise"
+			"4"		"treant_natures_grasp"
 			"5"		"treant_leech_seed"
 			"6"		"treant_overgrowth"
 			"7"		"treant_leech_seed"
-			"8"		"treant_natures_guise"
-			"9"		"treant_natures_guise"
+			"8"		"treant_living_armor"
+			"9"		"treant_living_armor"
 			"10"		"special_bonus_cooldown_reduction_10"
 			"11"		"treant_living_armor"
 			"12"		"treant_overgrowth"
-			"13"		"treant_living_armor"
-			"14"		"treant_living_armor"
+			"13"		"treant_natures_grasp"
+			"14"		"treant_natures_grasp"
 			"15"		"special_bonus_attack_damage_90"
-			"16"		"treant_living_armor"
+			"16"		"treant_natures_grasp"
 			"18"		"treant_overgrowth"
-			"20"		"special_bonus_unique_treant_4"
-			"25"		"special_bonus_unique_treant_5"
+			"20"		"special_bonus_unique_treant_10"
+			"25"		"special_bonus_unique_treant_7"
 		}
 		"AbilityTooltips"
 		{

@@ -1,0 +1,91 @@
+"guidedata"
+{
+	"Hero"		"life_stealer"
+	"Title"		"Nerds Support LS"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.23a"
+	"Overview"		"
+
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DE0A8BC"
+	"TimePublished"		"0x000000005DE0A8BC"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_orb_of_venom"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_buckler"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_vladmir"
+				"item"		"item_buckler"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_medallion_of_courage"
+				"item"		"item_phase_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_quelling_blade"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_radiance"
+				"item"		"item_shivas_guard"
+				"item"		"item_gem"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"life_stealer_feast"
+			"2"		"life_stealer_open_wounds"
+			"3"		"life_stealer_rage"
+			"4"		"life_stealer_feast"
+			"5"		"life_stealer_open_wounds"
+			"6"		"life_stealer_infest"
+			"7"		"life_stealer_open_wounds"
+			"8"		"life_stealer_feast"
+			"9"		"life_stealer_open_wounds"
+			"10"		"special_bonus_attack_speed_30"
+			"11"		"life_stealer_feast"
+			"12"		"life_stealer_infest"
+			"13"		"life_stealer_rage"
+			"14"		"life_stealer_rage"
+			"15"		"special_bonus_movement_speed_25"
+			"16"		"life_stealer_rage"
+			"18"		"life_stealer_infest"
+			"20"		"special_bonus_unique_lifestealer_2"
+			"25"		"special_bonus_unique_lifestealer"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

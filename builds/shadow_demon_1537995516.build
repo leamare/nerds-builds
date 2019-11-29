@@ -3,19 +3,19 @@
 	"Hero"		"shadow_demon"
 	"Title"		"Nerds Shadow Demon"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Shadow Demon is intelligence hero who can be played as support or caster core. He has great wave clear and damage ability (Shadow Poison and Soul Catcher), while also having setup and save (Disruption). His main waknesses are low effective HP pool and lack of any kind of mobility.
 
 You can use Disruption early on as a tool to abuse your good base damage for better hit trading. You will be lacking mobility before you'll get to Blink Dagger, but you can compensate it by using Shadow Poison to scout territory. Your goal to just get levels as fast as possible and start nuking enemies down. With blink you can start agressive lane push by killing creepwaves with shadow poison and running away as soon as you feel somebody's coming. Splitfarming and lane shaving will help you to get items and levels faster, while also creating space for your team.
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A5EE"
-	"TimePublished"		"0x000000005D91A5EE"
+	"TimeUpdated"		"0x000000005DE12782"
+	"TimePublished"		"0x000000005DE12782"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,10 +23,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Midlane)"
 			{
 				"item"		"item_mantle"
+				"item"		"item_circlet"
 				"item"		"item_mantle"
-				"item"		"item_mantle"
-				"item"		"item_mantle"
-				"item"		"item_branches"
+				"item"		"item_circlet"
 			}
 			"Starting items (Offlane)"
 			{
@@ -39,8 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
@@ -48,6 +46,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_veil_of_discord"
 				"item"		"item_aether_lens"
 				"item"		"item_travel_boots"
 				"item"		"item_yasha_and_kaya"

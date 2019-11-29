@@ -3,17 +3,17 @@
 	"Hero"		"morphling"
 	"Title"		"Nerds Support Morphling"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A58F"
-	"TimePublished"		"0x000000005D91A58F"
+	"TimeUpdated"		"0x000000005DDFF407"
+	"TimePublished"		"0x000000005DDFF407"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,23 +21,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_wind_lace"
-				"item"		"item_ward_observer"
-				"item"		"item_courier"
+				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_soul_ring"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
-				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_aether_lens"
 				"item"		"item_blink"
-				"item"		"item_ancient_janggo"
 				"item"		"item_tranquil_boots"
 			}
 			"Situational Early"
@@ -45,7 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_blade_mail"
 				"item"		"item_phase_boots"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_soul_ring"
 			}
 			"Utility"
 			{
@@ -100,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_skadi"		"At the point when you will be able to transition into core, you will have enough stats already by yourself, but huge boost from skadi will make you tankier, while also increasing your damage output."
 			"item_ethereal_blade"		"Allowes us to save allies from physical damage, gives us opportunity to use shotgun combo, even starts our transition into core with huge agility boost."
 			"item_octarine_core"		"Massive manapool increase and, of course, cooldown reduction, so downtime between our stun instances will bae as low as possible."
-			"item_ancient_janggo"		"A little bit of tankiness, a little bit of mana, a little bit of mana regen. Not the best item to get, but it's cheap and provides a lot of useful bonuses."
 			"item_solar_crest"		"Strong armor item, mana regen, allowes us to save allies from massive physical damage, while also solves our armor problems (when we're morphed to str)"
 			"item_guardian_greaves"		"Ultimate support item, huge armor boost and nice regen aura for our team"
 			"item_tranquil_boots"		"At some point, with Lens and mana talent, we won't need arcanes anymore, while extra mobility and health regen will be pretty handy for support morphling"

@@ -3,38 +3,38 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DA37FD0"
-	"TimePublished"		"0x000000005DA37FD0"
+	"TimeUpdated"		"0x000000005DE12C1A"
+	"TimePublished"		"0x000000005DE12C1A"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_ring_of_protection"
+				"item"		"item_quelling_blade"
 				"item"		"item_flask"
-				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_stout_shield"
-				"item"		"item_branches"
-				"item"		"item_branches"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_orb_of_venom"
 				"item"		"item_magic_wand"
-				"item"		"item_ancient_janggo"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
+				"item"		"item_ancient_janggo"
 				"item"		"item_blink"
 				"item"		"item_basher"
 			}

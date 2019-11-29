@@ -3,37 +3,41 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A676"
-	"TimePublished"		"0x000000005D91A676"
+	"TimeUpdated"		"0x000000005DE12D1A"
+	"TimePublished"		"0x000000005DE12D1A"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items / Midlane"
 			{
-				"item"		"item_ring_of_basilius"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ring_of_protection"
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_health"
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_blight_stone"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_headdress"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_buckler"
 				"item"		"item_solar_crest"
-				"item"		"item_vladmir"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
@@ -41,11 +45,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_pipe"
 				"item"		"item_ancient_janggo"
-				"item"		"item_null_talisman"
-				"item"		"item_hand_of_midas"
 				"item"		"item_phase_boots"
-				"item"		"item_headdress"
 				"item"		"item_bracer"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -83,8 +85,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_vladmir"		"~8-17 min
-Good aura for your team, another regen item. Works both offensively and defensively, buffs your damage output even more. Great if you want to boost your damage output or play against crimson guard or Rubick."
 			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups."
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
 			"item_bloodthorn"		"Perfect offensive item: crit, silence, attackspeed. a lot of damage."
@@ -100,11 +100,9 @@ Good aura for your team, another regen item. Works both offensively and defensiv
 			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. Pretty cheap, gives Visage additional lockdown and tankiness"
 			"item_glimmer_cape"		"Often you will be focused, so you won't survive and graekeeper's cloak won't help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
 			"item_helm_of_the_dominator"		"~8-12 min
-In case somebody already made Vlads.
-Try to dominate a catapult and push. If you can't - just get a random neutral and try to fight. This build is generally better if you can afford it early, so you need to sacrifice Hand of Midas purchase in return."
+"
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
 			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
-			"item_headdress"		"Even tho we're not going to pick up HotD most of the time, it's still good to have early on for it's price. It can be used later to get Pipe or Greaves"
 			"item_hand_of_midas"		"We need levels as fast as possible to get to this juicy level 12 powerspike. Until then there's not much point in getting something else since Cloak is enough for surviveability and Headdress is enough for sustain. Works well if the game will be delayed anyway and you had a decent lane"
 			"item_guardian_greaves"		"Powerful aura and a lot of sustain. Usually you tend to not upgrade your boots as Visage for a long time, and Greaves work well with all this \"early pressure\" playstyle"
 		}

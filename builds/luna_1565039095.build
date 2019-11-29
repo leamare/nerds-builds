@@ -3,28 +3,28 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x000000006CDACDE8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A50D"
-	"TimePublished"		"0x000000005D91A50D"
+	"TimeUpdated"		"0x000000005DDFF1EC"
+	"TimePublished"		"0x000000005DDFF1EC"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_slippers"
 				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_tango"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{

@@ -3,40 +3,38 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D9667E8"
-	"TimePublished"		"0x000000005D9667E8"
+	"TimeUpdated"		"0x000000005DDFE5B4"
+	"TimePublished"		"0x000000005DDFE5B4"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items (Mid)"
-			{
-				"item"		"item_slippers"
-				"item"		"item_circlet"
-				"item"		"item_ring_of_protection"
-				"item"		"item_flask"
-			}
-			"Starting Items (Safelane)"
+			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
+				"item"		"item_flask"
+				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 				"item"		"item_invis_sword"

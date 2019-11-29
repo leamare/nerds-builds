@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A43A"
-	"TimePublished"		"0x000000005D91A43A"
+	"TimeUpdated"		"0x000000005DE12483"
+	"TimePublished"		"0x000000005DE12483"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,36 +22,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_mantle"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_mantle"
 			}
 			"Starting Items - Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_blight_stone"
-				"item"		"item_branches"
+				"item"		"item_ring_of_protection"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_hand_of_midas"
 				"item"		"item_dragon_lance"
-				"item"		"item_hurricane_pike"
+				"item"		"item_veil_of_discord"
 			}
 			"Situational Early"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_null_talisman"
 				"item"		"item_bracer"
-				"item"		"item_ring_of_basilius"
-				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
 				"item"		"item_force_staff"
@@ -66,7 +65,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_assault"
@@ -76,6 +75,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_solar_crest"
 				"item"		"item_sphere"
 				"item"		"item_silver_edge"
@@ -85,8 +85,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_spirit_vessel"
-				"item"		"item_rod_of_atos"
 				"item"		"item_cyclone"
+				"item"		"item_hand_of_midas"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -109,7 +109,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_cyclone"		"Another one mobility alternative, but without stats. It gives us Cyclone, which is useful while chasing someone or purging silences, and mana regen. But, again, it doesn't give us stats."
 			"item_force_staff"		"Since we are going to make pike anyway, this item is good to pick up first too: it increses our mana pool, damage and gives us escape. "
 			"item_hurricane_pike"		"Good upgrade for Dragon Lance since it gives us more damage, attack speed, armor and mobility. But it's still bad item to rush: better pick it up after something for stats."
-			"item_ultimate_scepter"		"More stats, more range. Since 6.87 it's bad item to rush first (because there's also Huricane Pike), but it's still really good since gives us more damage, stats and, of course, ability to outrange towers."
 			"item_assault"		"We need armor and attackspeed, so AC is good for us. We will probably stay behind, but it still gives us alot of armor and attack speed."
 			"item_black_king_bar"		"Another anti-magic item, alternative to Pipe for cases when enemies have a lot of stuns or silences."
 			"item_shivas_guard"		"Another one good late game item. If you really need armor and/or doesn't need disable, this one is probably good alternative to Sheepstick."
@@ -121,7 +120,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_skadi"		"Another one stat-heavy item, but it gives us nice attack damage and slow. Since 6.86 it works with impetus, so it's good choice if you need damage and want HP."
 			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
 			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."
-			"item_ancient_janggo"		"Cheap stats and mana regen"
 			"item_medallion_of_courage"		"Great armor/mana regen solution. Awesome early game item, potential Solar Crest upgrade which provides awesome stats and strong buff for your another core"
 		}
 	}
@@ -130,22 +128,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"enchantress_natures_attendants"
-			"2"		"enchantress_untouchable"
-			"3"		"enchantress_untouchable"
-			"4"		"enchantress_natures_attendants"
-			"5"		"enchantress_untouchable"
-			"6"		"enchantress_impetus"
-			"7"		"enchantress_untouchable"
-			"8"		"enchantress_enchant"
+			"2"		"enchantress_impetus"
+			"3"		"enchantress_natures_attendants"
+			"4"		"enchantress_impetus"
+			"5"		"enchantress_impetus"
+			"6"		"enchantress_untouchable"
+			"7"		"enchantress_impetus"
+			"8"		"enchantress_natures_attendants"
 			"9"		"enchantress_natures_attendants"
 			"10"		"special_bonus_magic_resistance_15"
-			"11"		"enchantress_natures_attendants"
-			"12"		"enchantress_impetus"
+			"11"		"enchantress_enchant"
+			"12"		"enchantress_untouchable"
 			"13"		"enchantress_enchant"
 			"14"		"enchantress_enchant"
 			"15"		"special_bonus_attack_damage_50"
 			"16"		"enchantress_enchant"
-			"18"		"enchantress_impetus"
+			"18"		"enchantress_untouchable"
 			"20"		"special_bonus_unique_enchantress_3"
 			"25"		"special_bonus_unique_enchantress_4"
 		}

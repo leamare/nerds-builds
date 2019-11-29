@@ -3,29 +3,29 @@
 	"Hero"		"sven"
 	"Title"		"Nerds Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"Sven in a strength melee hero, who can be played as both a powerful core and a support. Supportng Sven excells at initiating fights with Storm Hammer and providing attack damage shield to allies, while also being hard to take down even without any items. Later on into the game because of Great Cleave Sven can start transitioning into either utility core or a full blown carry, staying relevant at every stage of the game.
 
 As a support Sven your main goal is not to deal damage or transition into core. First thing to focus on is using Storm Hammer and soaking resources from enemy heroes on lane early on, to then proceed to ganking. During mid-game fights Sven's goal is to initiate and then be a frontline hero, while also constantly throwing Storm Hammer and using Warcry.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000005F0EE7A0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A641"
-	"TimePublished"		"0x000000005D91A641"
+	"TimeUpdated"		"0x000000005DE12A71"
+	"TimePublished"		"0x000000005DE12A71"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_stout_shield"
 				"item"		"item_tango"
 				"item"		"item_flask"
+				"item"		"item_ring_of_protection"
 				"item"		"item_enchanted_mango"
-				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
@@ -33,18 +33,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_stick"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
-				"item"		"item_urn_of_shadows"
-				"item"		"item_magic_wand"
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
+				"item"		"item_vladmir"
+				"item"		"item_magic_wand"
 			}
 			"Situational Early"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_vladmir"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
 				"item"		"item_medallion_of_courage"

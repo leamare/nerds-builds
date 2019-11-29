@@ -3,16 +3,16 @@
 	"Hero"		"windrunner"
 	"Title"		"Nerds Windranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"4"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D9F6389"
-	"TimePublished"		"0x000000005D9F6389"
+	"TimeUpdated"		"0x000000005DE12E18"
+	"TimePublished"		"0x000000005DE12E18"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,18 +20,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items (Midlane)"
 			{
 				"item"		"item_mantle"
+				"item"		"item_circlet"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 			}
 			"Starting items (Offlane)"
 			{
-				"item"		"item_blight_stone"
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+				"item"		"item_clarity"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
@@ -100,7 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_attack_range_125"
 			"16"		"windrunner_shackleshot"
 			"18"		"windrunner_focusfire"
-			"20"		"special_bonus_unique_windranger"
+			"20"		"special_bonus_unique_windranger_6"
 			"25"		"special_bonus_cooldown_reduction_30"
 		}
 		"AbilityTooltips"

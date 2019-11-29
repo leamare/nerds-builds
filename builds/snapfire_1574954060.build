@@ -1,0 +1,107 @@
+"guidedata"
+{
+	"Hero"		"snapfire"
+	"Title"		"Nerds Snapfire"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23a"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DE132BA"
+	"TimePublished"		"0x000000005DE132BA"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_ring_of_protection"
+			}
+			"Early"
+			{
+				"item"		"item_buckler"
+				"item"		"item_boots"
+				"item"		"item_bracer"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_vladmir"
+			}
+			"Situational Early"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_maelstrom"
+				"item"		"item_dragon_lance"
+				"item"		"item_basher"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_mjollnir"
+			}
+			"Situational / Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_lotus_orb"
+				"item"		"item_guardian_greaves"
+				"item"		"item_black_king_bar"
+				"item"		"item_pipe"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_heavens_halberd"
+				"item"		"item_crimson_guard"
+			}
+			"I will murder your entire  team"
+			{
+				"item"		"item_rapier"
+				"item"		"item_greater_crit"
+				"item"		"item_kaya_and_sange"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"snapfire_lil_shredder"
+			"2"		"snapfire_firesnap_cookie"
+			"3"		"snapfire_lil_shredder"
+			"4"		"snapfire_scatterblast"
+			"5"		"snapfire_lil_shredder"
+			"6"		"snapfire_mortimer_kisses"
+			"7"		"snapfire_lil_shredder"
+			"8"		"snapfire_firesnap_cookie"
+			"9"		"snapfire_firesnap_cookie"
+			"10"		"special_bonus_hp_250"
+			"11"		"snapfire_firesnap_cookie"
+			"12"		"snapfire_mortimer_kisses"
+			"13"		"snapfire_scatterblast"
+			"14"		"snapfire_scatterblast"
+			"15"		"special_bonus_unique_snapfire_7"
+			"16"		"snapfire_scatterblast"
+			"18"		"snapfire_mortimer_kisses"
+			"20"		"special_bonus_unique_snapfire_6"
+			"25"		"special_bonus_unique_snapfire_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

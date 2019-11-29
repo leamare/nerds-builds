@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005D91A31B"
-	"TimePublished"		"0x000000005D91A31B"
+	"TimeUpdated"		"0x000000005DDFE5AD"
+	"TimePublished"		"0x000000005DDFE5AD"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,16 +23,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
-				"item"		"item_ward_observer"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
-				"item"		"item_courier"
-				"item"		"item_clarity"
+				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
@@ -44,6 +47,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_blink"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_cyclone"
 				"item"		"item_ancient_janggo"
 				"item"		"item_arcane_boots"
 				"item"		"item_medallion_of_courage"
