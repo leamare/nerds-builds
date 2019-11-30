@@ -3,51 +3,50 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23a"
+	"GameplayVersion"		"7.23b"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"66"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE12D1A"
-	"TimePublished"		"0x000000005DE12D1A"
+	"TimeUpdated"		"0x000000005DE22F88"
+	"TimePublished"		"0x000000005DE22F88"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items / Midlane"
 			{
-				"item"		"item_mantle"
-				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_ring_of_protection"
+				"item"		"item_crown"
 			}
 			"Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_headdress"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_boots"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_buckler"
+				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_blight_stone"
 				"item"		"item_magic_wand"
 				"item"		"item_pipe"
-				"item"		"item_ancient_janggo"
 				"item"		"item_phase_boots"
 				"item"		"item_bracer"
 				"item"		"item_hand_of_midas"
+				"item"		"item_null_talisman"
+				"item"		"item_buckler"
 			}
 			"Lategame"
 			{
@@ -73,8 +72,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
-				"item"		"item_moon_shard"
 				"item"		"item_guardian_greaves"
+				"item"		"item_moon_shard"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

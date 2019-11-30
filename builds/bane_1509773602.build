@@ -10,12 +10,12 @@ This build is based around his ability to dominate the lane and snowball from he
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DDFE5DE"
-	"TimePublished"		"0x000000005DDFE5DE"
+	"TimeUpdated"		"0x000000005DE2339B"
+	"TimePublished"		"0x000000005DE2339B"
 	"ItemBuild"
 	{
 		"Items"
@@ -46,9 +46,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_hood_of_defiance"
-				"item"		"item_invis_sword"
 				"item"		"item_hand_of_midas"
 				"item"		"item_yasha_and_kaya"
+				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
@@ -95,7 +95,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_phase_boots"		"Additional movement speed and armor are pretty much all Bane needs seems he doesn't need attack speed and stats more than he already has"
 			"item_medallion_of_courage"		"Additional armor and utility. It will help with mana sustain and tankiness, but it will also help with damage output early on for a cheap price"
 			"item_hand_of_midas"		"Good for cases when you won your lane early on, but can't finish the game early. Bane struggles with farming after laning stage, so it may be a helpful pickup"
-			"item_invis_sword"		"For getting pickoffs"
 			"item_yasha_and_kaya"		"You don't really need tankiness, and Yaha-Kaya may help you with both farming and damage output if you're going to establish your domination"
 			"item_solar_crest"		"Natural upgrade to Medallion and useful buff for your team"
 			"item_sheepstick"		"Reliable disable and mana sustain"
