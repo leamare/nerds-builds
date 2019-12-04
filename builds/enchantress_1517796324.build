@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"enchantress"
-	"Title"		"Nerds Roaming Enchantress"
-	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"Title"		"Nerds Support Enchantress"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
 	"GameplayVersion"		"7.23b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide-688 (Last updated for 7.07)"
-	"GuideRevision"		"38"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE21437"
-	"TimePublished"		"0x000000005DE21437"
+	"TimeUpdated"		"0x000000005DE36C85"
+	"TimePublished"		"0x000000005DE36C85"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,54 +22,47 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			{
 				"item"		"item_clarity"
 				"item"		"item_tango"
-				"item"		"item_blight_stone"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_headdress"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_buckler"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_pipe"
+				"item"		"item_mekansm"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_dragon_lance"
-				"item"		"item_hurricane_pike"
+				"item"		"item_force_staff"
 			}
 			"Situational Early"
 			{
-				"item"		"item_hand_of_midas"
-				"item"		"item_spirit_vessel"
-				"item"		"item_force_staff"
+				"item"		"item_pipe"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_cyclone"
-				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
-				"item"		"item_silver_edge"
-				"item"		"item_bloodthorn"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_monkey_king_bar"
 			}
 			"Utility"
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_vladmir"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_lotus_orb"
-				"item"		"item_pipe"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
 				"item"		"item_sphere"
@@ -77,6 +70,9 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 				"item"		"item_shivas_guard"
 				"item"		"item_mjollnir"
 				"item"		"item_assault"
+				"item"		"item_silver_edge"
+				"item"		"item_bloodthorn"
+				"item"		"item_monkey_king_bar"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -91,7 +87,6 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_dust"		"Useful to get early against invisible heroes so you can gank and kill them as soon as possible"
 			"item_travel_boots"		"Natural lategame upgrade for any boot"
 			"item_vladmir"		"Not really good ench item, but it's a good aura after all."
-			"item_pipe"		"best against high magic damage lineups, obviously. Not a big deal"
 			"item_urn_of_shadows"		"A little bit of tankiness, mana regen, periodic damage and additional heal so we won't use our Nature's Attendants when we don't need to."
 			"item_sheepstick"		"Mana regen and reliable lockdown, a little bit of stats too"
 			"item_bloodthorn"		"The best damage-outut item (starting with orchid). Gives mana regen and plenty of attack speed, as well as some utility. "
@@ -103,10 +98,7 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 			"item_shivas_guard"		"Usually it's not the item you want to get, but against hgh phys damage lineups it's probably the second best after AC: huge amount of armor, utility and mana pool increase."
 			"item_lotus_orb"		"One of the best utility items in the game. Useful against silences and hexes, as well as direct spells."
 			"item_blade_mail"		"Pretty good item stats-wise, works against a lot of burst damage."
-			"item_hood_of_defiance"		"Since we can deal with physical damage from autoattacks but still aren't tanky enough, getting casual hood may be pretty good desicion."
-			"item_dragon_lance"		"The main item we need to get. Stats and attack range - our main sources of tankiness and damage."
-			"item_silver_edge"		"The best Ench item after Pike. Gives a lot of stats, attack speed and damage, mobility, additional escape and long-range utility (with Break effect)."
-			"item_blight_stone"		"Good for roaming and jungle farming with creeps"
+			"item_silver_edge"		"Gives a lot of stats, attack speed and damage, mobility, additional escape and long-range utility (with Break effect)."
 			"item_glimmer_cape"		"A little bit of attack speed, useful active ability for saving people from focus."
 		}
 	}
@@ -115,9 +107,9 @@ Russian in-depth guide: http://dotablog.ileamare.ru/post/151940683163/ench-guide
 		"AbilityOrder"
 		{
 			"1"		"enchantress_impetus"
-			"2"		"enchantress_natures_attendants"
+			"2"		"enchantress_enchant"
 			"3"		"enchantress_impetus"
-			"4"		"enchantress_enchant"
+			"4"		"enchantress_natures_attendants"
 			"5"		"enchantress_impetus"
 			"6"		"enchantress_untouchable"
 			"7"		"enchantress_impetus"

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"6"
+	"GuideRevision"		"7"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE2137C"
-	"TimePublished"		"0x000000005DE2137C"
+	"TimeUpdated"		"0x000000005DE6A029"
+	"TimePublished"		"0x000000005DE6A029"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,37 +29,47 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early (Bear)"
 			{
-				"item"		"item_blight_stone"
+				"item"		"item_phase_boots"
+			}
+			"Early (Druid)"
+			{
+				"item"		"item_ring_of_basilius"
 				"item"		"item_boots"
 			}
 			"Core (Bear)"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_mask_of_madness"
-				"item"		"item_phase_boots"
 				"item"		"item_radiance"
+			}
+			"Core (Druid)"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_pipe"
+				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_pipe"
-				"item"		"item_vladmir"
+				"item"		"item_mjollnir"
+				"item"		"item_power_treads"
 				"item"		"item_invis_sword"
+				"item"		"item_hand_of_midas"
+				"item"		"item_blight_stone"
 			}
 			"Lategame"
 			{
 				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_mjollnir"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_abyssal_blade"
 				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
+				"item"		"item_desolator"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -82,18 +92,18 @@ may skip"
 			"1"		"lone_druid_spirit_bear"
 			"2"		"lone_druid_spirit_link"
 			"3"		"lone_druid_spirit_bear"
-			"4"		"lone_druid_savage_roar"
+			"4"		"lone_druid_spirit_link"
 			"5"		"lone_druid_spirit_bear"
-			"6"		"lone_druid_spirit_link"
+			"6"		"lone_druid_true_form"
 			"7"		"lone_druid_spirit_bear"
 			"8"		"lone_druid_spirit_link"
-			"9"		"lone_druid_spirit_link"
+			"9"		"lone_druid_savage_roar"
 			"10"		"special_bonus_hp_250"
-			"11"		"lone_druid_true_form"
+			"11"		"lone_druid_spirit_link"
 			"12"		"lone_druid_true_form"
 			"13"		"lone_druid_savage_roar"
 			"14"		"lone_druid_savage_roar"
-			"15"		"special_bonus_unique_lone_druid_2"
+			"15"		"special_bonus_unique_lone_druid_4"
 			"16"		"lone_druid_savage_roar"
 			"18"		"lone_druid_true_form"
 			"20"		"special_bonus_unique_lone_druid_9"
