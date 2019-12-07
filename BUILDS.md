@@ -54,6 +54,8 @@ Night Stalker | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/file
 Outworld Devourer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725152) | [buildfile](builds/obsidian_destroyer_1570301605.build)
 Phantom Assassin | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853144623) | [buildfile](builds/phantom_assassin_1560009568.build)
 Phantom Lancer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885724445) | [buildfile](builds/phantom_lancer_1570302386.build)
+Puck | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1929848853) | [buildfile](builds/puck_1575644211.build) 
+Puck | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1929843422) | [buildfile](builds/puck_1575643754.build) 
 Pudge | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1750985856) | [buildfile](builds/pudge_1558353431.build)
 Pugna | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853143269) | [buildfile](builds/pugna_1565377769.build)
 Rubick | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609326506) | [buildfile](builds/rubick_1544208773.build)
