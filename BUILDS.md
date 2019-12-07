@@ -45,6 +45,7 @@ Luna | Core | | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1
 Luna | Core Nuker | | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826272526) | [buildfile](builds/luna_1565038649.build)
 Luna | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826262090) | [buildfile](builds/luna_1550925602.build)
 Lycan | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725635) | [buildfile](builds/lycan_1570651552.build)
+Magnus | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1928873072) | [buildfile](builds/magnataur_1575536994.build)
 Mars | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [buildfile](builds/mars_1551812621.build)
 Mars | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [buildfile](builds/mars_1551813312.build)
 Mirana | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824958) | [buildfile](builds/mirana_1568051607.build)
