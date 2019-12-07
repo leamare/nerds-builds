@@ -3,19 +3,19 @@
 	"Hero"		"shadow_demon"
 	"Title"		"Nerds Shadow Demon"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23b"
+	"GameplayVersion"		"7.23c"
 	"Overview"		"Shadow Demon is intelligence hero who can be played as support or caster core. He has great wave clear and damage ability (Shadow Poison and Soul Catcher), while also having setup and save (Disruption). His main waknesses are low effective HP pool and lack of any kind of mobility.
 
 You can use Disruption early on as a tool to abuse your good base damage for better hit trading. You will be lacking mobility before you'll get to Blink Dagger, but you can compensate it by using Shadow Poison to scout territory. Your goal to just get levels as fast as possible and start nuking enemies down. With blink you can start agressive lane push by killing creepwaves with shadow poison and running away as soon as you feel somebody's coming. Splitfarming and lane shaving will help you to get items and levels faster, while also creating space for your team.
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE212EE"
-	"TimePublished"		"0x000000005DE212EE"
+	"TimeUpdated"		"0x000000005DEB69E3"
+	"TimePublished"		"0x000000005DEB69E3"
 	"ItemBuild"
 	{
 		"Items"
@@ -42,7 +42,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
-				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
@@ -59,9 +58,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_meteor_hammer"
 				"item"		"item_force_staff"
-				"item"		"item_veil_of_discord"
 				"item"		"item_tranquil_boots"
 				"item"		"item_bottle"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -121,7 +120,7 @@ In the standard Disruption->Hammer combo, you can shift-queue Soul Catcher while
 			"7"		"shadow_demon_shadow_poison"
 			"8"		"shadow_demon_disruption"
 			"9"		"shadow_demon_disruption"
-			"10"		"special_bonus_exp_boost_30"
+			"10"		"special_bonus_exp_boost_20"
 			"11"		"shadow_demon_soul_catcher"
 			"12"		"shadow_demon_demonic_purge"
 			"13"		"shadow_demon_soul_catcher"

@@ -3,18 +3,18 @@
 	"Hero"		"tidehunter"
 	"Title"		"Nerds Tidehunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.23b"
+	"GameplayVersion"		"7.23c"
 	"Overview"		"Tidehunter is a strength core hero who excells at being tanky and hard to take down beast. He's also great lane dominator and one of the best teamfighters in the game because of his ultimate, Ravage.
 Main issue that comes with his main strength is that Ravage Tide is useless when his ult is on cooldown. This build is focused around making Tide's out-of-teamfight potential much better by abusing power that comes with Anchor Smash. This ability allowes not only to dominate the lane and farm, but also transition into great physical damage core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://twitch.tv/XaKoH"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE7DBA7"
-	"TimePublished"		"0x000000005DE7DBA7"
+	"TimeUpdated"		"0x000000005DEB685C"
+	"TimePublished"		"0x000000005DEB685C"
 	"ItemBuild"
 	{
 		"Items"
@@ -135,7 +135,7 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			"12"		"tidehunter_ravage"
 			"13"		"tidehunter_gush"
 			"14"		"tidehunter_kraken_shell"
-			"15"		"special_bonus_exp_boost_40"
+			"15"		"special_bonus_exp_boost_35"
 			"16"		"tidehunter_kraken_shell"
 			"18"		"tidehunter_ravage"
 			"20"		"special_bonus_unique_tidehunter"

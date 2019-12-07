@@ -2,18 +2,18 @@
 {
 	"Hero"		"treant"
 	"Title"		"Nerds Treant Protector"
-	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.23b"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.23c"
 	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"42"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE21232"
-	"TimePublished"		"0x000000005DE21232"
+	"TimeUpdated"		"0x000000005DEB683B"
+	"TimePublished"		"0x000000005DEB683B"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,9 +29,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_buckler"
 				"item"		"item_wind_lace"
-				"item"		"item_magic_wand"
+				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
@@ -88,7 +88,6 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 			"item_orb_of_venom"		"Another item to pick up if you have starting money left is OoV. It will increase your damage output a little bit and will add a little bit more kill potential to what you already have"
 			"item_tranquil_boots"		"High movement speed bonus to be able to run from tree to tree around and scout"
 			"item_wind_lace"		"Even more movement speed so you will never be out of invisibility"
-			"item_magic_wand"		"Additional HP and source of mana for emergency situations"
 			"item_urn_of_shadows"		"Pretty good stats overall (HP, mana regen, armor) and one of the best items to get on a position 4 support"
 			"item_spirit_vessel"		"Natural upgrade to urn. The best item to get for a position 4 support, awesome stats for Treant specifically (HP, movement speed) and pretty good for continuing magic damage and utility theme of the hero"
 			"item_soul_ring"		"May help you early on to keep up with your mana usage, but it may be a bit too much in terms of your money"
@@ -112,23 +111,23 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 		"AbilityOrder"
 		{
 			"1"		"treant_leech_seed"
-			"2"		"treant_living_armor"
+			"2"		"treant_natures_grasp"
 			"3"		"treant_leech_seed"
-			"4"		"treant_natures_grasp"
+			"4"		"treant_living_armor"
 			"5"		"treant_leech_seed"
 			"6"		"treant_overgrowth"
 			"7"		"treant_leech_seed"
-			"8"		"treant_living_armor"
-			"9"		"treant_living_armor"
-			"10"		"special_bonus_cooldown_reduction_10"
+			"8"		"treant_natures_grasp"
+			"9"		"treant_natures_grasp"
+			"10"		"special_bonus_attack_damage_50"
 			"11"		"treant_living_armor"
 			"12"		"treant_overgrowth"
 			"13"		"treant_natures_grasp"
-			"14"		"treant_natures_grasp"
-			"15"		"special_bonus_attack_damage_90"
-			"16"		"treant_natures_grasp"
+			"14"		"treant_living_armor"
+			"15"		"special_bonus_unique_treant_8"
+			"16"		"treant_living_armor"
 			"18"		"treant_overgrowth"
-			"20"		"special_bonus_unique_treant_10"
+			"20"		"special_bonus_cooldown_reduction_15"
 			"25"		"special_bonus_unique_treant_7"
 		}
 		"AbilityTooltips"
@@ -140,8 +139,6 @@ Later into the game try to run around enemy jungle while being invisible, place 
 			"special_bonus_cooldown_reduction_10"		"Additional cooldown reduction means lower cooldown on Overgrowth, Meteor Hammer and potentially even Eyes in the Forest. Additional living armor instances won't matter that much agaist it."
 			"special_bonus_attack_damage_90"		"Having additional damage is pretty good for either farming or fighting, considering it's +90."
 			"special_bonus_unique_treant_3"		"It's  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
-			"special_bonus_unique_treant_4"		"Additional root duration works well iin combination with blink. 4 second duration root that pierces spell immunity and effectively has no downtime? Why not!"
-			"special_bonus_unique_treant_7"		"Good for teamfighting scenarios if you're sure you don't need AoE for your ult and/or don't have aghs."
 			"special_bonus_unique_treant_5"		"This talent makes better both your ultimate and vision from your agh's trees. Go-to talent if you're going all in for your ultimate (scepter, refresher, etc)"
 		}
 	}

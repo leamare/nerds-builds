@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23b"
+	"GameplayVersion"		"7.23c"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE212E1"
-	"TimePublished"		"0x000000005DE212E1"
+	"TimeUpdated"		"0x000000005DEB6929"
+	"TimePublished"		"0x000000005DEB6929"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,22 +26,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_power_treads"
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_invis_sword"
+				"item"		"item_rod_of_atos"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_hand_of_midas"
-				"item"		"item_rod_of_atos"
 				"item"		"item_orchid"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
@@ -96,14 +96,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"silencer_glaives_of_wisdom"
 			"2"		"silencer_curse_of_the_silent"
 			"3"		"silencer_glaives_of_wisdom"
-			"4"		"silencer_last_word"
+			"4"		"silencer_curse_of_the_silent"
 			"5"		"silencer_glaives_of_wisdom"
-			"6"		"silencer_curse_of_the_silent"
+			"6"		"silencer_global_silence"
 			"7"		"silencer_glaives_of_wisdom"
 			"8"		"silencer_curse_of_the_silent"
-			"9"		"silencer_curse_of_the_silent"
+			"9"		"silencer_last_word"
 			"10"		"special_bonus_attack_speed_25"
-			"11"		"silencer_global_silence"
+			"11"		"silencer_curse_of_the_silent"
 			"12"		"silencer_global_silence"
 			"13"		"silencer_last_word"
 			"14"		"silencer_last_word"

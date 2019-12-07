@@ -2,17 +2,17 @@
 {
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.23b"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DE7DBF4"
-	"TimePublished"		"0x000000005DE7DBF4"
+	"TimeUpdated"		"0x000000005DEB68B2"
+	"TimePublished"		"0x000000005DEB68B2"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,55 +21,64 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_flask"
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+			}
+			"Starting items (mid)"
+			{
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_blight_stone"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_bracer"
 				"item"		"item_blight_stone"
-				"item"		"item_javelin"
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_maelstrom"
-				"item"		"item_vladmir"
+				"item"		"item_desolator"
 			}
 			"Situational Early"
 			{
-				"item"		"item_veil_of_discord"
-				"item"		"item_dragon_lance"
-				"item"		"item_basher"
-				"item"		"item_buckler"
+				"item"		"item_bracer"
+				"item"		"item_phase_boots"
+				"item"		"item_maelstrom"
 			}
 			"Lategame"
 			{
 				"item"		"item_solar_crest"
 				"item"		"item_assault"
+				"item"		"item_greater_crit"
 				"item"		"item_abyssal_blade"
+				"item"		"item_satanic"
 				"item"		"item_mjollnir"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
 			}
-			"Situational / Utility"
+			"Situational"
 			{
-				"item"		"item_solar_crest"
-				"item"		"item_lotus_orb"
-				"item"		"item_guardian_greaves"
 				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_rapier"
+				"item"		"item_silver_edge"
+				"item"		"item_nullifier"
+				"item"		"item_kaya_and_sange"
+			}
+			"Utility"
+			{
 				"item"		"item_pipe"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
+				"item"		"item_lotus_orb"
+				"item"		"item_rod_of_atos"
+				"item"		"item_guardian_greaves"
 				"item"		"item_heavens_halberd"
 				"item"		"item_crimson_guard"
-			}
-			"I will murder your entire  team"
-			{
-				"item"		"item_rapier"
-				"item"		"item_greater_crit"
-				"item"		"item_kaya_and_sange"
+				"item"		"item_sheepstick"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
