@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6C11"
-	"TimePublished"		"0x000000005DEB6C11"
+	"TimeUpdated"		"0x000000005DEED87D"
+	"TimePublished"		"0x000000005DEED87D"
 	"ItemBuild"
 	{
 		"Items"
@@ -60,6 +60,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_satanic"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_iron_talon"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_paladin_sword"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_mind_breaker"
+				"item"		"item_the_leveller"
+				"item"		"item_princes_knife"
+				"item"		"item_ninja_gear"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

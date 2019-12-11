@@ -31,6 +31,7 @@ The categories I'm using and brief explanation:
 * **Situational Early.** Items that may be bought inbetween or instead of early/core items. Example one: you are laning against Batrider and you want to buy Magic Wand, but don't want to buy it every game on the hero - it goes here. Example two: usually you would buy Mask of Madness, but in the specific game in specific circumstances you would like to buy Hand of Midas for the same reason - it goes here (another axample would be Euls and Kaya).
 * **Lategame.** Extension items you would like to buy after your Core items are done. The order is usually preserved and items in this category are usually your "ideal lategame plan", however sometimes you may swap things around. In some guides it's more like a list of suggestions that you may mix and match as you wish.
 * **Situational.** Replacement and extension items for mid to late game. For example, Black King Bar and Monkey King Bar for most of the heroes goes here (you don't want to buy it every game, but in some cases it may be necessary).
+* **Best Neutral Items.** Self explanatory. Doesn't include tier 5 items (mostly) since all of them are broken anyway and I don't want to have three lines of neutral items.
 
 Additional categories:
 

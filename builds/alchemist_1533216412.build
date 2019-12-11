@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6CFF"
-	"TimePublished"		"0x000000005DEB6CFF"
+	"TimeUpdated"		"0x000000005DEECF7C"
+	"TimePublished"		"0x000000005DEECF7C"
 	"ItemBuild"
 	{
 		"Items"
@@ -66,6 +66,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_greater_crit"
 				"item"		"item_desolator"
 				"item"		"item_solar_crest"
+			}
+			"Best Neutral  Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_trusty_shovel"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
+				"item"		"item_havoc_hammer"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

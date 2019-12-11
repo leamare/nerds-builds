@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"42"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB683B"
-	"TimePublished"		"0x000000005DEB683B"
+	"TimeUpdated"		"0x000000005DEEE65B"
+	"TimePublished"		"0x000000005DEEE65B"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,9 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_tango"
 				"item"		"item_orb_of_venom"
 				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
@@ -66,6 +66,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_faded_broach"
+				"item"		"item_quickening_charm"
+				"item"		"item_timeless_relic"
+				"item"		"item_spell_prism"
+				"item"		"item_broom_handle"
+				"item"		"item_craggy_coat"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -119,7 +128,7 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 			"7"		"treant_leech_seed"
 			"8"		"treant_natures_grasp"
 			"9"		"treant_natures_grasp"
-			"10"		"special_bonus_attack_damage_50"
+			"10"		"special_bonus_unique_treant_4"
 			"11"		"treant_living_armor"
 			"12"		"treant_overgrowth"
 			"13"		"treant_natures_grasp"

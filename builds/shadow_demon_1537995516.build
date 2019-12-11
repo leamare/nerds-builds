@@ -10,12 +10,12 @@ You can use Disruption early on as a tool to abuse your good base damage for bet
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB69E3"
-	"TimePublished"		"0x000000005DEB69E3"
+	"TimeUpdated"		"0x000000005DEEE242"
+	"TimePublished"		"0x000000005DEEE242"
 	"ItemBuild"
 	{
 		"Items"
@@ -81,6 +81,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
 				"item"		"item_kaya_and_sange"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_nether_shawl"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
+				"item"		"item_princes_knife"
+				"item"		"item_panic_button"
+				"item"		"item_timeless_relic"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -8,12 +8,12 @@
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6CAF"
-	"TimePublished"		"0x000000005DEB6CAF"
+	"TimeUpdated"		"0x000000005DEED355"
+	"TimePublished"		"0x000000005DEED355"
 	"ItemBuild"
 	{
 		"Items"
@@ -70,6 +70,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
 				"item"		"item_crimson_guard"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

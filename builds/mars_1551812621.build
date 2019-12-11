@@ -9,12 +9,12 @@
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6AF9"
-	"TimePublished"		"0x000000005DEB6AF9"
+	"TimeUpdated"		"0x000000005DEEDE0C"
+	"TimePublished"		"0x000000005DEEDE0C"
 	"ItemBuild"
 	{
 		"Items"
@@ -73,6 +73,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_abyssal_blade"
 				"item"		"item_radiance"
 				"item"		"item_sange_and_yasha"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_orb_of_destruction"
+				"item"		"item_havoc_hammer"
+				"item"		"item_minotaur_horn"
+				"item"		"item_timeless_relic"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6633"
-	"TimePublished"		"0x000000005DEB6633"
+	"TimeUpdated"		"0x000000005DEEE8A2"
+	"TimePublished"		"0x000000005DEEE8A2"
 	"ItemBuild"
 	{
 		"Items"
@@ -70,6 +70,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
 				"item"		"item_abyssal_blade"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_vampire_fangs"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_pupils_gift"
+				"item"		"item_mind_breaker"
+				"item"		"item_princes_knife"
+				"item"		"item_spell_prism"
+				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

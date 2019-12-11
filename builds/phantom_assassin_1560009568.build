@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6A21"
-	"TimePublished"		"0x000000005DEB6A21"
+	"TimeUpdated"		"0x000000005DEEDFB3"
+	"TimePublished"		"0x000000005DEEDFB3"
 	"ItemBuild"
 	{
 		"Items"
@@ -54,6 +54,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_black_king_bar"
 				"item"		"item_lotus_orb"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_imp_claw"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_ninja_gear"
+				"item"		"item_havoc_hammer"
+				"item"		"item_princes_knife"
+				"item"		"item_the_leveller"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

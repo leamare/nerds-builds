@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB672F"
-	"TimePublished"		"0x000000005DEB672F"
+	"TimeUpdated"		"0x000000005DEEE85D"
+	"TimePublished"		"0x000000005DEEE85D"
 	"ItemBuild"
 	{
 		"Items"
@@ -71,6 +71,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_desolator"
 				"item"		"item_hand_of_midas"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_imp_claw"
+				"item"		"item_dragon_scale"
+				"item"		"item_pupils_gift"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_quickening_charm"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

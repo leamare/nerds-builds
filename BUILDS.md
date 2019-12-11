@@ -2,9 +2,9 @@
 
 ## Patch: 7.23c
 
-### Total builds published: 73 (out of ~214 planned)
+### Total builds published: 76 (out of ~214 planned)
 
-### Descriptions ready: 32 out of 73
+### Descriptions ready: 32 out of 76
 
 ---
 

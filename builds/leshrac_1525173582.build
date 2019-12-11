@@ -9,12 +9,12 @@
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6BEC"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000005DEED8F7"
+	"TimePublished"		"0x000000005DEED8F7"
 	"ItemBuild"
 	{
 		"Items"
@@ -67,6 +67,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
 				"item"		"item_sphere"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_vampire_fangs"
+				"item"		"item_quickening_charm"
+				"item"		"item_mind_breaker"
+				"item"		"item_timeless_relic"
+				"item"		"item_spell_prism"
+				"item"		"item_princes_knife"
+				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -8,31 +8,23 @@
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6C62"
-	"TimePublished"		"0x000000005DEB6C62"
+	"TimeUpdated"		"0x000000005DEED564"
+	"TimePublished"		"0x000000005DEED564"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items (Midlane)"
-			{
-				"item"		"item_circlet"
-				"item"		"item_slippers"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_slippers"
-			}
 			"Starting Items (Safelane)"
 			{
 				"item"		"item_tango"
+				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_slippers"
-				"item"		"item_slippers"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
@@ -76,6 +68,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_abyssal_blade"
 				"item"		"item_mask_of_madness"
 				"item"		"item_sheepstick"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_vampire_fangs"
+				"item"		"item_imp_claw"
+				"item"		"item_spider_legs"
+				"item"		"item_ninja_gear"
+				"item"		"item_princes_knife"
+				"item"		"item_the_leveller"
+				"item"		"item_havoc_hammer"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"15"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6880"
-	"TimePublished"		"0x000000005DEB6880"
+	"TimeUpdated"		"0x000000005DEEE4E3"
+	"TimePublished"		"0x000000005DEEE4E3"
 	"ItemBuild"
 	{
 		"Items"
@@ -68,6 +68,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_manta"
 				"item"		"item_diffusal_blade"
 				"item"		"item_heart"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_royal_jelly"
+				"item"		"item_iron_talon"
+				"item"		"item_pupils_gift"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_clumsy_net"
+				"item"		"item_repair_kit"
+				"item"		"item_minotaur_horn"
+				"item"		"item_illusionsts_cape"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

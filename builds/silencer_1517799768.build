@@ -7,12 +7,12 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6929"
-	"TimePublished"		"0x000000005DEB6929"
+	"TimeUpdated"		"0x000000005DEEE2C9"
+	"TimePublished"		"0x000000005DEEE2C9"
 	"ItemBuild"
 	{
 		"Items"
@@ -64,6 +64,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_refresher"
 				"item"		"item_mjollnir"
 				"item"		"item_blink"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_vampire_fangs"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_mind_breaker"
+				"item"		"item_timeless_relic"
+				"item"		"item_princes_knife"
+				"item"		"item_spell_prism"
+				"item"		"item_quickening_charm"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

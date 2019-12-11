@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6ADC"
-	"TimePublished"		"0x000000005DEB6ADC"
+	"TimeUpdated"		"0x000000005DEEDF20"
+	"TimePublished"		"0x000000005DEEDF20"
 	"ItemBuild"
 	{
 		"Items"
@@ -77,6 +77,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_radiance"
 				"item"		"item_silver_edge"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_broom_handle"
+				"item"		"item_imp_claw"
+				"item"		"item_vampire_fangs"
+				"item"		"item_spider_legs"
+				"item"		"item_titan_sliver"
+				"item"		"item_timeless_relic"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
+				"item"		"item_the_leveller"
+				"item"		"item_minotaur_horn"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

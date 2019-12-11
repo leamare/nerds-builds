@@ -9,12 +9,12 @@
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6CA5"
-	"TimePublished"		"0x000000005DEB6CA5"
+	"TimeUpdated"		"0x000000005DEED3A8"
+	"TimePublished"		"0x000000005DEED3A8"
 	"ItemBuild"
 	{
 		"Items"
@@ -71,6 +71,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_cyclone"
 				"item"		"item_solar_crest"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_iron_talon"
+				"item"		"item_helm_of_the_undying"
+				"item"		"item_craggy_coat"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

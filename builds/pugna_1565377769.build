@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x000000006E74B8E5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB69FB"
-	"TimePublished"		"0x000000005DEB69FB"
+	"TimeUpdated"		"0x000000005DEEE0F3"
+	"TimePublished"		"0x000000005DEEE0F3"
 	"ItemBuild"
 	{
 		"Items"
@@ -61,6 +61,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_ethereal_blade"
 				"item"		"item_meteor_hammer"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_grove_bow"
+				"item"		"item_nether_shawl"
+				"item"		"item_quickening_charm"
+				"item"		"item_spy_gadget"
+				"item"		"item_craggy_coat"
+				"item"		"item_timeless_relic"
+				"item"		"item_panic_button"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

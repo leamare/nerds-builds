@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6A02"
-	"TimePublished"		"0x000000005DEB6A02"
+	"TimeUpdated"		"0x000000005DEEE0B8"
+	"TimePublished"		"0x000000005DEEE0B8"
 	"ItemBuild"
 	{
 		"Items"
@@ -64,6 +64,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_ultimate_scepter"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_craggy_coat"
+				"item"		"item_clumsy_net"
+				"item"		"item_spider_legs"
+				"item"		"item_spy_gadget"
+				"item"		"item_minotaur_horn"
+				"item"		"item_havoc_hammer"
+				"item"		"item_timeless_relic"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

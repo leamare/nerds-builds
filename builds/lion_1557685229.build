@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEB6B8B"
-	"TimePublished"		"0x000000005DEB6B8B"
+	"TimeUpdated"		"0x000000005DEEDB96"
+	"TimePublished"		"0x000000005DEEDB96"
 	"ItemBuild"
 	{
 		"Items"
@@ -60,6 +60,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_refresher"
 				"item"		"item_aeon_disk"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_faded_broach"
+				"item"		"item_nether_shawl"
+				"item"		"item_quickening_charm"
+				"item"		"item_spy_gadget"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_timeless_relic"
+				"item"		"item_spell_prism"
+				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
