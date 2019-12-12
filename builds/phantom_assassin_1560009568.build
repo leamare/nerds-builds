@@ -3,16 +3,16 @@
 	"Hero"		"phantom_assassin"
 	"Title"		"Nerds Support PA"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.23c"
+	"GameplayVersion"		"7.23d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEEDFB3"
-	"TimePublished"		"0x000000005DEEDFB3"
+	"TimeUpdated"		"0x000000005DF24648"
+	"TimePublished"		"0x000000005DF24648"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_orb_of_venom"
 				"item"		"item_tango"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"

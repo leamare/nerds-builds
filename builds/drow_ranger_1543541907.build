@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23c"
+	"GameplayVersion"		"7.23d"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEED564"
-	"TimePublished"		"0x000000005DEED564"
+	"TimeUpdated"		"0x000000005DF27A84"
+	"TimePublished"		"0x000000005DF27A84"
 	"ItemBuild"
 	{
 		"Items"
@@ -43,23 +43,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_ring_of_basilius"
 				"item"		"item_wind_lace"
-				"item"		"item_blink"
 				"item"		"item_diffusal_blade"
 				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
 				"item"		"item_butterfly"
-				"item"		"item_greater_crit"
 				"item"		"item_silver_edge"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_greater_crit"
 			}
 			"Situational"
 			{
-				"item"		"item_basher"
+				"item"		"item_blink"
 				"item"		"item_ethereal_blade"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
@@ -111,25 +111,25 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 	{
 		"AbilityOrder"
 		{
-			"1"		"drow_ranger_frost_arrows"
-			"2"		"drow_ranger_multishot"
-			"3"		"drow_ranger_frost_arrows"
-			"4"		"drow_ranger_wave_of_silence"
-			"5"		"drow_ranger_frost_arrows"
+			"1"		"drow_ranger_multishot"
+			"2"		"drow_ranger_frost_arrows"
+			"3"		"drow_ranger_multishot"
+			"4"		"drow_ranger_frost_arrows"
+			"5"		"drow_ranger_multishot"
 			"6"		"drow_ranger_marksmanship"
-			"7"		"drow_ranger_frost_arrows"
-			"8"		"drow_ranger_multishot"
-			"9"		"drow_ranger_multishot"
+			"7"		"drow_ranger_multishot"
+			"8"		"drow_ranger_frost_arrows"
+			"9"		"drow_ranger_frost_arrows"
 			"10"		"special_bonus_movement_speed_20"
-			"11"		"drow_ranger_multishot"
+			"11"		"drow_ranger_wave_of_silence"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"
-			"15"		"special_bonus_agility_14"
+			"15"		"special_bonus_agility_12"
 			"16"		"drow_ranger_wave_of_silence"
 			"18"		"drow_ranger_marksmanship"
 			"20"		"special_bonus_unique_drow_ranger_1"
-			"25"		"special_bonus_cooldown_reduction_50"
+			"25"		"special_bonus_cooldown_reduction_40"
 		}
 		"AbilityTooltips"
 		{

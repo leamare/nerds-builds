@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23c"
+	"GameplayVersion"		"7.23d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEEDB11"
-	"TimePublished"		"0x000000005DEEDB11"
+	"TimeUpdated"		"0x000000005DF244EE"
+	"TimePublished"		"0x000000005DF244EE"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
+				"item"		"item_circlet"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
@@ -32,7 +32,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_magic_wand"
 			}
 			"Core"
 			{

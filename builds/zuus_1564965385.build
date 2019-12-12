@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23c"
+	"GameplayVersion"		"7.23d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DEEEA2F"
-	"TimePublished"		"0x000000005DEEEA2F"
+	"TimeUpdated"		"0x000000005DF247D4"
+	"TimePublished"		"0x000000005DF247D4"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,7 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_octarine_core"
 				"item"		"item_refresher"
-				"item"		"item_kaya_and_sange"
+				"item"		"item_bloodstone"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
@@ -59,9 +59,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_ethereal_blade"
 				"item"		"item_black_king_bar"
-				"item"		"item_bloodstone"
 				"item"		"item_shivas_guard"
 				"item"		"item_meteor_hammer"
+				"item"		"item_kaya_and_sange"
 			}
 			"Best Neutral Items"
 			{
