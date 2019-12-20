@@ -9,12 +9,12 @@
 Your game plan as Viper is simple - get early levels, max out Nethertoxin and start dropping it everywhere to farm every creep on the map. You'll need a bit of mana sustain for it (that's when Arcane boots come handy), but even before that you'll need to win your lane first (that's where early stats items come in). Afterwards you'll need to solve one major issue - stop enemies from teleporting or running away with Rod of Atos. After that point you'll need to get only Guardian Greaves and start establishing your dominance by pushing and fighting with your team until you reach the point of no return. Altho be careful since once you lose your advantage it may be very hard to come back as Viper.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF50CB1"
-	"TimePublished"		"0x000000005DF50CB1"
+	"TimeUpdated"		"0x000000005DFCFC3D"
+	"TimePublished"		"0x000000005DFCFC3D"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,20 +40,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_dragon_lance"
-				"item"		"item_maelstrom"
+				"item"		"item_orchid"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_rod_of_atos"
 				"item"		"item_ancient_janggo"
+				"item"		"item_dragon_lance"
+				"item"		"item_maelstrom"
 			}
 			"Lategame"
 			{
+				"item"		"item_satanic"
 				"item"		"item_mjollnir"
 				"item"		"item_butterfly"
 				"item"		"item_monkey_king_bar"
@@ -68,17 +69,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_crimson_guard"
 				"item"		"item_sheepstick"
 				"item"		"item_heavens_halberd"
-				"item"		"item_guardian_greaves"
 			}
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_radiance"
-				"item"		"item_octarine_core"
 				"item"		"item_bloodthorn"
 				"item"		"item_skadi"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_shivas_guard"
+				"item"		"item_radiance"
+				"item"		"item_octarine_core"
+				"item"		"item_rod_of_atos"
 			}
 			"Best Neutral Items"
 			{
@@ -99,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_guardian_greaves"		"Since you're going to farm pretty fast with Nethertoxin, you can it relatively fast and start pressuring opponents with your team"
 			"item_veil_of_discord"		"Early tankiness solution and magic damage amplification. Makes you almost much more unkillable in fights early on and makes your damage output stupidly high"
 			"item_maelstrom"		"Early damage output solution if you're going to play hybrid core"
 			"item_yasha_and_kaya"		"Early agressive solution for mobility and spell damage increase. Works great for hybrid core Viper"
@@ -113,9 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_crimson_guard"		"Against high attack speed cores, high physical damage lineups or summons"
 			"item_lotus_orb"		"Against light disables (like slows and silences) in case you're not the only one struggling from them"
 			"item_sheepstick"		"Additional reliable lockdown"
-			"item_octarine_core"		"What can be scarier than flying magic tank with a spell lifesteal?"
 			"item_black_king_bar"		"Against hard disables and silences (if lotus doesn't work)"
-			"item_radiance"		"Nice item to get if your team doesn't have it and you want to be scary flying tank. Works great with all this tanky theme, spell lifesteal talent and KaYasha"
 			"item_mjollnir"		"Great DPS item for hybrid tank core transition"
 		}
 	}
@@ -124,7 +122,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"viper_poison_attack"
-			"2"		"viper_nethertoxin"
+			"2"		"viper_corrosive_skin"
 			"3"		"viper_poison_attack"
 			"4"		"viper_corrosive_skin"
 			"5"		"viper_poison_attack"
@@ -133,7 +131,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"viper_corrosive_skin"
 			"9"		"viper_corrosive_skin"
 			"10"		"special_bonus_attack_speed_25"
-			"11"		"viper_corrosive_skin"
+			"11"		"viper_nethertoxin"
 			"12"		"viper_viper_strike"
 			"13"		"viper_nethertoxin"
 			"14"		"viper_nethertoxin"
@@ -141,7 +139,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
 			"20"		"special_bonus_attack_damage_90"
-			"25"		"special_bonus_unique_viper_3"
+			"25"		"special_bonus_unique_viper_4"
 		}
 		"AbilityTooltips"
 		{
