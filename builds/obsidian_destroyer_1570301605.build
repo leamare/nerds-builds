@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x000000007065E1E0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF5110A"
-	"TimePublished"		"0x000000005DF5110A"
+	"TimeUpdated"		"0x000000005DF7C473"
+	"TimePublished"		"0x000000005DF7C473"
 	"ItemBuild"
 	{
 		"Items"
@@ -67,6 +67,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_royal_jelly"
 				"item"		"item_faded_broach"
+				"item"		"item_essence_ring"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_grove_bow"
 				"item"		"item_vampire_fangs"
