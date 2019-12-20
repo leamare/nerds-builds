@@ -1,20 +1,23 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.23d
+## Patch: 7.23e
 
-### Total builds published: 76 (out of ~214 planned)
+### Total builds published: 79 (out of ~214 planned)
 
-### Descriptions ready: 32 out of 76
+### Descriptions ready: 33 out of 79
 
 ---
 
 Hero | Role | Commentaries | Link | File
 -- | -- | -- | --
+Abaddon | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941258158) | [buildfile](builds/abaddon_1576617440.build)
 Alchemist | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826240453) | [buildfile](builds/alchemist_1533216412.build)
 Arc Warden | Nuker/Initiator | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916406164) | [buildfile](builds/arc_warden_1517796471.build)
 Arc Warden | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=814024669) | [buildfile](builds/arc_warden_1517796629.build)
 Arc Warden | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917504030) | [buildfile](builds/arc_warden_1517797391.build)
 Arc Warden | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739729044) | [buildfile](builds/arc_warden_1517796471.build)
+Axe | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941258331) | [buildfile](builds/axe_1576617452.build)
+Axe | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941305305) | [buildfile](builds/axe_1576617680.build)
 Bane | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1190692799) | [buildfile](builds/bane_1509773602.build)
 Beastmaster | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1459274094) | [buildfile](builds/beastmaster_1528952182.build)
 Bounty Hunter | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [buildfile](builds/bounty_hunter_1549567475.build)

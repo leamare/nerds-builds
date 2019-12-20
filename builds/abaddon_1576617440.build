@@ -1,0 +1,114 @@
+"guidedata"
+{
+	"Hero"		"abaddon"
+	"Title"		"Nerds Abaddon"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x0000000073B53FAE"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DFA9491"
+	"TimePublished"		"0x000000005DFA9491"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_quelling_blade"
+				"item"		"item_flask"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_buckler"
+			}
+			"Core"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+				"item"		"item_medallion_of_courage"
+			}
+			"Situational Early"
+			{
+				"item"		"item_radiance"
+				"item"		"item_bracer"
+				"item"		"item_soul_ring"
+				"item"		"item_ancient_janggo"
+			}
+			"Lategame"
+			{
+				"item"		"item_pipe"
+				"item"		"item_solar_crest"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_blade_mail"
+				"item"		"item_heavens_halberd"
+				"item"		"item_shivas_guard"
+				"item"		"item_mjollnir"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_broom_handle"
+				"item"		"item_dragon_scale"
+				"item"		"item_craggy_coat"
+				"item"		"item_spider_legs"
+				"item"		"item_paladin_sword"
+				"item"		"item_titan_sliver"
+				"item"		"item_havoc_hammer"
+				"item"		"item_minotaur_horn"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"abaddon_aphotic_shield"
+			"2"		"abaddon_frostmourne"
+			"3"		"abaddon_aphotic_shield"
+			"4"		"abaddon_frostmourne"
+			"5"		"abaddon_aphotic_shield"
+			"6"		"abaddon_borrowed_time"
+			"7"		"abaddon_aphotic_shield"
+			"8"		"abaddon_frostmourne"
+			"9"		"abaddon_frostmourne"
+			"10"		"special_bonus_strength_10"
+			"11"		"abaddon_death_coil"
+			"12"		"abaddon_borrowed_time"
+			"13"		"abaddon_death_coil"
+			"14"		"abaddon_death_coil"
+			"15"		"special_bonus_armor_8"
+			"16"		"abaddon_death_coil"
+			"18"		"abaddon_borrowed_time"
+			"20"		"special_bonus_cooldown_reduction_20"
+			"25"		"special_bonus_unique_abaddon"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
