@@ -3,18 +3,18 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.23f"
 	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
 
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF556BC"
-	"TimePublished"		"0x000000005DF556BC"
+	"TimeUpdated"		"0x000000005E1DEC5C"
+	"TimePublished"		"0x000000005E1DEC5C"
 	"ItemBuild"
 	{
 		"Items"

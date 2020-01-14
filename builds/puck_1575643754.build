@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.23f"
 	"Overview"		"
 
 Based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF510AA"
-	"TimePublished"		"0x000000005DF510AA"
+	"TimeUpdated"		"0x000000005E1DE079"
+	"TimePublished"		"0x000000005E1DE079"
 	"ItemBuild"
 	{
 		"Items"

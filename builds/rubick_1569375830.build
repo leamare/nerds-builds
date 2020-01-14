@@ -3,16 +3,16 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.23f"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"12"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF50F45"
-	"TimePublished"		"0x000000005DF50F45"
+	"TimeUpdated"		"0x000000005E1DE03B"
+	"TimePublished"		"0x000000005E1DE03B"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,20 +30,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_bracer"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
-				"item"		"item_cyclone"
+				"item"		"item_aether_lens"
+				"item"		"item_glimmer_cape"
+				"item"		"item_force_staff"
 			}
 			"Situational Early"
 			{
-				"item"		"item_glimmer_cape"
-				"item"		"item_force_staff"
 				"item"		"item_spirit_vessel"
+				"item"		"item_cyclone"
+				"item"		"item_bracer"
+				"item"		"item_magic_wand"
 			}
 			"Lategame"
 			{

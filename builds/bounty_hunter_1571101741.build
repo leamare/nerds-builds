@@ -1,0 +1,97 @@
+"guidedata"
+{
+	"Hero"		"bounty_hunter"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.22h"
+	"Overview"		""
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DA51C39"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_boots"
+				"item"		"item_tango"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_wind_lace"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_blight_stone"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_solar_crest"
+				"item"		"item_vladmir"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_stout_shield"
+				"item"		"item_spirit_vessel"
+				"item"		"item_heavens_halberd"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_desolator"
+				"item"		"item_assault"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_satanic"
+				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
+				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_rod_of_atos"
+				"item"		"item_ethereal_blade"
+				"item"		"item_rapier"
+				"item"		"item_pipe"
+				"item"		"item_lotus_orb"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bounty_hunter_jinada"
+			"2"		"bounty_hunter_shuriken_toss"
+			"3"		"bounty_hunter_jinada"
+			"4"		"bounty_hunter_wind_walk"
+			"5"		"bounty_hunter_jinada"
+			"6"		"bounty_hunter_track"
+			"7"		"bounty_hunter_jinada"
+			"8"		"bounty_hunter_shuriken_toss"
+			"9"		"bounty_hunter_shuriken_toss"
+			"10"		"special_bonus_exp_boost_25"
+			"11"		"bounty_hunter_shuriken_toss"
+			"12"		"bounty_hunter_track"
+			"13"		"bounty_hunter_wind_walk"
+			"14"		"bounty_hunter_wind_walk"
+			"15"		"special_bonus_hp_350"
+			"16"		"bounty_hunter_wind_walk"
+			"18"		"bounty_hunter_track"
+			"20"		"special_bonus_unique_bounty_hunter"
+			"25"		"special_bonus_evasion_50"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

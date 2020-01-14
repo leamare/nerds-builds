@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.23f"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF50DAC"
-	"TimePublished"		"0x000000005DF50DAC"
+	"TimeUpdated"		"0x000000005E1DDC00"
+	"TimePublished"		"0x000000005E1DDC00"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
+				"item"		"item_mantle"
+				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_flask"
-				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
@@ -32,23 +31,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_wind_lace"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_magic_wand"
 				"item"		"item_force_staff"
+				"item"		"item_rod_of_atos"
 				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
 				"item"		"item_null_talisman"
+				"item"		"item_power_treads"
 				"item"		"item_cyclone"
-				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
 				"item"		"item_hand_of_midas"
-				"item"		"item_power_treads"
 			}
 			"Utility"
 			{
@@ -108,7 +106,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_silver_edge"		"One of the best stat-heavy items in the game. Gives a lot of stats, attack speed and damage, increases mobility and possibility to reposition in fights. I'd like to replace drums with SE, or even build SE instead of drums."
 			"item_mjollnir"		"Good lategame item to deal some kind of massive AoE damage. Not really needed most of the time"
 			"item_skadi"		"Stat-heavy item, slow. Good in cases when you don't need control or MKB, but need stats and damage"
-			"item_ancient_janggo"		"Cheap stats and additional mana regen, as well as another mobility upgrade. Later I'd like to replace drums with Silver Edge."
 			"item_guardian_greaves"		"A lot of people choose Arcane boots to build greaves then, but it's actually quite useless for Silencer himself since it doesn't give him anything he needs."
 			"item_rod_of_atos"		"Works fine against elusive heroes, gives quite good damage and health boost, as well as some kind of control and all that for a low price."
 			"item_tranquil_boots"		"Silencer's base HP regen is quite low, so it will be quite useful inbetween ganks. And another important note: tranqs increase your mobility even more. For core it will be better to get phase or threads, but for support Silencer tranquils are the best choice."

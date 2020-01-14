@@ -46,6 +46,6 @@ Other notable stuff:
 
 ## How can I use this site?
 
-You can use the builds list to see all the things I already made. You can also go to [GitHub of the project to look over all the changes that were made](https://github.com/leamare/nerds-builds/commits/master). And you can also leave your feedback at github and suggest your changes here via issues. Or you can go to [https://discord.spectral.gg/](Spectral Discord) and discuss all the builds here.
+You can use the builds list to see all the things I already made. You can also go to [GitHub of the project to look over all the changes that were made](https://github.com/leamare/nerds-builds/commits/master). And you can also leave your feedback at github and suggest your changes here via issues. Or you can go to [Spectral Discord](https://discord.spectral.gg/) and discuss all the builds here.
 
 You can also look over the .build files (they are pretty human-readable).

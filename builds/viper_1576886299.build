@@ -1,0 +1,88 @@
+"guidedata"
+{
+	"Hero"		"viper"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.23e"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DFD601B"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_urn_of_shadows"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_power_treads"
+				"item"		"item_hurricane_pike"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_holy_locket"
+				"item"		"item_rod_of_atos"
+				"item"		"item_ancient_janggo"
+				"item"		"item_glimmer_cape"
+				"item"		"item_guardian_greaves"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"viper_poison_attack"
+			"2"		"viper_corrosive_skin"
+			"3"		"viper_poison_attack"
+			"4"		"viper_nethertoxin"
+			"5"		"viper_poison_attack"
+			"6"		"viper_viper_strike"
+			"7"		"viper_poison_attack"
+			"8"		"viper_corrosive_skin"
+			"9"		"viper_corrosive_skin"
+			"10"		"special_bonus_attack_speed_25"
+			"11"		"viper_corrosive_skin"
+			"12"		"viper_viper_strike"
+			"13"		"viper_nethertoxin"
+			"14"		"viper_nethertoxin"
+			"15"		"special_bonus_attack_range_125"
+			"16"		"viper_nethertoxin"
+			"18"		"viper_viper_strike"
+			"20"		"special_bonus_attack_damage_90"
+			"25"		"special_bonus_unique_viper_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

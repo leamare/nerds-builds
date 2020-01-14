@@ -1,0 +1,98 @@
+"guidedata"
+{
+	"Hero"		"ancient_apparition"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.23e"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005DF945C7"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"#DOTA_Item_Build_Early_Game"
+			{
+				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
+				"item"		"item_boots"
+			}
+			"#DOTA_Item_Build_Core_Items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_travel_boots"
+				"item"		"item_kaya"
+				"item"		"item_ultimate_scepter"
+			}
+			"#DOTA_Item_Build_Luxury"
+			{
+				"item"		"item_bloodstone"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_assault"
+				"item"		"item_moon_shard"
+				"item"		"item_sheepstick"
+				"item"		"item_cyclone"
+				"item"		"item_dragon_lance"
+				"item"		"item_black_king_bar"
+			}
+			"#DOTA_HeroGuide_Untitled"
+			{
+				"item"		"item_vambrace"
+				"item"		"item_pupils_gift"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_spy_gadget"
+				"item"		"item_timeless_relic"
+				"item"		"item_princes_knife"
+				"item"		"item_witless_shako"
+				"item"		"item_pirate_hat"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ancient_apparition_chilling_touch"
+			"2"		"ancient_apparition_cold_feet"
+			"3"		"ancient_apparition_chilling_touch"
+			"4"		"ancient_apparition_cold_feet"
+			"5"		"ancient_apparition_chilling_touch"
+			"6"		"ancient_apparition_ice_blast"
+			"7"		"ancient_apparition_chilling_touch"
+			"8"		"ancient_apparition_cold_feet"
+			"9"		"ancient_apparition_cold_feet"
+			"10"		"special_bonus_spell_amplify_10"
+			"11"		"ancient_apparition_ice_vortex"
+			"12"		"ancient_apparition_ice_blast"
+			"13"		"ancient_apparition_ice_vortex"
+			"14"		"ancient_apparition_ice_vortex"
+			"15"		"special_bonus_hp_regen_15"
+			"16"		"ancient_apparition_ice_vortex"
+			"18"		"ancient_apparition_ice_blast"
+			"20"		"special_bonus_unique_ancient_apparition_2"
+			"25"		"special_bonus_unique_ancient_apparition_6"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
