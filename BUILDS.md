@@ -62,6 +62,7 @@ Puck | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=
 Puck | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1929843422) | [buildfile](builds/puck_1575643754.build) 
 Pudge | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1750985856) | [buildfile](builds/pudge_1558353431.build)
 Pugna | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853143269) | [buildfile](builds/pugna_1565377769.build)
+Riki | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1972552037) | [buildfile](builds/riki_1579379755.build)
 Rubick | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609326506) | [buildfile](builds/rubick_1544208773.build)
 Rubick | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885723430) | [buildfile](builds/rubick_1569375830.build)
 Shadow Demon | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609337231) | [buildfile](builds/shadow_demon_1537995516.build)
