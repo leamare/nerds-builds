@@ -7,50 +7,55 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x000000006E74C3AE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E1DE8BD"
-	"TimePublished"		"0x000000005E1DE8BD"
+	"TimeUpdated"		"0x000000005E237113"
+	"TimePublished"		"0x000000005E237113"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_headdress"
+				"item"		"item_ring_of_regen"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
 			}
 			"Starting items (sidelane)"
 			{
 				"item"		"item_tango"
-				"item"		"item_headdress"
+				"item"		"item_ring_of_regen"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
-				"item"		"item_buckler"
+				"item"		"item_soul_ring"
+				"item"		"item_headdress"
 				"item"		"item_magic_wand"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_buckler"
 			}
 			"Core"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_maelstrom"
-				"item"		"item_heart"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bottle"
 				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
 				"item"		"item_mjollnir"
+				"item"		"item_moon_shard"
+				"item"		"item_heart"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 			}
@@ -84,22 +89,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"wisp_tether"
-			"2"		"wisp_overcharge"
+			"1"		"wisp_spirits"
+			"2"		"wisp_tether"
 			"3"		"wisp_spirits"
-			"4"		"wisp_spirits"
+			"4"		"wisp_overcharge"
 			"5"		"wisp_spirits"
-			"6"		"wisp_relocate"
+			"6"		"wisp_overcharge"
 			"7"		"wisp_spirits"
 			"8"		"wisp_overcharge"
 			"9"		"wisp_overcharge"
 			"10"		"special_bonus_attack_damage_45"
-			"11"		"wisp_overcharge"
-			"12"		"wisp_relocate"
+			"11"		"wisp_tether"
+			"12"		"wisp_tether"
 			"13"		"wisp_tether"
-			"14"		"wisp_tether"
+			"14"		"wisp_relocate"
 			"15"		"special_bonus_gold_income_120"
-			"16"		"wisp_tether"
+			"16"		"wisp_relocate"
 			"18"		"wisp_relocate"
 			"20"		"special_bonus_armor_15"
 			"25"		"special_bonus_unique_wisp_4"
