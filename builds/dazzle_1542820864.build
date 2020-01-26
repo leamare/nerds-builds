@@ -3,18 +3,18 @@
 	"Hero"		"dazzle"
 	"Title"		"Nerds Dazzle"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23f"
+	"GameplayVersion"		"7.24"
 	"Overview"		"Dazzle is a strong intelligence hero who can be played as position 2, 3 or 5. He's pretty effective at snowballing out of control because of his ult, Bad Juju, its synergy with Poison Touch and his early +75 damage talent. All of these things make Dazzle a powerful manfighter with high physical damage burst and high attack damage, as well as good backliner, healing source and manfighter. Because of Bad Juju and its synergy with other skills and items, Dazzle is also able to flashfarm pretty quickly, whick, in combination with his high damage output and healing, make him able to get out of control very early and finish the game before it even starts.
 
 Early on you want to get a point into Shadow Wave to keep yourself alive on lane, but afterwards you're going to max Poison Touch and use it as harassing tool. With level 3 Poison Touch you're able to bully your enemy out of lane by autoattacking him (or just kill your opponent if he's not backing up), at level 7 with maxed poison touch and Bad Juju stacks you will be able to kill every creepwave pretty fast (or instakill it by using Shadow Wave on your creepwave). As soon as you get Necronomicon level 1, you will become an unstoppable farming machine, capable of destroying 3-stack of ancients in a blink of an eye. And with level 10 talent you wil be able to kill pretty much every hero on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E1DEAD0"
-	"TimePublished"		"0x000000005E1DEAD0"
+	"TimeUpdated"		"0x000000005E2E1145"
+	"TimePublished"		"0x000000005E2E1145"
 	"ItemBuild"
 	{
 		"Items"

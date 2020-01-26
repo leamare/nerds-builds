@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23f"
+	"GameplayVersion"		"7.24"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"55"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E1DEC1F"
-	"TimePublished"		"0x000000005E1DEC1F"
+	"TimeUpdated"		"0x000000005E2E118E"
+	"TimePublished"		"0x000000005E2E118E"
 	"ItemBuild"
 	{
 		"Items"
@@ -104,7 +104,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_chen_5"
 			"16"		"chen_penitence"
 			"18"		"chen_hand_of_god"
-			"20"		"special_bonus_gold_income_180"
+			"20"		"special_bonus_unique_chen_7"
 			"25"		"special_bonus_unique_chen_2"
 		}
 		"AbilityTooltips"

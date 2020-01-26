@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23f"
+	"GameplayVersion"		"7.24"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"101"
+	"GuideRevision"		"102"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E1DDAF2"
-	"TimePublished"		"0x000000005E1DDAF2"
+	"TimeUpdated"		"0x000000005E2E0CC6"
+	"TimePublished"		"0x000000005E2E0CC6"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,7 +34,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_ancient_janggo"
 			}
-			"Core"
+			"Core - Radiance"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_radiance"
@@ -48,13 +48,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_mask_of_madness"
+				"item"		"item_blade_mail"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_wraith_band"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_vanguard"
-				"item"		"item_mask_of_madness"
-				"item"		"item_blade_mail"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
@@ -137,6 +137,7 @@ ALTERNATIVES: Vanguard, HotD"
 			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_soul_ring"		"Good pickup if you're going to play hybrid nuker Spectre for early farming. Solves all mana issues and allowes to spam Spectral Dagger"
 			"item_ancient_janggo"		"Cheap stats, kinda works as cheap Yasha/Manta replacement early on"
+			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don't really need to use it in fights, but you CAN if you need to focus a squishy target. It's better to purchase with some cheap armor (like Blade Mail)"
 		}
 	}
 	"AbilityBuild"
