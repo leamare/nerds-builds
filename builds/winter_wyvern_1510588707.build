@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E0B71"
-	"TimePublished"		"0x000000005E2E0B71"
+	"TimeUpdated"		"0x000000005E33F1DB"
+	"TimePublished"		"0x000000005E33F1DB"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,15 +33,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_boots"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_orchid"
 				"item"		"item_force_staff"
 				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_maelstrom"
+				"item"		"item_null_talisman"
+				"item"		"item_soul_ring"
+				"item"		"item_ancient_janggo"
+				"item"		"item_mask_of_madness"
+				"item"		"item_cyclone"
+				"item"		"item_hand_of_midas"
 			}
 			"Utility Slots"
 			{
@@ -50,30 +59,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_holy_locket"
 				"item"		"item_lotus_orb"
 			}
-			"Situational Early"
-			{
-				"item"		"item_soul_ring"
-				"item"		"item_ancient_janggo"
-				"item"		"item_maelstrom"
-				"item"		"item_invis_sword"
-				"item"		"item_desolator"
-				"item"		"item_null_talisman"
-				"item"		"item_hand_of_midas"
-				"item"		"item_cyclone"
-			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
+				"item"		"item_bloodthorn"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
-				"item"		"item_bloodthorn"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_mjollnir"
 			}
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_bloodstone"
 				"item"		"item_nullifier"
@@ -81,9 +79,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
-				"item"		"item_mask_of_madness"
 				"item"		"item_rod_of_atos"
 				"item"		"item_yasha_and_kaya"
+				"item"		"item_desolator"
+				"item"		"item_invis_sword"
 			}
 			"Best Neutral Items"
 			{
