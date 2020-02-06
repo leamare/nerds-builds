@@ -7,56 +7,56 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E120F"
-	"TimePublished"		"0x000000005E2E120F"
+	"TimeUpdated"		"0x000000005E3B4E00"
+	"TimePublished"		"0x000000005E3B4E00"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items"
 			{
-				"item"		"item_tango"
 				"item"		"item_slippers"
 				"item"		"item_circlet"
 				"item"		"item_slippers"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_flask"
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_hand_of_midas"
 				"item"		"item_mjollnir"
 				"item"		"item_invis_sword"
+				"item"		"item_travel_boots"
 			}
 			"Core - Early aggression"
 			{
+				"item"		"item_maelstrom"
 				"item"		"item_ancient_janggo"
-				"item"		"item_phase_boots"
 				"item"		"item_mask_of_madness"
 			}
 			"Situational Early"
 			{
-				"item"		"item_diffusal_blade"
-				"item"		"item_hand_of_midas"
 				"item"		"item_necronomicon"
 				"item"		"item_blink"
+				"item"		"item_force_staff"
+				"item"		"item_wind_lace"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
 				"item"		"item_blade_mail"
-				"item"		"item_force_staff"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_travel_boots"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 				"item"		"item_sheepstick"
@@ -90,6 +90,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_princes_knife"
 				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_spy_gadget"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
