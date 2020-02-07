@@ -28,6 +28,7 @@ Dark Willow | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filede
 Dark Willow | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1396923037) |  [buildfile](builds/dark_willow_1518900620.build)
 Dazzle | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1572131797) | [buildfile](builds/dazzle_1542820864.build)
 Doom | Offlane | ~ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1650678243) | [buildfile](builds/doom_bringer_1513111352.build)
+Dragon Knight | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1990463880) | [buildfile](builds/dragon_knight_1576617695.build)
 Drow Ranger | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1584779697) | [buildfile](builds/drow_ranger_1543541907.build)
 Enchantress | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [buildfile](builds/enchantress_1517795534.build)
 Enchantress | Roaming Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [buildfile](builds/enchantress_1517796324.build)
