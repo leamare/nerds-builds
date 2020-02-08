@@ -8,12 +8,12 @@
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"13"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E1054"
-	"TimePublished"		"0x000000005E2E1054"
+	"TimeUpdated"		"0x000000005E3CC69E"
+	"TimePublished"		"0x000000005E3CC69E"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,9 +36,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_vladmir"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{

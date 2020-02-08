@@ -9,12 +9,12 @@ Lifestealer lacks three things: attack speed, armor and mobility. He is also goo
 Since 7.07 there is a new way to play the hero, which is based on increasing his farming power with radiance, as well as amplify his damage and early Roshan potential with Solar Crest. That way he becomes durable tank, while also being able to fight early and get Radiance in a good timing window.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"53"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E104E"
-	"TimePublished"		"0x000000005E2E104E"
+	"TimeUpdated"		"0x000000005E3CC691"
+	"TimePublished"		"0x000000005E3CC691"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,51 +22,48 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_quelling_blade"
-				"item"		"item_ring_of_protection"
 				"item"		"item_branches"
+				"item"		"item_orb_of_venom"
 			}
 			"Early"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_gloves"
-				"item"		"item_blades_of_attack"
+				"item"		"item_magic_wand"
+				"item"		"item_maelstrom"
 			}
 			"Core"
 			{
-				"item"		"item_armlet"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_heavens_halberd"
+				"item"		"item_mjollnir"
+				"item"		"item_basher"
+				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
-				"item"		"item_maelstrom"
 				"item"		"item_desolator"
-				"item"		"item_basher"
 				"item"		"item_buckler"
+				"item"		"item_armlet"
 			}
 			"Lategame"
 			{
-				"item"		"item_mjollnir"
 				"item"		"item_abyssal_blade"
-				"item"		"item_heart"
-				"item"		"item_bloodthorn"
-				"item"		"item_assault"
-				"item"		"item_greater_crit"
-				"item"		"item_nullifier"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
+				"item"		"item_nullifier"
 			}
 			"Situational"
 			{
-				"item"		"item_heavens_halberd"
+				"item"		"item_greater_crit"
 				"item"		"item_blink"
 				"item"		"item_solar_crest"
 				"item"		"item_sphere"
 				"item"		"item_silver_edge"
 				"item"		"item_butterfly"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_heart"
 			}
 			"Best Neutral Items"
 			{
