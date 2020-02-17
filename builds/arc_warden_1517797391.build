@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"66"
+	"GuideRevision"		"70"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E3B4E00"
-	"TimePublished"		"0x000000005E3B4E00"
+	"TimeUpdated"		"0x000000005E41E59F"
+	"TimePublished"		"0x000000005E41E59F"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,13 +29,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
-				"item"		"item_power_treads"
+				"item"		"item_boots"
 			}
-			"Core"
+			"Core - Main"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+				"item"		"item_mjollnir"
+			}
+			"Core - Good Start"
 			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_mjollnir"
-				"item"		"item_invis_sword"
 				"item"		"item_travel_boots"
 			}
 			"Core - Early aggression"
@@ -46,39 +51,42 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_necronomicon"
-				"item"		"item_blink"
-				"item"		"item_force_staff"
 				"item"		"item_wind_lace"
-				"item"		"item_ring_of_basilius"
-				"item"		"item_magic_wand"
+				"item"		"item_necronomicon"
+				"item"		"item_force_staff"
+				"item"		"item_orchid"
+				"item"		"item_invis_sword"
 				"item"		"item_blade_mail"
+				"item"		"item_blink"
 				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
-				"item"		"item_nullifier"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_butterfly"
+				"item"		"item_hurricane_pike"
+				"item"		"item_bloodthorn"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots_2"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_greater_crit"
-				"item"		"item_hurricane_pike"
-				"item"		"item_manta"
-				"item"		"item_ethereal_blade"
-				"item"		"item_black_king_bar"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_octarine_core"
-				"item"		"item_assault"
+				"item"		"item_nullifier"
 				"item"		"item_skadi"
+				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
+				"item"		"item_octarine_core"
 				"item"		"item_sphere"
+				"item"		"item_manta"
+			}
+			"Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_assault"
+				"item"		"item_ethereal_blade"
 			}
 			"Best Neutral Items"
 			{
@@ -86,13 +94,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ring_of_aquila"
 				"item"		"item_grove_bow"
 				"item"		"item_illusionsts_cape"
-				"item"		"item_mind_breaker"
 				"item"		"item_princes_knife"
+				"item"		"item_mind_breaker"
 				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_spy_gadget"
-				"item"		"item_orb_of_destruction"
 				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -108,7 +116,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_magic_stick"		"Another one early item, good to get against heroes who want to spam their abilities a lot, like Zeus, SF, PA, Bristle. You don't really need to upgrade it since you will need slot really soon, so it will be just a waste of money"
 			"item_travel_boots"		"~16-32 min - Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don't need to care about movement speed anymore"
 			"item_sheepstick"		"Additional lockdown, one of the best lategame items for Arc since you have not one, but two hexes. It can be replaced with Bloodthorn+nullifier combo, but hex is better since it cannot be dispelled (while nullifier+bloodthorn combo can be purged with everything)"
-			"item_bloodthorn"		"Probably the best damage item for Arc: lockdown, crits and utility from using it twice"
+			"item_bloodthorn"		"Offensive lockdown solution. It can be purged so it's more of a DPS/focus item, but can be rushed early via Orchid to snowball or kill targets faster in the lategame"
 			"item_hurricane_pike"		"~20 min
 Stat boost and additional escape for cases when something goes wrong (can be used offensively too). Very good against gap closers (PA, Clockwerk, Riki)
 Usually replaces Shadow Blade"
@@ -131,8 +139,8 @@ ALTERNATIVES: Hurricane Pike, Blink Dagger"
 			"item_necronomicon"		"~10 min
 Good pickup before or right after Hand of Midas to boost your farming capabilities. It's good when you ca afford farming for a little bit more or don't really know do you want to go for Midas or not. Big advantage is having additional mana regen and HP, as well as better jungling capabilities.
 
-Can be upgraded further later on to get true sight."
-			"item_nullifier"		"Good when paired with Bloodthorn"
+Can be upgraded later on to get true sight."
+			"item_nullifier"		"Good when paired with Bloodthorn, but the projectile is quite slow so most of the time you won't be able to get it out in time"
 			"item_diffusal_blade"		"Works great in combination with Manta. Essentially provides cheap damage and additional crowd control"
 		}
 	}
@@ -147,15 +155,15 @@ Can be upgraded further later on to get true sight."
 			"5"		"arc_warden_spark_wraith"
 			"6"		"arc_warden_tempest_double"
 			"7"		"arc_warden_spark_wraith"
-			"8"		"arc_warden_magnetic_field"
-			"9"		"arc_warden_magnetic_field"
+			"8"		"arc_warden_flux"
+			"9"		"arc_warden_flux"
 			"10"		"special_bonus_attack_speed_35"
 			"11"		"arc_warden_magnetic_field"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
-			"14"		"arc_warden_flux"
+			"14"		"arc_warden_magnetic_field"
 			"15"		"special_bonus_hp_300"
-			"16"		"arc_warden_flux"
+			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
 			"20"		"special_bonus_unique_arc_warden_3"
 			"25"		"special_bonus_unique_arc_warden"
