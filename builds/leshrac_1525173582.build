@@ -9,75 +9,75 @@
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E107B"
-	"TimePublished"		"0x000000005E2E107B"
+	"TimeUpdated"		"0x000000005E3DAC57"
+	"TimePublished"		"0x000000005E3DAC57"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_mantle"
+				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_mantle"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_null_talisman"
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_cyclone"
 				"item"		"item_travel_boots"
-				"item"		"item_black_king_bar"
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_cyclone"
+				"item"		"item_bloodstone"
 			}
 			"Situational Early"
 			{
-				"item"		"item_kaya_and_sange"
+				"item"		"item_veil_of_discord"
 				"item"		"item_rod_of_atos"
 				"item"		"item_force_staff"
-				"item"		"item_soul_ring"
 				"item"		"item_blink"
 				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
 			}
 			"Lategame"
 			{
-				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
+				"item"		"item_sphere"
+				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
 				"item"		"item_aeon_disk"
-				"item"		"item_bloodstone"
 				"item"		"item_ghost"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
-				"item"		"item_sphere"
+				"item"		"item_kaya_and_sange"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_grove_bow"
 				"item"		"item_vampire_fangs"
 				"item"		"item_quickening_charm"
-				"item"		"item_mind_breaker"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_princes_knife"
 				"item"		"item_panic_button"
+				"item"		"item_mind_breaker"
+				"item"		"item_princes_knife"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -88,8 +88,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_soul_ring"		"Early tankiness, HP regen and a source of mana that may help to farm.
-~4 min"
 			"item_bloodstone"		"Surviveability, huge increase in mana/HP pool, as well as huge mana regen increase. You want to get it under any circumstances and earlier is better. Altho, it forces you to start playing more active to get Bloodstone charges, as well as more careful.
 ~17 min"
 			"item_cyclone"		"Mana regen, mobility and Split Earth setup.
@@ -127,18 +125,18 @@ Alternative to Blink Dagger"
 		"AbilityOrder"
 		{
 			"1"		"leshrac_split_earth"
-			"2"		"leshrac_diabolic_edict"
-			"3"		"leshrac_diabolic_edict"
+			"2"		"leshrac_lightning_storm"
+			"3"		"leshrac_lightning_storm"
 			"4"		"leshrac_split_earth"
 			"5"		"leshrac_diabolic_edict"
 			"6"		"leshrac_pulse_nova"
-			"7"		"leshrac_diabolic_edict"
-			"8"		"leshrac_split_earth"
-			"9"		"leshrac_split_earth"
+			"7"		"leshrac_split_earth"
+			"8"		"leshrac_diabolic_edict"
+			"9"		"leshrac_diabolic_edict"
 			"10"		"special_bonus_armor_5"
-			"11"		"leshrac_lightning_storm"
+			"11"		"leshrac_diabolic_edict"
 			"12"		"leshrac_pulse_nova"
-			"13"		"leshrac_lightning_storm"
+			"13"		"leshrac_split_earth"
 			"14"		"leshrac_lightning_storm"
 			"15"		"special_bonus_strength_15"
 			"16"		"leshrac_lightning_storm"
