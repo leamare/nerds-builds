@@ -3,13 +3,13 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Untitled"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.22h"
+	"GameplayVersion"		"7.24"
 	"Overview"		""
-	"GuideRevision"		"2"
+	"GuideRevision"		"3"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DA51C39"
+	"TimeUpdated"		"0x000000005E400786"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -36,7 +36,6 @@
 			}
 			"#DOTA_Item_Build_Luxury"
 			{
-				"item"		"item_stout_shield"
 				"item"		"item_spirit_vessel"
 				"item"		"item_heavens_halberd"
 			}
@@ -79,7 +78,7 @@
 			"7"		"bounty_hunter_jinada"
 			"8"		"bounty_hunter_shuriken_toss"
 			"9"		"bounty_hunter_shuriken_toss"
-			"10"		"special_bonus_exp_boost_25"
+			"10"		"special_bonus_attack_damage_25"
 			"11"		"bounty_hunter_shuriken_toss"
 			"12"		"bounty_hunter_track"
 			"13"		"bounty_hunter_wind_walk"
