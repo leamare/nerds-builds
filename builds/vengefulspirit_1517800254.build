@@ -3,16 +3,16 @@
 	"Hero"		"vengefulspirit"
 	"Title"		"Nerds Vengeful Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.24"
+	"GameplayVersion"		"7.24b"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"55"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E2E0BC4"
-	"TimePublished"		"0x000000005E2E0BC4"
+	"TimeUpdated"		"0x000000005E655545"
+	"TimePublished"		"0x000000005E655545"
 	"ItemBuild"
 	{
 		"Items"
