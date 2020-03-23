@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.24b"
+	"GameplayVersion"		"7.25a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E655565"
-	"TimePublished"		"0x000000005E655565"
+	"TimeUpdated"		"0x000000005E78117C"
+	"TimePublished"		"0x000000005E78117C"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,33 +35,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_lesser_crit"
-				"item"		"item_medallion_of_courage"
-				"item"		"item_desolator"
-				"item"		"item_solar_crest"
+				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_cyclone"
+				"item"		"item_sphere"
+				"item"		"item_veil_of_discord"
 				"item"		"item_orchid"
 				"item"		"item_maelstrom"
-				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
-				"item"		"item_mjollnir"
 				"item"		"item_octarine_core"
 				"item"		"item_abyssal_blade"
-				"item"		"item_bloodthorn"
-				"item"		"item_nullifier"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_sphere"
 				"item"		"item_bloodstone"
 				"item"		"item_shivas_guard"
 				"item"		"item_greater_crit"
@@ -69,7 +64,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_skadi"
 				"item"		"item_blink"
-				"item"		"item_radiance"
+				"item"		"item_nullifier"
+				"item"		"item_mjollnir"
 			}
 			"Best Neutral Items"
 			{

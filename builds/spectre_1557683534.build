@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Experimental Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.24b"
+	"GameplayVersion"		"7.25a"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"24"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E655513"
-	"TimePublished"		"0x000000005E655513"
+	"TimeUpdated"		"0x000000005E76A005"
+	"TimePublished"		"0x000000005E76A005"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,16 +36,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_spirit_vessel"
-				"item"		"item_blade_mail"
 			}
 			"Situational"
 			{
 				"item"		"item_orb_of_venom"
-				"item"		"item_mask_of_madness"
+				"item"		"item_necronomicon"
 				"item"		"item_vladmir"
 				"item"		"item_ancient_janggo"
 				"item"		"item_ghost"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_mask_of_madness"
+				"item"		"item_blade_mail"
 			}
 			"Utility"
 			{
@@ -83,6 +84,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_mask_of_madness"		"A good solution for farming jungle between fights or focusing a single target. Works fine, but it's better for core Spectre while for support it's not optimal"
+			"item_orb_of_venom"		"Increases chase potential, mass debuff with haunt"
+			"item_vladmir"		"Good armor and mana solution, buffs your team and allowes you to spam daggers"
+			"item_necronomicon"		"The best alternative to HotD. It allowes you to farm  between fights, makes you much tankier and gives you a lot of mana regen"
 		}
 	}
 	"AbilityBuild"

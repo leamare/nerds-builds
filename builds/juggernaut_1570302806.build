@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.24b"
+	"GameplayVersion"		"7.25"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E66413B"
-	"TimePublished"		"0x000000005E66413B"
+	"TimeUpdated"		"0x000000005E715084"
+	"TimePublished"		"0x000000005E715084"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,26 +28,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
-				"item"		"item_mask_of_madness"
-				"item"		"item_lesser_crit"
-				"item"		"item_sange_and_yasha"
-				"item"		"item_basher"
+				"item"		"item_ancient_janggo"
+				"item"		"item_mjollnir"
+				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_mjollnir"
-				"item"		"item_manta"
-				"item"		"item_ancient_janggo"
+				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
 				"item"		"item_diffusal_blade"
 				"item"		"item_blink"
 				"item"		"item_bfury"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_basher"
 			}
 			"Lategame"
 			{

@@ -3,18 +3,18 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Support Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.24b"
+	"GameplayVersion"		"7.25"
 	"Overview"		"Axe is a tanky strength hero who excells at brawling enemies to death. His natural tankiness and skill set allow him to chase people down and take as much damage as your team needs while also providing high amounts of damage and crowd control.
 
 Main game plan as a support Axe is to chase people down with Battle Hunger (supports first) to win the lane (or switch to jungle if it's not possible anywhere on the map). Winning the lane and transitioning to Urn and other \"brawling\" support items allowes Axe to keep up in fights and tank enemy damage while also using Berserker's Call, disengage, regen and come back to fight to use all spells again. Lategame Axe with Aghanim's Scepter and Battle Hunger talent allow the hero to deal even more damage in lategame and be practically unkillable with Octarine Core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x0000000073B5F7D9"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E6541FB"
-	"TimePublished"		"0x000000005E6541FB"
+	"TimeUpdated"		"0x000000005E711EBA"
+	"TimePublished"		"0x000000005E711EBA"
 	"ItemBuild"
 	{
 		"Items"
