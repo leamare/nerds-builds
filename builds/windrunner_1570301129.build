@@ -3,16 +3,16 @@
 	"Hero"		"windrunner"
 	"Title"		"Nerds Windranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"15"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E4D"
-	"TimePublished"		"0x000000005E714E4D"
+	"TimeUpdated"		"0x000000005EA8AEF9"
+	"TimePublished"		"0x000000005EA8AEF9"
 	"ItemBuild"
 	{
 		"Items"
@@ -70,6 +70,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
 				"item"		"item_abyssal_blade"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
@@ -103,16 +104,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"windrunner_powershot"
 			"8"		"windrunner_windrun"
 			"9"		"windrunner_windrun"
-			"10"		"special_bonus_mp_regen_2"
+			"10"		"special_bonus_mp_regen_150"
 			"11"		"windrunner_shackleshot"
 			"12"		"windrunner_focusfire"
 			"13"		"windrunner_shackleshot"
 			"14"		"windrunner_shackleshot"
-			"15"		"special_bonus_attack_range_125"
+			"15"		"special_bonus_unique_windranger_3"
 			"16"		"windrunner_shackleshot"
 			"18"		"windrunner_focusfire"
 			"20"		"special_bonus_unique_windranger_6"
-			"25"		"special_bonus_cooldown_reduction_30"
+			"25"		"special_bonus_cooldown_reduction_25"
 		}
 		"AbilityTooltips"
 		{

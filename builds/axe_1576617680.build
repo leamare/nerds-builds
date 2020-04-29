@@ -3,18 +3,18 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Support Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Axe is a tanky strength hero who excells at brawling enemies to death. His natural tankiness and skill set allow him to chase people down and take as much damage as your team needs while also providing high amounts of damage and crowd control.
 
 Main game plan as a support Axe is to chase people down with Battle Hunger (supports first) to win the lane (or switch to jungle if it's not possible anywhere on the map). Winning the lane and transitioning to Urn and other \"brawling\" support items allowes Axe to keep up in fights and tank enemy damage while also using Berserker's Call, disengage, regen and come back to fight to use all spells again. Lategame Axe with Aghanim's Scepter and Battle Hunger talent allow the hero to deal even more damage in lategame and be practically unkillable with Octarine Core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x0000000073B5F7D9"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E711EBA"
-	"TimePublished"		"0x000000005E711EBA"
+	"TimeUpdated"		"0x000000005EA8B4F1"
+	"TimePublished"		"0x000000005EA8B4F1"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,12 +32,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_ring_of_protection"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_spirit_vessel"
 				"item"		"item_blade_mail"
 				"item"		"item_blink"
 			}
@@ -50,7 +50,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_heart"
@@ -113,7 +112,7 @@ It also works well incombination with Berserker's Call. You use Call, disengage 
 			"item_pipe"		"Against high magic damage lineups"
 			"item_tranquil_boots"		"If you don't really need armor, can't get urn but need out-of-fight regen, have a bad game and is going to jungle or just don't have a lot of money"
 			"item_quelling_blade"		"For farming jungle camps"
-			"item_spirit_vessel"		"Movement speed, HP, mana regen and a ton of magic damage. Even as a healing source it becomes more powerful in late game "
+			"item_spirit_vessel"		"HP, mana regen and a ton of magic damage/degen. Even as a healing source it becomes more powerful in late game "
 			"item_ultimate_scepter"		"Turns Battle Hunger into AoE damage reduction ability, dealing a ton of damage"
 			"item_octarine_core"		"In combination with Battle Hunger and Aghs, it's going to produce a lot of damage and make you practically unkillable with level 25 talent and counter helix"
 			"item_heart"		"Natural item for a tanky brawler like Axe"
@@ -154,15 +153,15 @@ It also works well incombination with Berserker's Call. You use Call, disengage 
 			"7"		"axe_battle_hunger"
 			"8"		"axe_berserkers_call"
 			"9"		"axe_berserkers_call"
-			"10"		"special_bonus_strength_8"
+			"10"		"special_bonus_attack_speed_30"
 			"11"		"axe_berserkers_call"
 			"12"		"axe_culling_blade"
 			"13"		"axe_counter_helix"
 			"14"		"axe_counter_helix"
-			"15"		"special_bonus_movement_speed_30"
+			"15"		"special_bonus_mp_regen_250"
 			"16"		"axe_counter_helix"
 			"18"		"axe_culling_blade"
-			"20"		"special_bonus_hp_regen_25"
+			"20"		"special_bonus_hp_regen_20"
 			"25"		"special_bonus_unique_axe"
 		}
 		"AbilityTooltips"

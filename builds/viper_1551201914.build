@@ -3,18 +3,18 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 Your game plan as Viper is simple - get early levels, max out Nethertoxin and start dropping it everywhere to farm every creep on the map. You'll need a bit of mana sustain for it (that's when Arcane boots come handy), but even before that you'll need to win your lane first (that's where early stats items come in). Afterwards you'll need to solve one major issue - stop enemies from teleporting or running away with Rod of Atos. After that point you'll need to get only Guardian Greaves and start establishing your dominance by pushing and fighting with your team until you reach the point of no return. Altho be careful since once you lose your advantage it may be very hard to come back as Viper.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E99"
-	"TimePublished"		"0x000000005E714E99"
+	"TimeUpdated"		"0x000000005EA8AF65"
+	"TimePublished"		"0x000000005EA8AF65"
 	"ItemBuild"
 	{
 		"Items"
@@ -51,6 +51,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ancient_janggo"
 				"item"		"item_dragon_lance"
 				"item"		"item_maelstrom"
+				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
@@ -130,15 +131,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"viper_poison_attack"
 			"8"		"viper_corrosive_skin"
 			"9"		"viper_corrosive_skin"
-			"10"		"special_bonus_attack_speed_25"
+			"10"		"special_bonus_attack_speed_20"
 			"11"		"viper_nethertoxin"
 			"12"		"viper_viper_strike"
 			"13"		"viper_nethertoxin"
 			"14"		"viper_nethertoxin"
-			"15"		"special_bonus_attack_range_125"
+			"15"		"special_bonus_attack_range_100"
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
-			"20"		"special_bonus_attack_damage_90"
+			"20"		"special_bonus_attack_damage_70"
 			"25"		"special_bonus_unique_viper_4"
 		}
 		"AbilityTooltips"

@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26a"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E715142"
-	"TimePublished"		"0x000000005E715142"
+	"TimeUpdated"		"0x000000005EA02A88"
+	"TimePublished"		"0x000000005EA02A88"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,15 +25,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_blight_stone"
 				"item"		"item_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_blight_stone"
 				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_vladmir"
+				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
@@ -41,6 +40,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_ancient_janggo"
 				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
 			}
 			"Utility"
 			{

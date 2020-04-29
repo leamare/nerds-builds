@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E2D"
-	"TimePublished"		"0x000000005E714E2D"
+	"TimeUpdated"		"0x000000005EA8AE99"
+	"TimePublished"		"0x000000005EA8AE99"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,8 +24,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_ring_of_protection"
+				"item"		"item_wind_lace"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
@@ -33,7 +32,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
-				"item"		"item_wind_lace"
 				"item"		"item_buckler"
 			}
 			"Core"
@@ -135,12 +133,12 @@ Also good if you don't want to get Urn for some reason"
 			"7"		"skeleton_king_hellfire_blast"
 			"8"		"skeleton_king_mortal_strike"
 			"9"		"skeleton_king_hellfire_blast"
-			"10"		"special_bonus_attack_speed_20"
+			"10"		"special_bonus_attack_speed_15"
 			"11"		"skeleton_king_mortal_strike"
 			"12"		"skeleton_king_reincarnation"
 			"13"		"skeleton_king_vampiric_aura"
 			"14"		"skeleton_king_vampiric_aura"
-			"15"		"special_bonus_strength_15"
+			"15"		"special_bonus_unique_wraith_king_6"
 			"16"		"skeleton_king_vampiric_aura"
 			"18"		"skeleton_king_reincarnation"
 			"20"		"special_bonus_unique_wraith_king_1"

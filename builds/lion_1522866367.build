@@ -3,18 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E71501F"
-	"TimePublished"		"0x000000005E71501F"
+	"TimeUpdated"		"0x000000005EA8B309"
+	"TimePublished"		"0x000000005EA8B309"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,8 +45,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_blink"
 				"item"		"item_ghost"
-				"item"		"item_phase_boots"
 				"item"		"item_force_staff"
+				"item"		"item_spirit_vessel"
 			}
 			"Utility"
 			{
@@ -102,7 +102,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ghost"		"Potential self-save against physical damage"
 			"item_ultimate_scepter"		"It's good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren't really focused on this aspect of Lion."
 			"item_assault"		"Both armor and attack speed boost. Works well for semi-carry Lion"
-			"item_phase_boots"		"If you want to use full potential of your +90 dmg talent, you need some attack speed. Phase ability works great as well"
 		}
 	}
 	"AbilityBuild"
@@ -118,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lion_impale"
 			"8"		"lion_mana_drain"
 			"9"		"lion_voodoo"
-			"10"		"special_bonus_attack_damage_90"
+			"10"		"special_bonus_cast_range_75"
 			"11"		"lion_mana_drain"
 			"12"		"lion_finger_of_death"
 			"13"		"lion_mana_drain"
@@ -126,7 +125,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_lion_3"
 			"16"		"lion_voodoo"
 			"18"		"lion_finger_of_death"
-			"20"		"special_bonus_hp_500"
+			"20"		"special_bonus_hp_400"
 			"25"		"special_bonus_unique_lion_4"
 		}
 		"AbilityTooltips"

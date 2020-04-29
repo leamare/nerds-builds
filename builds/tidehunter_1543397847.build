@@ -3,18 +3,18 @@
 	"Hero"		"tidehunter"
 	"Title"		"Nerds Tidehunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Tidehunter is a strength core hero who excells at being tanky and hard to take down beast. He's also great lane dominator and one of the best teamfighters in the game because of his ultimate, Ravage.
 Main issue that comes with his main strength is that Ravage Tide is useless when his ult is on cooldown. This build is focused around making Tide's out-of-teamfight potential much better by abusing power that comes with Anchor Smash. This ability allowes not only to dominate the lane and farm, but also transition into great physical damage core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://twitch.tv/XaKoH"
-	"GuideRevision"		"43"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714EC2"
-	"TimePublished"		"0x000000005E714EC2"
+	"TimeUpdated"		"0x000000005EA8AFD1"
+	"TimePublished"		"0x000000005EA8AFD1"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,29 +22,27 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_ring_of_protection"
+				"item"		"item_tango"
+				"item"		"item_ring_of_regen"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_buckler"
 				"item"		"item_bracer"
 				"item"		"item_phase_boots"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
 				"item"		"item_vladmir"
-				"item"		"item_soul_ring"
 				"item"		"item_blink"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bracer"
+				"item"		"item_spirit_vessel"
 				"item"		"item_bottle"
 				"item"		"item_magic_wand"
 				"item"		"item_invis_sword"
@@ -140,16 +138,16 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			"7"		"tidehunter_anchor_smash"
 			"8"		"tidehunter_anchor_smash"
 			"9"		"tidehunter_kraken_shell"
-			"10"		"special_bonus_movement_speed_20"
+			"10"		"special_bonus_unique_tidehunter_2"
 			"11"		"tidehunter_gush"
 			"12"		"tidehunter_ravage"
 			"13"		"tidehunter_gush"
 			"14"		"tidehunter_kraken_shell"
-			"15"		"special_bonus_mp_regen_4"
+			"15"		"special_bonus_mp_regen_3"
 			"16"		"tidehunter_kraken_shell"
 			"18"		"tidehunter_ravage"
 			"20"		"special_bonus_unique_tidehunter"
-			"25"		"special_bonus_attack_damage_250"
+			"25"		"special_bonus_attack_damage_200"
 		}
 		"AbilityTooltips"
 		{

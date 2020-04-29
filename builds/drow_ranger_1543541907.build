@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E7150D0"
-	"TimePublished"		"0x000000005E7150D0"
+	"TimeUpdated"		"0x000000005EA8B42A"
+	"TimePublished"		"0x000000005EA8B42A"
 	"ItemBuild"
 	{
 		"Items"
@@ -123,16 +123,16 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 			"7"		"drow_ranger_multishot"
 			"8"		"drow_ranger_frost_arrows"
 			"9"		"drow_ranger_frost_arrows"
-			"10"		"special_bonus_movement_speed_20"
+			"10"		"special_bonus_all_stats_4"
 			"11"		"drow_ranger_wave_of_silence"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"
-			"15"		"special_bonus_agility_12"
+			"15"		"special_bonus_agility_10"
 			"16"		"drow_ranger_wave_of_silence"
 			"18"		"drow_ranger_marksmanship"
 			"20"		"special_bonus_unique_drow_ranger_1"
-			"25"		"special_bonus_cooldown_reduction_40"
+			"25"		"special_bonus_cooldown_reduction_30"
 		}
 		"AbilityTooltips"
 		{

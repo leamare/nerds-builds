@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25a"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"80"
+	"GuideRevision"		"83"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E7811BD"
-	"TimePublished"		"0x000000005E7811BD"
+	"TimeUpdated"		"0x000000005EA8AF4C"
+	"TimePublished"		"0x000000005EA8AF4C"
 	"ItemBuild"
 	{
 		"Items"
@@ -58,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
 				"item"		"item_rod_of_atos"
@@ -130,12 +131,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"visage_grave_chill"
 			"8"		"visage_soul_assumption"
 			"9"		"visage_gravekeepers_cloak"
-			"10"		"special_bonus_cast_range_100"
+			"10"		"special_bonus_cast_range_75"
 			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"
 			"13"		"visage_soul_assumption"
 			"14"		"visage_soul_assumption"
-			"15"		"special_bonus_corruption_3"
+			"15"		"special_bonus_unique_visage_3"
 			"16"		"visage_soul_assumption"
 			"18"		"visage_summon_familiars"
 			"20"		"special_bonus_unique_visage_4"

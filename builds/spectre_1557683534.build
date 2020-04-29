@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Experimental Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.25a"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E76A005"
-	"TimePublished"		"0x000000005E76A005"
+	"TimeUpdated"		"0x000000005EA8B073"
+	"TimePublished"		"0x000000005EA8B073"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_buckler"
+				"item"		"item_tango"
+				"item"		"item_wind_lace"
+				"item"		"item_ring_of_protection"
 			}
 			"Early"
 			{
@@ -34,13 +36,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_spirit_vessel"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Situational"
 			{
-				"item"		"item_orb_of_venom"
-				"item"		"item_necronomicon"
+				"item"		"item_buckler"
 				"item"		"item_vladmir"
 				"item"		"item_ancient_janggo"
 				"item"		"item_ghost"
@@ -85,7 +86,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_mask_of_madness"		"A good solution for farming jungle between fights or focusing a single target. Works fine, but it's better for core Spectre while for support it's not optimal"
-			"item_orb_of_venom"		"Increases chase potential, mass debuff with haunt"
 			"item_vladmir"		"Good armor and mana solution, buffs your team and allowes you to spam daggers"
 			"item_necronomicon"		"The best alternative to HotD. It allowes you to farm  between fights, makes you much tankier and gives you a lot of mana regen"
 		}
@@ -103,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"spectre_spectral_dagger"
 			"8"		"spectre_dispersion"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_all_stats_5"
+			"10"		"special_bonus_hp_regen_5"
 			"11"		"spectre_dispersion"
 			"12"		"spectre_haunt"
 			"13"		"spectre_desolate"
@@ -111,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_spectre"
 			"16"		"spectre_desolate"
 			"18"		"spectre_haunt"
-			"20"		"special_bonus_hp_500"
+			"20"		"special_bonus_hp_400"
 			"25"		"special_bonus_unique_spectre_5"
 		}
 		"AbilityTooltips"

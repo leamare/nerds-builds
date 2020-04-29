@@ -3,18 +3,18 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"79"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E40"
-	"TimePublished"		"0x000000005E714E40"
+	"TimeUpdated"		"0x000000005EA8AEBC"
+	"TimePublished"		"0x000000005EA8AEBC"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,9 +31,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
+				"item"		"item_boots"
+				"item"		"item_null_talisman"
 				"item"		"item_magic_wand"
-				"item"		"item_power_treads"
+				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
@@ -56,8 +57,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_solar_crest"
-				"item"		"item_holy_locket"
 				"item"		"item_lotus_orb"
+				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
@@ -143,12 +144,12 @@ Additional increase in our farming capabilities, as well as boosting our teamfig
 			"7"		"winter_wyvern_splinter_blast"
 			"8"		"winter_wyvern_arctic_burn"
 			"9"		"winter_wyvern_cold_embrace"
-			"10"		"special_bonus_attack_damage_60"
+			"10"		"special_bonus_attack_damage_50"
 			"11"		"winter_wyvern_splinter_blast"
 			"12"		"winter_wyvern_winters_curse"
 			"13"		"winter_wyvern_cold_embrace"
 			"14"		"winter_wyvern_cold_embrace"
-			"15"		"special_bonus_night_vision_500"
+			"15"		"special_bonus_night_vision_400"
 			"16"		"winter_wyvern_cold_embrace"
 			"18"		"winter_wyvern_winters_curse"
 			"20"		"special_bonus_unique_winter_wyvern_1"

@@ -3,17 +3,17 @@
 	"Hero"		"morphling"
 	"Title"		"Nerds Support Morphling"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E7151F2"
-	"TimePublished"		"0x000000005E7151F2"
+	"TimeUpdated"		"0x000000005EA8B24A"
+	"TimePublished"		"0x000000005EA8B24A"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
+				"item"		"item_sobi_mask"
 				"item"		"item_clarity"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
@@ -31,11 +31,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_urn_of_shadows"
+				"item"		"item_spirit_vessel"
 				"item"		"item_aether_lens"
 				"item"		"item_blink"
 				"item"		"item_tranquil_boots"
@@ -98,7 +99,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_blink"		"Increasing initiation range even more, while also providing ability to choose better position (and knock enemy closer to our allies), or even jump in close distance and make dodging our projectile much harder."
 			"item_magic_wand"		"Since we will have a lot of problems with our manapool, Wand will be pretty handy on early stages."
 			"item_pipe"		"Useful thing against high magic damage lineups (you will probably face that a lot since you're playing morphling)"
-			"item_urn_of_shadows"		"Mana regen and healing for our team will be always handy for utility hero"
 			"item_sheepstick"		"Providing even more control for our team (like our stun gun wasn't already enough)"
 			"item_cyclone"		"Good for purging silences or controlling enemy in place so you can wait for your cooldowns and use stun+wave again. Provides us with mana regen and mobility which will always be handy."
 			"item_aether_lens"		"Huge mana boost and increase of our initiation range"
@@ -138,7 +138,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_morphling_8"
 			"16"		"morphling_morph_agi"
 			"18"		"morphling_replicate"
-			"20"		"special_bonus_cooldown_reduction_15"
+			"20"		"special_bonus_cooldown_reduction_12"
 			"25"		"special_bonus_unique_morphling_3"
 		}
 		"AbilityTooltips"

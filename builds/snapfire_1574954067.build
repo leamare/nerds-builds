@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714EF6"
-	"TimePublished"		"0x000000005E714EF6"
+	"TimeUpdated"		"0x000000005EA8B08E"
+	"TimePublished"		"0x000000005EA8B08E"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,13 +35,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_mekansm"
+				"item"		"item_spirit_vessel"
+				"item"		"item_glimmer_cape"
+				"item"		"item_force_staff"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_maelstrom"
-				"item"		"item_glimmer_cape"
+				"item"		"item_mekansm"
 				"item"		"item_veil_of_discord"
 				"item"		"item_aether_lens"
 				"item"		"item_rod_of_atos"
@@ -51,7 +52,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Utility"
 			{
 				"item"		"item_vladmir"
-				"item"		"item_force_staff"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 			}
@@ -95,7 +95,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"snapfire_scatterblast"
 			"8"		"snapfire_firesnap_cookie"
 			"9"		"snapfire_firesnap_cookie"
-			"10"		"special_bonus_hp_250"
+			"10"		"special_bonus_hp_200"
 			"11"		"snapfire_lil_shredder"
 			"12"		"snapfire_mortimer_kisses"
 			"13"		"snapfire_lil_shredder"

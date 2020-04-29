@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25a"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"107"
+	"GuideRevision"		"111"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E76A07A"
-	"TimePublished"		"0x000000005E76A07A"
+	"TimeUpdated"		"0x000000005EA8B07C"
+	"TimePublished"		"0x000000005EA8B07C"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,17 +22,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_ring_of_protection"
+				"item"		"item_ring_of_regen"
 				"item"		"item_quelling_blade"
 				"item"		"item_flask"
 			}
 			"Early"
 			{
+				"item"		"item_tango"
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
-				"item"		"item_ancient_janggo"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core - Radiance"
 			{
@@ -43,19 +43,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core - No Radiance"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_spirit_vessel"
 				"item"		"item_manta"
 				"item"		"item_diffusal_blade"
 			}
 			"Situational Early"
 			{
-				"item"		"item_necronomicon"
+				"item"		"item_spirit_vessel"
 				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
 				"item"		"item_helm_of_the_dominator"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_mask_of_madness"
 				"item"		"item_wraith_band"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_vanguard"
-				"item"		"item_mask_of_madness"
 			}
 			"Lategame"
 			{
@@ -81,6 +82,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
+				"item"		"item_necronomicon"
 			}
 			"Best Neutral Items"
 			{
@@ -156,7 +158,7 @@ ALTERNATIVES: Vanguard, HotD"
 			"7"		"spectre_dispersion"
 			"8"		"spectre_spectral_dagger"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_all_stats_5"
+			"10"		"special_bonus_hp_regen_5"
 			"11"		"spectre_desolate"
 			"12"		"spectre_haunt"
 			"13"		"spectre_desolate"
@@ -164,7 +166,7 @@ ALTERNATIVES: Vanguard, HotD"
 			"15"		"special_bonus_unique_spectre"
 			"16"		"spectre_desolate"
 			"18"		"spectre_haunt"
-			"20"		"special_bonus_hp_500"
+			"20"		"special_bonus_hp_400"
 			"25"		"special_bonus_unique_spectre_5"
 		}
 		"AbilityTooltips"

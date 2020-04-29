@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714FA2"
-	"TimePublished"		"0x000000005E714FA2"
+	"TimeUpdated"		"0x000000005EA8B1D1"
+	"TimePublished"		"0x000000005EA8B1D1"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_rod_of_atos"
+				"item"		"item_spirit_vessel"
 				"item"		"item_crimson_guard"
 			}
 			"Situational Early"
@@ -103,7 +104,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"pudge_dismember"
 			"13"		"pudge_meat_hook"
 			"14"		"pudge_meat_hook"
-			"15"		"special_bonus_spell_lifesteal_13"
+			"15"		"special_bonus_spell_lifesteal_10"
 			"16"		"pudge_meat_hook"
 			"18"		"pudge_dismember"
 			"20"		"special_bonus_unique_pudge_6"

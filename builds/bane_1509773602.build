@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Offlane Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"68"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E715170"
-	"TimePublished"		"0x000000005E715170"
+	"TimeUpdated"		"0x000000005EA8B4C3"
+	"TimePublished"		"0x000000005EA8B4C3"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,9 +45,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_blade_mail"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_hand_of_midas"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
@@ -80,6 +80,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_ghost"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
 			{
@@ -136,15 +138,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"bane_brain_sap"
 			"8"		"bane_enfeeble"
 			"9"		"bane_enfeeble"
-			"10"		"special_bonus_cast_range_100"
+			"10"		"special_bonus_armor_6"
 			"11"		"bane_nightmare"
 			"12"		"bane_fiends_grip"
 			"13"		"bane_enfeeble"
 			"14"		"bane_nightmare"
-			"15"		"special_bonus_magic_resistance_20"
+			"15"		"special_bonus_magic_resistance_15"
 			"16"		"bane_nightmare"
 			"18"		"bane_fiends_grip"
-			"20"		"special_bonus_movement_speed_50"
+			"20"		"special_bonus_movement_speed_40"
 			"25"		"special_bonus_unique_bane_2"
 		}
 		"AbilityTooltips"

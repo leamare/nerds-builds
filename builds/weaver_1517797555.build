@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"55"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E5E"
-	"TimePublished"		"0x000000005E714E5E"
+	"TimeUpdated"		"0x000000005EA8AF03"
+	"TimePublished"		"0x000000005EA8AF03"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,6 +32,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_medallion_of_courage"
 				"item"		"item_boots"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
@@ -45,7 +46,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_maelstrom"
 				"item"		"item_sphere"
 				"item"		"item_ring_of_tarrasque"
-				"item"		"item_magic_wand"
 			}
 			"Utility"
 			{
@@ -117,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"weaver_time_lapse"
 			"13"		"weaver_the_swarm"
 			"14"		"weaver_the_swarm"
-			"15"		"special_bonus_strength_14"
+			"15"		"special_bonus_strength_11"
 			"16"		"weaver_the_swarm"
 			"18"		"weaver_time_lapse"
 			"20"		"special_bonus_unique_weaver_4"

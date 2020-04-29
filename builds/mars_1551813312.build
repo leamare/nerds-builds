@@ -3,19 +3,19 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars (Support)"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
 
 Your main weakness early on will be low mana pool. There are a couple of ways to fix this problem, but aside from that all you need to do early on is just brawling. You may also farm inbetween fights to get some of your items since God's Rebuke with at least some mana sustain will be enough to start transitioning into core. And as soon as you get all your early items, all you need to do is just snowball and fight.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714FEC"
-	"TimePublished"		"0x000000005E714FEC"
+	"TimeUpdated"		"0x000000005EA8B279"
+	"TimePublished"		"0x000000005EA8B279"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_wind_lace"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
@@ -37,15 +38,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
+				"item"		"item_spirit_vessel"
 				"item"		"item_blink"
 				"item"		"item_rod_of_atos"
 			}
 			"Situational Early"
 			{
 				"item"		"item_medallion_of_courage"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_vladmir"
 				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
 			}
@@ -97,7 +97,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_phase_boots"		"Since we are going to brawl a lot, and damage/mobility are valuable for us, it's probably the best boots upgrade for Mars, regardless his position"
 			"item_magic_wand"		"Helps with manapool sustain during constant fights"
 			"item_vladmir"		"Buffs yout whole team, but also makes you way more tanky (because of lifesteal and God's Rebuke interaction)"
-			"item_ancient_janggo"		"Additional stats and mana sustain"
 			"item_medallion_of_courage"		"Additional armor, potential Solar Crest upgrade and damage amplification from God's Rebuke against one target"
 			"item_rod_of_atos"		"If you feel like you have a lot of money, you can go for Atos. It's great item for Mars stats wise (a lot of strength and massive manapool increase) and relatively cheap, so it's affordable even for a support Mars"
 			"item_desolator"		"Cheap and efficient damage/farm solution for Mars. Good for agressive games when you're way ahead"
@@ -119,12 +118,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
-			"10"		"special_bonus_movement_speed_20"
+			"10"		"special_bonus_strength_6"
 			"11"		"mars_gods_rebuke"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
-			"15"		"special_bonus_armor_8"
+			"15"		"special_bonus_attack_damage_20"
 			"16"		"mars_bulwark"
 			"18"		"mars_arena_of_blood"
 			"20"		"special_bonus_unique_mars_spear_bonus_damage"

@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"13"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714FFB"
-	"TimePublished"		"0x000000005E714FFB"
+	"TimeUpdated"		"0x000000005EA8B2BE"
+	"TimePublished"		"0x000000005EA8B2BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,27 +29,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_helm_of_the_dominator"
+				"item"		"item_necronomicon"
 			}
 			"Core"
 			{
+				"item"		"item_boots"
 				"item"		"item_necronomicon_3"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
-				"item"		"item_boots"
 				"item"		"item_blight_stone"
 				"item"		"item_ring_of_basilius"
 			}
 			"Lategame"
 			{
-				"item"		"item_assault"
 				"item"		"item_basher"
+				"item"		"item_black_king_bar"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
 				"item"		"item_vladmir"
@@ -91,12 +92,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lycan_summon_wolves"
 			"8"		"lycan_feral_impulse"
 			"9"		"lycan_feral_impulse"
-			"10"		"special_bonus_armor_5"
+			"10"		"special_bonus_attack_damage_15"
 			"11"		"lycan_howl"
 			"12"		"lycan_shapeshift"
 			"13"		"lycan_howl"
 			"14"		"lycan_howl"
-			"15"		"special_bonus_cooldown_reduction_12"
+			"15"		"special_bonus_cooldown_reduction_10"
 			"16"		"lycan_howl"
 			"18"		"lycan_shapeshift"
 			"20"		"special_bonus_unique_lycan_1"

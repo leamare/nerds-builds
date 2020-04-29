@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714E0B"
-	"TimePublished"		"0x000000005E714E0B"
+	"TimeUpdated"		"0x000000005EA8AE78"
+	"TimePublished"		"0x000000005EA8AE78"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,8 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_branches"
 				"item"		"item_clarity"
+				"item"		"item_sobi_mask"
 			}
 			"Early"
 			{
@@ -57,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
@@ -93,15 +94,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"zuus_lightning_bolt"
 			"8"		"zuus_static_field"
 			"9"		"zuus_static_field"
-			"10"		"special_bonus_mp_regen_3"
+			"10"		"special_bonus_mp_regen_250"
 			"11"		"zuus_arc_lightning"
 			"12"		"zuus_thundergods_wrath"
 			"13"		"zuus_static_field"
 			"14"		"zuus_arc_lightning"
-			"15"		"special_bonus_movement_speed_30"
+			"15"		"special_bonus_unique_zeus"
 			"16"		"zuus_arc_lightning"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_cooldown_reduction_15"
+			"20"		"special_bonus_cooldown_reduction_12"
 			"25"		"special_bonus_unique_zeus_2"
 		}
 		"AbilityTooltips"

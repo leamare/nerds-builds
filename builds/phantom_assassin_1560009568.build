@@ -3,45 +3,45 @@
 	"Hero"		"phantom_assassin"
 	"Title"		"Nerds Support PA"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"16"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714FB5"
-	"TimePublished"		"0x000000005E714FB5"
+	"TimeUpdated"		"0x000000005EA8B21C"
+	"TimePublished"		"0x000000005EA8B21C"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_orb_of_venom"
 				"item"		"item_tango"
+				"item"		"item_blight_stone"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_blight_stone"
+				"item"		"item_wind_lace"
 				"item"		"item_buckler"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_vladmir"
+				"item"		"item_spirit_vessel"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_magic_wand"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wind_lace"
 				"item"		"item_basher"
+				"item"		"item_vladmir"
 			}
 			"Lategame"
 			{
@@ -86,15 +86,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"phantom_assassin_stifling_dagger"
 			"8"		"phantom_assassin_phantom_strike"
 			"9"		"phantom_assassin_phantom_strike"
-			"10"		"special_bonus_attack_damage_15"
+			"10"		"special_bonus_hp_175"
 			"11"		"phantom_assassin_phantom_strike"
 			"12"		"phantom_assassin_coup_de_grace"
 			"13"		"phantom_assassin_blur"
 			"14"		"phantom_assassin_blur"
-			"15"		"special_bonus_lifesteal_15"
+			"15"		"special_bonus_cleave_20"
 			"16"		"phantom_assassin_blur"
 			"18"		"phantom_assassin_coup_de_grace"
-			"20"		"special_bonus_corruption_4"
+			"20"		"special_bonus_unique_phantom_assassin_3"
 			"25"		"special_bonus_unique_phantom_assassin"
 		}
 		"AbilityTooltips"

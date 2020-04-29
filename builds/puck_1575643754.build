@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.25"
+	"GameplayVersion"		"7.26b"
 	"Overview"		"
 
 Based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005E714FAF"
-	"TimePublished"		"0x000000005E714FAF"
+	"TimeUpdated"		"0x000000005EA8B1F7"
+	"TimePublished"		"0x000000005EA8B1F7"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,7 +25,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_flask"
 				"item"		"item_tango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_faerie_fire"
+				"item"		"item_sobi_mask"
 			}
 			"Early"
 			{
@@ -34,16 +34,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_veil_of_discord"
+				"item"		"item_spirit_vessel"
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_orb_of_venom"
 				"item"		"item_cyclone"
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
+				"item"		"item_veil_of_discord"
 				"item"		"item_bracer"
 			}
 			"Utility"
@@ -51,7 +51,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
 				"item"		"item_force_staff"
-				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
@@ -122,12 +121,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"puck_waning_rift"
 			"8"		"puck_illusory_orb"
 			"9"		"puck_illusory_orb"
-			"10"		"special_bonus_cast_range_200"
+			"10"		"special_bonus_cast_range_150"
 			"11"		"puck_illusory_orb"
 			"12"		"puck_dream_coil"
 			"13"		"puck_phase_shift"
 			"14"		"puck_phase_shift"
-			"15"		"special_bonus_spell_amplify_15"
+			"15"		"special_bonus_spell_amplify_12"
 			"16"		"puck_phase_shift"
 			"18"		"puck_dream_coil"
 			"20"		"special_bonus_unique_puck_2"
