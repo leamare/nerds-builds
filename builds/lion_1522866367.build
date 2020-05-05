@@ -3,18 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.26b"
+	"GameplayVersion"		"7.26c"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EA8B309"
-	"TimePublished"		"0x000000005EA8B309"
+	"TimeUpdated"		"0x000000005EAEAD25"
+	"TimePublished"		"0x000000005EAEAD25"
 	"ItemBuild"
 	{
 		"Items"

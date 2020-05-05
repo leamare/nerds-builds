@@ -3,18 +3,18 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26b"
+	"GameplayVersion"		"7.26c"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He also has two spammable spells that in combination with his great stats turn him into a great laner and farmer. The only thing he lacks in terms of that is mana sustain and the only thing he's missing overall is some kind of defense from magic. He is almost impossible to damage with attack damage early on, while also having great pickoff capabilities, burst damage and teamfight potential.
 
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"42"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EA8B271"
-	"TimePublished"		"0x000000005EA8B271"
+	"TimeUpdated"		"0x000000005EAEAC19"
+	"TimePublished"		"0x000000005EAEAC19"
 	"ItemBuild"
 	{
 		"Items"
@@ -121,12 +121,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
-			"10"		"special_bonus_strength_6"
+			"10"		"special_bonus_unique_mars_spear_cooldown"
 			"11"		"mars_gods_rebuke"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
-			"15"		"special_bonus_attack_damage_20"
+			"15"		"special_bonus_armor_6"
 			"16"		"mars_bulwark"
 			"18"		"mars_arena_of_blood"
 			"20"		"special_bonus_unique_mars_spear_stun_duration"

@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26b"
+	"GameplayVersion"		"7.26c"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EA8B47D"
-	"TimePublished"		"0x000000005EA8B47D"
+	"TimeUpdated"		"0x000000005EAEAE58"
+	"TimePublished"		"0x000000005EAEAE58"
 	"ItemBuild"
 	{
 		"Items"
@@ -109,7 +109,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"dark_willow_shadow_realm"
 			"8"		"dark_willow_cursed_crown"
 			"9"		"dark_willow_bramble_maze"
-			"10"		"special_bonus_attack_damage_25"
+			"10"		"special_bonus_intelligence_10"
 			"11"		"dark_willow_bramble_maze"
 			"12"		"dark_willow_bedlam"
 			"13"		"dark_willow_cursed_crown"
@@ -117,8 +117,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_dark_willow_4"
 			"16"		"dark_willow_cursed_crown"
 			"18"		"dark_willow_bedlam"
-			"20"		"special_bonus_unique_dark_willow_3"
-			"25"		"special_bonus_attack_speed_140"
+			"20"		"special_bonus_attack_damage_50"
+			"25"		"special_bonus_attack_speed_110"
 		}
 		"AbilityTooltips"
 		{
