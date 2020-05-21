@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEABDE"
-	"TimePublished"		"0x000000005EAEABDE"
+	"TimeUpdated"		"0x000000005EC536A6"
+	"TimePublished"		"0x000000005EC536A6"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,22 +29,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_buckler"
 				"item"		"item_bracer"
 				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_solar_crest"
 				"item"		"item_blink"
+				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_spirit_vessel"
 				"item"		"item_hand_of_midas"
-				"item"		"item_ancient_janggo"
 				"item"		"item_magic_stick"
 				"item"		"item_power_treads"
 				"item"		"item_blade_mail"
@@ -70,12 +68,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heavens_halberd"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_satanic"
-				"item"		"item_skadi"
 				"item"		"item_mjollnir"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_radiance"
 				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
