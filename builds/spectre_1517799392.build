@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"114"
+	"GuideRevision"		"116"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EB3DD3D"
-	"TimePublished"		"0x000000005EB3DD3D"
+	"TimeUpdated"		"0x000000005ED01027"
+	"TimePublished"		"0x000000005ED01027"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,17 +22,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_ring_of_regen"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 				"item"		"item_flask"
 			}
 			"Early"
 			{
-				"item"		"item_tango"
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
-				"item"		"item_urn_of_shadows"
 			}
 			"Core - Radiance"
 			{
@@ -49,9 +49,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_blade_mail"
 				"item"		"item_necronomicon"
-				"item"		"item_ancient_janggo"
+				"item"		"item_blade_mail"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_mask_of_madness"
 				"item"		"item_wraith_band"
@@ -113,7 +113,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_flask"		"If the lane will be fine, maybe a little bit contested - get a salve for yourself"
 			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
 			"item_tango"		"If the lane will be tough - get more tangoes."
-			"item_phase_boots"		"Extra movement speed and damage makes it more agressive choice"
 			"item_urn_of_shadows"		"Even while it's usually the best item you can get for Spectre, in most games your position 4 will get it and your team will benedit more from having only one urn on him. If nobody gets urn - you can buy it to get more damage in fights on focused target."
 			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don't have it in your team and really need armor"
 			"item_heart"		"Heart is that point of becoming out-of-control. It replaces any of your cheap regen items, while also making you very hard to kill in fights (not only because of HP pool, but also because of ability to get out, regen ad re-engage)."
@@ -140,7 +139,6 @@ The item we want to get almost every time. It accelerates our farm, deals shitlo
 ALTERNATIVES: Vanguard, HotD"
 			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_soul_ring"		"Good pickup if you're going to play hybrid nuker Spectre for early farming. Solves all mana issues and allowes to spam Spectral Dagger"
-			"item_ancient_janggo"		"Cheap stats, kinda works as cheap Yasha/Manta replacement early on"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don't really need to use it in fights, but you CAN if you need to focus a squishy target. It's better to purchase with some cheap armor (like Blade Mail)"
 			"item_necronomicon"		"It allowes you to farm much faster, makes you much tankier and gives you a lot of mana regen (allowing you to spam dagers). It's a nice replacement for Drum+Soul Ring combo this patch if you're not going to fight as much"
 		}
