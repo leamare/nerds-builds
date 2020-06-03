@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"116"
+	"GuideRevision"		"117"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005ED01027"
-	"TimePublished"		"0x000000005ED01027"
+	"TimeUpdated"		"0x000000005ED194B5"
+	"TimePublished"		"0x000000005ED194B5"
 	"ItemBuild"
 	{
 		"Items"
@@ -108,7 +108,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_quelling_blade"		"If your lane will be uncontested - you can get it right away (but it's better to get in side shop)"
 			"item_enchanted_mango"		"Usually mango is the best thing due to health regen and emergency mana button."
 			"item_flask"		"If the lane will be fine, maybe a little bit contested - get a salve for yourself"
 			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
@@ -138,7 +137,7 @@ The item we want to get almost every time. It accelerates our farm, deals shitlo
 
 ALTERNATIVES: Vanguard, HotD"
 			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
-			"item_soul_ring"		"Good pickup if you're going to play hybrid nuker Spectre for early farming. Solves all mana issues and allowes to spam Spectral Dagger"
+			"item_soul_ring"		"Solves all mana issues and allowes to spam Spectral Dagger + gives additional tankiness and HP regen. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don't really need to use it in fights, but you CAN if you need to focus a squishy target. It's better to purchase with some cheap armor (like Blade Mail)"
 			"item_necronomicon"		"It allowes you to farm much faster, makes you much tankier and gives you a lot of mana regen (allowing you to spam dagers). It's a nice replacement for Drum+Soul Ring combo this patch if you're not going to fight as much"
 		}
