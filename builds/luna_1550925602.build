@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAD01"
-	"TimePublished"		"0x000000005EAEAD01"
+	"TimeUpdated"		"0x000000005ED6029F"
+	"TimePublished"		"0x000000005ED6029F"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,8 +37,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_spirit_vessel"
-				"item"		"item_vladmir"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ancient_janggo"
 			}
@@ -57,7 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
 				"item"		"item_lotus_orb"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_manta"
@@ -82,6 +82,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_helm_of_the_dominator"		"A nice team oriented aura, as well as damage increase and potential additional aura/disable"
 		}
 	}
 	"AbilityBuild"

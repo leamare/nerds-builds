@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x000000006CDACDE8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEACE5"
-	"TimePublished"		"0x000000005EAEACE5"
+	"TimeUpdated"		"0x000000005ED603FC"
+	"TimePublished"		"0x000000005ED603FC"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,13 +35,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_mask_of_madness"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_manta"
 				"item"		"item_black_king_bar"
 				"item"		"item_butterfly"
 			}
 			"Situational Early"
 			{
+				"item"		"item_mask_of_madness"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_dragon_lance"
 				"item"		"item_ancient_janggo"
@@ -85,6 +86,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_helm_of_the_dominator"		"Use helm to stack neutral creeps for yourself (you should set up your control groups for it) and control Alpha Wolf/Satyr to get additional damage aura or disable
+
+Alternatively, you may go for Mask of Madness"
+			"item_mask_of_madness"		"Mask of Madness works as a more aggressive counterpart to Helm of the Dominator. It doesn't give you stats, but it's also easier to use for farming (you don't need to control additional unit). It's OK alternative to HotD if you're bad with controlled units or playing against heroes like Lich or WR"
 		}
 	}
 	"AbilityBuild"

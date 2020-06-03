@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x000000006CDAB50E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAD0B"
-	"TimePublished"		"0x000000005EAEAD0B"
+	"TimeUpdated"		"0x000000005ED60262"
+	"TimePublished"		"0x000000005ED60262"
 	"ItemBuild"
 	{
 		"Items"
@@ -56,6 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_silver_edge"
 				"item"		"item_manta"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Best Neutral Items"
 			{
@@ -79,6 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_helm_of_the_dominator"		"Very strong Luna item, but it's not really suitable for Ion Cannon playstyle"
 		}
 	}
 	"AbilityBuild"
