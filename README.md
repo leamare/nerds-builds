@@ -6,10 +6,11 @@
 
 It's a collection of Dota 2 in-game guides.
 
-
 The goal is to make a guide for every hero and position it can be played on and add up information about alternatives and timings for every item, as well as have every build be up to date. It's not about making Core Crystal Maiden a thing. The main purpose of the project is to provide players with up-to-date builds trends and show the way to make weird stuff work, if you really want.
 
 Right now there aren't many builds available, but I'm working on it.
+
+**IMPORTANT:** I'm not able to monitor all the builds manually right now, so I'm mostly relying on feedback for now. You can use GitHub issues or Discord to leave your feedback if you have any ideas or find a problematic moment.
 
 ## Why?
 
