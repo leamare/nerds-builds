@@ -9,12 +9,12 @@
 Your game plan as Viper is simple - get early levels, max out Nethertoxin and start dropping it everywhere to farm every creep on the map. You'll need a bit of mana sustain for it (that's when Arcane boots come handy), but even before that you'll need to win your lane first (that's where early stats items come in). Afterwards you'll need to solve one major issue - stop enemies from teleporting or running away with Rod of Atos. After that point you'll need to get only Guardian Greaves and start establishing your dominance by pushing and fighting with your team until you reach the point of no return. Altho be careful since once you lose your advantage it may be very hard to come back as Viper.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA947"
-	"TimePublished"		"0x000000005EAEA947"
+	"TimeUpdated"		"0x000000005ED988A0"
+	"TimePublished"		"0x000000005ED988A0"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,33 +31,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
-				"item"		"item_boots"
-				"item"		"item_wind_lace"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_orchid"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_dragon_lance"
+				"item"		"item_sange_and_yasha"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_travel_boots"
-				"item"		"item_sange_and_yasha"
-				"item"		"item_ancient_janggo"
-				"item"		"item_dragon_lance"
+				"item"		"item_orchid"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_maelstrom"
-				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
+				"item"		"item_skadi"
+				"item"		"item_butterfly"
 				"item"		"item_satanic"
 				"item"		"item_mjollnir"
-				"item"		"item_butterfly"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_greater_crit"
 				"item"		"item_assault"
@@ -75,16 +68,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_bloodthorn"
-				"item"		"item_skadi"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_shivas_guard"
 				"item"		"item_radiance"
 				"item"		"item_octarine_core"
 				"item"		"item_rod_of_atos"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_faded_broach"
+				"item"		"item_grove_bow"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_clumsy_net"
 				"item"		"item_quickening_charm"
@@ -140,7 +134,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
 			"20"		"special_bonus_attack_damage_70"
-			"25"		"special_bonus_unique_viper_4"
+			"25"		"special_bonus_unique_viper_3"
 		}
 		"AbilityTooltips"
 		{
