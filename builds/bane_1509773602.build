@@ -10,12 +10,12 @@ This build is based around his ability to dominate the lane and snowball from he
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"69"
+	"GuideRevision"		"74"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAEC4"
-	"TimePublished"		"0x000000005EAEAEC4"
+	"TimeUpdated"		"0x000000005ED6022D"
+	"TimePublished"		"0x000000005ED6022D"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,15 +45,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_necronomicon"
 				"item"		"item_spirit_vessel"
 				"item"		"item_blade_mail"
-				"item"		"item_hood_of_defiance"
-				"item"		"item_ancient_janggo"
+				"item"		"item_soul_ring"
 			}
 			"Lategame"
 			{
 				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
+				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_mjollnir"
 				"item"		"item_ultimate_scepter"
@@ -73,10 +74,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_necronomicon_3"
 				"item"		"item_sphere"
 				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_ghost"
@@ -123,28 +124,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"For a hybrid core way when you need armor"
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
 			"item_octarine_core"		"Nice addition for a hybrid core (getting use of Mjolnir cooldown reduction, mjolnir procs and reduced cooldown on Q and E)"
+			"item_necronomicon"		"Farming solution, basically a midas replacement with mana regen. May be upgraded to get more damage during the ult"
+			"item_soul_ring"		"Another mana solution, may replace Bracer, but it's more expensive as well"
+			"item_blade_mail"		"Efficient stats, additional armor, active ability suitable for active tanky Bane"
+			"item_spirit_vessel"		"You don't really need it yourself, but it's usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"bane_enfeeble"
+			"1"		"bane_nightmare"
 			"2"		"bane_brain_sap"
 			"3"		"bane_brain_sap"
-			"4"		"bane_nightmare"
+			"4"		"bane_enfeeble"
 			"5"		"bane_brain_sap"
 			"6"		"bane_fiends_grip"
 			"7"		"bane_brain_sap"
-			"8"		"bane_enfeeble"
+			"8"		"bane_nightmare"
 			"9"		"bane_enfeeble"
 			"10"		"special_bonus_armor_6"
 			"11"		"bane_nightmare"
 			"12"		"bane_fiends_grip"
-			"13"		"bane_enfeeble"
-			"14"		"bane_nightmare"
+			"13"		"bane_nightmare"
+			"14"		"bane_enfeeble"
 			"15"		"special_bonus_cast_range_125"
-			"16"		"bane_nightmare"
+			"16"		"bane_enfeeble"
 			"18"		"bane_fiends_grip"
 			"20"		"special_bonus_movement_speed_40"
 			"25"		"special_bonus_unique_bane_2"
