@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA9A9"
-	"TimePublished"		"0x000000005EAEA9A9"
+	"TimeUpdated"		"0x000000005EDB6054"
+	"TimePublished"		"0x000000005EDB6054"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,34 +21,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_quelling_blade"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_tango"
 				"item"		"item_branches"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_boots"
 				"item"		"item_wind_lace"
+				"item"		"item_orb_of_venom"
 				"item"		"item_magic_wand"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_lifesteal"
-				"item"		"item_basher"
-				"item"		"item_blink"
+				"item"		"item_power_treads"
+				"item"		"item_bfury"
+				"item"		"item_sange_and_yasha"
 			}
 			"SItuational Early"
 			{
-				"item"		"item_quelling_blade"
-				"item"		"item_ancient_janggo"
-				"item"		"item_mask_of_madness"
+				"item"		"item_lifesteal"
+				"item"		"item_phase_boots"
+				"item"		"item_basher"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
 				"item"		"item_abyssal_blade"
-				"item"		"item_black_king_bar"
 				"item"		"item_satanic"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_black_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
@@ -56,6 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_butterfly"
 				"item"		"item_desolator"
 				"item"		"item_radiance"
 				"item"		"item_bloodthorn"
@@ -63,12 +68,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
 				"item"		"item_manta"
-				"item"		"item_butterfly"
 				"item"		"item_meteor_hammer"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_iron_talon"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_vambrace"
 				"item"		"item_broom_handle"
 				"item"		"item_vampire_fangs"
 				"item"		"item_spider_legs"
@@ -89,10 +95,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_blink"		"One of most important items for Ursa. With it you can close the gap instantly and start attacking a target. In most scenarios after you use Overpower and Blink to enemy hero, he will not be able to get away. "
-			"item_basher"		"~18-23 min
+			"item_basher"		"~23-27 min
 WIth maximum attack speed from Overpower you will get almost guaranteed bash on one of your attacks. WIth it you can manfight and kill almost every hero in 1v1 fights early on. Use this advantage to get a pickoff and then force a fight/get an objective with your team."
-			"item_phase_boots"		"~3-6 min
-Continuing our chase-and-punch theme, Phase Boots are essential for Ursa to be able to chase opponents, just so you will be able to use Clap and start attacking."
 			"item_boots"		"Getting early boots is crusual for our laning since with them Ursa is able to close the gap between him and opponents and force them to get out of lane."
 			"item_orb_of_venom"		"Additional slow in combination with early boots helps Ursa to chase opponents even better"
 			"item_meteor_hammer"		"If you're finishing early (25-30 minutes in), it may be better to pickup a Meteor Hammer since you aren't that good at destroying towers by yourself. What you can do to get enemy tier3/rax/tier4 is forcing enemy heroes away from your team's push, then use Meteor Hammer and have catapult attacking tower, while constantly zoning enemies away."
@@ -108,9 +112,10 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 			"item_radiance"		"You can get Radiance pretty early and farm with it. It also works well with Clap AoE talent on level 25 and your tanky nature"
 			"item_sheepstick"		"Additional lockdown if bash is not enough"
 			"item_mjollnir"		"Good for cases when you need some kind of AoE clear (illusions, summons)"
-			"item_sange_and_yasha"		"Cheap mobility/slow"
+			"item_sange_and_yasha"		"Cheap mobility and status resistance"
 			"item_manta"		"Additional mobility, works as offensive solution to silences"
 			"item_desolator"		"Additional damage boost, works well for killing structures"
+			"item_enchanted_mango"		"Keep mangoes for regen"
 		}
 	}
 	"AbilityBuild"
@@ -118,23 +123,23 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 		"AbilityOrder"
 		{
 			"1"		"ursa_fury_swipes"
-			"2"		"ursa_overpower"
+			"2"		"ursa_earthshock"
 			"3"		"ursa_fury_swipes"
-			"4"		"ursa_overpower"
-			"5"		"ursa_fury_swipes"
+			"4"		"ursa_earthshock"
+			"5"		"ursa_earthshock"
 			"6"		"ursa_enrage"
-			"7"		"ursa_fury_swipes"
-			"8"		"ursa_earthshock"
-			"9"		"ursa_overpower"
+			"7"		"ursa_earthshock"
+			"8"		"ursa_fury_swipes"
+			"9"		"ursa_fury_swipes"
 			"10"		"special_bonus_unique_ursa_4"
 			"11"		"ursa_overpower"
 			"12"		"ursa_enrage"
-			"13"		"ursa_earthshock"
-			"14"		"ursa_earthshock"
-			"15"		"special_bonus_mp_regen_2"
-			"16"		"ursa_earthshock"
+			"13"		"ursa_overpower"
+			"14"		"ursa_overpower"
+			"15"		"special_bonus_agility_12"
+			"16"		"ursa_overpower"
 			"18"		"ursa_enrage"
-			"20"		"special_bonus_unique_ursa_3"
+			"20"		"special_bonus_unique_ursa"
 			"25"		"special_bonus_unique_ursa_7"
 		}
 		"AbilityTooltips"
