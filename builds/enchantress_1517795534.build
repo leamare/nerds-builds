@@ -7,12 +7,12 @@
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"86"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEADF5"
-	"TimePublished"		"0x000000005EAEADF5"
+	"TimeUpdated"		"0x000000005ED50D44"
+	"TimePublished"		"0x000000005ED50D44"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,24 +30,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bracer"
-				"item"		"item_bracer"
 				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_blade_mail"
 				"item"		"item_hurricane_pike"
 				"item"		"item_hood_of_defiance"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blade_mail"
+				"item"		"item_necronomicon"
 				"item"		"item_force_staff"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_spirit_vessel"
-				"item"		"item_hand_of_midas"
 				"item"		"item_ancient_janggo"
 				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
 			}
 			"Utility"
 			{
@@ -125,6 +125,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
 			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."
 			"item_medallion_of_courage"		"Great armor/mana regen solution. Awesome early game item, potential Solar Crest upgrade which provides awesome stats and strong buff for your another core"
+			"item_necronomicon"		"Farming and mana regen solution"
 		}
 	}
 	"AbilityBuild"
