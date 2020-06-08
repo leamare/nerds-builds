@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"85"
+	"GuideRevision"		"86"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA93D"
-	"TimePublished"		"0x000000005EAEA93D"
+	"TimeUpdated"		"0x000000005ECDAF33"
+	"TimePublished"		"0x000000005ECDAF33"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,19 +33,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_null_talisman"
 				"item"		"item_blight_stone"
 				"item"		"item_magic_wand"
 				"item"		"item_pipe"
 				"item"		"item_phase_boots"
 				"item"		"item_bracer"
 				"item"		"item_hand_of_midas"
-				"item"		"item_null_talisman"
 				"item"		"item_buckler"
 			}
 			"Lategame"
