@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAAFA"
-	"TimePublished"		"0x000000005EAEAAFA"
+	"TimeUpdated"		"0x000000005ED50DDA"
+	"TimePublished"		"0x000000005ED50DDA"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,16 +20,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_boots"
+				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
 			}
 			"Core"
