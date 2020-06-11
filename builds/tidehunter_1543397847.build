@@ -9,12 +9,12 @@ Main issue that comes with his main strength is that Ravage Tide is useless when
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://twitch.tv/XaKoH"
-	"GuideRevision"		"48"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAA1D"
-	"TimePublished"		"0x000000005EAEAA1D"
+	"TimeUpdated"		"0x000000005ED26461"
+	"TimePublished"		"0x000000005ED26461"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,8 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_ring_of_regen"
+				"item"		"item_ring_of_protection"
+				"item"		"item_flask"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
@@ -31,7 +32,7 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 				"item"		"item_boots"
 				"item"		"item_bracer"
 				"item"		"item_phase_boots"
-				"item"		"item_soul_ring"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
@@ -41,7 +42,7 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_soul_ring"
 				"item"		"item_spirit_vessel"
 				"item"		"item_bottle"
 				"item"		"item_magic_wand"
@@ -130,13 +131,13 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 		"AbilityOrder"
 		{
 			"1"		"tidehunter_anchor_smash"
-			"2"		"tidehunter_gush"
+			"2"		"tidehunter_kraken_shell"
 			"3"		"tidehunter_anchor_smash"
-			"4"		"tidehunter_kraken_shell"
-			"5"		"tidehunter_gush"
+			"4"		"tidehunter_gush"
+			"5"		"tidehunter_anchor_smash"
 			"6"		"tidehunter_ravage"
 			"7"		"tidehunter_anchor_smash"
-			"8"		"tidehunter_anchor_smash"
+			"8"		"tidehunter_kraken_shell"
 			"9"		"tidehunter_kraken_shell"
 			"10"		"special_bonus_unique_tidehunter_2"
 			"11"		"tidehunter_gush"
@@ -144,7 +145,7 @@ It's based on Immortal rank Core Tidehunter matches and XaKoH's stream: https://
 			"13"		"tidehunter_gush"
 			"14"		"tidehunter_kraken_shell"
 			"15"		"special_bonus_mp_regen_3"
-			"16"		"tidehunter_kraken_shell"
+			"16"		"tidehunter_gush"
 			"18"		"tidehunter_ravage"
 			"20"		"special_bonus_unique_tidehunter"
 			"25"		"special_bonus_attack_damage_200"

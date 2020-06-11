@@ -7,12 +7,12 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAABE"
-	"TimePublished"		"0x000000005EAEAABE"
+	"TimeUpdated"		"0x000000005ED6082D"
+	"TimePublished"		"0x000000005ED6082D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,15 +20,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_mantle"
-				"item"		"item_sobi_mask"
-				"item"		"item_branches"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_clarity"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_ring_of_basilius"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
