@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAC38"
-	"TimePublished"		"0x000000005EAEAC38"
+	"TimeUpdated"		"0x000000005EE5C913"
+	"TimePublished"		"0x000000005EE5C913"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,43 +20,42 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_ring_of_protection"
+				"item"		"item_sobi_mask"
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
 			}
 			"Early"
 			{
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_necronomicon"
 			}
 			"Core"
 			{
-				"item"		"item_boots"
 				"item"		"item_necronomicon_3"
 				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
+				"item"		"item_buckler"
 				"item"		"item_blight_stone"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_ancient_janggo"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_basher"
 				"item"		"item_black_king_bar"
+				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_sheepstick"
+				"item"		"item_desolator"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
 				"item"		"item_vladmir"
 				"item"		"item_silver_edge"
-				"item"		"item_desolator"
-				"item"		"item_sheepstick"
 			}
 			"Best Neutral Items"
 			{
@@ -91,17 +90,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"6"		"lycan_shapeshift"
 			"7"		"lycan_summon_wolves"
 			"8"		"lycan_feral_impulse"
-			"9"		"lycan_feral_impulse"
-			"10"		"special_bonus_attack_damage_15"
+			"9"		"lycan_howl"
+			"10"		"lycan_feral_impulse"
 			"11"		"lycan_howl"
 			"12"		"lycan_shapeshift"
 			"13"		"lycan_howl"
 			"14"		"lycan_howl"
-			"15"		"special_bonus_cooldown_reduction_10"
-			"16"		"lycan_howl"
+			"15"		"special_bonus_armor_4"
+			"16"		"special_bonus_cooldown_reduction_10"
 			"18"		"lycan_shapeshift"
 			"20"		"special_bonus_unique_lycan_1"
-			"25"		"special_bonus_unique_lycan_2"
+			"25"		"special_bonus_unique_lycan_5"
 		}
 		"AbilityTooltips"
 		{
