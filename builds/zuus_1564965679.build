@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"24"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA8D3"
-	"TimePublished"		"0x000000005EAEA8D3"
+	"TimeUpdated"		"0x000000005EEE8481"
+	"TimePublished"		"0x000000005EEE8481"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,8 +28,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_stick"
 			}
@@ -102,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_zeus"
 			"16"		"zuus_arc_lightning"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_cooldown_reduction_12"
+			"20"		"special_bonus_unique_zeus_3"
 			"25"		"special_bonus_unique_zeus_2"
 		}
 		"AbilityTooltips"
