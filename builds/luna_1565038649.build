@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Ion Cannon Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000006CDAB50E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005ED60262"
-	"TimePublished"		"0x000000005ED60262"
+	"TimeUpdated"		"0x000000005EFA3525"
+	"TimePublished"		"0x000000005EFA3525"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,13 +21,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_slippers"
 				"item"		"item_circlet"
-				"item"		"item_slippers"
 				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_wraith_band"
+				"item"		"item_null_talisman"
 				"item"		"item_power_treads"
 			}
 			"Core"

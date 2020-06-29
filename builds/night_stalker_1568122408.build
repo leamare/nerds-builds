@@ -3,16 +3,16 @@
 	"Hero"		"night_stalker"
 	"Title"		"Nerds Night Stalker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005ED50E88"
-	"TimePublished"		"0x000000005ED50E88"
+	"TimeUpdated"		"0x000000005EFA3462"
+	"TimePublished"		"0x000000005EFA3462"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_ring_of_protection"
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"

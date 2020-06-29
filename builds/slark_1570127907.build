@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26b"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EA8B0DA"
-	"TimePublished"		"0x000000005EA8B0DA"
+	"TimeUpdated"		"0x000000005EFA3384"
+	"TimePublished"		"0x000000005EFA3384"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,12 +21,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_ring_of_regen"
+				"item"		"item_flask"
 				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_bracer"
+				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
 			"Core"
@@ -94,7 +98,7 @@ Situationally good before drum if you're not going to fight straight on or will 
 			"8"		"slark_dark_pact"
 			"9"		"slark_dark_pact"
 			"10"		"slark_dark_pact"
-			"11"		"special_bonus_strength_8"
+			"11"		"special_bonus_strength_9"
 			"12"		"slark_shadow_dance"
 			"13"		"slark_pounce"
 			"14"		"slark_pounce"

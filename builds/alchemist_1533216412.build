@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAF0E"
-	"TimePublished"		"0x000000005EAEAF0E"
+	"TimeUpdated"		"0x000000005EF93452"
+	"TimePublished"		"0x000000005EF93452"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,10 +39,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_bottle"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
 				"item"		"item_armlet"
+				"item"		"item_bfury"
 			}
 			"Lategame"
 			{

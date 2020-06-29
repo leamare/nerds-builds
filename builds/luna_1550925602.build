@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005ED6029F"
-	"TimePublished"		"0x000000005ED6029F"
+	"TimeUpdated"		"0x000000005EFA3532"
+	"TimePublished"		"0x000000005EFA3532"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
 				"item"		"item_spirit_vessel"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ancient_janggo"
@@ -47,6 +47,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 				"item"		"item_refresher"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Utility"
 			{

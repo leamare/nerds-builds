@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA8DB"
-	"TimePublished"		"0x000000005EAEA8DB"
+	"TimeUpdated"		"0x000000005EFA3104"
+	"TimePublished"		"0x000000005EFA3104"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_null_talisman"
-				"item"		"item_bottle"
+				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
 			}
@@ -37,12 +37,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aether_lens"
 				"item"		"item_kaya"
-				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
+				"item"		"item_bottle"
 				"item"		"item_cyclone"
 				"item"		"item_blink"
 				"item"		"item_veil_of_discord"
@@ -80,7 +80,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_bottle"		"~2 min"
 		}
 	}
 	"AbilityBuild"

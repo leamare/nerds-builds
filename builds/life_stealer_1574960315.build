@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEAD59"
-	"TimePublished"		"0x000000005EAEAD59"
+	"TimeUpdated"		"0x000000005EFA35B2"
+	"TimePublished"		"0x000000005EFA35B2"
 	"ItemBuild"
 	{
 		"Items"
@@ -44,7 +44,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_medallion_of_courage"
 				"item"		"item_helm_of_the_dominator"
-				"item"		"item_quelling_blade"
+				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
 			}
 			"Lategame"

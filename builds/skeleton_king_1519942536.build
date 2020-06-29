@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EAEA8F2"
-	"TimePublished"		"0x000000005EAEA8F2"
+	"TimeUpdated"		"0x000000005EFA3129"
+	"TimePublished"		"0x000000005EFA3129"
 	"ItemBuild"
 	{
 		"Items"
@@ -46,7 +46,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_meteor_hammer"
 				"item"		"item_quelling_blade"
 				"item"		"item_ancient_janggo"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_vladmir"
 				"item"		"item_solar_crest"
 				"item"		"item_ghost"
 				"item"		"item_magic_wand"
@@ -54,7 +54,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Utility"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_vladmir"
 				"item"		"item_pipe"
 				"item"		"item_crimson_guard"
 				"item"		"item_guardian_greaves"
@@ -96,9 +95,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_ward_observer"		"Use wards to guide your skeletons between camps. Early on it's your farming item."
-			"item_helm_of_the_dominator"		"~5-6 min rush or otherwise skip it
-Try to dominate big satyr and push with your team or initiate with a centaur. These two are your best bets.
-Also good if you don't want to get Urn for some reason"
 			"item_urn_of_shadows"		"Cheap utility item for a position 4. Naturally upgrades into Vessel which is good for us."
 			"item_soul_ring"		"One of WK's main problems is mana. With Soul Ring it mostly gets solved."
 			"item_magic_wand"		"Helps to deal with mana issues."

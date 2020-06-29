@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.27"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EE5C913"
-	"TimePublished"		"0x000000005EE5C913"
+	"TimeUpdated"		"0x000000005EFA3511"
+	"TimePublished"		"0x000000005EFA3511"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,6 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_buckler"
 				"item"		"item_blight_stone"
+				"item"		"item_vladmir"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_ancient_janggo"
 				"item"		"item_power_treads"
@@ -54,7 +55,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
-				"item"		"item_vladmir"
 				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
