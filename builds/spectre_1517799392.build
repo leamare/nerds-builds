@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"124"
+	"GuideRevision"		"127"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFA30DD"
-	"TimePublished"		"0x000000005EFA30DD"
+	"TimeUpdated"		"0x000000005EFE75A9"
+	"TimePublished"		"0x000000005EFE75A9"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,14 +37,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_blade_mail"
+				"item"		"item_radiance"
 				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
-				"item"		"item_radiance"
+				"item"		"item_meteor_hammer"
 				"item"		"item_bracer"
 				"item"		"item_ancient_janggo"
-				"item"		"item_wraith_band"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Lategame"
 			{
@@ -56,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_refresher"
 			}
 			"Situational"
 			{
@@ -66,14 +66,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_silver_edge"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
-				"item"		"item_spirit_vessel"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
-				"item"		"item_necronomicon"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_vanguard"
 				"item"		"item_mask_of_madness"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_refresher"
 			}
 			"Best Neutral Items"
 			{
@@ -82,13 +80,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_royal_jelly"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_pupils_gift"
-				"item"		"item_vampire_fangs"
+				"item"		"item_vambrace"
 				"item"		"item_illusionsts_cape"
-				"item"		"item_panic_button"
 				"item"		"item_havoc_hammer"
 				"item"		"item_minotaur_horn"
 				"item"		"item_ninja_gear"
 				"item"		"item_imp_claw"
+				"item"		"item_panic_button"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -110,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 Good for tower dives (and very agressive plays) or against summons/high attack speed.
 
 ALTERNATIVES: Hood of Defiance, HotD"
-			"item_blade_mail"		"Either cheap replacement for manta early on or good solution against high damage output burst heroes (Phantom Assassin, Tinker, Slark)"
+			"item_blade_mail"		"It's both farming and fighting item. With Soul Ring and Treads you're capable of clearing creep waves and stacks by using Spectral Dager and finishing off creeps with the Blade Mail passive "
 			"item_radiance"		"~20-25 min or ~30 min if you bought manta first
 
 Radiance is the best farming item you can get, but it slows you down quite a bit. It's better to get Soul Ring and Blade Mail most of the time (it will be enough for farming), but if you have a free early game and enough time to get Radiance then go for it."
@@ -121,14 +119,13 @@ Radiance is the best farming item you can get, but it slows you down quite a bit
 			"item_diffusal_blade"		"Aggressive solution for damage if you're not going for Radiance."
 			"item_ethereal_blade"		"Jokes aside, this item is pretty good in terms of stats: more strength, more agility."
 			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don't really need it or just have more important slot to have. Altho, it's actually pretty good as 6-7th slot."
-			"item_spirit_vessel"		"This item is basically cheap heart. If you didn't go for Urn, it's probably better to skip it and go straight for heart later on, but Vessel as is gives a lot of things Spectre loves: movement speed, HP and percentage-based heal/damage."
 			"item_hood_of_defiance"		"Same as Vanguard, but a little bit cheaper and better against magic damage heavy lineups.
 
 ALTERNATIVES: Vanguard, HotD"
 			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
-			"item_soul_ring"		"Solves all mana issues and allowes to spam Spectral Dagger + gives additional tankiness and HP regen. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
+			"item_soul_ring"		"Solves all mana issues and allowes to spam Spectral Dagger + gives additional tankiness and armor. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don't really need to use it in fights, but you CAN if you need to focus a squishy target. It's better to purchase with some cheap armor (like Blade Mail)"
-			"item_necronomicon"		"It allowes you to farm much faster, makes you much tankier and gives you a lot of mana regen (allowing you to spam dagers). It's a nice replacement for Drum+Soul Ring combo this patch if you're not going to fight as much"
+			"item_meteor_hammer"		"Another awesome farming solution for early game. It's going to replace Blade Mail and Soul Ring, but it will provide you a lot of regen for early game"
 		}
 	}
 	"AbilityBuild"
