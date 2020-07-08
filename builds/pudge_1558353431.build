@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFA33E5"
-	"TimePublished"		"0x000000005EFA33E5"
+	"TimeUpdated"		"0x000000005F051D74"
+	"TimePublished"		"0x000000005F051D74"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,8 +28,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_buckler"
+				"item"		"item_bracer"
 				"item"		"item_phase_boots"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 			}
 			"Core"

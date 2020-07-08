@@ -3,16 +3,16 @@
 	"Hero"		"obsidian_destroyer"
 	"Title"		"Nerds Outworld Devourer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000007065E1E0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFA3457"
-	"TimePublished"		"0x000000005EFA3457"
+	"TimeUpdated"		"0x000000005F051DDF"
+	"TimePublished"		"0x000000005F051DDF"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_mantle"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
