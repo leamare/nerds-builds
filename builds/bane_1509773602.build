@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Offlane Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27a"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EF933CA"
-	"TimePublished"		"0x000000005EF933CA"
+	"TimeUpdated"		"0x000000005F05218D"
+	"TimePublished"		"0x000000005F05218D"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,27 +28,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_bracer"
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_ancient_janggo"
 			}
 			"Core"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_phase_boots"
-				"item"		"item_veil_of_discord"
+				"item"		"item_aether_lens"
 				"item"		"item_medallion_of_courage"
 			}
 			"Situational Early"
 			{
-				"item"		"item_necronomicon"
 				"item"		"item_spirit_vessel"
 				"item"		"item_blade_mail"
 				"item"		"item_soul_ring"
+				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
@@ -124,7 +124,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"For a hybrid core way when you need armor"
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
 			"item_octarine_core"		"Nice addition for a hybrid core (getting use of Mjolnir cooldown reduction, mjolnir procs and reduced cooldown on Q and E)"
-			"item_necronomicon"		"Farming solution, basically a midas replacement with mana regen. May be upgraded to get more damage during the ult"
 			"item_soul_ring"		"Another mana solution, may replace Bracer, but it's more expensive as well"
 			"item_blade_mail"		"Efficient stats, additional armor, active ability suitable for active tanky Bane"
 			"item_spirit_vessel"		"You don't really need it yourself, but it's usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
