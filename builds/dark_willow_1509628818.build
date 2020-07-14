@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27a"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"96"
+	"GuideRevision"		"98"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EF93360"
-	"TimePublished"		"0x000000005EF93360"
+	"TimeUpdated"		"0x000000005F0520F1"
+	"TimePublished"		"0x000000005F0520F1"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,13 +32,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_sobi_mask"
 				"item"		"item_wind_lace"
-				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_veil_of_discord"
+				"item"		"item_ancient_janggo"
 				"item"		"item_cyclone"
 				"item"		"item_blink"
 			}
@@ -46,12 +46,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
-				"item"		"item_hand_of_midas"
 				"item"		"item_force_staff"
 				"item"		"item_ghost"
 				"item"		"item_bottle"
-				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
+				"item"		"item_veil_of_discord"
 			}
 			"Utility"
 			{
