@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27a"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"68"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F0521FD"
-	"TimePublished"		"0x000000005F0521FD"
+	"TimeUpdated"		"0x000000005F0F9744"
+	"TimePublished"		"0x000000005F0F9744"
 	"ItemBuild"
 	{
 		"Items"
@@ -147,12 +147,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"arc_warden_flux"
 			"8"		"arc_warden_spark_wraith"
 			"9"		"arc_warden_spark_wraith"
-			"10"		"special_bonus_attack_speed_30"
+			"10"		"special_bonus_unique_arc_warden_5"
 			"11"		"arc_warden_spark_wraith"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
 			"14"		"arc_warden_magnetic_field"
-			"15"		"special_bonus_unique_arc_warden_5"
+			"15"		"special_bonus_cooldown_reduction_15"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
 			"20"		"special_bonus_unique_arc_warden_3"

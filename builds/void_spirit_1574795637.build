@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"43"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFA31B5"
-	"TimePublished"		"0x000000005EFA31B5"
+	"TimeUpdated"		"0x000000005F0F87F8"
+	"TimePublished"		"0x000000005F0F87F8"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,30 +27,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_bracer"
+				"item"		"item_null_talisman"
 				"item"		"item_power_treads"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_cyclone"
+				"item"		"item_orchid"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_veil_of_discord"
-				"item"		"item_orchid"
 				"item"		"item_spirit_vessel"
-				"item"		"item_voodoo_mask"
+				"item"		"item_cyclone"
+				"item"		"item_bottle"
+				"item"		"item_kaya"
 			}
 			"Lategame"
 			{
-				"item"		"item_sphere"
 				"item"		"item_octarine_core"
-				"item"		"item_abyssal_blade"
+				"item"		"item_bloodstone"
+				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
+				"item"		"item_greater_crit"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_bloodthorn"
@@ -58,15 +59,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_bloodstone"
-				"item"		"item_shivas_guard"
-				"item"		"item_greater_crit"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_satanic"
 				"item"		"item_assault"
+				"item"		"item_desolator"
 				"item"		"item_skadi"
 				"item"		"item_blink"
 				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
+				"item"		"item_abyssal_blade"
+				"item"		"item_sphere"
 			}
 			"Best Neutral Items"
 			{

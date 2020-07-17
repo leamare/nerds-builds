@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Experimental Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"37"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFA32A7"
-	"TimePublished"		"0x000000005EFA32A7"
+	"TimeUpdated"		"0x000000005F0F8998"
+	"TimePublished"		"0x000000005F0F8998"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,21 +29,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_headdress"
 				"item"		"item_magic_stick"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
 				"item"		"item_vladmir"
-				"item"		"item_spirit_vessel"
+				"item"		"item_blade_mail"
 			}
 			"Situational"
 			{
 				"item"		"item_buckler"
-				"item"		"item_ancient_janggo"
 				"item"		"item_ghost"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_mask_of_madness"
@@ -51,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
 				"item"		"item_assault"

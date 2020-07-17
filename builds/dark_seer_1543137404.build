@@ -3,18 +3,18 @@
 	"Hero"		"dark_seer"
 	"Title"		"Nerds Dark Seer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27a"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"Dark Seer in an intelligence utility core hero who excells at teamfighting and resetting fights, as well as surviving in a tough circumstances.
 
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F05211E"
-	"TimePublished"		"0x000000005F05211E"
+	"TimeUpdated"		"0x000000005F0F9617"
+	"TimePublished"		"0x000000005F0F9617"
 	"ItemBuild"
 	{
 		"Items"
@@ -145,7 +145,7 @@ You can rush Greaves to get lower cooldown and fight more often, as well as keep
 			"13"		"dark_seer_vacuum"
 			"14"		"dark_seer_wall_of_replica"
 			"15"		"special_bonus_unique_dark_seer_2"
-			"16"		"special_bonus_unique_dark_seer_5"
+			"16"		"special_bonus_unique_dark_seer_6"
 			"18"		"dark_seer_wall_of_replica"
 			"20"		"special_bonus_unique_dark_seer"
 			"25"		"special_bonus_unique_dark_seer_3"

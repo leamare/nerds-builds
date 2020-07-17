@@ -3,16 +3,16 @@
 	"Hero"		"faceless_void"
 	"Title"		"Nerds Core Void"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EF93323"
-	"TimePublished"		"0x000000005EF93323"
+	"TimeUpdated"		"0x000000005F0F9337"
+	"TimePublished"		"0x000000005F0F9337"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,23 +24,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
 				"item"		"item_mask_of_madness"
-				"item"		"item_mjollnir"
+				"item"		"item_bfury"
+				"item"		"item_monkey_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_ring_of_protection"
+				"item"		"item_mjollnir"
 				"item"		"item_invis_sword"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_diffusal_blade"
@@ -49,17 +51,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_satanic"
 				"item"		"item_manta"
+				"item"		"item_butterfly"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
 				"item"		"item_sphere"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_refresher"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
@@ -104,10 +105,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"faceless_void_chronosphere"
 			"13"		"faceless_void_time_dilation"
 			"14"		"faceless_void_time_dilation"
-			"15"		"special_bonus_unique_faceless_void_5"
+			"15"		"special_bonus_unique_faceless_void"
 			"16"		"faceless_void_time_dilation"
 			"18"		"faceless_void_chronosphere"
-			"20"		"special_bonus_unique_faceless_void"
+			"20"		"special_bonus_attack_speed_40"
 			"25"		"special_bonus_unique_faceless_void_2"
 		}
 		"AbilityTooltips"

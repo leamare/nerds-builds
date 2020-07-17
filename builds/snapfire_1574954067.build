@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27a"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F051CBF"
-	"TimePublished"		"0x000000005F051CBF"
+	"TimeUpdated"		"0x000000005F0F8ADA"
+	"TimePublished"		"0x000000005F0F8ADA"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,12 +23,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 				"item"		"item_ring_of_regen"
 			}
 			"Early"
 			{
-				"item"		"item_headdress"
 				"item"		"item_boots"
+				"item"		"item_headdress"
 				"item"		"item_magic_stick"
 				"item"		"item_blight_stone"
 			}
@@ -104,7 +105,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"snapfire_lil_shredder"
 			"18"		"snapfire_mortimer_kisses"
 			"20"		"special_bonus_unique_snapfire_4"
-			"25"		"special_bonus_unique_snapfire_3"
+			"25"		"special_bonus_unique_snapfire_1"
 		}
 		"AbilityTooltips"
 		{

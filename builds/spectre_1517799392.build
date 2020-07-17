@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"127"
+	"GuideRevision"		"131"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005EFE75A9"
-	"TimePublished"		"0x000000005EFE75A9"
+	"TimeUpdated"		"0x000000005F10EDF0"
+	"TimePublished"		"0x000000005F10EDF0"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,35 +36,33 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_blade_mail"
 				"item"		"item_radiance"
 				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_bracer"
+				"item"		"item_blade_mail"
 				"item"		"item_ancient_janggo"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_diffusal_blade"
+				"item"		"item_bracer"
 			}
 			"Lategame"
 			{
 				"item"		"item_butterfly"
-				"item"		"item_heart"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_skadi"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_heart"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_diffusal_blade"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
@@ -72,6 +70,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_vanguard"
 				"item"		"item_mask_of_madness"
 				"item"		"item_refresher"
+				"item"		"item_meteor_hammer"
 			}
 			"Best Neutral Items"
 			{
@@ -139,12 +138,12 @@ ALTERNATIVES: Vanguard, HotD"
 			"5"		"spectre_spectral_dagger"
 			"6"		"spectre_haunt"
 			"7"		"spectre_spectral_dagger"
-			"8"		"spectre_dispersion"
+			"8"		"spectre_desolate"
 			"9"		"spectre_dispersion"
 			"10"		"special_bonus_all_stats_5"
 			"11"		"spectre_desolate"
 			"12"		"spectre_haunt"
-			"13"		"spectre_desolate"
+			"13"		"spectre_dispersion"
 			"14"		"spectre_desolate"
 			"15"		"special_bonus_unique_spectre"
 			"16"		"spectre_desolate"

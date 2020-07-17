@@ -3,18 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27a"
+	"GameplayVersion"		"7.27b"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F051EA0"
-	"TimePublished"		"0x000000005F051EA0"
+	"TimeUpdated"		"0x000000005F0F90AC"
+	"TimePublished"		"0x000000005F0F90AC"
 	"ItemBuild"
 	{
 		"Items"
@@ -117,15 +117,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lion_impale"
 			"8"		"lion_mana_drain"
 			"9"		"lion_voodoo"
-			"10"		"special_bonus_cast_range_75"
+			"10"		"special_bonus_attack_damage_70"
 			"11"		"lion_mana_drain"
 			"12"		"lion_finger_of_death"
 			"13"		"lion_mana_drain"
 			"14"		"lion_voodoo"
-			"15"		"special_bonus_unique_lion_3"
+			"15"		"special_bonus_cast_range_150"
 			"16"		"lion_voodoo"
 			"18"		"lion_finger_of_death"
-			"20"		"special_bonus_hp_400"
+			"20"		"special_bonus_unique_lion_8"
 			"25"		"special_bonus_unique_lion_4"
 		}
 		"AbilityTooltips"
