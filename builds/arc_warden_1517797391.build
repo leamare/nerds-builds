@@ -3,16 +3,16 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27b"
+	"GameplayVersion"		"7.27c"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"80"
+	"GuideRevision"		"81"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F0F974C"
-	"TimePublished"		"0x000000005F0F974C"
+	"TimeUpdated"		"0x000000005F1372B2"
+	"TimePublished"		"0x000000005F1372B2"
 	"ItemBuild"
 	{
 		"Items"

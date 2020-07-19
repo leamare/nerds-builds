@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27b"
+	"GameplayVersion"		"7.27c"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F0F9744"
-	"TimePublished"		"0x000000005F0F9744"
+	"TimeUpdated"		"0x000000005F1372DE"
+	"TimePublished"		"0x000000005F1372DE"
 	"ItemBuild"
 	{
 		"Items"
