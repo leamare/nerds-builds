@@ -6,17 +6,17 @@
 
 It's a collection of Dota 2 in-game guides.
 
-The goal is to make a guide for every hero and position it can be played on and add up information about alternatives and timings for every item, as well as have every build be up to date. It's not about making Core Crystal Maiden a thing. The main purpose of the project is to provide players with up-to-date builds trends and show the way to make weird stuff work, if you really want.
-
-Right now there aren't many builds available, but I'm working on it.
-
-**IMPORTANT:** I'm not able to monitor all the builds manually right now, so I'm mostly relying on feedback for now. You can use GitHub issues or Discord to leave your feedback if you have any ideas or find a problematic moment.
+Main things to know about Nerd's Hero Builds:
+* It's based on (1) immortal ranked stats, competitive matches stats (mainly most common builds and most effective ones) and (2) opinion of high MMR hero spammers. I'm using Dotabuff (guides section), Stratz item stats and my personal immortal ranked dataset for these.
+* These builds are not based on my personal opinion. Exceptions are the cases when I am the hero spammer (Visage, Spectre, Arc Warden, Enchantress, Dark Willow), but I'm researching stats for them as well.
+* The goal of the project is to provide a collection of builds for **advanced** players. I aim to make a build for every hero and any viable playstyle, including some unorthodox ones (like Morphling Support, Core/Offlane Bane, etc). As a final goal I want to have item/spells descriptions for every build, describing tips and tricks, as well as synergies and reasons for this particular skill/item build.
+* The builds have a bit "complex" structure that is a bit different of what you may be used to. Check below for more information.
+* I'm working on it alone. Sometimes, when a hero falls out of meta, the build may shift, but there won't be enough stats. Or I may not have time to update it. The builds tend to be viable, but sometimes are slightly outdated.
+* I'm open for feedback and your submissions. You can join my [discord](https://discord.spectral.gg/) and suggest changes here.  Or you can use GitHub issues for that.
 
 ## Why?
 
-Initially it was started as "untraditional" builds, right now all the builds are based on high-rank stats (Divine stats provided by Stratz.com and based on custom reports made with League Report Generator), stream VODs and opinions from hero spammers.
-
-Unlike Standart Hero Builds (from Torte De Lini), every Nerds Hero Guide is built around the idea of player being "advanced" player. A guide isn't plan for your game, but more like a collection of drafts and ideas that points out general patterns in item builds, suggests situational alternatives for various situations and made with "don't need to search for an item in the shop" principle in mind.
+Unlike Standart Hero Builds (from Torte De Lini) or ImmortalFaith's builds, every Nerds Hero Guide is built around the idea of player being "advanced" player. A guide isn't plan for your game, but more like a collection of drafts and ideas that points out general patterns in item builds, suggests situational alternatives for various situations and made with "don't need to search for an item in the shop" principle in mind.
 
 ## Brief explanation for guides structure and guidelines
 
@@ -31,7 +31,7 @@ The categories I'm using and brief explanation:
 * **Core.** Your main items you need to come online (or start farming, depends on your hero). Usually something before 20-25 min mark.
 * **Situational Early.** Items that may be bought inbetween or instead of early/core items. Example one: you are laning against Batrider and you want to buy Magic Wand, but don't want to buy it every game on the hero - it goes here. Example two: usually you would buy Mask of Madness, but in the specific game in specific circumstances you would like to buy Hand of Midas for the same reason - it goes here (another axample would be Euls and Kaya).
 * **Lategame.** Extension items you would like to buy after your Core items are done. The order is usually preserved and items in this category are usually your "ideal lategame plan", however sometimes you may swap things around. In some guides it's more like a list of suggestions that you may mix and match as you wish.
-* **Situational.** Replacement and extension items for mid to late game. For example, Black King Bar and Monkey King Bar for most of the heroes goes here (you don't want to buy it every game, but in some cases it may be necessary).
+* **Situational.** Replacement and extension items for mid to late game. For example, Black King Bar and Monkey King Bar for most of the heroes goes here (you don't want to buy it every game, but in some cases it may be necessary). Some REALLY situational items for early/mid game are moved here as well, just so they will be available somewhere, but won't clutter other categories.
 * **Best Neutral Items.** Self explanatory. Doesn't include tier 5 items (mostly) since all of them are broken anyway and I don't want to have three lines of neutral items.
 
 Additional categories:
