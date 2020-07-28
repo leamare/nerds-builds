@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1372D2"
-	"TimePublished"		"0x000000005F1372D2"
+	"TimeUpdated"		"0x000000005F19A229"
+	"TimePublished"		"0x000000005F19A229"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_branches"
-				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_enchanted_mango"
 				"item"		"item_faerie_fire"
 			}
@@ -31,8 +32,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
-				"item"		"item_sobi_mask"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
@@ -100,21 +101,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"arc_warden_spark_wraith"
-			"2"		"arc_warden_magnetic_field"
+			"2"		"arc_warden_flux"
 			"3"		"arc_warden_spark_wraith"
-			"4"		"arc_warden_flux"
+			"4"		"arc_warden_magnetic_field"
 			"5"		"arc_warden_spark_wraith"
 			"6"		"arc_warden_tempest_double"
 			"7"		"arc_warden_spark_wraith"
-			"8"		"arc_warden_magnetic_field"
+			"8"		"arc_warden_flux"
 			"9"		"arc_warden_flux"
 			"10"		"special_bonus_unique_arc_warden_5"
-			"11"		"arc_warden_magnetic_field"
+			"11"		"arc_warden_flux"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
-			"14"		"arc_warden_flux"
+			"14"		"arc_warden_magnetic_field"
 			"15"		"special_bonus_attack_speed_50"
-			"16"		"arc_warden_flux"
+			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
 			"20"		"special_bonus_unique_arc_warden_3"
 			"25"		"special_bonus_unique_arc_warden"
