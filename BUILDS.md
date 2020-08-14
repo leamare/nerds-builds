@@ -2,9 +2,9 @@
 
 ## Patch: 7.27c
 
-### Total builds published: 79 (out of ~214 planned)
+### Total builds published: 83 (out of ~214 planned)
 
-### Descriptions ready: 33 out of 79
+### Descriptions ready: 33 out of 83
 
 ---
 
@@ -12,6 +12,7 @@ Hero | Role | Commentaries | Link | File
 -- | -- | -- | --
 Abaddon | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941258158) | [buildfile](builds/abaddon_1576617440.build)
 Alchemist | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826240453) | [buildfile](builds/alchemist_1533216412.build)
+Alchemist | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2193525854) | [buildfile](builds/alchemist_1576617675.build)
 Arc Warden | Nuker/Initiator | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916406164) | [buildfile](builds/arc_warden_1517796471.build)
 Arc Warden | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=814024669) | [buildfile](builds/arc_warden_1517796629.build)
 Arc Warden | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917504030) | [buildfile](builds/arc_warden_1517797391.build)
@@ -85,6 +86,7 @@ Viper | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?i
 Visage | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836044023) | [buildfile](builds/visage_1517798650.build)
 Void Spirit | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921591322) | [buildfile](builds/void_spirit_1574795637.build)
 Void Spirit | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921841646) | [buildfile](builds/void_spirit_1574826440.build)
+Void Spirit | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1993010761) | [buildfile](builds/void_spirit_1581185057.build)
 Weaver | Support/Offlane | ~ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [buildfile](builds/weaver_1517797555.build)
 Windranger | Core/Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885697295) | [buildfile](builds/windrunner_1570301129.build)
 Winter Wyvern | Offlane | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [buildfile](builds/winter_wyvern_1510588707.build)
