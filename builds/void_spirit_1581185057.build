@@ -1,0 +1,128 @@
+"guidedata"
+{
+	"Hero"		"void_spirit"
+	"Title"		"Nerds Utility Void Spirit"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.27c"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"17"
+	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005F1364A4"
+	"TimePublished"		"0x000000005F1364A4"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_null_talisman"
+				"item"		"item_bracer"
+			}
+			"Core"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_veil_of_discord"
+				"item"		"item_blight_stone"
+				"item"		"item_orchid"
+			}
+			"Utility"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_spirit_vessel"
+				"item"		"item_pipe"
+				"item"		"item_solar_crest"
+				"item"		"item_vladmir"
+				"item"		"item_heavens_halberd"
+			}
+			"Lategame"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_shivas_guard"
+				"item"		"item_bloodthorn"
+				"item"		"item_sheepstick"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_aeon_disk"
+				"item"		"item_sphere"
+				"item"		"item_ghost"
+				"item"		"item_desolator"
+				"item"		"item_mjollnir"
+				"item"		"item_octarine_core"
+				"item"		"item_nullifier"
+				"item"		"item_bloodstone"
+				"item"		"item_abyssal_blade"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
+				"item"		"item_broom_handle"
+				"item"		"item_vampire_fangs"
+				"item"		"item_vambrace"
+				"item"		"item_pupils_gift"
+				"item"		"item_imp_claw"
+				"item"		"item_quickening_charm"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_spell_prism"
+				"item"		"item_panic_button"
+				"item"		"item_minotaur_horn"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"void_spirit_resonant_pulse"
+			"2"		"void_spirit_aether_remnant"
+			"3"		"void_spirit_resonant_pulse"
+			"4"		"void_spirit_dissimilate"
+			"5"		"void_spirit_resonant_pulse"
+			"6"		"void_spirit_astral_step"
+			"7"		"void_spirit_resonant_pulse"
+			"8"		"void_spirit_dissimilate"
+			"9"		"void_spirit_dissimilate"
+			"10"		"special_bonus_mp_regen_250"
+			"11"		"void_spirit_dissimilate"
+			"12"		"void_spirit_astral_step"
+			"13"		"void_spirit_aether_remnant"
+			"14"		"void_spirit_aether_remnant"
+			"15"		"special_bonus_unique_void_spirit_4"
+			"16"		"void_spirit_aether_remnant"
+			"18"		"void_spirit_astral_step"
+			"20"		"special_bonus_unique_void_spirit_1"
+			"25"		"special_bonus_unique_void_spirit_3"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
