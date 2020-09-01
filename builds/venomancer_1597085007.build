@@ -1,0 +1,183 @@
+"guidedata"
+{
+	"Hero"		"venomancer"
+	"Title"		"Nerds Utility Venomancer"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.27d"
+	"Overview"		"Venomancer is an agility caster hero, who can be played in a variety of ways, including an Utility Core or a Support. Venomancer's main goal in fights is to survive and deal as much damage as possible. The hero's Plague Wards allow him to take control over areas by getting a free vision, as well as farm lanes and jungle like nobody else. Venomancer doesn't really need much item to be powerful, so the hero can be an \"aura carrier\" or focus on building utility items and surviveability.
+
+Venomancer's most successful at sieging enemy towers and defending his own ones. The hero is also a big problem when it comes to teamfights, since his massice damage output can't be ignored and often can force enemies to retreat, even if Venomancer died a long time ago. The disadvantages of the hero, however, are his lack of any kind of reliable controlling spells and his lack of inbuilt surviveability. Naturally, the best items you can build for Venomancer are the ones that make your team stronger, while also making you tankier, allowing you to sirvive.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x0000000083A19077"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005F47DB4E"
+	"TimePublished"		"0x000000005F47DB4E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_circlet"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_faerie_fire"
+				"item"		"item_flask"
+			}
+			"Starting items - Support"
+			{
+				"item"		"item_boots"
+				"item"		"item_tango"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_wind_lace"
+			}
+			"Core"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_tranquil_boots"
+				"item"		"item_spirit_vessel"
+			}
+			"Situational Early"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_hand_of_midas"
+				"item"		"item_ancient_janggo"
+				"item"		"item_force_staff"
+				"item"		"item_ghost"
+				"item"		"item_pipe"
+				"item"		"item_wraith_band"
+				"item"		"item_quelling_blade"
+			}
+			"Lategame"
+			{
+				"item"		"item_shivas_guard"
+				"item"		"item_sheepstick"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_guardian_greaves"
+				"item"		"item_skadi"
+			}
+			"Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_heavens_halberd"
+				"item"		"item_lotus_orb"
+				"item"		"item_ethereal_blade"
+				"item"		"item_rod_of_atos"
+				"item"		"item_orchid"
+			}
+			"SItuational"
+			{
+				"item"		"item_blink"
+				"item"		"item_cyclone"
+				"item"		"item_aeon_disk"
+				"item"		"item_helm_of_the_dominator"
+			}
+			"Best neutral items"
+			{
+				"item"		"item_keen_optic"
+				"item"		"item_iron_talon"
+				"item"		"item_faded_broach"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_grove_bow"
+				"item"		"item_essence_ring"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
+				"item"		"item_timeless_relic"
+				"item"		"item_panic_button"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"If you're starting out as a asupport and get early boots, you won't be able to get more than one pack of tangoes, but you should buy another one (and maybe a salve) as soon as possible"
+			"item_magic_stick"		"Great mana/sustain item for a hero that is squishy and wants to survive for as long as possible"
+			"item_urn_of_shadows"		"Your main goal as Venomancer is to survive for as long as possible. And when you're trying to survive for as long as possible Urn comes in handy, accumulating a lot of charges and providing you with additional source of heal or damage. It also can be upgraded into Vessel, which is one of the best Veno items.
+
+Alternatively, if you're not planning to get Vessel, you can switch to other early-core items: Midas, Veil or go with utility items like Mekansm or Pipe"
+			"item_spirit_vessel"		"Regen reduction and massive damage. It also provides you with tankiness and works well with the hero.
+Worth skipping if there's no opportunity to get early charges or no heroes to counter it with.
+
+Alternatively, if you're not planning to get Vessel, you can switch to other early-core items: Midas, Veil or go with utility items like Mekansm or Pipe"
+			"item_tranquil_boots"		"Additional mobility and out-of-battle regen. You don't really want to get any damage or even attack yourself most of the time, relying on Plague Wards instead, so it works pretty well, allowing you to juke around the map and in fights"
+			"item_wraith_band"		"Additional stats for extra lane pressure. Usually not needed"
+			"item_force_staff"		"Utility/save item, mostly for cases when playing against heroes like Clock/Riki"
+			"item_ghost"		"Utility/save item, against phisycal burst cores"
+			"item_veil_of_discord"		"Early game aggressive solution. If you're not getting Vessel (or it won't be as useful, e.g. enemy heroes don't even have much regen), Veil comes in handy, significantly increasing your damage"
+			"item_ancient_janggo"		"Additional mana regen and mobility. Not needed, but can be purchased instead of Vessel to buff your team"
+			"item_hand_of_midas"		"If you're having an easy early game and don't really need a fast Vessel, you can go for Midas instead, increasing your XPM"
+			"item_ethereal_blade"		"Mostly to save allies from physical burst"
+			"item_quelling_blade"		"Allowes you to create passages that you can block with plague wards (effectively blocking enemies out)
+
+Can be used to cut certain trees in the jungle to farm multiple camps with a single set of plague wards"
+			"item_shivas_guard"		"Regen reduction and an additional massive slow, works well with all of Veno's spells"
+			"item_helm_of_the_dominator"		"Can be an alternative early game choice, providing you with useful auras or a controlling spell that you lack. However, it doesn't really work as well as any other solution"
+			"item_blink"		"Initiation and mobility"
+			"item_ultimate_scepter"		"For even more damage. Good when snowballing, works well with blink"
+			"item_skadi"		"Even more slow (through BKB!) and HP regen reduction, as well as surviveability"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"venomancer_poison_sting"
+			"2"		"venomancer_venomous_gale"
+			"3"		"venomancer_poison_sting"
+			"4"		"venomancer_plague_ward"
+			"5"		"venomancer_poison_sting"
+			"6"		"venomancer_poison_nova"
+			"7"		"venomancer_poison_sting"
+			"8"		"venomancer_plague_ward"
+			"9"		"venomancer_plague_ward"
+			"10"		"special_bonus_unique_venomancer_7"
+			"11"		"venomancer_plague_ward"
+			"12"		"venomancer_poison_nova"
+			"13"		"venomancer_venomous_gale"
+			"14"		"venomancer_venomous_gale"
+			"15"		"special_bonus_unique_venomancer_5"
+			"16"		"venomancer_venomous_gale"
+			"18"		"venomancer_poison_nova"
+			"20"		"special_bonus_unique_venomancer_4"
+			"25"		"special_bonus_unique_venomancer"
+		}
+		"AbilityTooltips"
+		{
+			"venomancer_venomous_gale"		"The slow doesn't scale with level and damage aspect is not as important (compared to other spells), so Gale is the last skill to max out. However, Gale talents are rather good.
+
+Don't use it when you're about to kill somebody since galed enemies can be denied."
+			"venomancer_poison_sting"		"Your main damage dealing / harass tool. Effectively it's 48/144/88/480 total magic damage from one hero attack.
+
+You are going to attack enemies a lot on lane. Try to attack as much different enemies as possible to spread the debuff around."
+			"venomancer_plague_ward"		"Plague ward is going to be the first spell to max out. You shouldn't skill it early since it doesn't really do much without other spells and it doesn't have a lot of HP early on. However, you should spend all the early skill points into it.
+
+Plague Wards may be used in a variety of ways: to block paths, to defend your towers or push enemy ones, to farm jungle efficiently, to give you vision over area."
+			"venomancer_poison_nova"		"Pretty much your Big Red Teamfight button.
+It's a good thing to remember that affected enemies can lose a lot of HP, but CAN NOT DIE from the Nova damage. You need something else to secure the kill (passive or vessel)
+
+ It's constantly emitting during the animation, so you can run towards your enemies and cover more range than the actual radius"
+			"special_bonus_unique_venomancer_4"		"Increases overall damage enemies take from Poison Nova."
+			"special_bonus_unique_venomancer_3"		"Decreases effective cooldown of the slow, allows to slow enemies more often. It also works well with level 15 talent"
+			"special_bonus_unique_venomancer_5"		"With this and gale cooldown you can create a ton of plague wards in a single fight with ease. It may be extra useful when sieging enemy base since you may get a lot of free wards ready to push a tower"
+			"special_bonus_unique_venomancer"		"Makes Plague Wards much tankier, allowing you to use them to siege towers and tank them, as well as make it hard to deal with in late game."
+			"special_bonus_unique_venomancer_2"		"It's an alternative way to play the hero. Instead of relying on gale to get more wards, you can just make a great deal of the slow from ones you already have"
+			"special_bonus_unique_venomancer_7"		"Since Plague Ward is your bread and butter, and this talent increases a ward's duration up to 55, it's only natural to pick this talent and play around it, placing as many wards as possible"
+		}
+	}
+}
