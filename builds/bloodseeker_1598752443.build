@@ -1,0 +1,137 @@
+"guidedata"
+{
+	"Hero"		"bloodseeker"
+	"Title"		"Nerds Utility Bloodseeker"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.27d"
+	"Overview"		"Bloodseeker is an agility core hero, who can be played as an utility core (or a support). Bloodseekers excells at early game fights, as well as disrupting enemy positioning and immobilizing them. He's also good at crearing jungle and creep waves. His passive ability Thirst makes im very durable early on, thanks to the heal. Bloodrite, on the other hand, allowes the hero to secure ranged creeps and fight for bounty runes effectively. Bloodrage, the signature spell, allows Bloodseeker to make any strong core hero on his team even more powerful, infusing them with a massive spell amplification and attack speed buff.
+
+Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005F4B0E65"
+	"TimePublished"		"0x000000005F4B0E65"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_arcane_boots"
+				"item"		"item_cyclone"
+				"item"		"item_mekansm"
+			}
+			"Situational Early"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_vladmir"
+				"item"		"item_phase_boots"
+				"item"		"item_dagon"
+			}
+			"Utility"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_solar_crest"
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+				"item"		"item_force_staff"
+				"item"		"item_crimson_guard"
+				"item"		"item_glimmer_cape"
+			}
+			"Lategame"
+			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_dagon_5"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_shivas_guard"
+			}
+			"Situational"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_orchid"
+				"item"		"item_spirit_vessel"
+				"item"		"item_ghost"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_poor_mans_shield"
+				"item"		"item_iron_talon"
+				"item"		"item_faded_broach"
+				"item"		"item_pupils_gift"
+				"item"		"item_nether_shawl"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+				"item"		"item_tome_of_knowledge"
+				"item"		"item_tome_of_knowledge"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_solar_crest"		"Works great in combination with the \"buff your carry\" thing"
+			"item_veil_of_discord"		"Most of your damage output will be spell based, so Veil works out nicely, while also being built from Basi"
+			"item_cyclone"		"Additional movement speed and mana regen are already nice for Bloodseeker, but what makes it even better is the ability to cancel teleports and setup Bloodrite damage with it"
+			"item_phase_boots"		"A good alternative to Arcane Boots if you just want to build into early aggression"
+			"item_vladmir"		"Alternative to get instead of Veil, fits \"buff the team\" theme"
+			"item_ancient_janggo"		"Additional movement speed, mana regen and a bit of stats. Not as good as Euls, but may be a nice addition"
+			"item_mekansm"		"Your goal is to be around and buff your team, while making it hard for enemy to fight. Mekansm/Greaves fit this theme nicely, allowing you to keep your teammates alive with a powerful aura"
+			"item_dagon_5"		"Works great in combination with Bloodrage"
+			"item_ultimate_scepter"		"Allows you to practically immobilize two targets in fights"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bloodseeker_blood_bath"
+			"2"		"bloodseeker_thirst"
+			"3"		"bloodseeker_blood_bath"
+			"4"		"bloodseeker_thirst"
+			"5"		"bloodseeker_blood_bath"
+			"6"		"bloodseeker_rupture"
+			"7"		"bloodseeker_blood_bath"
+			"8"		"bloodseeker_thirst"
+			"9"		"bloodseeker_bloodrage"
+			"10"		"bloodseeker_thirst"
+			"11"		"bloodseeker_bloodrage"
+			"12"		"bloodseeker_rupture"
+			"13"		"bloodseeker_bloodrage"
+			"14"		"bloodseeker_bloodrage"
+			"15"		"special_bonus_unique_bloodseeker_5"
+			"16"		"special_bonus_unique_bloodseeker_2"
+			"18"		"bloodseeker_rupture"
+			"20"		"special_bonus_unique_bloodseeker_3"
+			"25"		"special_bonus_unique_bloodseeker"
+		}
+		"AbilityTooltips"
+		{
+			"bloodseeker_blood_bath"		"Ideally you want to max it and use it to secure ranged creeps on lane, as well as bounty runes."
+			"bloodseeker_bloodrage"		"Your bread and butter as a support/utility Bloodseeker. You don't need it early on, but when you get it, it gives your core an equivalent of a Hyperstone"
+			"bloodseeker_thirst"		"Your early game surviveability. You don't even need to be good at last hitting, all you need to survive - to be around the creeps, and optionally you can be as annoying as possible"
+		}
+	}
+}

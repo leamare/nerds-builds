@@ -1,10 +1,10 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.27c
+## Patch: 7.27d
 
-### Total builds published: 83 (out of ~214 planned)
+### Total builds published: 85 (out of ~214 planned)
 
-### Descriptions ready: 33 out of 83
+### Descriptions ready: 34 out of 84
 
 ---
 
@@ -21,6 +21,7 @@ Axe | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?i
 Axe | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941305305) | [buildfile](builds/axe_1576617680.build)
 Bane | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1190692799) | [buildfile](builds/bane_1509773602.build)
 Beastmaster | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1459274094) | [buildfile](builds/beastmaster_1528952182.build)
+Bloodseeker | Offlane | + | [Steeam](https://steamcommunity.com/sharedfiles/filedetails/?id=2213866317) | [buildfile](builds/bloodseeker_1598752443.build)
 Bounty Hunter | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [buildfile](builds/bounty_hunter_1549567475.build)
 Chen | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1288577137) | [buildfile](builds/chen_1515803189.build)
 Dark Seer | Offlane | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1575855657) | [buildfile](builds/dark_seer_1543137404.build)
@@ -77,11 +78,13 @@ Sniper | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?i
 Spectre | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=836049799) | [buildfile](builds/spectre_1517799392.build)
 Spectre | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1739726188) | [buildfile](builds/spectre_1557683534.build)
 Sven | Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1594812320) | [buildfile](builds/sven_1534870569.build)
+Sven | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2200760947) | [buildfile](builds/sven_1581087361.build)
 Tidehunter | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1593487437) | [buildfile](builds/tidehunter_1543397847.build)
 Tiny | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201609040) | [buildfile](builds/tiny_1510740604.build)
 Treant Protector | Roaming Support (Offlane?) | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917506257) | [buildfile](builds/treant_1517797778.build)
 Ursa | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1472044989) | [buildfile](builds/ursa_1532975264.build)
 Vengeful Spirit | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=906051803) | [buildfile](builds/vengefulspirit_1517800254.build)
+Venomancer | Utility Core / Support | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2208403575) | [buildfile](builds/venomancer_1597085007.build)
 Viper | Core | + | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1669280746) | [buildfile](builds/viper_1551201914.build)
 Visage | Core | + | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836044023) | [buildfile](builds/visage_1517798650.build)
 Void Spirit | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921591322) | [buildfile](builds/void_spirit_1574795637.build)
