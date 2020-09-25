@@ -3,16 +3,16 @@
 	"Hero"		"magnataur"
 	"Title"		"Nerds Magnus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x0000000072F84470"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1367E6"
-	"TimePublished"		"0x000000005F1367E6"
+	"TimeUpdated"		"0x000000005F47DFDC"
+	"TimePublished"		"0x000000005F47DFDC"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
+				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
@@ -36,28 +36,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
-				"item"		"item_satanic"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_invis_sword"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_blink"
-				"item"		"item_spirit_vessel"
+				"item"		"item_black_king_bar"
+				"item"		"item_sange_and_yasha"
 			}
 			"Lategame"
 			{
-				"item"		"item_greater_crit"
 				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_satanic"
 				"item"		"item_heart"
 			}
 			"Situational"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
-				"item"		"item_black_king_bar"
 				"item"		"item_lotus_orb"
 				"item"		"item_octarine_core"
 			}
@@ -92,7 +93,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"magnataur_empower"
 			"8"		"magnataur_skewer"
 			"9"		"magnataur_skewer"
-			"10"		"special_bonus_hp_200"
+			"10"		"special_bonus_attack_damage_20"
 			"11"		"magnataur_skewer"
 			"12"		"magnataur_reverse_polarity"
 			"13"		"magnataur_shockwave"
@@ -100,7 +101,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_strength_10"
 			"16"		"magnataur_shockwave"
 			"18"		"magnataur_reverse_polarity"
-			"20"		"special_bonus_armor_8"
+			"20"		"special_bonus_hp_350"
 			"25"		"special_bonus_unique_magnus_2"
 		}
 		"AbilityTooltips"

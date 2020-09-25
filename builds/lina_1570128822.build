@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1368CF"
-	"TimePublished"		"0x000000005F1368CF"
+	"TimeUpdated"		"0x000000005F47E327"
+	"TimePublished"		"0x000000005F47E327"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,19 +23,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
 				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
+				"item"		"item_faerie_fire"
+				"item"		"item_clarity"
 			}
 			"Early"
 			{
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
 				"item"		"item_cyclone"
@@ -45,11 +47,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_infused_raindrop"
 				"item"		"item_bracer"
 				"item"		"item_spirit_vessel"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
+				"item"		"item_monkey_king_bar"
 			}
 			"Situational"
 			{
@@ -59,6 +63,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_guardian_greaves"
 				"item"		"item_aeon_disk"
+				"item"		"item_maelstrom"
 			}
 			"Best Neutral Items"
 			{

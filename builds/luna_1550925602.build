@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F13686B"
-	"TimePublished"		"0x000000005F13686B"
+	"TimeUpdated"		"0x000000005F47E0C4"
+	"TimePublished"		"0x000000005F47E0C4"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,28 +37,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_vladmir"
-				"item"		"item_spirit_vessel"
 				"item"		"item_tranquil_boots"
-				"item"		"item_ancient_janggo"
+				"item"		"item_veil_of_discord"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_hurricane_pike"
 				"item"		"item_refresher"
-				"item"		"item_helm_of_the_dominator"
+				"item"		"item_hurricane_pike"
 			}
 			"Utility"
 			{
+				"item"		"item_vladmir"
+				"item"		"item_veil_of_discord"
+				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
-				"item"		"item_force_staff"
 				"item"		"item_glimmer_cape"
 				"item"		"item_lotus_orb"
 			}
 			"Situational"
 			{
-				"item"		"item_vladmir"
 				"item"		"item_lotus_orb"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_manta"
@@ -83,7 +82,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_helm_of_the_dominator"		"A nice team oriented aura, as well as damage increase and potential additional aura/disable"
 		}
 	}
 	"AbilityBuild"

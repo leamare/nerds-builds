@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1367FA"
-	"TimePublished"		"0x000000005F1367FA"
+	"TimeUpdated"		"0x000000005F47E045"
+	"TimePublished"		"0x000000005F47E045"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,35 +22,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
 				"item"		"item_flask"
+				"item"		"item_ring_of_protection"
 			}
 			"Early"
 			{
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_necronomicon"
 			}
 			"Core"
 			{
 				"item"		"item_necronomicon_3"
+				"item"		"item_ancient_janggo"
+				"item"		"item_power_treads"
 				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blight_stone"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_vladmir"
-				"item"		"item_ancient_janggo"
-				"item"		"item_power_treads"
+				"item"		"item_black_king_bar"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_desolator"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
 				"item"		"item_silver_edge"

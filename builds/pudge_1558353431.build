@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1365C8"
-	"TimePublished"		"0x000000005F1365C8"
+	"TimeUpdated"		"0x000000005F47DD66"
+	"TimePublished"		"0x000000005F47DD66"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,13 +36,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_rod_of_atos"
-				"item"		"item_spirit_vessel"
 				"item"		"item_crimson_guard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_invis_sword"
 				"item"		"item_vanguard"
+				"item"		"item_heavens_halberd"
 				"item"		"item_force_staff"
 				"item"		"item_blink"
 				"item"		"item_pipe"
@@ -52,20 +52,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_radiance"
 				"item"		"item_shivas_guard"
+				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
+				"item"		"item_assault"
+				"item"		"item_octarine_core"
+				"item"		"item_heart"
 			}
 			"Situational"
 			{
-				"item"		"item_assault"
-				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
-				"item"		"item_abyssal_blade"
 				"item"		"item_mjollnir"
-				"item"		"item_heavens_halberd"
 				"item"		"item_ethereal_blade"
-				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"abaddon"
 	"Title"		"Nerds Abaddon"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000073B53FAE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F31A266"
-	"TimePublished"		"0x000000005F31A266"
+	"TimeUpdated"		"0x000000005F47F692"
+	"TimePublished"		"0x000000005F47F692"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,19 +34,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_ancient_janggo"
 				"item"		"item_magic_wand"
-				"item"		"item_vladmir"
+				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
 				"item"		"item_bracer"
 				"item"		"item_blade_mail"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_vladmir"
 			}
 			"Lategame"
 			{
+				"item"		"item_solar_crest"
+				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
@@ -54,13 +57,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_pipe"
-				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
 				"item"		"item_shivas_guard"
 				"item"		"item_mjollnir"
-				"item"		"item_spirit_vessel"
 				"item"		"item_radiance"
 			}
 			"Best Neutral Items"

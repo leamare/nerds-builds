@@ -3,16 +3,16 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Dragon Knight"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F136B8E"
-	"TimePublished"		"0x000000005F136B8E"
+	"TimeUpdated"		"0x000000005F47EA14"
+	"TimePublished"		"0x000000005F47EA14"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,20 +35,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_blink"
-				"item"		"item_maelstrom"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
+				"item"		"item_hand_of_midas"
 				"item"		"item_heavens_halberd"
-				"item"		"item_invis_sword"
 				"item"		"item_ancient_janggo"
+				"item"		"item_maelstrom"
+				"item"		"item_invis_sword"
+				"item"		"item_soul_ring"
 			}
 			"Lategame"
 			{
 				"item"		"item_assault"
-				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 			}

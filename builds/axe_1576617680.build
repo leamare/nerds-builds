@@ -3,29 +3,29 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Support Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Axe is a tanky strength hero who excells at brawling enemies to death. His natural tankiness and skill set allow him to chase people down and take as much damage as your team needs while also providing high amounts of damage and crowd control.
 
 Main game plan as a support Axe is to chase people down with Battle Hunger (supports first) to win the lane (or switch to jungle if it's not possible anywhere on the map). Winning the lane and transitioning to Urn and other \"brawling\" support items allowes Axe to keep up in fights and tank enemy damage while also using Berserker's Call, disengage, regen and come back to fight to use all spells again. Lategame Axe with Aghanim's Scepter and Battle Hunger talent allow the hero to deal even more damage in lategame and be practically unkillable with Octarine Core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x0000000073B5F7D9"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1372A6"
-	"TimePublished"		"0x000000005F1372A6"
+	"TimeUpdated"		"0x000000005F5669FC"
+	"TimePublished"		"0x000000005F5669FC"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_orb_of_venom"
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_ring_of_protection"
+				"item"		"item_ring_of_regen"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -35,17 +35,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_spirit_vessel"
-				"item"		"item_blade_mail"
+				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
-				"item"		"item_tranquil_boots"
 				"item"		"item_quelling_blade"
+				"item"		"item_blade_mail"
+				"item"		"item_phase_boots"
+				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
@@ -59,6 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_spirit_vessel"
 				"item"		"item_vladmir"
 				"item"		"item_invis_sword"
 				"item"		"item_sheepstick"
@@ -101,7 +102,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_branches"		"A branch can be replaced for a Mango to solve early mana issues"
 			"item_magic_stick"		"Since you have a low mana pool and gonna fight a lot, you are going to get a lot of charges and, most importantly, a lot of value out of it. Just try to hold your charges instead of usinc stick as a panic button"
 			"item_ring_of_protection"		"Additional armor for better brawling and to use it for Urn"
-			"item_phase_boots"		"Additional armor and damage to brawl and movement speed to chase people down"
 			"item_urn_of_shadows"		"As you will be a position 4 in your team and going to fight a lot, this is pretty natural to have urn. Not only you're going to get a lot of charges, it will also give you precious mana regen that you need, armor and a little bit more magic damage.
 
 It also works well incombination with Berserker's Call. You use Call, disengage from the fight, heal yourself and then come back"

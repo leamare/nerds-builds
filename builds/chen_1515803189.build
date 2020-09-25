@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F13717F"
-	"TimePublished"		"0x000000005F13717F"
+	"TimeUpdated"		"0x000000005F47F101"
+	"TimePublished"		"0x000000005F47F101"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,25 +32,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_spirit_vessel"
-				"item"		"item_solar_crest"
+				"item"		"item_guardian_greaves"
+				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
 			}
 			"Utility"
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 				"item"		"item_holy_locket"
-				"item"		"item_pipe"
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
+				"item"		"item_solar_crest"
+				"item"		"item_pipe"
 				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
@@ -65,6 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
 				"item"		"item_crimson_guard"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
@@ -90,20 +90,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"chen_divine_favor"
-			"2"		"chen_holy_persuasion"
-			"3"		"chen_divine_favor"
-			"4"		"chen_penitence"
-			"5"		"chen_divine_favor"
+			"1"		"chen_holy_persuasion"
+			"2"		"chen_penitence"
+			"3"		"chen_holy_persuasion"
+			"4"		"chen_divine_favor"
+			"5"		"chen_holy_persuasion"
 			"6"		"chen_hand_of_god"
-			"7"		"chen_divine_favor"
-			"8"		"chen_holy_persuasion"
-			"9"		"chen_penitence"
+			"7"		"chen_holy_persuasion"
+			"8"		"chen_divine_favor"
+			"9"		"chen_divine_favor"
 			"10"		"special_bonus_cast_range_150"
-			"11"		"chen_penitence"
+			"11"		"chen_divine_favor"
 			"12"		"chen_hand_of_god"
-			"13"		"chen_holy_persuasion"
-			"14"		"chen_holy_persuasion"
+			"13"		"chen_penitence"
+			"14"		"chen_penitence"
 			"15"		"special_bonus_unique_chen_5"
 			"16"		"chen_penitence"
 			"18"		"chen_hand_of_god"

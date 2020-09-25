@@ -3,7 +3,7 @@
 	"Hero"		"doom_bringer"
 	"Title"		"Nerds Doom"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Doom is strength hero who can be played as offlane. He's great at disabling heroes for a long period with his ultimate and dealing massive amounts of damage with Infernal Blade and Scorched Earth. Doom excells at farming because of Devour that gets him a ton of bonus gold. The only things that hold him down are low armor, low mana pool, lack of reliable escape and long cooldowns.
 
 Doom becomes extremely important when it faces some heroes with very strong ultimates (e.g. Enigma, Tidehunter). With his ultimate he is able to change the fight, disabling any hero from casting his spells, or reliably kill any hero on the map early on. Doom gets a lot of money really fast and even after being shut down early it will allow him to come back and fight.
@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1370B9"
-	"TimePublished"		"0x000000005F1370B9"
+	"TimeUpdated"		"0x000000005F47EC47"
+	"TimePublished"		"0x000000005F47EC47"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,7 +33,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
 			}
 			"Core"
 			{
@@ -43,35 +42,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_spirit_vessel"
-				"item"		"item_vanguard"
-				"item"		"item_arcane_boots"
+				"item"		"item_heavens_halberd"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
 				"item"		"item_invis_sword"
+				"item"		"item_hand_of_midas"
+				"item"		"item_tranquil_boots"
+				"item"		"item_wraith_band"
 			}
 			"Lategame"
 			{
-				"item"		"item_silver_edge"
+				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
-				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
+				"item"		"item_travel_boots"
 			}
 			"Utility"
 			{
+				"item"		"item_assault"
 				"item"		"item_crimson_guard"
 				"item"		"item_sheepstick"
-				"item"		"item_heavens_halberd"
 				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
-				"item"		"item_assault"
 				"item"		"item_vladmir"
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_black_king_bar"
+				"item"		"item_silver_edge"
 				"item"		"item_guardian_greaves"
 				"item"		"item_radiance"
 			}
@@ -102,21 +100,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"doom_bringer_devour"
-			"2"		"doom_bringer_infernal_blade"
-			"3"		"doom_bringer_infernal_blade"
+			"2"		"doom_bringer_scorched_earth"
+			"3"		"doom_bringer_scorched_earth"
 			"4"		"doom_bringer_devour"
-			"5"		"doom_bringer_infernal_blade"
+			"5"		"doom_bringer_scorched_earth"
 			"6"		"doom_bringer_doom"
-			"7"		"doom_bringer_infernal_blade"
-			"8"		"doom_bringer_scorched_earth"
+			"7"		"doom_bringer_scorched_earth"
+			"8"		"doom_bringer_devour"
 			"9"		"doom_bringer_devour"
 			"10"		"special_bonus_unique_doom_6"
-			"11"		"doom_bringer_devour"
+			"11"		"doom_bringer_infernal_blade"
 			"12"		"doom_bringer_doom"
-			"13"		"doom_bringer_scorched_earth"
-			"14"		"doom_bringer_scorched_earth"
+			"13"		"doom_bringer_infernal_blade"
+			"14"		"doom_bringer_infernal_blade"
 			"15"		"special_bonus_unique_doom_3"
-			"16"		"doom_bringer_scorched_earth"
+			"16"		"doom_bringer_infernal_blade"
 			"18"		"doom_bringer_doom"
 			"20"		"special_bonus_unique_doom_5"
 			"25"		"special_bonus_unique_doom_1"

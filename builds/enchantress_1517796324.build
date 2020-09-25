@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Support Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F136B52"
-	"TimePublished"		"0x000000005F136B52"
+	"TimeUpdated"		"0x000000005F47E903"
+	"TimePublished"		"0x000000005F47E903"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,37 +27,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_stick"
 				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
+				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
 				"item"		"item_medallion_of_courage"
 				"item"		"item_bracer"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_glimmer_cape"
 				"item"		"item_blade_mail"
 				"item"		"item_cyclone"
-				"item"		"item_tranquil_boots"
+				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
-				"item"		"item_hurricane_pike"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_sheepstick"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
+				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 			}
 			"Utility"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_vladmir"
 				"item"		"item_lotus_orb"
 				"item"		"item_spirit_vessel"
@@ -67,7 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_monkey_king_bar"
 				"item"		"item_rod_of_atos"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"

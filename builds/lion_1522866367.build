@@ -3,18 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F13689D"
-	"TimePublished"		"0x000000005F13689D"
+	"TimeUpdated"		"0x000000005F47E1EA"
+	"TimePublished"		"0x000000005F47E1EA"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,33 +38,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
+				"item"		"item_blink"
 				"item"		"item_aether_lens"
 				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blink"
 				"item"		"item_ghost"
 				"item"		"item_force_staff"
-				"item"		"item_spirit_vessel"
 			}
 			"Utility"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_shivas_guard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_lotus_orb"
+				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
-				"item"		"item_hurricane_pike"
+				"item"		"item_aeon_disk"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_aeon_disk"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_ultimate_scepter"
@@ -96,8 +93,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
 			"item_ethereal_blade"		"Potential save against physical damage"
 			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
-			"item_bloodthorn"		"Attack speed boost, mana boost, additional disable and true strike. Best attack speed/damage boost item"
-			"item_hurricane_pike"		"Additional mobility, stats and attack range"
 			"item_silver_edge"		"Additional initiation and stats"
 			"item_ghost"		"Potential self-save against physical damage"
 			"item_ultimate_scepter"		"It's good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren't really focused on this aspect of Lion."

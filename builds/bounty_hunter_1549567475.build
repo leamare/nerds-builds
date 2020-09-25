@@ -3,18 +3,18 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1371E0"
-	"TimePublished"		"0x000000005F1371E0"
+	"TimeUpdated"		"0x000000005F47F17E"
+	"TimePublished"		"0x000000005F47F17E"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,19 +24,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_ring_of_regen"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_faerie_fire"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_magic_wand"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_sange_and_yasha"
 			}
 			"Situational Early"
 			{
@@ -47,9 +48,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
+				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_assault"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
@@ -57,19 +59,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_assault"
-				"item"		"item_monkey_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_desolator"
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
-				"item"		"item_desolator"
 				"item"		"item_nullifier"
 				"item"		"item_skadi"
 				"item"		"item_manta"

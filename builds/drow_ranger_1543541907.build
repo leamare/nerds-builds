@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F136B67"
-	"TimePublished"		"0x000000005F136B67"
+	"TimeUpdated"		"0x000000005F47E9A2"
+	"TimePublished"		"0x000000005F47E9A2"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,9 +22,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_flask"
 				"item"		"item_slippers"
 				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early Game"
 			{
@@ -48,25 +49,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ethereal_blade"
-				"item"		"item_silver_edge"
 				"item"		"item_butterfly"
+				"item"		"item_skadi"
+				"item"		"item_greater_crit"
+				"item"		"item_ethereal_blade"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
 				"item"		"item_black_king_bar"
+				"item"		"item_blink"
+				"item"		"item_silver_edge"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_mjollnir"
-				"item"		"item_octarine_core"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_mask_of_madness"
 				"item"		"item_sheepstick"
-				"item"		"item_greater_crit"
 			}
 			"Best Neutral Items"
 			{
@@ -112,17 +113,17 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 	{
 		"AbilityOrder"
 		{
-			"1"		"drow_ranger_multishot"
-			"2"		"drow_ranger_frost_arrows"
-			"3"		"drow_ranger_multishot"
-			"4"		"drow_ranger_frost_arrows"
+			"1"		"drow_ranger_frost_arrows"
+			"2"		"drow_ranger_multishot"
+			"3"		"drow_ranger_frost_arrows"
+			"4"		"drow_ranger_multishot"
 			"5"		"drow_ranger_multishot"
 			"6"		"drow_ranger_marksmanship"
 			"7"		"drow_ranger_multishot"
-			"8"		"drow_ranger_frost_arrows"
+			"8"		"drow_ranger_wave_of_silence"
 			"9"		"drow_ranger_frost_arrows"
-			"10"		"special_bonus_unique_drow_ranger_5"
-			"11"		"drow_ranger_wave_of_silence"
+			"10"		"special_bonus_all_stats_5"
+			"11"		"drow_ranger_frost_arrows"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"

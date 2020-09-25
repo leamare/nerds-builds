@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Experimental Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.27d"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F1364FC"
-	"TimePublished"		"0x000000005F1364FC"
+	"TimeUpdated"		"0x000000005F47DC07"
+	"TimePublished"		"0x000000005F47DC07"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,32 +41,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_soul_ring"
 				"item"		"item_buckler"
-				"item"		"item_ghost"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_mask_of_madness"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_diffusal_blade"
 				"item"		"item_blade_mail"
+				"item"		"item_ghost"
 			}
 			"Utility"
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
-				"item"		"item_sheepstick"
-				"item"		"item_assault"
+				"item"		"item_heavens_halberd"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
-				"item"		"item_heavens_halberd"
-				"item"		"item_ethereal_blade"
 				"item"		"item_lotus_orb"
+				"item"		"item_ethereal_blade"
 			}
-			"Core Transition"
+			"Lategame / Core Transition"
 			{
-				"item"		"item_yasha"
+				"item"		"item_assault"
+				"item"		"item_sheepstick"
 				"item"		"item_manta"
-				"item"		"item_diffusal_blade"
 				"item"		"item_heart"
-				"item"		"item_sange_and_yasha"
 			}
 			"Best Neutral Items"
 			{
@@ -85,7 +83,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_mask_of_madness"		"A good solution for farming jungle between fights or focusing a single target. Works fine, but it's better for core Spectre while for support it's not optimal"
 			"item_vladmir"		"Good armor and mana solution, buffs your team and allowes you to spam daggers"
 			"item_necronomicon"		"The best alternative to HotD. It allowes you to farm  between fights, makes you much tankier and gives you a lot of mana regen"
 		}
