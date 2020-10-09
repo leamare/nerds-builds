@@ -10,12 +10,12 @@ Your main weakness early on will be low mana pool. There are a couple of ways to
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DF2D"
-	"TimePublished"		"0x000000005F47DF2D"
+	"TimeUpdated"		"0x000000005F7F9EBE"
+	"TimePublished"		"0x000000005F7F9EBE"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,11 +33,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
 				"item"		"item_boots"
-				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_tranquil_boots"
+				"item"		"item_magic_wand"
 				"item"		"item_cyclone"
 				"item"		"item_blink"
 			}
@@ -49,14 +49,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_glimmer_cape"
 				"item"		"item_vladmir"
 				"item"		"item_pipe"
 				"item"		"item_solar_crest"
-				"item"		"item_crimson_guard"
-				"item"		"item_heavens_halberd"
 				"item"		"item_lotus_orb"
 				"item"		"item_force_staff"
-				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
@@ -74,6 +72,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_satanic"
 				"item"		"item_blade_mail"
 				"item"		"item_refresher"
+				"item"		"item_crimson_guard"
+				"item"		"item_spirit_vessel"
+				"item"		"item_heavens_halberd"
 			}
 			"Best Neutral Items"
 			{
@@ -110,8 +111,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"mars_spear"
-			"2"		"mars_bulwark"
+			"1"		"mars_gods_rebuke"
+			"2"		"mars_spear"
 			"3"		"mars_spear"
 			"4"		"mars_gods_rebuke"
 			"5"		"mars_spear"
@@ -120,7 +121,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
 			"10"		"special_bonus_unique_mars_spear_cooldown"
-			"11"		"mars_gods_rebuke"
+			"11"		"mars_bulwark"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
