@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"134"
+	"GuideRevision"		"135"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F64FE78"
-	"TimePublished"		"0x000000005F64FE78"
+	"TimeUpdated"		"0x000000005FB2DBFD"
+	"TimePublished"		"0x000000005FB2DBFD"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,12 +23,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_ring_of_protection"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 				"item"		"item_quelling_blade"
-				"item"		"item_flask"
 			}
 			"Early"
 			{
+				"item"		"item_flask"
 				"item"		"item_soul_ring"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
@@ -36,12 +38,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
+				"item"		"item_blade_mail"
 				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blade_mail"
+				"item"		"item_ancient_janggo"
 				"item"		"item_radiance"
 				"item"		"item_diffusal_blade"
 				"item"		"item_bracer"
