@@ -90,6 +90,8 @@ Hero | Role | Desc. | Link | File
 ![void_spirit][void_spirit] Void Spirit | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921591322) | [buildfile](builds/void_spirit_1574795637.build)
 ![void_spirit][void_spirit] Void Spirit | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921841646) | [buildfile](builds/void_spirit_1574826440.build)
 ![void_spirit][void_spirit] Void Spirit | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1993010761) | [buildfile](builds/void_spirit_1581185057.build)
+![undying][undying] Undying | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2303577168) | [buildfile](builds/undying_1606680476.build)
+![undying][undying] Undying | Support | ~✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2303592529) | [buildfile](builds/undying_1606694336.build)
 ![weaver][weaver] Weaver | Support/Offlane | ~✅ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=814033002) | [buildfile](builds/weaver_1517797555.build)
 ![windrunner][windrunner] Windranger | Core/Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885697295) | [buildfile](builds/windrunner_1570301129.build)
 ![winter_wyvern][winter_wyvern] Winter Wyvern | Offlane | ✅ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1201608995) | [buildfile](builds/winter_wyvern_1510588707.build)
@@ -158,6 +160,7 @@ Hero | Role | Desc. | Link | File
 [viper]: https://courier.spectral.gg/images/dota/portraits/viper.png?size=smallest
 [visage]: https://courier.spectral.gg/images/dota/portraits/visage.png?size=smallest
 [void_spirit]: https://courier.spectral.gg/images/dota/portraits/void_spirit.png?size=smallest
+[undying]: https://courier.spectral.gg/images/dota/portraits/undying.png?size=smallest
 [weaver]: https://courier.spectral.gg/images/dota/portraits/weaver.png?size=smallest
 [windrunner]: https://courier.spectral.gg/images/dota/portraits/windrunner.png?size=smallest
 [winter_wyvern]: https://courier.spectral.gg/images/dota/portraits/winter_wyvern.png?size=smallest
