@@ -1,15 +1,15 @@
 "guidedata"
 {
 	"Hero"		"viper"
-	"Title"		"Untitled"
+	"Title"		"Nerds Support Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.27d"
 	"Overview"		""
-	"GuideRevision"		"1"
+	"GuideRevision"		"2"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DFD601B"
+	"TimeUpdated"		"0x000000005FC69357"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -37,7 +37,7 @@
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_power_treads"
+				"item"		"item_tranquil_boots"
 				"item"		"item_hurricane_pike"
 			}
 			"#DOTA_Item_Build_Luxury"
@@ -48,6 +48,7 @@
 				"item"		"item_ancient_janggo"
 				"item"		"item_glimmer_cape"
 				"item"		"item_guardian_greaves"
+				"item"		"item_power_treads"
 			}
 			"#DOTA_HeroGuide_Untitled"
 			{
@@ -70,15 +71,15 @@
 			"7"		"viper_poison_attack"
 			"8"		"viper_corrosive_skin"
 			"9"		"viper_corrosive_skin"
-			"10"		"special_bonus_attack_speed_25"
+			"10"		"attribute_bonus"
 			"11"		"viper_corrosive_skin"
 			"12"		"viper_viper_strike"
 			"13"		"viper_nethertoxin"
 			"14"		"viper_nethertoxin"
-			"15"		"special_bonus_attack_range_125"
+			"15"		"attribute_bonus"
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
-			"20"		"special_bonus_attack_damage_90"
+			"20"		"attribute_bonus"
 			"25"		"special_bonus_unique_viper_3"
 		}
 		"AbilityTooltips"

@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"95"
+	"GuideRevision"		"96"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E8B9"
-	"TimePublished"		"0x000000005F47E8B9"
+	"TimeUpdated"		"0x000000005FDD0F5A"
+	"TimePublished"		"0x000000005FDD0F5A"
 	"ItemBuild"
 	{
 		"Items"
@@ -58,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_gungir"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_monkey_king_bar"
@@ -68,28 +69,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_silver_edge"
-				"item"		"item_mjollnir"
 				"item"		"item_blink"
 				"item"		"item_skadi"
 				"item"		"item_aeon_disk"
 				"item"		"item_cyclone"
 				"item"		"item_sphere"
 				"item"		"item_hand_of_midas"
+				"item"		"item_witch_blade"
+				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_quicksilver_amulet"
 				"item"		"item_faded_broach"
 				"item"		"item_grove_bow"
 				"item"		"item_vambrace"
 				"item"		"item_enchanted_quiver"
-				"item"		"item_princes_knife"
 				"item"		"item_the_leveller"
 				"item"		"item_minotaur_horn"
 				"item"		"item_spy_gadget"
-				"item"		"item_havoc_hammer"
-				"item"		"item_panic_button"
+				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -119,7 +119,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_hood_of_defiance"		"Since we can deal with physical damage from autoattacks but still aren't tanky enough, getting casual hood may be pretty good desicion."
 			"item_dragon_lance"		"Must-have item for Enchantress: stats are extremely useful for her since she haven't much HP and armor, and also depends on attackspeed and positioning in fights."
 			"item_silver_edge"		"Invisibility is nice, but the main thing why we want this item is stats. Silver Edge gives a lot of damage, attack speed, HP and mana, also gives us mobility (and fast repositioning in fights) and ability to make enemy's damage output 50% lower. The item is also extremely useful against LC and WD."
-			"item_mjollnir"		"Maelstrom is good for fighting, gives us a lot of attack speed and AoE stuff, but it's not one of the items we really want to get"
 			"item_skadi"		"Another one stat-heavy item, but it gives us nice attack damage and slow. Since 6.86 it works with impetus, so it's good choice if you need damage and want HP."
 			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
 			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."

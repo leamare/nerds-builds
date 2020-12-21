@@ -3,7 +3,7 @@
 	"Hero"		"doom_bringer"
 	"Title"		"Nerds Doom"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Doom is strength hero who can be played as offlane. He's great at disabling heroes for a long period with his ultimate and dealing massive amounts of damage with Infernal Blade and Scorched Earth. Doom excells at farming because of Devour that gets him a ton of bonus gold. The only things that hold him down are low armor, low mana pool, lack of reliable escape and long cooldowns.
 
 Doom becomes extremely important when it faces some heroes with very strong ultimates (e.g. Enigma, Tidehunter). With his ultimate he is able to change the fight, disabling any hero from casting his spells, or reliably kill any hero on the map early on. Doom gets a lot of money really fast and even after being shut down early it will allow him to come back and fight.
@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47EC47"
-	"TimePublished"		"0x000000005F47EC47"
+	"TimeUpdated"		"0x000000005FDD0C97"
+	"TimePublished"		"0x000000005FDD0C97"
 	"ItemBuild"
 	{
 		"Items"
@@ -53,10 +53,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 				"item"		"item_shivas_guard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_travel_boots"
+				"item"		"item_overwhelming_blink"
 			}
 			"Utility"
 			{
@@ -76,13 +78,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_faded_broach"
-				"item"		"item_craggy_coat"
+				"item"		"item_bullwhip"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_quickening_charm"
 				"item"		"item_spider_legs"
-				"item"		"item_mind_breaker"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
 				"item"		"item_minotaur_horn"
+				"item"		"item_stormcrafter"
 			}
 			"http://dotablog.ileamare.ru/builds"
 			{

@@ -3,18 +3,18 @@
 	"Hero"		"bloodseeker"
 	"Title"		"Nerds Utility Bloodseeker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Bloodseeker is an agility core hero, who can be played as an utility core (or a support). Bloodseekers excells at early game fights, as well as disrupting enemy positioning and immobilizing them. He's also good at crearing jungle and creep waves. His passive ability Thirst makes im very durable early on, thanks to the heal. Bloodrite, on the other hand, allowes the hero to secure ranged creeps and fight for bounty runes effectively. Bloodrage, the signature spell, allows Bloodseeker to make any strong core hero on his team even more powerful, infusing them with a massive spell amplification and attack speed buff.
 
 Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"3"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F4B0E65"
-	"TimePublished"		"0x000000005F4B0E65"
+	"TimeUpdated"		"0x000000005FDD09F4"
+	"TimePublished"		"0x000000005FDD09F4"
 	"ItemBuild"
 	{
 		"Items"
@@ -44,10 +44,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
 				"item"		"item_vladmir"
 				"item"		"item_phase_boots"
-				"item"		"item_dagon"
+				"item"		"item_rod_of_atos"
+				"item"		"item_blade_mail"
 			}
 			"Utility"
 			{
@@ -61,28 +61,39 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_abyssal_blade"
 				"item"		"item_guardian_greaves"
-				"item"		"item_dagon_5"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
+				"item"		"item_gungir"
+				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
-				"item"		"item_rod_of_atos"
+				"item"		"item_mage_slayer"
 				"item"		"item_orchid"
 				"item"		"item_spirit_vessel"
 				"item"		"item_ghost"
+				"item"		"item_dagon_5"
+				"item"		"item_ancient_janggo"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_poor_mans_shield"
-				"item"		"item_iron_talon"
+				"item"		"item_chipped_vest"
+				"item"		"item_bullwhip"
+				"item"		"item_mysterious_hat"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_faded_broach"
+				"item"		"item_elven_tunic"
 				"item"		"item_pupils_gift"
 				"item"		"item_nether_shawl"
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

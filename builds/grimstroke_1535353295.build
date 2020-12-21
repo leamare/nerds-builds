@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build was initially based on Wagamama's stream and high MMR mid Grimstroke performances.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E6DC"
-	"TimePublished"		"0x000000005F47E6DC"
+	"TimeUpdated"		"0x000000005FDD1082"
+	"TimePublished"		"0x000000005FDD1082"
 	"ItemBuild"
 	{
 		"Items"
@@ -53,10 +53,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_moon_shard"
+				"item"		"item_arcane_blink"
+				"item"		"item_wind_waker"
 			}
 			"Situational"
 			{
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 				"item"		"item_sphere"
 				"item"		"item_shivas_guard"
 				"item"		"item_black_king_bar"
@@ -74,18 +77,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Attack Damage way"
 			{
 				"item"		"item_assault"
-				"item"		"item_mjollnir"
+				"item"		"item_gungir"
 				"item"		"item_bloodthorn"
 				"item"		"item_hurricane_pike"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_faded_broach"
+				"item"		"item_mysterious_hat"
 				"item"		"item_nether_shawl"
 				"item"		"item_grove_bow"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_princes_knife"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_psychic_headband"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -122,7 +127,6 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"item_ethereal_blade"		"Addition for double dagon combo + high damage from stat gain + ok-ish choice for transitioning into hybrid core. Can be used as upgrade to Ghost Scepter"
 			"item_meteor_hammer"		"Going all-in for magic damage means you probably don't have that much"
 			"item_crown"		"Since you are going to get Veil anyway, getting Crown and three branches instead of Null Talisman is a safe choice. It gives you almost the same amount of stats (excluding spell amp), but also give you a lot more HP and attack speed that may be more useful for early laning considering you hero's weak HP pool early on."
-			"item_mjollnir"		"Helps a little bit with attack speed (we don't really need attack damage), also useful to prevent enemies from attacking you. Works well with Kaya, spell amp talent and Grim's int gain."
 		}
 	}
 	"AbilityBuild"

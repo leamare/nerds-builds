@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47F64B"
-	"TimePublished"		"0x000000005F47F64B"
+	"TimeUpdated"		"0x000000005FDD0553"
+	"TimePublished"		"0x000000005FDD0553"
 	"ItemBuild"
 	{
 		"Items"
@@ -55,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter_2"
 				"item"		"item_travel_boots_2"
+				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
@@ -70,16 +71,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_solar_crest"
 				"item"		"item_mjollnir"
 				"item"		"item_shivas_guard"
+				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral  Items"
 			{
-				"item"		"item_poor_mans_shield"
-				"item"		"item_iron_talon"
+				"item"		"item_chipped_vest"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_vambrace"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_bullwhip"
 				"item"		"item_trusty_shovel"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_the_leveller"
 				"item"		"item_minotaur_horn"
-				"item"		"item_havoc_hammer"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_penta_edged_sword"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

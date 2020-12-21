@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47F101"
-	"TimePublished"		"0x000000005F47F101"
+	"TimeUpdated"		"0x000000005FDD0A81"
+	"TimePublished"		"0x000000005FDD0A81"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,7 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_guardian_greaves"
-				"item"		"item_vladmir"
+				"item"		"item_aghanims_shard"
+				"item"		"item_holy_locket"
 			}
 			"Situational Early"
 			{
@@ -44,7 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
-				"item"		"item_holy_locket"
+				"item"		"item_vladmir"
 			}
 			"Lategame"
 			{
@@ -52,6 +53,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_helm_of_the_dominator_2"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -70,12 +72,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_faded_broach"
 				"item"		"item_arcane_ring"
+				"item"		"item_mysterious_hat"
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
-				"item"		"item_clumsy_net"
-				"item"		"item_quickening_charm"
+				"item"		"item_bullwhip"
 				"item"		"item_illusionsts_cape"
+				"item"		"item_psychic_headband"
 				"item"		"item_ring_of_aquila"
+				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -99,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"chen_holy_persuasion"
 			"8"		"chen_divine_favor"
 			"9"		"chen_divine_favor"
-			"10"		"special_bonus_cast_range_150"
+			"10"		"special_bonus_cast_range_175"
 			"11"		"chen_divine_favor"
 			"12"		"chen_hand_of_god"
 			"13"		"chen_penitence"

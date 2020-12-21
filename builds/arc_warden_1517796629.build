@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"74"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47F5A6"
-	"TimePublished"		"0x000000005F47F5A6"
+	"TimeUpdated"		"0x000000005FDD0545"
+	"TimePublished"		"0x000000005FDD0545"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,13 +38,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_ancient_janggo"
-				"item"		"item_meteor_hammer"
+				"item"		"item_aghanims_shard"
 				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blink"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_meteor_hammer"
 				"item"		"item_cyclone"
 				"item"		"item_ancient_janggo"
 				"item"		"item_arcane_boots"
@@ -69,6 +69,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core Transition"
 			{
 				"item"		"item_diffusal_blade"
+				"item"		"item_mage_slayer"
 				"item"		"item_travel_boots"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
@@ -83,17 +84,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
+				"item"		"item_urn_of_shadows"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
 				"item"		"item_faded_broach"
-				"item"		"item_clumsy_net"
-				"item"		"item_repair_kit"
 				"item"		"item_quickening_charm"
+				"item"		"item_quicksilver_amulet"
 				"item"		"item_spy_gadget"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_spell_prism"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_elven_tunic"
+				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -152,11 +156,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
 			"14"		"arc_warden_magnetic_field"
-			"15"		"special_bonus_cooldown_reduction_15"
+			"15"		"special_bonus_cooldown_reduction_12"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
-			"20"		"special_bonus_unique_arc_warden_3"
-			"25"		"special_bonus_unique_arc_warden"
+			"20"		"special_bonus_unique_arc_warden"
+			"25"		"special_bonus_unique_arc_warden_6"
 		}
 		"AbilityTooltips"
 		{
