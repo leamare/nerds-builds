@@ -36,6 +36,8 @@ Hero | Role | Desc. | Link | File
 ![enchantress][enchantress] Enchantress | Roaming Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [buildfile](builds/enchantress_1517796324.build)
 ![faceless_void][faceless_void] Faceless Void | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879546300) | [buildfile](builds/faceless_void_1570126879.build)
 ![grimstroke][grimstroke] Grimstroke | Mid Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [buildfile](builds/grimstroke_1535353295.build)
+![hoodwink][hoodwink] Hoodwink | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2325313349) | [buildfile](builds/hoodwink_1608269788.build)
+![hoodwink][hoodwink] Hoodwink | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2325323781) | [buildfile](builds/hoodwink_1608269829.build)
 ![huskar][huskar] Huskar | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201608892) | [buildfile](builds/huskar_1510741181.build)
 ![invoker][invoker] Invoker | Support QW |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826258386) | [buildfile](builds/invoker_1564869408.build)
 ![wisp][wisp] Io | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853146030) | [buildfile](builds/wisp_1558352911.build)
@@ -120,6 +122,7 @@ Hero | Role | Desc. | Link | File
 [faceless_void]: https://courier.spectral.gg/images/dota/portraits/faceless_void.png?size=smallest
 [grimstroke]: https://courier.spectral.gg/images/dota/portraits/grimstroke.png?size=smallest
 [invoker]: https://courier.spectral.gg/images/dota/portraits/invoker.png?size=smallest
+[hoodwink]: https://courier.spectral.gg/images/dota/portraits/hoodwink.png?size=smallest
 [huskar]: https://courier.spectral.gg/images/dota/portraits/huskar.png?size=smallest
 [wisp]: https://courier.spectral.gg/images/dota/portraits/wisp.png?size=smallest
 [juggernaut]: https://courier.spectral.gg/images/dota/portraits/juggernaut.png?size=smallest

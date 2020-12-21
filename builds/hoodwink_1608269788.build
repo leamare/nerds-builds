@@ -1,0 +1,141 @@
+"guidedata"
+{
+	"Hero"		"hoodwink"
+	"Title"		"Nerds Hoodwink"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.28"
+	"Overview"		"
+This build is based on statistics and matches of immortal rank players.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"8"
+	"AssociatedWorkshopItemID"		"0x000000008A997745"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005FDDDF2E"
+	"TimePublished"		"0x000000005FDDDF2E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting Items / Sidelane"
+			{
+				"item"		"item_blight_stone"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+				"item"		"item_flask"
+			}
+			"Starting Items / Midlane"
+			{
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_falcon_blade"
+			}
+			"Core - Damage Dealer"
+			{
+				"item"		"item_maelstrom"
+				"item"		"item_travel_boots"
+				"item"		"item_desolator"
+			}
+			"Core - Utility"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_maelstrom"
+				"item"		"item_mekansm"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_wraith_band"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_yasha"
+				"item"		"item_mage_slayer"
+				"item"		"item_power_treads"
+			}
+			"Lategame"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_gungir"
+				"item"		"item_skadi"
+				"item"		"item_swift_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_solar_crest"
+				"item"		"item_mjollnir"
+				"item"		"item_manta"
+				"item"		"item_diffusal_blade"
+				"item"		"item_satanic"
+				"item"		"item_sphere"
+				"item"		"item_hurricane_pike"
+				"item"		"item_butterfly"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_ironwood_tree"
+				"item"		"item_possessed_mask"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_imp_claw"
+				"item"		"item_pupils_gift"
+				"item"		"item_vambrace"
+				"item"		"item_grove_bow"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_elven_tunic"
+				"item"		"item_mind_breaker"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_spell_prism"
+				"item"		"item_ninja_gear"
+				"item"		"item_trickster_cloak"
+				"item"		"item_minotaur_horn"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"hoodwink_acorn_shot"
+			"2"		"hoodwink_scurry"
+			"3"		"hoodwink_acorn_shot"
+			"4"		"hoodwink_bushwhack"
+			"5"		"hoodwink_acorn_shot"
+			"6"		"hoodwink_sharpshooter"
+			"7"		"hoodwink_acorn_shot"
+			"8"		"hoodwink_bushwhack"
+			"9"		"hoodwink_bushwhack"
+			"10"		"special_bonus_hp_175"
+			"11"		"hoodwink_bushwhack"
+			"12"		"hoodwink_sharpshooter"
+			"13"		"hoodwink_scurry"
+			"14"		"hoodwink_scurry"
+			"15"		"special_bonus_agility_14"
+			"16"		"hoodwink_scurry"
+			"18"		"hoodwink_sharpshooter"
+			"20"		"special_bonus_corruption_3"
+			"25"		"special_bonus_unique_hoodwink_acorn_shot_charges"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
