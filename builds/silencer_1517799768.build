@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DC76"
-	"TimePublished"		"0x000000005F47DC76"
+	"TimeUpdated"		"0x000000005FE67A32"
+	"TimePublished"		"0x000000005FE67A32"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,39 +21,41 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
-				"item"		"item_power_treads"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_rod_of_atos"
+				"item"		"item_power_treads"
+				"item"		"item_force_staff"
+				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
-				"item"		"item_hand_of_midas"
+				"item"		"item_witch_blade"
 				"item"		"item_orchid"
 				"item"		"item_invis_sword"
+				"item"		"item_ancient_janggo"
+				"item"		"item_rod_of_atos"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
 				"item"		"item_assault"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 				"item"		"item_silver_edge"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
@@ -63,18 +65,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_satanic"
 				"item"		"item_skadi"
-				"item"		"item_refresher"
-				"item"		"item_mjollnir"
+				"item"		"item_gungir"
 				"item"		"item_blink"
+				"item"		"item_ethereal_blade"
+				"item"		"item_refresher"
+				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_possessed_mask"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_psychic_headband"
 				"item"		"item_grove_bow"
-				"item"		"item_vampire_fangs"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_mind_breaker"
 				"item"		"item_timeless_relic"
-				"item"		"item_princes_knife"
 				"item"		"item_spell_prism"
 				"item"		"item_quickening_charm"
 			}
@@ -98,7 +103,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_black_king_bar"		"The item we don't really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
 			"item_shivas_guard"		"With our agressive plays, pretty often bought item: massive int and armor increase, works as huge boost to our durability"
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
-			"item_mjollnir"		"We don't really need lightnings, but Mjolnir gives us a lot of AoE damage and huge attack speed boost, so it may be good alternative to AC or Moon Shard"
 			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it's goo only when you need raw hp increase and damage"
 		}
 	}

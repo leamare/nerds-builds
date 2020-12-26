@@ -3,18 +3,18 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He also has two spammable spells that in combination with his great stats turn him into a great laner and farmer. The only thing he lacks in terms of that is mana sustain and the only thing he's missing overall is some kind of defense from magic. He is almost impossible to damage with attack damage early on, while also having great pickoff capabilities, burst damage and teamfight potential.
 
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DEC0"
-	"TimePublished"		"0x000000005F47DEC0"
+	"TimeUpdated"		"0x000000005FE67149"
+	"TimePublished"		"0x000000005FE67149"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,26 +25,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_quelling_blade"
-				"item"		"item_ring_of_protection"
 			}
 			"Early Game"
 			{
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_boots"
-				"item"		"item_buckler"
 				"item"		"item_soul_ring"
-				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_vladmir"
 				"item"		"item_blink"
-				"item"		"item_desolator"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_bottle"
+				"item"		"item_bracer"
+				"item"		"item_aghanims_shard"
 				"item"		"item_rod_of_atos"
 				"item"		"item_ancient_janggo"
 				"item"		"item_blade_mail"
@@ -52,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_vladmir"
 				"item"		"item_solar_crest"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
@@ -65,6 +64,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_heart"
+				"item"		"item_desolator"
+				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
@@ -72,11 +73,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_abyssal_blade"
 				"item"		"item_radiance"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_chipped_vest"
+				"item"		"item_bullwhip"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_havoc_hammer"
+				"item"		"item_penta_edged_sword"
 				"item"		"item_minotaur_horn"
 				"item"		"item_timeless_relic"
 			}

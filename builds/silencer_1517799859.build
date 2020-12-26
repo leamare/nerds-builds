@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DC62"
-	"TimePublished"		"0x000000005F47DC62"
+	"TimeUpdated"		"0x000000005FE67A6B"
+	"TimePublished"		"0x000000005FE67A6B"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,17 +33,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_force_staff"
-				"item"		"item_rod_of_atos"
 				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
 				"item"		"item_null_talisman"
-				"item"		"item_spirit_vessel"
 				"item"		"item_power_treads"
 				"item"		"item_cyclone"
 				"item"		"item_ghost"
-				"item"		"item_hand_of_midas"
 			}
 			"Utility"
 			{
@@ -53,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_rod_of_atos"
 				"item"		"item_sheepstick"
 				"item"		"item_refresher"
 				"item"		"item_hurricane_pike"
@@ -66,22 +64,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_guardian_greaves"
-				"item"		"item_mjollnir"
 				"item"		"item_skadi"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
+				"item"		"item_witch_blade"
+				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_grove_bow"
-				"item"		"item_clumsy_net"
+				"item"		"item_possessed_mask"
+				"item"		"item_quicksilver_amulet"
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
-				"item"		"item_princes_knife"
 				"item"		"item_timeless_relic"
-				"item"		"item_panic_button"
 				"item"		"item_spy_gadget"
+				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -101,7 +101,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_assault"		"Useful aura, armor boost and attack speed boost. Increases our damage output and tankiness"
 			"item_black_king_bar"		"Quite obvious: high control lineups to be able to deal damage."
 			"item_silver_edge"		"One of the best stat-heavy items in the game. Gives a lot of stats, attack speed and damage, increases mobility and possibility to reposition in fights. I'd like to replace drums with SE, or even build SE instead of drums."
-			"item_mjollnir"		"Good lategame item to deal some kind of massive AoE damage. Not really needed most of the time"
 			"item_skadi"		"Stat-heavy item, slow. Good in cases when you don't need control or MKB, but need stats and damage"
 			"item_guardian_greaves"		"A lot of people choose Arcane boots to build greaves then, but it's actually quite useless for Silencer himself since it doesn't give him anything he needs."
 			"item_rod_of_atos"		"Works fine against elusive heroes, gives quite good damage and health boost, as well as some kind of control and all that for a low price."

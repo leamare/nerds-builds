@@ -3,16 +3,16 @@
 	"Hero"		"sven"
 	"Title"		"Nerds Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x00000000832CF273"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DBA3"
-	"TimePublished"		"0x000000005F47DBA3"
+	"TimeUpdated"		"0x000000005FE687E2"
+	"TimePublished"		"0x000000005FE687E2"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,44 +35,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_hand_of_midas"
-				"item"		"item_heavens_halberd"
+				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
+				"item"		"item_echo_sabre"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
-				"item"		"item_echo_sabre"
 				"item"		"item_blink"
+				"item"		"item_sange_and_yasha"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
 				"item"		"item_assault"
+				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
 				"item"		"item_bloodthorn"
-				"item"		"item_silver_edge"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_mask_of_madness"
 				"item"		"item_butterfly"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_nullifier"
+				"item"		"item_hand_of_midas"
+				"item"		"item_heavens_halberd"
+				"item"		"item_aghanims_shard"
 			}
 			"Best neutral items"
 			{
-				"item"		"item_iron_talon"
 				"item"		"item_royal_jelly"
+				"item"		"item_chipped_vest"
+				"item"		"item_bullwhip"
 				"item"		"item_faded_broach"
 				"item"		"item_broom_handle"
 				"item"		"item_imp_claw"
 				"item"		"item_vambrace"
-				"item"		"item_vampire_fangs"
 				"item"		"item_greater_faerie_fire"
 				"item"		"item_titan_sliver"
 				"item"		"item_paladin_sword"
@@ -80,7 +80,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_dragon_scale"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_spell_prism"
-				"item"		"item_havoc_hammer"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

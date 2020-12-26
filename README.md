@@ -7,7 +7,7 @@
 It's a collection of Dota 2 in-game guides.
 
 Main things to know about Nerd's Hero Builds:
-* It's based on (1) immortal ranked stats, competitive matches stats (mainly most common builds and most effective ones) and (2) opinion of high MMR hero spammers. I'm using Dotabuff (guides section), Stratz item stats and my personal immortal ranked dataset for these.
+* It's based on (1) immortal ranked stats, competitive matches stats (mainly most common builds and most effective ones) and (2) opinion of high MMR hero spammers. I'm using Dotabuff (guides section), Stratz item stats and my personal immortal ranked dataset for these. [My item stats](https://stats.spectral.gg/lrg2/?league=imm_ranked_meta_last_7&mod=items-progression)
 * These builds are not based on my personal opinion. Exceptions are the cases when I am the hero spammer (Visage, Spectre, Arc Warden, Enchantress, Dark Willow), but I'm researching stats for them as well.
 * The goal of the project is to provide a collection of builds for **advanced** players. I aim to make a build for every hero and any viable playstyle, including some unorthodox ones (like Morphling Support, Core/Offlane Bane, etc). As a final goal I want to have item/spells descriptions for every build, describing tips and tricks, as well as synergies and reasons for this particular skill/item build.
 * The builds have a bit "complex" structure that is a bit different of what you may be used to. Check below for more information.

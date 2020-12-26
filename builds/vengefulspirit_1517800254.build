@@ -3,16 +3,16 @@
 	"Hero"		"vengefulspirit"
 	"Title"		"Nerds Vengeful Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"69"
+	"GuideRevision"		"70"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FDD17A3"
-	"TimePublished"		"0x000000005FDD17A3"
+	"TimeUpdated"		"0x000000005FE68C53"
+	"TimePublished"		"0x000000005FE68C53"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,16 +29,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_bracer"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_ancient_janggo"
-				"item"		"item_yasha"
+				"item"		"item_power_treads"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_vladmir"
+				"item"		"item_yasha"
 			}
 			"Yasha upgrades / Alternatives"
 			{
@@ -49,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_mask_of_madness"
+				"item"		"item_vladmir"
 				"item"		"item_blink"
 				"item"		"item_phase_boots"
 				"item"		"item_dragon_lance"
@@ -59,9 +58,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_hurricane_pike"
 				"item"		"item_butterfly"
-				"item"		"item_satanic"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_greater_crit"
+				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_swift_blink"
@@ -79,15 +77,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_crimson_guard"
 				"item"		"item_desolator"
 				"item"		"item_helm_of_the_dominator"
+				"item"		"item_mask_of_madness"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_ring_of_aquila"
+				"item"		"item_possessed_mask"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_elven_tunic"
 				"item"		"item_grove_bow"
 				"item"		"item_imp_claw"
-				"item"		"item_vampire_fangs"
 				"item"		"item_spider_legs"
-				"item"		"item_princes_knife"
 				"item"		"item_illusionsts_cape"
 				"item"		"item_the_leveller"
 				"item"		"item_ninja_gear"

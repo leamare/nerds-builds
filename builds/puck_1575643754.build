@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 Based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DD7F"
-	"TimePublished"		"0x000000005F47DD7F"
+	"TimeUpdated"		"0x000000005FE67526"
+	"TimePublished"		"0x000000005FE67526"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,13 +34,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_travel_boots"
+				"item"		"item_cyclone"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_cyclone"
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
 				"item"		"item_veil_of_discord"
@@ -66,24 +66,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_octarine_core"
 				"item"		"item_refresher"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_keen_optic"
+				"item"		"item_mysterious_hat"
 				"item"		"item_ocean_heart"
 				"item"		"item_trusty_shovel"
 				"item"		"item_arcane_ring"
 				"item"		"item_pupils_gift"
 				"item"		"item_philosophers_stone"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_nether_shawl"
-				"item"		"item_clumsy_net"
 				"item"		"item_quickening_charm"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
-				"item"		"item_panic_button"
 				"item"		"item_spell_prism"
-				"item"		"item_princes_knife"
-				"item"		"item_witless_shako"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

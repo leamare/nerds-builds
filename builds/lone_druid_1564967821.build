@@ -3,16 +3,16 @@
 	"Hero"		"lone_druid"
 	"Title"		"Nerds Lone Druid (bear)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E11C"
-	"TimePublished"		"0x000000005F47E11C"
+	"TimeUpdated"		"0x000000005FE66E1D"
+	"TimePublished"		"0x000000005FE66E1D"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,12 +29,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early (Bear)"
 			{
-				"item"		"item_mask_of_madness"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_phase_boots"
 			}
 			"Core (Bear)"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_mask_of_madness"
 				"item"		"item_basher"
+				"item"		"item_aghanims_shard"
 			}
 			"Core (Druid)"
 			{
@@ -52,29 +54,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_desolator"
-				"item"		"item_abyssal_blade"
 				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
 				"item"		"item_mjollnir"
+				"item"		"item_desolator"
 				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_iron_talon"
+				"item"		"item_chipped_vest"
+				"item"		"item_bullwhip"
 				"item"		"item_broom_handle"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_penta_edged_sword"
 				"item"		"item_imp_claw"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
-				"item"		"item_havoc_hammer"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

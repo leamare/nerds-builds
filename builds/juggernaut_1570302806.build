@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E608"
-	"TimePublished"		"0x000000005F47E608"
+	"TimeUpdated"		"0x000000005FE66AF8"
+	"TimePublished"		"0x000000005FE66AF8"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,39 +28,46 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_wraith_band"
-				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Core"
 			{
-				"item"		"item_ancient_janggo"
+				"item"		"item_phase_boots"
+				"item"		"item_bfury"
 				"item"		"item_manta"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bfury"
-				"item"		"item_diffusal_blade"
+				"item"		"item_ancient_janggo"
 				"item"		"item_mask_of_madness"
+				"item"		"item_falcon_blade"
+				"item"		"item_wind_lace"
 			}
 			"Lategame"
 			{
-				"item"		"item_monkey_king_bar"
 				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_mjollnir"
 			}
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_blink"
+				"item"		"item_diffusal_blade"
+				"item"		"item_mjollnir"
+				"item"		"item_swift_blink"
 			}
 			"Best Neutral Items"
 			{

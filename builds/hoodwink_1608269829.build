@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"6"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FDDDF3A"
-	"TimePublished"		"0x000000005FDDDF3A"
+	"TimeUpdated"		"0x000000005FE667E0"
+	"TimePublished"		"0x000000005FE667E0"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,9 +41,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_falcon_blade"
 				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
-				"item"		"item_blink"
 				"item"		"item_force_staff"
 			}
 			"Lategame"
@@ -60,6 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
+				"item"		"item_blink"
 			}
 			"Best Neutral Items"
 			{

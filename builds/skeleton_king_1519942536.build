@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"68"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47D952"
-	"TimePublished"		"0x000000005F47D952"
+	"TimeUpdated"		"0x000000005FE68F0B"
+	"TimePublished"		"0x000000005FE68F0B"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,6 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_meteor_hammer"
 				"item"		"item_quelling_blade"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
 				"item"		"item_vladmir"
 				"item"		"item_solar_crest"
@@ -64,6 +65,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
+				"item"		"item_aghanims_shard"
 				"item"		"item_shivas_guard"
 				"item"		"item_necronomicon_3"
 			}
@@ -137,7 +139,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_wraith_king_6"
 			"16"		"skeleton_king_vampiric_aura"
 			"18"		"skeleton_king_reincarnation"
-			"20"		"special_bonus_unique_wraith_king_1"
+			"20"		"special_bonus_movement_speed_30"
 			"25"		"special_bonus_unique_wraith_king_4"
 		}
 		"AbilityTooltips"

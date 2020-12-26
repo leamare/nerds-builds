@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47D935"
-	"TimePublished"		"0x000000005F47D935"
+	"TimeUpdated"		"0x000000005FE68FCE"
+	"TimePublished"		"0x000000005FE68FCE"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,7 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_null_talisman"
 				"item"		"item_kaya"
 				"item"		"item_force_staff"
 				"item"		"item_ghost"
@@ -46,6 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
@@ -54,7 +54,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_lotus_orb"
@@ -69,6 +68,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
+				"item"		"item_mysterious_hat"
+				"item"		"item_ceremonial_robe"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -91,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"zuus_arc_lightning"
 			"8"		"zuus_lightning_bolt"
 			"9"		"zuus_lightning_bolt"
-			"10"		"special_bonus_mp_regen_150"
+			"10"		"special_bonus_mp_regen_125"
 			"11"		"zuus_lightning_bolt"
 			"12"		"zuus_thundergods_wrath"
 			"13"		"zuus_static_field"

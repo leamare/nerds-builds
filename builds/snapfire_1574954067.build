@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F68F31E"
-	"TimePublished"		"0x000000005F68F31E"
+	"TimeUpdated"		"0x000000005FE6867F"
+	"TimePublished"		"0x000000005FE6867F"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,6 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 			}
@@ -56,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_guardian_greaves"
 				"item"		"item_blink"
 				"item"		"item_sheepstick"
@@ -73,8 +73,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
+				"item"		"item_possessed_mask"
+				"item"		"item_bullwhip"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_faded_broach"
-				"item"		"item_clumsy_net"
 				"item"		"item_quickening_charm"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_spell_prism"

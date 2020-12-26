@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DC8B"
-	"TimePublished"		"0x000000005F47DC8B"
+	"TimeUpdated"		"0x000000005FE684F2"
+	"TimePublished"		"0x000000005FE684F2"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,6 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
@@ -36,23 +37,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
+				"item"		"item_silver_edge"
 			}
 			"Situational Early"
 			{
-				"item"		"item_orb_of_venom"
 				"item"		"item_wraith_band"
-				"item"		"item_heavens_halberd"
 				"item"		"item_diffusal_blade"
-				"item"		"item_invis_sword"
-				"item"		"item_phase_boots"
 				"item"		"item_hand_of_midas"
-				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
-				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
-				"item"		"item_silver_edge"
+				"item"		"item_skadi"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
@@ -65,13 +61,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
+				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_poor_mans_shield"
-				"item"		"item_iron_talon"
 				"item"		"item_broom_handle"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_possessed_mask"
+				"item"		"item_bullwhip"
 				"item"		"item_vambrace"
 				"item"		"item_pupils_gift"
 				"item"		"item_orb_of_destruction"
@@ -79,8 +75,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ninja_gear"
 				"item"		"item_titan_sliver"
 				"item"		"item_minotaur_horn"
-				"item"		"item_havoc_hammer"
 				"item"		"item_the_leveller"
+				"item"		"item_penta_edged_sword"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"32"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E0C4"
-	"TimePublished"		"0x000000005F47E0C4"
+	"TimeUpdated"		"0x000000005FE66EB7"
+	"TimePublished"		"0x000000005FE66EB7"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,8 +39,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_veil_of_discord"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
@@ -49,6 +49,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_force_staff"
 				"item"		"item_vladmir"
 				"item"		"item_veil_of_discord"
 				"item"		"item_ancient_janggo"

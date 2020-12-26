@@ -3,19 +3,19 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars (Support)"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
 
 Your main weakness early on will be low mana pool. There are a couple of ways to fix this problem, but aside from that all you need to do early on is just brawling. You may also farm inbetween fights to get some of your items since God's Rebuke with at least some mana sustain will be enough to start transitioning into core. And as soon as you get all your early items, all you need to do is just snowball and fight.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F7F9EBE"
-	"TimePublished"		"0x000000005F7F9EBE"
+	"TimeUpdated"		"0x000000005FE670B6"
+	"TimePublished"		"0x000000005FE670B6"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,6 +33,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
 				"item"		"item_boots"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Core"
 			{
@@ -78,10 +79,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_chipped_vest"
+				"item"		"item_bullwhip"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_havoc_hammer"
 				"item"		"item_minotaur_horn"
 				"item"		"item_timeless_relic"
+				"item"		"item_ceremonial_robe"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -120,7 +123,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
-			"10"		"special_bonus_unique_mars_spear_cooldown"
+			"10"		"special_bonus_movement_speed_15"
 			"11"		"mars_bulwark"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"

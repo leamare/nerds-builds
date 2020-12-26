@@ -3,16 +3,16 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DCA3"
-	"TimePublished"		"0x000000005F47DCA3"
+	"TimeUpdated"		"0x000000005FE6792C"
+	"TimePublished"		"0x000000005FE6792C"
 	"ItemBuild"
 	{
 		"Items"
@@ -53,6 +53,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_aeon_disk"
 				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
@@ -61,13 +62,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_keen_optic"
+				"item"		"item_mysterious_hat"
 				"item"		"item_arcane_ring"
 				"item"		"item_spy_gadget"
-				"item"		"item_helm_of_the_undying"
 				"item"		"item_timeless_relic"
-				"item"		"item_panic_button"
 				"item"		"item_quickening_charm"
+				"item"		"item_trickster_cloak"
 				"item"		"item_spell_prism"
+				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

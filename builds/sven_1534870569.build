@@ -3,18 +3,18 @@
 	"Hero"		"sven"
 	"Title"		"Nerds Support Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Sven in a strength melee hero, who can be played as both a powerful core and a support. Supportng Sven excells at initiating fights with Storm Hammer and providing attack damage shield to allies, while also being hard to take down even without any items. Later on into the game because of Great Cleave Sven can start transitioning into either utility core or a full blown carry, staying relevant at every stage of the game.
 
 As a support Sven your main goal is not to deal damage or transition into core. First thing to focus on is using Storm Hammer and soaking resources from enemy heroes on lane early on, to then proceed to ganking. During mid-game fights Sven's goal is to initiate and then be a frontline hero, while also constantly throwing Storm Hammer and using Warcry.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x000000005F0EE7A0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F3D2585"
-	"TimePublished"		"0x000000005F3D2585"
+	"TimeUpdated"		"0x000000005FE68819"
+	"TimePublished"		"0x000000005FE68819"
 	"ItemBuild"
 	{
 		"Items"
@@ -47,9 +47,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_magic_wand"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_blink"
-				"item"		"item_bracer"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_soul_ring"
 			}
 			"Utility"
@@ -66,6 +63,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_meteor_hammer"
 				"item"		"item_assault"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
 			}
 			"COre Transition"
 			{
@@ -81,7 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
-				"item"		"item_havoc_hammer"
+				"item"		"item_bullwhip"
 				"item"		"item_the_leveller"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -96,13 +95,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_boots"		"Being melee support is tough. Sven doesn't have any issues with his base damage and attack time, but he's still a melee hero who needs to come closer first. Getting Boots first may help with this issue"
 			"item_ring_of_basilius"		"Good item that can be disassembled into some useful stuff afterwards or upgraded into Vlads. Helps with mana issues early on for relatively cheap price"
 			"item_magic_stick"		"Another cheap mana-issue-solving item for early game"
-			"item_urn_of_shadows"		"Cheap stats, mana regen and utility. Works great for a brawling utility hero"
 			"item_tranquil_boots"		"Another mobility solving item. Works great for early roaming and for getting closer to enemy heroes (considering you know how to abuse enemy vision and get closer without losing movement speed buff)"
 			"item_magic_wand"		"Cheap stats and natural upgrade to Magic Stick"
 			"item_blink"		"The only necessary item. Helps you getting close to enemies and stun them without giving any time to react. Also allowes you to use all your abilities perfectly and initiate"
 			"item_quelling_blade"		"Fine solution for early farming if nothing's really going on"
 			"item_vladmir"		"Nice and cheap aura to have, great item to pickup after blink"
-			"item_bracer"		"You can get one or two bracers early on if you feel like you'll have enough money for that. It's not necessary tho considering you'll have a lot of other stuff to spend money to"
 			"item_soul_ring"		"Great replacement for bracer stacking. Gives reasonable amount of HP and regen, but also helps with mana issues"
 			"item_medallion_of_courage"		"Fine item if you have any plans to upgrade it into Solar Crest"
 			"item_ancient_janggo"		"Drum's stats are pretty awful, but its bonuses are valuable to Sven in general: mana regen, some HP, some mobility"
@@ -140,7 +137,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"sven_gods_strength"
 			"13"		"sven_great_cleave"
 			"14"		"sven_great_cleave"
-			"15"		"special_bonus_unique_sven_3"
+			"15"		"special_bonus_unique_sven_5"
 			"16"		"sven_great_cleave"
 			"18"		"sven_gods_strength"
 			"20"		"special_bonus_unique_sven"

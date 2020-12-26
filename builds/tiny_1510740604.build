@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DB8F"
-	"TimePublished"		"0x000000005F47DB8F"
+	"TimeUpdated"		"0x000000005FE689CC"
+	"TimePublished"		"0x000000005FE689CC"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,25 +29,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_bracer"
-				"item"		"item_bracer"
+				"item"		"item_soul_ring"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_phase_boots"
+				"item"		"item_echo_sabre"
 				"item"		"item_invis_sword"
+				"item"		"item_sange_and_yasha"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bottle"
-				"item"		"item_buckler"
-				"item"		"item_mask_of_madness"
 				"item"		"item_blink"
-				"item"		"item_soul_ring"
 				"item"		"item_solar_crest"
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
+				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
@@ -62,7 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_echo_sabre"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
@@ -73,11 +70,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_faded_broach"
+				"item"		"item_bullwhip"
 				"item"		"item_imp_claw"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_the_leveller"
 				"item"		"item_minotaur_horn"
-				"item"		"item_havoc_hammer"
+				"item"		"item_cloak_of_flames"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

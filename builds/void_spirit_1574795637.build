@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47D9D2"
-	"TimePublished"		"0x000000005F47D9D2"
+	"TimeUpdated"		"0x000000005FE68E60"
+	"TimePublished"		"0x000000005FE68E60"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,10 +40,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_veil_of_discord"
-				"item"		"item_spirit_vessel"
+				"item"		"item_falcon_blade"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_cyclone"
 				"item"		"item_bottle"
-				"item"		"item_kaya"
 			}
 			"Lategame"
 			{
@@ -69,18 +69,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_abyssal_blade"
 				"item"		"item_sphere"
+				"item"		"item_wind_waker"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_poor_mans_shield"
+				"item"		"item_mysterious_hat"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_broom_handle"
-				"item"		"item_vampire_fangs"
 				"item"		"item_pupils_gift"
 				"item"		"item_quickening_charm"
 				"item"		"item_timeless_relic"
-				"item"		"item_princes_knife"
 				"item"		"item_the_leveller"
-				"item"		"item_panic_button"
 				"item"		"item_minotaur_horn"
 			}
 			"https://leamare.github.io/nerds-builds/"

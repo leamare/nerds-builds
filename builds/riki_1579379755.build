@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 Based on games played during DreamLeague Leipzig Major and consequent Immortal Rank matches
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x000000007592C165"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DD14"
-	"TimePublished"		"0x000000005F47DD14"
+	"TimeUpdated"		"0x000000005FE6771F"
+	"TimePublished"		"0x000000005FE6771F"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,25 +30,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_boots"
-				"item"		"item_wraith_band"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
-				"item"		"item_bfury"
-				"item"		"item_basher"
+				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
-				"item"		"item_yasha"
-				"item"		"item_ancient_janggo"
-				"item"		"item_blink"
+				"item"		"item_bfury"
+				"item"		"item_aghanims_shard"
 			}
 			"Lategame"
 			{
-				"item"		"item_manta"
 				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
 				"item"		"item_skadi"
@@ -58,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_satanic"
@@ -65,13 +63,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_greater_crit"
 				"item"		"item_sphere"
 				"item"		"item_desolator"
+				"item"		"item_blink"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_poor_mans_shield"
 				"item"		"item_ironwood_tree"
+				"item"		"item_possessed_mask"
+				"item"		"item_bullwhip"
 				"item"		"item_ocean_heart"
-				"item"		"item_ring_of_aquila"
 				"item"		"item_pupils_gift"
 				"item"		"item_vambrace"
 				"item"		"item_imp_claw"

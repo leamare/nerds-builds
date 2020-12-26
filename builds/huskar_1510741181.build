@@ -3,25 +3,25 @@
 	"Hero"		"huskar"
 	"Title"		"Nerds Huskar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"70"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FDD118D"
-	"TimePublished"		"0x000000005FDD118D"
+	"TimeUpdated"		"0x000000005FE668A5"
+	"TimePublished"		"0x000000005FE668A5"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items / Midlane"
+			"Starting Items"
 			{
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
 				"item"		"item_circlet"
+				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
@@ -29,42 +29,43 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bracer"
 				"item"		"item_bracer"
+				"item"		"item_helm_of_iron_will"
 				"item"		"item_power_treads"
 			}
 			"Core"
 			{
 				"item"		"item_armlet"
-				"item"		"item_dragon_lance"
 				"item"		"item_heavens_halberd"
-				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blade_mail"
 				"item"		"item_solar_crest"
-				"item"		"item_spirit_vessel"
 				"item"		"item_phase_boots"
+				"item"		"item_dragon_lance"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
 				"item"		"item_assault"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_monkey_king_bar"
-				"item"		"item_hurricane_pike"
-				"item"		"item_sphere"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_sphere"
 				"item"		"item_nullifier"
 				"item"		"item_heart"
 				"item"		"item_guardian_greaves"
 				"item"		"item_lotus_orb"
 				"item"		"item_spirit_vessel"
-				"item"		"item_aghanims_shard"
 				"item"		"item_gungir"
+				"item"		"item_blade_mail"
 			}
 			"Best Neutral Items"
 			{

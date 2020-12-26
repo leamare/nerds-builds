@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47D98E"
-	"TimePublished"		"0x000000005F47D98E"
+	"TimeUpdated"		"0x000000005FE68E8F"
+	"TimePublished"		"0x000000005FE68E8F"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"

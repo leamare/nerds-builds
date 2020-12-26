@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47E342"
-	"TimePublished"		"0x000000005F47E342"
+	"TimeUpdated"		"0x000000005FE66C23"
+	"TimePublished"		"0x000000005FE66C23"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,7 +28,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_orb_of_venom"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_buckler"
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
@@ -42,10 +42,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_blade_mail"
-				"item"		"item_spirit_vessel"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Lategame"
 			{
@@ -57,7 +57,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_clumsy_net"
+				"item"		"item_bullwhip"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_imp_claw"
 				"item"		"item_paladin_sword"
 				"item"		"item_the_leveller"
@@ -76,23 +77,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"life_stealer_feast"
-			"2"		"life_stealer_open_wounds"
-			"3"		"life_stealer_feast"
-			"4"		"life_stealer_rage"
-			"5"		"life_stealer_feast"
+			"2"		"life_stealer_rage"
+			"3"		"life_stealer_ghoul_frenzy"
+			"4"		"life_stealer_ghoul_frenzy"
+			"5"		"life_stealer_ghoul_frenzy"
 			"6"		"life_stealer_infest"
-			"7"		"life_stealer_feast"
-			"8"		"life_stealer_open_wounds"
-			"9"		"life_stealer_open_wounds"
+			"7"		"life_stealer_ghoul_frenzy"
+			"8"		"life_stealer_feast"
+			"9"		"life_stealer_rage"
 			"10"		"special_bonus_attack_speed_30"
 			"11"		"life_stealer_rage"
 			"12"		"life_stealer_infest"
-			"13"		"life_stealer_open_wounds"
-			"14"		"life_stealer_rage"
+			"13"		"life_stealer_rage"
+			"14"		"life_stealer_feast"
 			"15"		"special_bonus_attack_damage_25"
-			"16"		"life_stealer_rage"
+			"16"		"life_stealer_feast"
 			"18"		"life_stealer_infest"
-			"20"		"special_bonus_unique_lifestealer_5"
+			"20"		"special_bonus_unique_lifestealer_6"
 			"25"		"special_bonus_unique_lifestealer"
 		}
 		"AbilityTooltips"

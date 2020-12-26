@@ -3,17 +3,17 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DB78"
-	"TimePublished"		"0x000000005F47DB78"
+	"TimeUpdated"		"0x000000005FE68BD6"
+	"TimePublished"		"0x000000005FE68BD6"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,9 +30,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
-				"item"		"item_orb_of_venom"
 				"item"		"item_magic_wand"
 			}
 			"#DOTA_Item_Build_Core_Items"
@@ -40,26 +40,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_power_treads"
 				"item"		"item_bfury"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_basher"
 			}
 			"SItuational Early"
 			{
 				"item"		"item_lifesteal"
 				"item"		"item_phase_boots"
-				"item"		"item_basher"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
 				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
 				"item"		"item_black_king_bar"
-				"item"		"item_nullifier"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_manta"
+				"item"		"item_nullifier"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_butterfly"
 				"item"		"item_desolator"
 				"item"		"item_radiance"
@@ -67,21 +70,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
-				"item"		"item_manta"
 				"item"		"item_meteor_hammer"
+				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_iron_talon"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_bullwhip"
+				"item"		"item_possessed_mask"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_vambrace"
 				"item"		"item_broom_handle"
-				"item"		"item_vampire_fangs"
 				"item"		"item_spider_legs"
 				"item"		"item_paladin_sword"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_titan_sliver"
-				"item"		"item_havoc_hammer"
 				"item"		"item_the_leveller"
 				"item"		"item_minotaur_horn"
 			}

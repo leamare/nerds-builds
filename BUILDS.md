@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.27d
+## Patch: 7.28a
 
 ### Total builds published: 85 (out of ~214 planned)
 

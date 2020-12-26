@@ -3,16 +3,16 @@
 	"Hero"		"phantom_lancer"
 	"Title"		"Nerds Phantom Lancer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F47DD86"
-	"TimePublished"		"0x000000005F47DD86"
+	"TimeUpdated"		"0x000000005FE674B3"
+	"TimePublished"		"0x000000005FE674B3"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_wraith_band"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
 			}
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_diffusal_blade"
 				"item"		"item_manta"
-				"item"		"item_heart"
+				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
@@ -48,28 +48,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
+				"item"		"item_skadi"
 				"item"		"item_butterfly"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_mage_slayer"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_ethereal_blade"
 				"item"		"item_nullifier"
 				"item"		"item_satanic"
-				"item"		"item_skadi"
 				"item"		"item_bloodthorn"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_silver_edge"
 				"item"		"item_sphere"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_heart"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_poor_mans_shield"
-				"item"		"item_iron_talon"
+				"item"		"item_possessed_mask"
+				"item"		"item_chipped_vest"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_imp_claw"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_mind_breaker"

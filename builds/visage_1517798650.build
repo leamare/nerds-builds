@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"98"
+	"GuideRevision"		"100"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FDF3226"
-	"TimePublished"		"0x000000005FDF3226"
+	"TimeUpdated"		"0x000000005FE51157"
+	"TimePublished"		"0x000000005FE51157"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,22 +30,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blight_stone"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_flask"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_rod_of_atos"
+				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
 				"item"		"item_null_talisman"
-				"item"		"item_magic_wand"
+				"item"		"item_rod_of_atos"
 				"item"		"item_power_treads"
 				"item"		"item_phase_boots"
 			}
@@ -53,9 +55,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_assault"
 				"item"		"item_aghanims_shard"
-				"item"		"item_solar_crest"
-				"item"		"item_gungir"
 				"item"		"item_sheepstick"
+				"item"		"item_gungir"
 				"item"		"item_travel_boots"
 				"item"		"item_refresher"
 				"item"		"item_moon_shard"
@@ -132,7 +133,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"visage_grave_chill"
 			"2"		"visage_gravekeepers_cloak"
 			"3"		"visage_grave_chill"
-			"4"		"visage_gravekeepers_cloak"
+			"4"		"visage_soul_assumption"
 			"5"		"visage_grave_chill"
 			"6"		"visage_summon_familiars"
 			"7"		"visage_grave_chill"
@@ -141,7 +142,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"10"		"special_bonus_attack_damage_25"
 			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"
-			"13"		"visage_soul_assumption"
+			"13"		"visage_gravekeepers_cloak"
 			"14"		"visage_soul_assumption"
 			"15"		"special_bonus_unique_visage_3"
 			"16"		"visage_soul_assumption"

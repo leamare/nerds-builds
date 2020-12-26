@@ -3,18 +3,18 @@
 	"Hero"		"leshrac"
 	"Title"		"Nerds Leshrac"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.27c"
+	"GameplayVersion"		"7.28a"
 	"Overview"		"Leshrac is an intelligence hero who can be played at every position and transition into powerful core at the end of the game. The hero farms extremely fast, has lockdown and the only things he needs are mana regen and surviveability, so he can deal more damage and outlive opponents. His Diabolic Edict ability allowes him to become a powerful core hero and essentially be able to almost singlehandedly end the game at later stages.
 
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005F136919"
-	"TimePublished"		"0x000000005F136919"
+	"TimeUpdated"		"0x000000005FE66B02"
+	"TimePublished"		"0x000000005FE66B02"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,6 +39,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_travel_boots"
 				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodstone"
 			}
 			"Situational Early"
@@ -50,7 +51,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blink"
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_voodoo_mask"
+				"item"		"item_aghanims_shard"
 			}
 			"Lategame"
 			{
@@ -64,7 +65,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aeon_disk"
 				"item"		"item_ghost"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
@@ -72,14 +72,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_mysterious_hat"
+				"item"		"item_bullwhip"
+				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_grove_bow"
 				"item"		"item_vampire_fangs"
 				"item"		"item_quickening_charm"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_panic_button"
-				"item"		"item_mind_breaker"
-				"item"		"item_princes_knife"
+				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -91,7 +93,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_bloodstone"		"Surviveability, huge increase in mana/HP pool, as well as huge mana regen increase. You want to get it under any circumstances and earlier is better. Altho, it forces you to start playing more active to get Bloodstone charges, as well as more careful.
-~17 min"
+~26-30 min"
 			"item_cyclone"		"Mana regen, mobility and Split Earth setup.
 ~20 min"
 			"item_aeon_disk"		"Ultimate save item. Not only it gives more HP and mana, it also saves you from dying to burst damage, allowing to reposition and turn around fights.
@@ -106,8 +108,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_travel_boots"		"Additional mobiliity and map control.  After disassembling Arcane boots early on you will have brown boots anyway, why not upgrade them to BoTs?"
 			"item_ghost"		"When: Against high physical damage output lineups
 Replaces one of lategame slots, alternative to Black King Bar"
-			"item_ultimate_scepter"		"When: Snowballing out of control, getting slow talent at level 25
-Replaces Shiva's Guard or Octarine Core"
 			"item_heart"		"When: Just need to get way more HP
 Replaces Aeon Disk, Shiva's Guard or Octarine"
 			"item_sheepstick"		"Need additional lockdown
