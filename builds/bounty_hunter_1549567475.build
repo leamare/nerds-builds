@@ -9,12 +9,12 @@
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"55"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE4BD7C"
-	"TimePublished"		"0x000000005FE4BD7C"
+	"TimeUpdated"		"0x000000005FEF6C63"
+	"TimePublished"		"0x000000005FEF6C63"
 	"ItemBuild"
 	{
 		"Items"
@@ -88,7 +88,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_imp_claw"
 				"item"		"item_mind_breaker"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_princes_knife"
 				"item"		"item_ninja_gear"
 				"item"		"item_trusty_shovel"
 				"item"		"item_ring_of_aquila"
