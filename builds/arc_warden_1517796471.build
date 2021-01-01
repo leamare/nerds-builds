@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"arc_warden"
-	"Title"		"Nerds Hybrid Warden"
+	"Title"		"Nerds Magic Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
 	"GameplayVersion"		"7.28a"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE4BC71"
-	"TimePublished"		"0x000000005FE4BC71"
+	"TimeUpdated"		"0x000000005FEF7313"
+	"TimePublished"		"0x000000005FEF7313"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,9 +22,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_circlet"
 				"item"		"item_slippers"
-				"item"		"item_branches"
-				"item"		"item_circlet"
-				"item"		"item_faerie_fire"
+				"item"		"item_slippers"
+				"item"		"item_slippers"
 			}
 			"Early"
 			{
@@ -36,46 +35,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_hand_of_midas"
-				"item"		"item_maelstrom"
-				"item"		"item_travel_boots"
-				"item"		"item_gungir"
-				"item"		"item_dagon_5"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blink"
-				"item"		"item_mjollnir"
-				"item"		"item_veil_of_discord"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_orchid"
 				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_octarine_core"
 				"item"		"item_ethereal_blade"
+				"item"		"item_dagon_5"
+				"item"		"item_bloodstone"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
-				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
-				"item"		"item_octarine_core"
 				"item"		"item_sphere"
 				"item"		"item_lotus_orb"
 				"item"		"item_meteor_hammer"
-				"item"		"item_necronomicon_3"
-				"item"		"item_cyclone"
 				"item"		"item_shivas_guard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_arcane_blink"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_gungir"
+				"item"		"item_aghanims_shard"
+				"item"		"item_mjollnir"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_royal_jelly"
+				"item"		"item_chipped_vest"
 				"item"		"item_mysterious_hat"
-				"item"		"item_vampire_fangs"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_elven_tunic"
 				"item"		"item_cloak_of_flames"
@@ -85,7 +82,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_grove_bow"
 				"item"		"item_spell_prism"
 				"item"		"item_spy_gadget"
-				"item"		"item_princes_knife"
 				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -104,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_sheepstick"		"Dagon-Shotgun combo is pretty straight forward, but later into the game we will lack on controlling stuff and will start losing momentum eventually, so Sheepstick will make us not only much more useful for our team, but also increase our kill potential."
 			"item_orchid"		"Orchid can be good solution early because of 30% additional damage, while also improving our physical damage output"
 			"item_bloodthorn"		"Natural upgrade to Orchid and one of the best lategame slots for Arc Warden in general"
-			"item_cyclone"		"Maybe useful as cheap source of mana regen and some sort of save (against slows or silences mostly)"
 			"item_hurricane_pike"		"Natural upgrade for forcestaff if we have it"
 			"item_shivas_guard"		"...and even more tankiness. In combo with Octarine makes us pretty scary and hard to kill hero."
 			"item_sphere"		"More offensive save item: for cases when we need some sort of save, but not too much, so we can stay in fight"
@@ -112,7 +107,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it's counterpart as getting-out tool"
 			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage"
 			"item_octarine_core"		"Lower cooldown, additional tankiness..."
-			"item_veil_of_discord"		"Pretty good solution for increasing our damage output for a cheap price"
 		}
 	}
 	"AbilityBuild"
