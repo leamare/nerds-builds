@@ -7,12 +7,12 @@
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"88"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE4BC5F"
-	"TimePublished"		"0x000000005FE4BC5F"
+	"TimeUpdated"		"0x000000005FEF7257"
+	"TimePublished"		"0x000000005FEF7257"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,14 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core - Main"
 			{
 				"item"		"item_hand_of_midas"
-				"item"		"item_mjollnir"
+				"item"		"item_gungir"
 				"item"		"item_travel_boots"
-			}
-			"Core - bad Start"
-			{
-				"item"		"item_wraith_band"
-				"item"		"item_power_treads"
-				"item"		"item_mjollnir"
 			}
 			"Core - Early aggression"
 			{
@@ -51,12 +45,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_mjollnir"
+				"item"		"item_power_treads"
+				"item"		"item_blade_mail"
 				"item"		"item_necronomicon"
 				"item"		"item_force_staff"
 				"item"		"item_orchid"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
-				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
@@ -70,6 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_swift_blink"
+				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
@@ -81,9 +78,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_octarine_core"
 				"item"		"item_sphere"
 				"item"		"item_manta"
-				"item"		"item_gungir"
-				"item"		"item_blade_mail"
 				"item"		"item_mage_slayer"
+				"item"		"item_diffusal_blade"
 			}
 			"Utility"
 			{
@@ -93,20 +89,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_quicksilver_amulet"
-				"item"		"item_trusty_shovel"
+				"item"		"item_chipped_vest"
+				"item"		"item_royal_jelly"
+				"item"		"item_bullwhip"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_grove_bow"
-				"item"		"item_illusionsts_cape"
-				"item"		"item_mind_breaker"
-				"item"		"item_elven_tunic"
+				"item"		"item_dragon_scale"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_ninja_gear"
-				"item"		"item_the_leveller"
-				"item"		"item_orb_of_destruction"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_spy_gadget"
-				"item"		"item_stormcrafter"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_titan_sliver"
+				"item"		"item_elven_tunic"
+				"item"		"item_quickening_charm"
+				"item"		"item_mind_breaker"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_minotaur_horn"
+				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -147,6 +144,7 @@ Good pickup before or right after Hand of Midas to boost your farming capabiliti
 Can be upgraded later on to get true sight."
 			"item_nullifier"		"Good when paired with Bloodthorn, but the projectile is quite slow so most of the time you won't be able to get it out in time"
 			"item_diffusal_blade"		"Works great in combination with Manta. Essentially provides cheap damage and additional crowd control"
+			"item_gungir"		"Gleipnir costs a bit more than Mjolnir and provides less DPS, but it provides a valuable utility in return, allowing you to clear creep waves faster and pick off heroes more reliably."
 		}
 	}
 	"AbilityBuild"
