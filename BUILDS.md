@@ -23,6 +23,7 @@ Hero | Role | Desc. | Link | File
 ![beastmaster][beastmaster] Beastmaster | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1459274094) | [buildfile](builds/beastmaster_1528952182.build)
 ![bloodseeker][bloodseeker] Bloodseeker | Offlane | ✅ | [Steeam](https://steamcommunity.com/sharedfiles/filedetails/?id=2213866317) | [buildfile](builds/bloodseeker_1598752443.build)
 ![bounty_hunter][bounty_hunter] Bounty Hunter | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [buildfile](builds/bounty_hunter_1549567475.build)
+![bounty_hunter][bounty_hunter] Bounty Hunter | Support/Roamer |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2345305382) | [buildfile](bounty_hunter_1571101741.build)
 ![chen][chen] Chen | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1288577137) | [buildfile](builds/chen_1515803189.build)
 ![dark_seer][dark_seer] Dark Seer | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1575855657) | [buildfile](builds/dark_seer_1543137404.build)
 ![dark_willow][dark_willow] Dark Willow | Roaming Support |  | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1187400450) | [buildfile](builds/dark_willow_1509497468.build)
