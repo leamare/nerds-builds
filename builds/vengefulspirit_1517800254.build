@@ -7,12 +7,12 @@
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68C53"
-	"TimePublished"		"0x000000005FE68C53"
+	"TimeUpdated"		"0x000000005FEF6A93"
+	"TimePublished"		"0x000000005FEF6A93"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,21 +23,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_slippers"
-				"item"		"item_enchanted_mango"
+				"item"		"item_blight_stone"
 			}
 			"Early"
 			{
-				"item"		"item_wraith_band"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
 				"item"		"item_yasha"
+				"item"		"item_aghanims_shard"
 			}
 			"Yasha upgrades / Alternatives"
 			{
@@ -48,25 +47,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_vladmir"
 				"item"		"item_blink"
 				"item"		"item_phase_boots"
 				"item"		"item_dragon_lance"
+				"item"		"item_wraith_band"
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 				"item"		"item_hurricane_pike"
 				"item"		"item_butterfly"
-				"item"		"item_greater_crit"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_swift_blink"
 			}
+			"Utility"
+			{
+				"item"		"item_crimson_guard"
+				"item"		"item_vladmir"
+			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
 				"item"		"item_skadi"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
@@ -74,22 +78,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_sheepstick"
 				"item"		"item_diffusal_blade"
-				"item"		"item_crimson_guard"
-				"item"		"item_desolator"
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_mask_of_madness"
+				"item"		"item_desolator"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
-				"item"		"item_quicksilver_amulet"
-				"item"		"item_elven_tunic"
+				"item"		"item_ironwood_tree"
+				"item"		"item_faded_broach"
+				"item"		"item_keen_optic"
+				"item"		"item_pupils_gift"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_grove_bow"
-				"item"		"item_imp_claw"
-				"item"		"item_spider_legs"
-				"item"		"item_illusionsts_cape"
-				"item"		"item_the_leveller"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_paladin_sword"
+				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
 				"item"		"item_ninja_gear"
+				"item"		"item_the_leveller"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -124,7 +131,6 @@ ALTERNATIVES: Manta Style, Silver Edge, Eye of Skadi"
 			"item_satanic"		"It's good item for every offensive core, but it's not really the item venge wants to buy. It works as lategame replacement for Vlads and ultimate lifesteal item, but it's better to pick up something else before that"
 			"item_skadi"		"Massive stats boost, which makes us tankier, our illusions stronger, and gives us slow effect. We want to build as much damage as we can, but items like this work fine too.
 ALTERNATIVES: Sange and Yasha, Butterfly, Diffusal Blade, Silver Edge"
-			"item_helm_of_the_dominator"		"Good HP regen, attack speed boost and dominated creep. Allowes us to push more effetively early, but after nerfs in 7.03 it's just too expensive and doesn't worth its money. Good for Swap+Centaur combo."
 			"item_desolator"		"Good choice if you have nice start since it's cheap, it boosts our damage and farming speed even more, while also boosts our pushing speed.
 ALTERNATIVES: Solar Crest, Butterfly, Diffusal Blade
 "
