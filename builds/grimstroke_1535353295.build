@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE6668F"
-	"TimePublished"		"0x000000005FE6668F"
+	"TimeUpdated"		"0x000000005FEFDA47"
+	"TimePublished"		"0x000000005FEFDA47"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,66 +31,62 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_null_talisman"
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_kaya"
-				"item"		"item_veil_of_discord"
+				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
-				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
-				"item"		"item_force_staff"
-				"item"		"item_ghost"
+				"item"		"item_kaya"
+				"item"		"item_blink"
 				"item"		"item_rod_of_atos"
-				"item"		"item_spirit_vessel"
+				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
+				"item"		"item_aghanims_shard"
 				"item"		"item_bloodstone"
 				"item"		"item_sheepstick"
 				"item"		"item_gungir"
-				"item"		"item_octarine_core"
 				"item"		"item_moon_shard"
 				"item"		"item_arcane_blink"
-				"item"		"item_wind_waker"
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
-				"item"		"item_sphere"
-				"item"		"item_shivas_guard"
+				"item"		"item_force_staff"
 				"item"		"item_black_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_sphere"
 				"item"		"item_aeon_disk"
 				"item"		"item_silver_edge"
 				"item"		"item_guardian_greaves"
-				"item"		"item_ultimate_scepter"
-			}
-			"Full Nuker Way"
-			{
 				"item"		"item_dagon_5"
-				"item"		"item_ethereal_blade"
-				"item"		"item_meteor_hammer"
-			}
-			"Attack Damage way"
-			{
+				"item"		"item_wind_waker"
 				"item"		"item_assault"
 				"item"		"item_bloodthorn"
 				"item"		"item_hurricane_pike"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_arcane_ring"
 				"item"		"item_faded_broach"
 				"item"		"item_mysterious_hat"
-				"item"		"item_nether_shawl"
+				"item"		"item_vambrace"
+				"item"		"item_quickening_charm"
 				"item"		"item_grove_bow"
+				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_quicksilver_amulet"
-				"item"		"item_psychic_headband"
+				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -107,14 +103,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_null_talisman"		"Even tho you don't want to get it as starting item, one additional Null Talisman for laning is always a good idea since it will help you establish your lane dominance."
 			"item_bottle"		"It's necessary for us to be able to constantly spam our spells on lane and play agressively. With Ink Swell on and a rune ward you can secure enough runes to have charges at any time"
 			"item_boots"		"Additional movement speed, ideally before level 4-5, so you can start pressuring opponent with Ink Swell"
-			"item_veil_of_discord"		"Good stats for early game and magic damage amplification. Grim already wants just a little bit more stats for mana/hp, so this upgrade is already pretty good, but additional armor and active ability make it even better"
 			"item_force_staff"		"Against slows and melee heroes (Ursa, Riki, Monkey King...)"
-			"item_ghost"		"Against high physical damage, but low stuns (Phantom Assassin, Ursa...)"
 			"item_blink"		"Good fo situations when you need to initiate (no initiator) or close the gap instantly to use spells (against Weaver or Storm).
 
 It doesn't really work in combination with Ink Swell: stun duration scales from time the target spent in AoE. The only way to combo it is to use it and instantly blink to enemy."
 			"item_sheepstick"		"Double hex, mana regen, good stats. Can be used to setup Phantom's Embrace as well"
-			"item_octarine_core"		"If you don't need hex, you can replace your kaya with Octarine, increasing your HP/mana pool, reducing all cooldowns and effectively being hard to take down. It's rather agressive choice, so be careful"
+			"item_octarine_core"		"Increasing your HP/mana pool, reducing all cooldowns and effectively being hard to take down"
 			"item_shivas_guard"		"Good replacement for Veil: additional int (spell amplification), aura, mana pool and huge armor boost."
 			"item_bloodthorn"		"Another agressive choice. If you're sure you don't need hex and you're going to transition into physical damage core to be more effective at pushing - go for it."
 			"item_sphere"		"Great choice for Grimstroke. Doesn't let enemy hold you from casting or running around with Ink Swell, gives additional mana and HP regen, as well as massive stats boost"
@@ -125,7 +119,6 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"item_black_king_bar"		"When its hard to fight and enemy has too much magic. Stuns, silences, you name it"
 			"item_dagon_5"		"Going all-in for magic damage for double dagon combo"
 			"item_ethereal_blade"		"Addition for double dagon combo + high damage from stat gain + ok-ish choice for transitioning into hybrid core. Can be used as upgrade to Ghost Scepter"
-			"item_meteor_hammer"		"Going all-in for magic damage means you probably don't have that much"
 			"item_crown"		"Since you are going to get Veil anyway, getting Crown and three branches instead of Null Talisman is a safe choice. It gives you almost the same amount of stats (excluding spell amp), but also give you a lot more HP and attack speed that may be more useful for early laning considering you hero's weak HP pool early on."
 		}
 	}
@@ -142,7 +135,7 @@ It doesn't really work in combination with Ink Swell: stun duration scales from 
 			"7"		"grimstroke_dark_artistry"
 			"8"		"grimstroke_spirit_walk"
 			"9"		"grimstroke_spirit_walk"
-			"10"		"special_bonus_cast_range_100"
+			"10"		"special_bonus_unique_grimstroke_7"
 			"11"		"grimstroke_soul_chain"
 			"12"		"grimstroke_soul_chain"
 			"13"		"grimstroke_ink_creature"
