@@ -2,6 +2,8 @@
 
 [List of all available builds](BUILDS.md)
 
+[FAQ](FAQ.md)
+
 ## What is it?
 
 It's a collection of Dota 2 in-game guides.
