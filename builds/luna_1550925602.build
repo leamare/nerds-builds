@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE66EB7"
-	"TimePublished"		"0x000000005FE66EB7"
+	"TimeUpdated"		"0x000000005FFF6B49"
+	"TimePublished"		"0x000000005FFF6B49"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,17 +33,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
-				"item"		"item_magic_wand"
+				"item"		"item_magic_stick"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_veil_of_discord"
+				"item"		"item_magic_wand"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_hurricane_pike"
 			}
@@ -59,7 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_lotus_orb"
+				"item"		"item_ghost"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_manta"
 				"item"		"item_sheepstick"
@@ -89,8 +90,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"luna_lunar_blessing"
-			"2"		"luna_lucent_beam"
+			"1"		"luna_lucent_beam"
+			"2"		"luna_lunar_blessing"
 			"3"		"luna_lucent_beam"
 			"4"		"luna_lunar_blessing"
 			"5"		"luna_lucent_beam"
