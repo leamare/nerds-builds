@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE667E0"
-	"TimePublished"		"0x000000005FE667E0"
+	"TimeUpdated"		"0x000000005FFC804E"
+	"TimePublished"		"0x000000005FFC804E"
 	"ItemBuild"
 	{
 		"Items"

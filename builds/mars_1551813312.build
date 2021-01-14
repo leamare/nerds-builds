@@ -3,19 +3,19 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars (Support)"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
 
 Your main weakness early on will be low mana pool. There are a couple of ways to fix this problem, but aside from that all you need to do early on is just brawling. You may also farm inbetween fights to get some of your items since God's Rebuke with at least some mana sustain will be enough to start transitioning into core. And as soon as you get all your early items, all you need to do is just snowball and fight.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE670B6"
-	"TimePublished"		"0x000000005FE670B6"
+	"TimeUpdated"		"0x000000005FFC7FBB"
+	"TimePublished"		"0x000000005FFC7FBB"
 	"ItemBuild"
 	{
 		"Items"

@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Magic Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FEF7313"
-	"TimePublished"		"0x000000005FEF7313"
+	"TimeUpdated"		"0x000000005FFC80FA"
+	"TimePublished"		"0x000000005FFC80FA"
 	"ItemBuild"
 	{
 		"Items"

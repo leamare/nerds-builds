@@ -3,16 +3,16 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68D68"
-	"TimePublished"		"0x000000005FE68D68"
+	"TimeUpdated"		"0x000000005FFC7DB5"
+	"TimePublished"		"0x000000005FFC7DB5"
 	"ItemBuild"
 	{
 		"Items"
@@ -52,6 +52,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blade_mail"
 				"item"		"item_power_treads"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_falcon_blade"
 			}
 			"Utility"
 			{

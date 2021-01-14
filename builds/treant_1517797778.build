@@ -3,17 +3,17 @@
 	"Hero"		"treant"
 	"Title"		"Nerds Treant Protector"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68A1F"
-	"TimePublished"		"0x000000005FE68A1F"
+	"TimeUpdated"		"0x000000005FFC7E10"
+	"TimePublished"		"0x000000005FFC7E10"
 	"ItemBuild"
 	{
 		"Items"

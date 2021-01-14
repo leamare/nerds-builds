@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"98"
+	"GuideRevision"		"99"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE665D8"
-	"TimePublished"		"0x000000005FE665D8"
+	"TimeUpdated"		"0x000000005FFC806E"
+	"TimePublished"		"0x000000005FFC806E"
 	"ItemBuild"
 	{
 		"Items"

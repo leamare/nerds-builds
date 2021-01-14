@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE684F2"
-	"TimePublished"		"0x000000005FE684F2"
+	"TimeUpdated"		"0x000000005FFC7EC5"
+	"TimePublished"		"0x000000005FFC7EC5"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_falcon_blade"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
@@ -44,6 +44,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wraith_band"
 				"item"		"item_diffusal_blade"
 				"item"		"item_hand_of_midas"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Lategame"
 			{

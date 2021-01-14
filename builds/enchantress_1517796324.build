@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Support Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE665AA"
-	"TimePublished"		"0x000000005FE665AA"
+	"TimeUpdated"		"0x000000005FFC805B"
+	"TimePublished"		"0x000000005FFC805B"
 	"ItemBuild"
 	{
 		"Items"

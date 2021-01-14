@@ -3,15 +3,15 @@
 	"Hero"		"bristleback"
 	"Title"		"Untitled"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.23e"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"1"
+	"GuideRevision"		"2"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005DF945FC"
+	"TimeUpdated"		"0x000000005FFF6C47"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -19,21 +19,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_bottle"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
+				"item"		"item_eternal_shroud"
+				"item"		"item_vanguard"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_soul_ring"
+				"item"		"item_bracer"
+				"item"		"item_power_treads"
+				"item"		"item_medallion_of_courage"
 			}
 			"Lategame"
 			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_bloodstone"
+				"item"		"item_abyssal_blade"
+				"item"		"item_assault"
 			}
 			"Situational"
 			{
+				"item"		"item_crimson_guard"
+				"item"		"item_pipe"
+				"item"		"item_blade_mail"
 			}
 			"Best Neutral Items"
 			{
@@ -43,6 +66,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 		}
 		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bristleback_quill_spray"
+			"2"		"bristleback_bristleback"
+			"3"		"bristleback_quill_spray"
+			"4"		"bristleback_viscous_nasal_goo"
+			"5"		"bristleback_quill_spray"
+			"6"		"bristleback_warpath"
+			"7"		"bristleback_quill_spray"
+			"8"		"bristleback_bristleback"
+			"9"		"bristleback_bristleback"
+			"10"		"special_bonus_mp_regen_250"
+			"11"		"bristleback_bristleback"
+			"12"		"bristleback_warpath"
+			"13"		"bristleback_viscous_nasal_goo"
+			"14"		"bristleback_viscous_nasal_goo"
+			"15"		"special_bonus_hp_200"
+			"16"		"bristleback_viscous_nasal_goo"
+			"18"		"bristleback_warpath"
+			"20"		"special_bonus_unique_bristleback_2"
+			"25"		"special_bonus_unique_bristleback_3"
+		}
+		"AbilityTooltips"
 		{
 		}
 	}

@@ -3,16 +3,16 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE671CB"
-	"TimePublished"		"0x000000005FE671CB"
+	"TimeUpdated"		"0x000000005FFC7FB4"
+	"TimePublished"		"0x000000005FFC7FB4"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,7 +30,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
 			}
 			"Core"
@@ -42,10 +41,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_enchanted_mango"
-				"item"		"item_clarity"
 				"item"		"item_bottle"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Lategame"
 			{

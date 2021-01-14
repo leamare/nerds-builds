@@ -3,16 +3,16 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Offlane Undying"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Undying is a Strength Utility hero. He excells at dominating in the early game and teamfights, as well as healing allies. Offlane Undying focuses on winning the lane and forcing enemies out of it to rush Meteor Hammer and farm efficiently to get use of early dominance, and to get the early tier 1 towers as well. Later into the game the build is focusing on being tanky and snowballing through fights, while providing auras to the team. Lategame Undying with Aghs Decay upgrade is the finishing touch, amping the hero's power level.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"7"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x00000000894DCC50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68A9D"
-	"TimePublished"		"0x000000005FE68A9D"
+	"TimeUpdated"		"0x000000005FFC7E07"
+	"TimePublished"		"0x000000005FFC7E07"
 	"ItemBuild"
 	{
 		"Items"

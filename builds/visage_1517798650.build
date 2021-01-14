@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"101"
+	"GuideRevision"		"103"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FEF68F4"
-	"TimePublished"		"0x000000005FEF68F4"
+	"TimeUpdated"		"0x000000005FFC7DA4"
+	"TimePublished"		"0x000000005FFC7DA4"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,21 +21,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_blight_stone"
-				"item"		"item_faerie_fire"
+				"item"		"item_blades_of_attack"
+				"item"		"item_branches"
 			}
 			"Starting Items / Sidelane"
 			{
 				"item"		"item_tango"
-				"item"		"item_blight_stone"
+				"item"		"item_blades_of_attack"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_flask"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_falcon_blade"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_magic_wand"
 			}
@@ -49,7 +47,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_null_talisman"
 				"item"		"item_rod_of_atos"
 				"item"		"item_power_treads"
-				"item"		"item_phase_boots"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Lategame"
 			{

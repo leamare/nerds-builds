@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"141"
+	"GuideRevision"		"142"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FEF6AC9"
-	"TimePublished"		"0x000000005FEF6AC9"
+	"TimeUpdated"		"0x000000005FFC7E6A"
+	"TimePublished"		"0x000000005FFC7E6A"
 	"ItemBuild"
 	{
 		"Items"

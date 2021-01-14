@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68E3A"
-	"TimePublished"		"0x000000005FE68E3A"
+	"TimeUpdated"		"0x000000005FFC7D71"
+	"TimePublished"		"0x000000005FFC7D71"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,6 +28,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
+				"item"		"item_falcon_blade"
 			}
 			"Core"
 			{
@@ -37,8 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_orb_of_corrosion"
-				"item"		"item_falcon_blade"
 				"item"		"item_orchid"
 			}
 			"Utility"

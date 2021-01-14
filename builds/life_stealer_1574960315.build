@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE66C23"
-	"TimePublished"		"0x000000005FE66C23"
+	"TimeUpdated"		"0x000000005FFC8017"
+	"TimePublished"		"0x000000005FFC8017"
 	"ItemBuild"
 	{
 		"Items"

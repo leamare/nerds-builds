@@ -3,17 +3,17 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Undying"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"Undying is an utility strength hero, who excells at healing allies and making teamfights chaotic. Undying slowly steals enemy's strength, slowly decaying them to the ground, forcing to react and tanking massive amounts of damage.
 
 This build is based on Immortal rank Undying matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x00000000894E0851"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68A59"
-	"TimePublished"		"0x000000005FE68A59"
+	"TimeUpdated"		"0x000000005FFC7DFC"
+	"TimePublished"		"0x000000005FFC7DFC"
 	"ItemBuild"
 	{
 		"Items"

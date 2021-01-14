@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.28b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FE68E60"
-	"TimePublished"		"0x000000005FE68E60"
+	"TimeUpdated"		"0x000000005FFC7D62"
+	"TimePublished"		"0x000000005FFC7D62"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,7 +41,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_veil_of_discord"
 				"item"		"item_falcon_blade"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_cyclone"
 				"item"		"item_bottle"
 			}
