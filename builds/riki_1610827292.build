@@ -1,0 +1,109 @@
+"guidedata"
+{
+	"Hero"		"riki"
+	"Title"		"Nerds Support Riki"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+Based on games on 2B's games: https://www.twitch.tv/2b_doto
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"8"
+	"AssociatedWorkshopItemID"		"0x00000000910FA549"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060724619"
+	"TimePublished"		"0x0000000060724619"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_orb_of_venom"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_aghanims_shard"
+				"item"		"item_basher"
+			}
+			"Situational Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_medallion_of_courage"
+			}
+			"Late"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+			}
+			"SItuational"
+			{
+				"item"		"item_manta"
+				"item"		"item_diffusal_blade"
+				"item"		"item_ethereal_blade"
+				"item"		"item_butterfly"
+				"item"		"item_greater_crit"
+				"item"		"item_bfury"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_ironwood_tree"
+				"item"		"item_ocean_heart"
+				"item"		"item_mysterious_hat"
+				"item"		"item_trusty_shovel"
+				"item"		"item_bullwhip"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_vambrace"
+				"item"		"item_enchanted_quiver"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"riki_blink_strike"
+			"2"		"riki_tricks_of_the_trade"
+			"3"		"riki_blink_strike"
+			"4"		"riki_smoke_screen"
+			"5"		"riki_blink_strike"
+			"6"		"riki_backstab"
+			"7"		"riki_blink_strike"
+			"8"		"riki_smoke_screen"
+			"9"		"riki_tricks_of_the_trade"
+			"10"		"special_bonus_attack_speed_20"
+			"11"		"riki_smoke_screen"
+			"12"		"riki_backstab"
+			"13"		"riki_smoke_screen"
+			"14"		"riki_tricks_of_the_trade"
+			"15"		"special_bonus_unique_riki_8"
+			"16"		"riki_tricks_of_the_trade"
+			"18"		"riki_backstab"
+			"20"		"special_bonus_unique_riki_9"
+			"25"		"special_bonus_unique_riki_6"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
