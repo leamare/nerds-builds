@@ -1,0 +1,105 @@
+"guidedata"
+{
+	"Hero"		"tusk"
+	"Title"		"Nerds Mid/Offlane Tusk"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000911036AD"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060724B74"
+	"TimePublished"		"0x0000000060724B74"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
+			}
+			"Early"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_falcon_blade"
+			}
+			"Core"
+			{
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_ancient_janggo"
+				"item"		"item_tranquil_boots"
+				"item"		"item_falcon_blade"
+				"item"		"item_desolator"
+				"item"		"item_vladmir"
+			}
+			"Lategame"
+			{
+				"item"		"item_assault"
+				"item"		"item_bloodthorn"
+				"item"		"item_travel_boots"
+				"item"		"item_silver_edge"
+				"item"		"item_overwhelming_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_aghanims_shard"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_heavens_halberd"
+				"item"		"item_blade_mail"
+				"item"		"item_crimson_guard"
+				"item"		"item_lotus_orb"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"tusk_tag_team"
+			"2"		"tusk_ice_shards"
+			"3"		"tusk_tag_team"
+			"4"		"tusk_snowball"
+			"5"		"tusk_tag_team"
+			"6"		"tusk_walrus_punch"
+			"7"		"tusk_tag_team"
+			"8"		"tusk_snowball"
+			"9"		"tusk_snowball"
+			"10"		"special_bonus_unique_tusk_7"
+			"11"		"tusk_snowball"
+			"12"		"tusk_walrus_punch"
+			"13"		"tusk_ice_shards"
+			"14"		"tusk_ice_shards"
+			"15"		"special_bonus_unique_tusk_2"
+			"16"		"tusk_ice_shards"
+			"18"		"tusk_walrus_punch"
+			"20"		"special_bonus_unique_tusk"
+			"25"		"special_bonus_unique_tusk_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
