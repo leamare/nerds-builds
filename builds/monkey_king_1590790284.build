@@ -1,0 +1,102 @@
+"guidedata"
+{
+	"Hero"		"monkey_king"
+	"Title"		"Untitled"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.26c"
+	"Overview"		""
+	"GuideRevision"		"1"
+	"AssociatedWorkshopItemID"		"0x0000000000000000"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000005ED1888C"
+	"TimePublished"		"0x0000000000000000"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_flask"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_clarity"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+			}
+			"Situational early"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_lesser_crit"
+				"item"		"item_ancient_janggo"
+				"item"		"item_solar_crest"
+			}
+			"Lategame"
+			{
+				"item"		"item_echo_sabre"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational"
+			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_radiance"
+				"item"		"item_lotus_orb"
+				"item"		"item_crimson_guard"
+				"item"		"item_pipe"
+			}
+			"Best neeutral items"
+			{
+				"item"		"item_broom_handle"
+				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_craggy_coat"
+				"item"		"item_paladin_sword"
+				"item"		"item_panic_button"
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"monkey_king_tree_dance"
+			"2"		"monkey_king_jingu_mastery"
+			"3"		"monkey_king_tree_dance"
+			"4"		"monkey_king_boundless_strike"
+			"5"		"monkey_king_tree_dance"
+			"6"		"monkey_king_wukongs_command"
+			"7"		"monkey_king_tree_dance"
+			"8"		"monkey_king_boundless_strike"
+			"9"		"monkey_king_boundless_strike"
+			"10"		"special_bonus_unique_monkey_king_5"
+			"11"		"monkey_king_boundless_strike"
+			"12"		"monkey_king_wukongs_command"
+			"13"		"monkey_king_jingu_mastery"
+			"14"		"monkey_king_jingu_mastery"
+			"15"		"special_bonus_unique_monkey_king_7"
+			"16"		"monkey_king_jingu_mastery"
+			"18"		"monkey_king_wukongs_command"
+			"20"		"special_bonus_unique_monkey_king_3"
+			"25"		"special_bonus_unique_monkey_king_6"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
