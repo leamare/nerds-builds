@@ -1,10 +1,10 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.28b
+## Patch: 7.29
 
-### Total builds published: 85 (out of ~214 planned)
+### Total builds published: 101 (out of ~218 planned)
 
-### Descriptions ready: 34 out of 84
+### Descriptions ready: 34 out of 101
 
 ---
 
@@ -13,6 +13,7 @@ Hero | Role | Desc. | Link | File
 ![abaddon][abaddon] Abaddon | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1941258158) | [buildfile](builds/abaddon_1576617440.build)
 ![alchemist][alchemist] Alchemist | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826240453) | [buildfile](builds/alchemist_1533216412.build)
 ![alchemist][alchemist] Alchemist | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2193525854) | [buildfile](builds/alchemist_1576617675.build)
+![antimage][antimage] Antimage | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433751364) | [buildfile](builds/antimage_1616347489.build)
 ![arc_warden][arc_warden] Arc Warden | Nuker/Initiator | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916406164) | [buildfile](builds/arc_warden_1517796471.build)
 ![arc_warden][arc_warden] Arc Warden | Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=814024669) | [buildfile](builds/arc_warden_1517796629.build)
 ![arc_warden][arc_warden] Arc Warden | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917504030) | [buildfile](builds/arc_warden_1517797391.build)
@@ -25,14 +26,19 @@ Hero | Role | Desc. | Link | File
 ![bounty_hunter][bounty_hunter] Bounty Hunter | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [buildfile](builds/bounty_hunter_1549567475.build)
 ![bounty_hunter][bounty_hunter] Bounty Hunter | Support/Roamer |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2345305382) | [buildfile](bounty_hunter_1571101741.build)
 ![chen][chen] Chen | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1288577137) | [buildfile](builds/chen_1515803189.build)
+![crystal_maiden][crystal_maiden] Crystal Maiden | Core/Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2453396028) | [buildfile](builds/crystal_maiden_1618105202.build)
 ![dark_seer][dark_seer] Dark Seer | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1575855657) | [buildfile](builds/dark_seer_1543137404.build)
 ![dark_willow][dark_willow] Dark Willow | Roaming Support |  | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=1187400450) | [buildfile](builds/dark_willow_1509497468.build)
 ![dark_willow][dark_willow] Dark Willow | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1190695676) | [buildfile](builds/dark_willow_1509628818.build)
 ![dark_willow][dark_willow] Dark Willow | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1396923037) |  [buildfile](builds/dark_willow_1518900620.build)
+![dawnbreaker][dawnbreaker] Dawnbreaker | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2451876525) | [buildfile](builds/dawnbreaker_1618002014.build)
+![dawnbreaker][dawnbreaker] Dawnbreaker | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2451886613) | [buildfile](builds/dawnbreaker_1618002616.build)
 ![dazzle][dazzle] Dazzle | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1572131797) | [buildfile](builds/dazzle_1542820864.build)
 ![doom_bringer][doom_bringer] Doom | Offlane | ~ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1650678243) | [buildfile](builds/doom_bringer_1513111352.build)
 ![dragon_knight][dragon_knight] Dragon Knight | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1990463880) | [buildfile](builds/dragon_knight_1576617695.build)
+![dragon_knight][dragon_knight] Dragon Knight | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433747737) | [buildfile](builds/dragon_knight_1616346979.build)
 ![drow_ranger][drow_ranger] Drow Ranger | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1584779697) | [buildfile](builds/drow_ranger_1543541907.build)
+![ember_spirit][ember_spirit] Ember Spirit | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433745117) | [buildfile](builds/ember_spirit_1616346519.build)
 ![enchantress][enchantress] Enchantress | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=704639984) | [buildfile](builds/enchantress_1517795534.build)
 ![enchantress][enchantress] Enchantress | Roaming Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [buildfile](builds/enchantress_1517796324.build)
 ![faceless_void][faceless_void] Faceless Void | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879546300) | [buildfile](builds/faceless_void_1570126879.build)
@@ -61,7 +67,8 @@ Hero | Role | Desc. | Link | File
 ![monkey_king][monkey_king] Monkey King | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824659) | [buildfile](builds/monkey_king_1565584957.build)
 ![morphling][morphling] Morphling | Support/Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [buildfile](builds/morphling_1517800581.build)
 ![night_stalker][night_stalker] Night Stalker | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859825400) | [buildfile](builds/night_stalker_1568122408.build)
-![obsidian_destroyer][obsidian_destroyer] Outworld Devourer | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725152) | [buildfile](builds/obsidian_destroyer_1570301605.build)
+![obsidian_destroyer][obsidian_destroyer] Outworld Destroyer | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725152) | [buildfile](builds/obsidian_destroyer_1570301605.build)
+![obsidian_destroyer][obsidian_destroyer] Outworld Destroyer | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2453350955) | [buildfile](builds/obsidian_destroyer_1610826816.build)
 ![phantom_assassin][phantom_assassin] Phantom Assassin | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853144623) | [buildfile](builds/phantom_assassin_1560009568.build)
 ![phantom_lancer][phantom_lancer] Phantom Lancer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885724445) | [buildfile](builds/phantom_lancer_1570302386.build)
 ![puck][puck] Puck | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1929848853) | [buildfile](builds/puck_1575644211.build) 
@@ -69,6 +76,7 @@ Hero | Role | Desc. | Link | File
 ![pudge][pudge] Pudge | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1750985856) | [buildfile](builds/pudge_1558353431.build)
 ![pugna][pugna] Pugna | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853143269) | [buildfile](builds/pugna_1565377769.build)
 ![riki][riki] Riki | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1972552037) | [buildfile](builds/riki_1579379755.build)
+![riki][riki] Riki | Support/Roamer |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433721673) | [buildfile](builds/riki_1610827292.build)
 ![rubick][rubick] Rubick | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609326506) | [buildfile](builds/rubick_1544208773.build)
 ![rubick][rubick] Rubick | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885723430) | [buildfile](builds/rubick_1569375830.build)
 ![shadow_demon][shadow_demon] Shadow Demon | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1609337231) | [buildfile](builds/shadow_demon_1537995516.build)
@@ -85,11 +93,13 @@ Hero | Role | Desc. | Link | File
 ![tidehunter][tidehunter] Tidehunter | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1593487437) | [buildfile](builds/tidehunter_1543397847.build)
 ![tiny][tiny] Tiny | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1201609040) | [buildfile](builds/tiny_1510740604.build)
 ![treant][treant] Treant Protector | Roaming Support (Offlane?) | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=917506257) | [buildfile](builds/treant_1517797778.build)
+![tusk][tusk] Tusk | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433758893) | [buildfile](builds/tusk_1616534049.build)
 ![ursa][ursa] Ursa | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1472044989) | [buildfile](builds/ursa_1532975264.build)
 ![vengefulspirit][vengefulspirit] Vengeful Spirit | Core | ✅ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=906051803) | [buildfile](builds/vengefulspirit_1517800254.build)
 ![venomancer][venomancer] Venomancer | Utility Core / Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2208403575) | [buildfile](builds/venomancer_1597085007.build)
 ![viper][viper] Viper | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1669280746) | [buildfile](builds/viper_1551201914.build)
 ![visage][visage] Visage | Core | ✅ | [Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=836044023) | [buildfile](builds/visage_1517798650.build)
+![visage][visage] Visage | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2433697819) | [buildfile](builds/visage_1616348108.build)
 ![void_spirit][void_spirit] Void Spirit | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921591322) | [buildfile](builds/void_spirit_1574795637.build)
 ![void_spirit][void_spirit] Void Spirit | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1921841646) | [buildfile](builds/void_spirit_1574826440.build)
 ![void_spirit][void_spirit] Void Spirit | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1993010761) | [buildfile](builds/void_spirit_1581185057.build)
@@ -103,6 +113,7 @@ Hero | Role | Desc. | Link | File
 ![zuus][zuus] Zeus | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826265178) | [buildfile](builds/zuus_1564965679.build)
 
 
+[antimage]: https://courier.spectral.gg/images/dota/portraits/antimage.png?size=smallest
 [abaddon]: https://courier.spectral.gg/images/dota/portraits/abaddon.png?size=smallest
 [alchemist]: https://courier.spectral.gg/images/dota/portraits/alchemist.png?size=smallest
 [arc_warden]: https://courier.spectral.gg/images/dota/portraits/arc_warden.png?size=smallest
@@ -110,8 +121,9 @@ Hero | Role | Desc. | Link | File
 [bane]: https://courier.spectral.gg/images/dota/portraits/bane.png?size=smallest
 [beastmaster]: https://courier.spectral.gg/images/dota/portraits/beastmaster.png?size=smallest
 [bloodseeker]: https://courier.spectral.gg/images/dota/portraits/bloodseeker.png?size=smallest
-
+[ember_spirit]: https://courier.spectral.gg/images/dota/portraits/ember_spirit.png?size=smallest
 [bounty_hunter]: https://courier.spectral.gg/images/dota/portraits/bounty_hunter.png?size=smallest
+[dawnbreaker]: https://courier.spectral.gg/images/dota/portraits/dawnbreaker.png?size=smallest
 [chen]: https://courier.spectral.gg/images/dota/portraits/chen.png?size=smallest
 [dark_seer]: https://courier.spectral.gg/images/dota/portraits/dark_seer.png?size=smallest
 [dark_willow]: https://courier.spectral.gg/images/dota/portraits/dark_willow.png?size=smallest
@@ -157,6 +169,7 @@ Hero | Role | Desc. | Link | File
 [sven]: https://courier.spectral.gg/images/dota/portraits/sven.png?size=smallest
 [tidehunter]: https://courier.spectral.gg/images/dota/portraits/tidehunter.png?size=smallest
 [tiny]: https://courier.spectral.gg/images/dota/portraits/tiny.png?size=smallest
+[tusk]: https://courier.spectral.gg/images/dota/portraits/tusk.png?size=smallest
 [treant]: https://courier.spectral.gg/images/dota/portraits/treant.png?size=smallest
 [ursa]: https://courier.spectral.gg/images/dota/portraits/ursa.png?size=smallest
 [vengefulspirit]: https://courier.spectral.gg/images/dota/portraits/vengefulspirit.png?size=smallest
