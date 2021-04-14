@@ -1,0 +1,109 @@
+"guidedata"
+{
+	"Hero"		"dragon_knight"
+	"Title"		"Nerds Support Davion"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+
+Based on games on 2B's games: https://www.twitch.tv/2b_doto
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"5"
+	"AssociatedWorkshopItemID"		"0x0000000091100B19"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060723F5C"
+	"TimePublished"		"0x0000000060723F5C"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_boots"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_wind_lace"
+			}
+			"Core"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_hood_of_defiance"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_glimmer_cape"
+				"item"		"item_orb_of_corrosion"
+			}
+			"Lategame"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_pipe"
+				"item"		"item_heart"
+				"item"		"item_overwhelming_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_aghanims_shard"
+				"item"		"item_vladmir"
+				"item"		"item_spirit_vessel"
+				"item"		"item_heavens_halberd"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_trusty_shovel"
+				"item"		"item_faded_broach"
+				"item"		"item_keen_optic"
+				"item"		"item_vambrace"
+				"item"		"item_bullwhip"
+				"item"		"item_timeless_relic"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_the_leveller"
+				"item"		"item_cloak_of_flames"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dragon_knight_dragon_blood"
+			"2"		"dragon_knight_dragon_tail"
+			"3"		"dragon_knight_dragon_blood"
+			"4"		"dragon_knight_breathe_fire"
+			"5"		"dragon_knight_breathe_fire"
+			"6"		"dragon_knight_elder_dragon_form"
+			"7"		"dragon_knight_breathe_fire"
+			"8"		"dragon_knight_breathe_fire"
+			"9"		"dragon_knight_dragon_tail"
+			"10"		"special_bonus_unique_dragon_knight_3"
+			"11"		"dragon_knight_dragon_tail"
+			"12"		"dragon_knight_elder_dragon_form"
+			"13"		"dragon_knight_dragon_tail"
+			"14"		"dragon_knight_dragon_blood"
+			"15"		"special_bonus_hp_400"
+			"16"		"dragon_knight_dragon_blood"
+			"18"		"dragon_knight_elder_dragon_form"
+			"20"		"special_bonus_strength_20"
+			"25"		"special_bonus_unique_dragon_knight_8"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
