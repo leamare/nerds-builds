@@ -1,0 +1,107 @@
+"guidedata"
+{
+	"Hero"		"dawnbreaker"
+	"Title"		"Nerds Support Dawnbreaker"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+This is a beta guide. Going to be updated based on Immortal Rank stats.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x000000009224D215"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006074A7A9"
+	"TimePublished"		"0x000000006074A7A9"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_urn_of_shadows"
+			}
+			"Core"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_holy_locket"
+				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_rod_of_atos"
+				"item"		"item_echo_sabre"
+				"item"		"item_ancient_janggo"
+			}
+			"Lategame"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_glimmer_cape"
+			}
+			"Situational"
+			{
+				"item"		"item_gungir"
+				"item"		"item_lotus_orb"
+				"item"		"item_spirit_vessel"
+				"item"		"item_vladmir"
+				"item"		"item_guardian_greaves"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_trusty_shovel"
+				"item"		"item_arcane_ring"
+				"item"		"item_bullwhip"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_quickening_charm"
+				"item"		"item_spell_prism"
+				"item"		"item_spy_gadget"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dawnbreaker_fire_wreath"
+			"2"		"dawnbreaker_luminosity"
+			"3"		"dawnbreaker_fire_wreath"
+			"4"		"dawnbreaker_celestial_hammer"
+			"5"		"dawnbreaker_fire_wreath"
+			"6"		"dawnbreaker_solar_guardian"
+			"7"		"dawnbreaker_fire_wreath"
+			"8"		"dawnbreaker_celestial_hammer"
+			"9"		"dawnbreaker_celestial_hammer"
+			"10"		"special_bonus_strength_8"
+			"11"		"dawnbreaker_celestial_hammer"
+			"12"		"dawnbreaker_solar_guardian"
+			"13"		"dawnbreaker_luminosity"
+			"14"		"dawnbreaker_luminosity"
+			"15"		"special_bonus_unique_dawnbreaker_solar_guardian_cooldown"
+			"16"		"dawnbreaker_luminosity"
+			"18"		"dawnbreaker_solar_guardian"
+			"20"		"special_bonus_unique_dawnbreaker_fire_wreath_charges"
+			"25"		"special_bonus_unique_dawnbreaker_solar_guardian_radius"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

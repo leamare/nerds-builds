@@ -1,0 +1,108 @@
+"guidedata"
+{
+	"Hero"		"dawnbreaker"
+	"Title"		"Nerds Dawnbreaker"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+This is a beta guide. Going to be updated based on Immortal Rank stats.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"9"
+	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006074A811"
+	"TimePublished"		"0x000000006074A811"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+				"item"		"item_branches"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_soul_ring"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_echo_sabre"
+				"item"		"item_sange_and_yasha"
+			}
+			"Situational Early"
+			{
+				"item"		"item_blink"
+				"item"		"item_armlet"
+				"item"		"item_holy_locket"
+			}
+			"Lategame"
+			{
+				"item"		"item_heart"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_overwhelming_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_desolator"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_chipped_vest"
+				"item"		"item_broom_handle"
+				"item"		"item_dragon_scale"
+				"item"		"item_vambrace"
+				"item"		"item_imp_claw"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_spider_legs"
+				"item"		"item_minotaur_horn"
+				"item"		"item_the_leveller"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dawnbreaker_luminosity"
+			"2"		"dawnbreaker_celestial_hammer"
+			"3"		"dawnbreaker_fire_wreath"
+			"4"		"dawnbreaker_luminosity"
+			"5"		"dawnbreaker_fire_wreath"
+			"6"		"dawnbreaker_solar_guardian"
+			"7"		"dawnbreaker_fire_wreath"
+			"8"		"dawnbreaker_fire_wreath"
+			"9"		"dawnbreaker_luminosity"
+			"10"		"special_bonus_strength_8"
+			"11"		"dawnbreaker_luminosity"
+			"12"		"dawnbreaker_solar_guardian"
+			"13"		"dawnbreaker_celestial_hammer"
+			"14"		"dawnbreaker_celestial_hammer"
+			"15"		"special_bonus_attack_damage_20"
+			"16"		"dawnbreaker_celestial_hammer"
+			"18"		"dawnbreaker_solar_guardian"
+			"20"		"special_bonus_unique_dawnbreaker_luminosity_crit"
+			"25"		"special_bonus_unique_dawnbreaker_celestial_hammer_cast_range"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
