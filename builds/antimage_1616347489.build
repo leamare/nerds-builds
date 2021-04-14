@@ -1,0 +1,103 @@
+"guidedata"
+{
+	"Hero"		"antimage"
+	"Title"		"Nerds Support Antimage"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.29"
+	"Overview"		"
+
+Based on games on 2B's games: https://www.twitch.tv/2b_doto
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x0000000091101944"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060723E51"
+	"TimePublished"		"0x0000000060723E51"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_boots"
+				"item"		"item_tango"
+				"item"		"item_ward_observer"
+			}
+			"Early"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_orb_of_venom"
+			}
+			"Core"
+			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational Early"
+			{
+				"item"		"item_falcon_blade"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_glimmer_cape"
+				"item"		"item_urn_of_shadows"
+			}
+			"Lategame"
+			{
+				"item"		"item_manta"
+				"item"		"item_abyssal_blade"
+			}
+			"Situational"
+			{
+				"item"		"item_rod_of_atos"
+				"item"		"item_solar_crest"
+				"item"		"item_aghanims_shard"
+				"item"		"item_skadi"
+				"item"		"item_silver_edge"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_chipped_vest"
+				"item"		"item_trusty_shovel"
+				"item"		"item_keen_optic"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_pupils_gift"
+				"item"		"item_bullwhip"
+				"item"		"item_elven_tunic"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"antimage_mana_break"
+			"2"		"antimage_blink"
+			"3"		"antimage_mana_break"
+			"4"		"antimage_counterspell"
+			"5"		"antimage_blink"
+			"6"		"antimage_mana_void"
+			"7"		"antimage_blink"
+			"8"		"antimage_blink"
+			"9"		"antimage_counterspell"
+			"10"		"special_bonus_strength_9"
+			"11"		"antimage_counterspell"
+			"12"		"antimage_mana_void"
+			"13"		"antimage_counterspell"
+			"14"		"antimage_mana_break"
+			"15"		"special_bonus_unique_antimage_7"
+			"16"		"antimage_mana_break"
+			"18"		"antimage_mana_void"
+			"20"		"special_bonus_unique_antimage_8"
+			"25"		"special_bonus_unique_antimage_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
