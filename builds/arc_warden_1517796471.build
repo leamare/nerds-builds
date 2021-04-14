@@ -3,27 +3,28 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Magic Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"73"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC80FA"
-	"TimePublished"		"0x000000005FFC80FA"
+	"TimeUpdated"		"0x0000000060723E72"
+	"TimePublished"		"0x0000000060723E72"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_slippers"
+				"item"		"item_slippers"
 				"item"		"item_circlet"
-				"item"		"item_slippers"
-				"item"		"item_slippers"
-				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_tango"
 			}
 			"Early"
 			{
@@ -70,7 +71,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_royal_jelly"
 				"item"		"item_chipped_vest"
 				"item"		"item_mysterious_hat"
 				"item"		"item_ring_of_aquila"

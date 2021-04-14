@@ -3,16 +3,16 @@
 	"Hero"		"sven"
 	"Title"		"Nerds Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x00000000832CF273"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7E39"
-	"TimePublished"		"0x000000005FFC7E39"
+	"TimeUpdated"		"0x0000000060724B2A"
+	"TimePublished"		"0x0000000060724B2A"
 	"ItemBuild"
 	{
 		"Items"
@@ -66,7 +66,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best neutral items"
 			{
-				"item"		"item_royal_jelly"
 				"item"		"item_chipped_vest"
 				"item"		"item_bullwhip"
 				"item"		"item_faded_broach"
@@ -104,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"sven_storm_bolt"
 			"8"		"sven_storm_bolt"
 			"9"		"sven_great_cleave"
-			"10"		"special_bonus_mp_regen_250"
+			"10"		"special_bonus_unique_sven_5"
 			"11"		"sven_warcry"
 			"12"		"sven_gods_strength"
 			"13"		"sven_warcry"
@@ -112,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_lifesteal_15"
 			"16"		"sven_great_cleave"
 			"18"		"sven_gods_strength"
-			"20"		"special_bonus_unique_sven"
+			"20"		"attribute_bonus"
 			"25"		"special_bonus_unique_sven_2"
 		}
 		"AbilityTooltips"

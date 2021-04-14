@@ -3,28 +3,27 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"89"
+	"GuideRevision"		"92"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7D20"
-	"TimePublished"		"0x000000005FFC7D20"
+	"TimeUpdated"		"0x0000000060724D17"
+	"TimePublished"		"0x0000000060724D17"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items (Offlane)"
+			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
+				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
@@ -38,18 +37,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_orchid"
-				"item"		"item_force_staff"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
+				"item"		"item_witch_blade"
 				"item"		"item_maelstrom"
-				"item"		"item_null_talisman"
 				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
 				"item"		"item_mask_of_madness"
 				"item"		"item_cyclone"
-				"item"		"item_hand_of_midas"
+				"item"		"item_force_staff"
+				"item"		"item_invis_sword"
+				"item"		"item_null_talisman"
 			}
 			"Utility Slots"
 			{
@@ -60,6 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
 				"item"		"item_hurricane_pike"
@@ -67,7 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_mjollnir"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational"
 			{
@@ -82,7 +82,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_desolator"
-				"item"		"item_invis_sword"
+				"item"		"item_swift_blink"
+				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
 			{

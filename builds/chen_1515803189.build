@@ -3,44 +3,41 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"69"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC80B0"
-	"TimePublished"		"0x000000005FFC80B0"
+	"TimeUpdated"		"0x0000000060723EC4"
+	"TimePublished"		"0x0000000060723EC4"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_blight_stone"
-				"item"		"item_ring_of_regen"
+				"item"		"item_headdress"
 				"item"		"item_tango"
 			}
 			"Early"
 			{
-				"item"		"item_headdress"
 				"item"		"item_magic_stick"
 				"item"		"item_mekansm"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_holy_locket"
 				"item"		"item_guardian_greaves"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_holy_locket"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_orb_of_corrosion"
 			}
@@ -56,7 +53,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_helm_of_the_dominator_2"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -106,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"chen_holy_persuasion"
 			"8"		"chen_divine_favor"
 			"9"		"chen_divine_favor"
-			"10"		"special_bonus_cast_range_175"
+			"10"		"special_bonus_unique_chen_11"
 			"11"		"chen_divine_favor"
 			"12"		"chen_hand_of_god"
 			"13"		"chen_penitence"

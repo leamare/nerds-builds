@@ -3,36 +3,43 @@
 	"Hero"		"night_stalker"
 	"Title"		"Nerds Night Stalker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7F88"
-	"TimePublished"		"0x000000005FFC7F88"
+	"TimeUpdated"		"0x000000006072456C"
+	"TimePublished"		"0x000000006072456C"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items (Sidelane)"
+			"Starting Items"
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_ring_of_protection"
 				"item"		"item_quelling_blade"
 				"item"		"item_enchanted_mango"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_bracer"
-				"item"		"item_falcon_blade"
 				"item"		"item_magic_stick"
 			}
 			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_black_king_bar"
+				"item"		"item_basher"
+			}
+			"Core - Void Farmer"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_ultimate_scepter"
@@ -42,8 +49,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_blade_mail"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_falcon_blade"
 				"item"		"item_orb_of_corrosion"
 			}
 			"Utility"
@@ -62,6 +68,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
@@ -74,7 +81,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
 				"item"		"item_spirit_vessel"
-				"item"		"item_hand_of_midas"
+				"item"		"item_overwhelming_blink"
 			}
 			"Best Neutral Items"
 			{
@@ -99,7 +106,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_ultimate_scepter"		"May be replaced with Midas or skipped"
 			"item_solar_crest"		"Alternative: Spirit Vessel"
-			"item_medallion_of_courage"		"Alternative: Urn of Shadows"
 		}
 	}
 	"AbilityBuild"
@@ -110,18 +116,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"2"		"night_stalker_hunter_in_the_night"
 			"3"		"night_stalker_void"
 			"4"		"night_stalker_crippling_fear"
-			"5"		"night_stalker_void"
+			"5"		"night_stalker_crippling_fear"
 			"6"		"night_stalker_darkness"
-			"7"		"night_stalker_void"
+			"7"		"night_stalker_hunter_in_the_night"
 			"8"		"night_stalker_hunter_in_the_night"
-			"9"		"night_stalker_hunter_in_the_night"
+			"9"		"night_stalker_crippling_fear"
 			"10"		"special_bonus_unique_night_stalker_4"
-			"11"		"night_stalker_hunter_in_the_night"
+			"11"		"night_stalker_crippling_fear"
 			"12"		"night_stalker_darkness"
-			"13"		"night_stalker_crippling_fear"
-			"14"		"night_stalker_crippling_fear"
+			"13"		"night_stalker_hunter_in_the_night"
+			"14"		"night_stalker_void"
 			"15"		"special_bonus_strength_12"
-			"16"		"night_stalker_crippling_fear"
+			"16"		"night_stalker_void"
 			"18"		"night_stalker_darkness"
 			"20"		"special_bonus_attack_damage_35"
 			"25"		"special_bonus_unique_night_stalker"

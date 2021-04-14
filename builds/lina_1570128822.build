@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC8006"
-	"TimePublished"		"0x000000005FFC8006"
+	"TimeUpdated"		"0x00000000607243A4"
+	"TimePublished"		"0x00000000607243A4"
 	"ItemBuild"
 	{
 		"Items"
@@ -104,7 +104,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lina_dragon_slave"
 			"8"		"lina_light_strike_array"
 			"9"		"lina_light_strike_array"
-			"10"		"special_bonus_cast_range_75"
+			"10"		"special_bonus_unique_lina_1"
 			"11"		"lina_light_strike_array"
 			"12"		"lina_laguna_blade"
 			"13"		"lina_fiery_soul"
@@ -113,7 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"lina_fiery_soul"
 			"18"		"lina_laguna_blade"
 			"20"		"special_bonus_spell_amplify_11"
-			"25"		"special_bonus_unique_lina_1"
+			"25"		"special_bonus_unique_lina_6"
 		}
 		"AbilityTooltips"
 		{

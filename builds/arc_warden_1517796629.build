@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"77"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC80F4"
-	"TimePublished"		"0x000000005FFC80F4"
+	"TimeUpdated"		"0x0000000060723E56"
+	"TimePublished"		"0x0000000060723E56"
 	"ItemBuild"
 	{
 		"Items"
@@ -55,7 +55,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_necronomicon_3"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 			}
@@ -120,7 +119,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_bloodthorn"		"Ultimate damage solution, mostly because you will have two of bloodthorns and lightnings so you will benefit from attack speed and crits a lot."
 			"item_force_staff"		"Some utility to save allies, some mobility, pike upgrade. Pretty nice to have in both agressive and defensive situations: you can save your allies with it, save yourself, reach enemies and, well, you will have not one, but two force staffs."
 			"item_hurricane_pike"		"Since we want to have Force staff anyways, getting Pike is just a matter of time: it provides a lot of stats, as well as a little bit of damage. Quite good to have on a support."
-			"item_necronomicon_3"		"It's good for pushing if you don't have damage by yourself or if you need true sight"
 			"item_assault"		"Same issue as vladmir's offering, same reason to get as deso: if nobody goes for it, you may get it"
 			"item_sphere"		"Another way of saving your ally (double linkens)"
 			"item_lotus_orb"		"Purging negative effects from allies with doubled speed is quite nice, altho it has low cooldown anyway so somebody else can get it instead"

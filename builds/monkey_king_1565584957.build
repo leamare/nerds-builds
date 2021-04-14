@@ -3,16 +3,16 @@
 	"Hero"		"monkey_king"
 	"Title"		"Nerds Monkey King"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7F9A"
-	"TimePublished"		"0x000000005FFC7F9A"
+	"TimeUpdated"		"0x00000000607244EB"
+	"TimePublished"		"0x00000000607244EB"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,16 +32,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
-				"item"		"item_echo_sabre"
+				"item"		"item_maelstrom"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_quelling_blade"
+				"item"		"item_falcon_blade"
+				"item"		"item_bfury"
 				"item"		"item_wraith_band"
 				"item"		"item_ancient_janggo"
-				"item"		"item_hand_of_midas"
+				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{

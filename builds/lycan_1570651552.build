@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"32"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7FCF"
-	"TimePublished"		"0x000000005FFC7FCF"
+	"TimeUpdated"		"0x00000000607244A2"
+	"TimePublished"		"0x00000000607244A2"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,35 +27,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_stick"
-				"item"		"item_necronomicon"
+				"item"		"item_helm_of_iron_will"
 			}
 			"Core"
 			{
-				"item"		"item_necronomicon_3"
-				"item"		"item_power_treads"
 				"item"		"item_helm_of_the_dominator"
-				"item"		"item_ancient_janggo"
+				"item"		"item_assault"
+				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
+				"item"		"item_ancient_janggo"
 				"item"		"item_vladmir"
-				"item"		"item_black_king_bar"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_orb_of_corrosion"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_desolator"
+				"item"		"item_aghanims_shard"
+				"item"		"item_helm_of_the_overlord"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_helm_of_the_dominator_2"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
-				"item"		"item_desolator"
 				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
 				"item"		"item_silver_edge"
@@ -83,7 +83,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_helm_of_the_dominator"		"~15 min"
-			"item_necronomicon_3"		"~12 min"
 		}
 	}
 	"AbilityBuild"

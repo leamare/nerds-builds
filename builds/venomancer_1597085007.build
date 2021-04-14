@@ -3,18 +3,18 @@
 	"Hero"		"venomancer"
 	"Title"		"Nerds Utility Venomancer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Venomancer is an agility caster hero, who can be played in a variety of ways, including an Utility Core or a Support. Venomancer's main goal in fights is to survive and deal as much damage as possible. The hero's Plague Wards allow him to take control over areas by getting a free vision, as well as farm lanes and jungle like nobody else. Venomancer doesn't really need much item to be powerful, so the hero can be an \"aura carrier\" or focus on building utility items and surviveability.
 
 Venomancer's most successful at sieging enemy towers and defending his own ones. The hero is also a big problem when it comes to teamfights, since his massice damage output can't be ignored and often can force enemies to retreat, even if Venomancer died a long time ago. The disadvantages of the hero, however, are his lack of any kind of reliable controlling spells and his lack of inbuilt surviveability. Naturally, the best items you can build for Venomancer are the ones that make your team stronger, while also making you tankier, allowing you to sirvive.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"6"
+	"GuideRevision"		"8"
 	"AssociatedWorkshopItemID"		"0x0000000083A19077"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7DD5"
-	"TimePublished"		"0x000000005FFC7DD5"
+	"TimeUpdated"		"0x0000000060724BBB"
+	"TimePublished"		"0x0000000060724BBB"
 	"ItemBuild"
 	{
 		"Items"
@@ -146,7 +146,7 @@ Can be used to cut certain trees in the jungle to farm multiple camps with a sin
 			"7"		"venomancer_poison_sting"
 			"8"		"venomancer_plague_ward"
 			"9"		"venomancer_plague_ward"
-			"10"		"special_bonus_unique_venomancer_7"
+			"10"		"special_bonus_unique_venomancer_3"
 			"11"		"venomancer_plague_ward"
 			"12"		"venomancer_poison_nova"
 			"13"		"venomancer_venomous_gale"

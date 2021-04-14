@@ -3,18 +3,18 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
 
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"75"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC80D0"
-	"TimePublished"		"0x000000005FFC80D0"
+	"TimeUpdated"		"0x0000000060723E8B"
+	"TimePublished"		"0x0000000060723E8B"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,36 +29,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_buckler"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_stick"
 				"item"		"item_boots"
 				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
-				"item"		"item_necronomicon_3"
+				"item"		"item_solar_crest"
 				"item"		"item_blink"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_vladmir"
+				"item"		"item_helm_of_the_dominator"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
-				"item"		"item_force_staff"
 				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_helm_of_the_dominator_2"
-				"item"		"item_solar_crest"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_refresher"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_aghanims_shard"
 				"item"		"item_overwhelming_blink"
 			}
 			"Utility"
@@ -67,6 +61,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
+				"item"		"item_force_staff"
+				"item"		"item_vladmir"
 			}
 			"Situational"
 			{
@@ -106,7 +102,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_assault"		"Good addition to all the auras theme. It's not only buffs your teammates, but also debuffs enemies with negative armor effectively increasing your damage output. It also works great while split pushing since negative armor aura works on buildings as well"
 			"item_ring_of_basilius"		"Early armor/mana/damage boost, to be later used as part of Vladmir's Offering"
 			"item_vladmir"		"Armor and damage boost for our summons. It works well with all the auras theme for your team, but it also significantly increases your damage output early on, buffing your boars"
-			"item_necronomicon_3"		"Additional summons, farming tool and more map control. Necronomicon is always good for Beastmaster just because of his aura and potential damage, but level 1 necronomicon also boosts his farming speed significantly. With level 3 Necronomicon and Hawk you can also scout around and destroy all the enemy vision"
 			"item_blink"		"Blink Dagger helps a lot with initiation, but it is also useful as escape tool. Both of these purposes allow Beastmaster to play agressively around the map"
 			"item_quelling_blade"		"Additional creep damage to dominate the lane"
 			"item_bracer"		"Cheap early stats to increase your tankiness for early fighting"
@@ -140,7 +135,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"beastmaster_primal_roar"
 			"13"		"beastmaster_wild_axes"
 			"14"		"beastmaster_wild_axes"
-			"15"		"special_bonus_armor_6"
+			"15"		"special_bonus_unique_beastmaster_6"
 			"16"		"beastmaster_wild_axes"
 			"18"		"beastmaster_primal_roar"
 			"20"		"special_bonus_unique_beastmaster_2"

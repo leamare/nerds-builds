@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7E18"
-	"TimePublished"		"0x000000005FFC7E18"
+	"TimeUpdated"		"0x0000000060724B0A"
+	"TimePublished"		"0x0000000060724B0A"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,24 +35,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_blink"
 				"item"		"item_echo_sabre"
 				"item"		"item_invis_sword"
-				"item"		"item_sange_and_yasha"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blink"
 				"item"		"item_solar_crest"
 				"item"		"item_power_treads"
 				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
-				"item"		"item_satanic"
-				"item"		"item_butterfly"
 				"item"		"item_greater_crit"
+				"item"		"item_butterfly"
 				"item"		"item_silver_edge"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_heart"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
@@ -61,11 +61,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_cyclone"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_manta"
 				"item"		"item_shivas_guard"
 				"item"		"item_bloodthorn"
+				"item"		"item_satanic"
+				"item"		"item_sange_and_yasha"
 			}
 			"Best Neutral Items"
 			{
@@ -98,15 +101,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"tiny_toss"
 			"8"		"tiny_toss"
 			"9"		"tiny_tree_grab"
-			"10"		"special_bonus_attack_damage_25"
+			"10"		"special_bonus_movement_speed_20"
 			"11"		"tiny_toss"
 			"12"		"tiny_grow"
 			"13"		"tiny_avalanche"
 			"14"		"tiny_avalanche"
-			"15"		"special_bonus_unique_tiny_6"
+			"15"		"special_bonus_unique_tiny"
 			"16"		"tiny_avalanche"
 			"18"		"tiny_grow"
-			"20"		"special_bonus_strength_18"
+			"20"		"special_bonus_status_resistance_15"
 			"25"		"special_bonus_unique_tiny_2"
 		}
 		"AbilityTooltips"

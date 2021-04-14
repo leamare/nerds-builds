@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28a"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FEFDA47"
-	"TimePublished"		"0x000000005FEFDA47"
+	"TimeUpdated"		"0x0000000060724131"
+	"TimePublished"		"0x0000000060724131"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,7 +24,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mantle"
 				"item"		"item_branches"
 				"item"		"item_mantle"
-				"item"		"item_faerie_fire"
+				"item"		"item_tango"
 			}
 			"Early "
 			{

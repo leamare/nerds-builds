@@ -3,16 +3,16 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Core Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7FFC"
-	"TimePublished"		"0x000000005FFC7FFC"
+	"TimeUpdated"		"0x00000000607243B8"
+	"TimePublished"		"0x00000000607243B8"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_tango"
 			}
 			"Early"
 			{
@@ -103,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"lion_finger_of_death"
 			"13"		"lion_voodoo"
 			"14"		"lion_mana_drain"
-			"15"		"special_bonus_cast_range_125"
+			"15"		"special_bonus_unique_lion_11"
 			"16"		"lion_voodoo"
 			"18"		"lion_finger_of_death"
 			"20"		"special_bonus_unique_lion_8"

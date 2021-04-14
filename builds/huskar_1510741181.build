@@ -3,16 +3,16 @@
 	"Hero"		"huskar"
 	"Title"		"Nerds Huskar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC8042"
-	"TimePublished"		"0x000000005FFC8042"
+	"TimeUpdated"		"0x000000006072427D"
+	"TimePublished"		"0x000000006072427D"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_gauntlets"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_tango"
 			}
 			"Early"
 			{
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_armlet"
-				"item"		"item_heavens_halberd"
 				"item"		"item_black_king_bar"
+				"item"		"item_heavens_halberd"
 			}
 			"Situational Early"
 			{
@@ -63,7 +63,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_guardian_greaves"
 				"item"		"item_lotus_orb"
-				"item"		"item_spirit_vessel"
 				"item"		"item_gungir"
 				"item"		"item_blade_mail"
 			}

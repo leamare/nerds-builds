@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"32"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC8017"
-	"TimePublished"		"0x000000005FFC8017"
+	"TimeUpdated"		"0x000000006072438B"
+	"TimePublished"		"0x000000006072438B"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,12 +37,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_vladmir"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_ancient_janggo"
 			}
 			"Situational Early"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_blade_mail"
 				"item"		"item_orb_of_corrosion"

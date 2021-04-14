@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7D71"
-	"TimePublished"		"0x000000005FFC7D71"
+	"TimeUpdated"		"0x0000000060724C69"
+	"TimePublished"		"0x0000000060724C69"
 	"ItemBuild"
 	{
 		"Items"
@@ -58,15 +58,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
 				"item"		"item_sphere"
 				"item"		"item_ghost"
-				"item"		"item_desolator"
-				"item"		"item_mjollnir"
 				"item"		"item_octarine_core"
 				"item"		"item_nullifier"
 				"item"		"item_bloodstone"
+				"item"		"item_desolator"
 				"item"		"item_abyssal_blade"
 			}
 			"Best Neutral Items"

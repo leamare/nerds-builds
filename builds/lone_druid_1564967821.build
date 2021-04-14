@@ -3,16 +3,16 @@
 	"Hero"		"lone_druid"
 	"Title"		"Nerds Lone Druid (bear)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7FEC"
-	"TimePublished"		"0x000000005FFC7FEC"
+	"TimeUpdated"		"0x0000000060724406"
+	"TimePublished"		"0x0000000060724406"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,37 +36,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mask_of_madness"
 				"item"		"item_basher"
-				"item"		"item_aghanims_shard"
+				"item"		"item_desolator"
+				"item"		"item_assault"
 			}
 			"Core (Druid)"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_solar_crest"
-				"item"		"item_pipe"
-				"item"		"item_vladmir"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_radiance"
-				"item"		"item_invis_sword"
 				"item"		"item_hand_of_midas"
 				"item"		"item_blight_stone"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_pipe"
+				"item"		"item_vladmir"
 			}
 			"Situational"
 			{
+				"item"		"item_invis_sword"
 				"item"		"item_mjollnir"
-				"item"		"item_desolator"
 				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
+				"item"		"item_solar_crest"
 			}
 			"Best Neutral Items"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"99"
+	"GuideRevision"		"101"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC806E"
-	"TimePublished"		"0x000000005FFC806E"
+	"TimeUpdated"		"0x0000000060724102"
+	"TimePublished"		"0x0000000060724102"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,15 +22,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_blight_stone"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
-				"item"		"item_ancient_janggo"
-				"item"		"item_bracer"
+				"item"		"item_witch_blade"
 			}
 			"Core"
 			{
@@ -44,10 +44,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_falcon_blade"
 				"item"		"item_force_staff"
 				"item"		"item_orchid"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_phase_boots"
 				"item"		"item_hood_of_defiance"
-				"item"		"item_null_talisman"
+				"item"		"item_ancient_janggo"
 			}
 			"Utility"
 			{

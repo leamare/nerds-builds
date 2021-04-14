@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"67"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7D47"
-	"TimePublished"		"0x000000005FFC7D47"
+	"TimeUpdated"		"0x0000000060724CE5"
+	"TimePublished"		"0x0000000060724CE5"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,7 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_spirit_vessel"
+				"item"		"item_aghanims_shard"
 				"item"		"item_solar_crest"
 			}
 			"Situational Early"
@@ -50,7 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_spirit_vessel"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
@@ -123,7 +123,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"weaver_the_swarm"
 			"18"		"weaver_time_lapse"
 			"20"		"special_bonus_unique_weaver_4"
-			"25"		"special_bonus_unique_weaver_2"
+			"25"		"special_bonus_unique_weaver_6"
 		}
 		"AbilityTooltips"
 		{

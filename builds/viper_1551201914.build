@@ -3,16 +3,16 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFC7DB5"
-	"TimePublished"		"0x000000005FFC7DB5"
+	"TimeUpdated"		"0x0000000060724BCA"
+	"TimePublished"		"0x0000000060724BCA"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,16 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_slippers"
 				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
-			}
-			"Starting Items - Sidelane"
-			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
-				"item"		"item_ring_of_protection"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -152,7 +143,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
 			"20"		"special_bonus_attack_damage_70"
-			"25"		"attribute_bonus"
+			"25"		"special_bonus_unique_viper_5"
 		}
 		"AbilityTooltips"
 		{

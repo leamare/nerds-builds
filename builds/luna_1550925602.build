@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.28b"
+	"GameplayVersion"		"7.29"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"36"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FFF6B49"
-	"TimePublished"		"0x000000005FFF6B49"
+	"TimeUpdated"		"0x000000006072442E"
+	"TimePublished"		"0x000000006072442E"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,21 +38,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_veil_of_discord"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_magic_wand"
 				"item"		"item_aghanims_shard"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
+				"item"		"item_octarine_core"
 				"item"		"item_hurricane_pike"
 			}
 			"Utility"
 			{
+				"item"		"item_veil_of_discord"
 				"item"		"item_force_staff"
 				"item"		"item_vladmir"
-				"item"		"item_veil_of_discord"
 				"item"		"item_ancient_janggo"
 				"item"		"item_solar_crest"
 				"item"		"item_glimmer_cape"
@@ -75,7 +75,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_grove_bow"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_pupils_gift"
-				"item"		"item_helm_of_the_undying"
 				"item"		"item_spy_gadget"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -99,7 +98,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"luna_lucent_beam"
 			"8"		"luna_lunar_blessing"
 			"9"		"luna_lunar_blessing"
-			"10"		"special_bonus_cast_range_350"
+			"10"		"special_bonus_unique_luna_4"
 			"11"		"luna_moon_glaive"
 			"12"		"luna_eclipse"
 			"13"		"luna_moon_glaive"
