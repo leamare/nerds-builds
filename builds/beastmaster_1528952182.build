@@ -2,19 +2,19 @@
 {
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
 	"GameplayVersion"		"7.29"
 	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
 
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060723E8B"
-	"TimePublished"		"0x0000000060723E8B"
+	"TimeUpdated"		"0x0000000060773D57"
+	"TimePublished"		"0x0000000060773D57"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,42 +22,48 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_ring_of_protection"
-				"item"		"item_enchanted_mango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
+				"item"		"item_bottle"
 				"item"		"item_boots"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
-				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
 				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_helm_of_the_dominator"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
 				"item"		"item_phase_boots"
+				"item"		"item_medallion_of_courage"
 			}
 			"Lategame"
 			{
+				"item"		"item_kaya_and_sange"
+				"item"		"item_aghanims_shard"
+				"item"		"item_ethereal_blade"
+				"item"		"item_bloodstone"
+				"item"		"item_black_king_bar"
+				"item"		"item_octarine_core"
 				"item"		"item_assault"
-				"item"		"item_silver_edge"
 				"item"		"item_refresher"
-				"item"		"item_travel_boots"
+				"item"		"item_heart"
 				"item"		"item_moon_shard"
 				"item"		"item_overwhelming_blink"
 			}
 			"Utility"
 			{
 				"item"		"item_crimson_guard"
+				"item"		"item_solar_crest"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
@@ -66,14 +72,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_silver_edge"
 				"item"		"item_sphere"
 				"item"		"item_nullifier"
-				"item"		"item_invis_sword"
 				"item"		"item_vanguard"
 				"item"		"item_armlet"
 				"item"		"item_mage_slayer"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_sheepstick"
 			}
 			"Best Neutral Items"
 			{
@@ -98,7 +104,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_phase_boots"		"Perfect boots for a strength melee hero. Additional armor, chasing potential and a bit of damage that works well with attack speed boost that we already have"
 			"item_medallion_of_courage"		"Good early armor solution, works well for agressive plays in combination with all the summons and our skillset"
-			"item_invis_sword"		"Additional mobility and escape/initiation"
 			"item_assault"		"Good addition to all the auras theme. It's not only buffs your teammates, but also debuffs enemies with negative armor effectively increasing your damage output. It also works great while split pushing since negative armor aura works on buildings as well"
 			"item_ring_of_basilius"		"Early armor/mana/damage boost, to be later used as part of Vladmir's Offering"
 			"item_vladmir"		"Armor and damage boost for our summons. It works well with all the auras theme for your team, but it also significantly increases your damage output early on, buffing your boars"
@@ -121,25 +126,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"beastmaster_call_of_the_wild_boar"
-			"2"		"beastmaster_inner_beast"
-			"3"		"beastmaster_call_of_the_wild_boar"
-			"4"		"beastmaster_inner_beast"
-			"5"		"beastmaster_call_of_the_wild_boar"
+			"1"		"beastmaster_wild_axes"
+			"2"		"beastmaster_call_of_the_wild_boar"
+			"3"		"beastmaster_wild_axes"
+			"4"		"beastmaster_call_of_the_wild_boar"
+			"5"		"beastmaster_wild_axes"
 			"6"		"beastmaster_primal_roar"
-			"7"		"beastmaster_call_of_the_wild_boar"
-			"8"		"beastmaster_inner_beast"
-			"9"		"beastmaster_inner_beast"
+			"7"		"beastmaster_wild_axes"
+			"8"		"beastmaster_call_of_the_wild_boar"
+			"9"		"beastmaster_call_of_the_wild_boar"
 			"10"		"special_bonus_movement_speed_20"
-			"11"		"beastmaster_wild_axes"
+			"11"		"beastmaster_inner_beast"
 			"12"		"beastmaster_primal_roar"
-			"13"		"beastmaster_wild_axes"
-			"14"		"beastmaster_wild_axes"
-			"15"		"special_bonus_unique_beastmaster_6"
-			"16"		"beastmaster_wild_axes"
+			"13"		"beastmaster_inner_beast"
+			"14"		"beastmaster_inner_beast"
+			"15"		"special_bonus_mp_regen_3"
+			"16"		"beastmaster_inner_beast"
 			"18"		"beastmaster_primal_roar"
-			"20"		"special_bonus_unique_beastmaster_2"
-			"25"		"special_bonus_unique_beastmaster_4"
+			"20"		"special_bonus_unique_beastmaster_7"
+			"25"		"special_bonus_unique_beastmaster_9"
 		}
 		"AbilityTooltips"
 		{
