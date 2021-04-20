@@ -1,21 +1,21 @@
 "guidedata"
 {
 	"Hero"		"bane"
-	"Title"		"Nerds Offlane Bane"
+	"Title"		"Nerds Core Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29b"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"91"
+	"GuideRevision"		"92"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060723E86"
-	"TimePublished"		"0x0000000060723E86"
+	"TimeUpdated"		"0x00000000607B4706"
+	"TimePublished"		"0x00000000607B4706"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,16 +23,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 				"item"		"item_circlet"
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_wind_lace"
@@ -40,33 +38,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_aether_lens"
-				"item"		"item_phase_boots"
-				"item"		"item_meteor_hammer"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_ancient_janggo"
+				"item"		"item_phase_boots"
 				"item"		"item_medallion_of_courage"
-				"item"		"item_veil_of_discord"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
-				"item"		"item_sheepstick"
-				"item"		"item_assault"
+				"item"		"item_octarine_core"
+				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
-				"item"		"item_mjollnir"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_hurricane_pike"
+				"item"		"item_sheepstick"
+				"item"		"item_shivas_guard"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_moon_shard"
 				"item"		"item_arcane_blink"
 			}
 			"Utility"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_guardian_greaves"
-				"item"		"item_force_staff"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
@@ -76,19 +72,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_meteor_hammer"
+				"item"		"item_veil_of_discord"
+				"item"		"item_assault"
 				"item"		"item_black_king_bar"
-				"item"		"item_shivas_guard"
 				"item"		"item_sphere"
-				"item"		"item_octarine_core"
 				"item"		"item_aeon_disk"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_ghost"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_hand_of_midas"
-				"item"		"item_blade_mail"
+				"item"		"item_hurricane_pike"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_quickening_charm"
 				"item"		"item_chipped_vest"
 				"item"		"item_possessed_mask"
 				"item"		"item_quicksilver_amulet"
@@ -116,7 +113,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_yasha_and_kaya"		"You don't really need tankiness, and Yaha-Kaya may help you with both farming and damage output if you're going to establish your domination"
 			"item_solar_crest"		"Natural upgrade to Medallion and useful buff for your team"
 			"item_sheepstick"		"Reliable disable and mana sustain"
-			"item_mjollnir"		"May be helpful with attack speed steal talent. Early Maelstrom may solve your farming issue and later on it may work great in combination with either frontline core or Bane's inbuilt tankiness"
 			"item_ultimate_scepter"		"Great addition after picking up level 25 talent. It's not really worth picking up beforehand because it won't be as effective and it will leave you without mana anyway"
 			"item_hurricane_pike"		"Addition for rightclick build"
 			"item_guardian_greaves"		"Strong regen aura and useful item to have in general. Good pickup if you're playing more of an utility core and there's no better Greaves carrier on your team"
@@ -131,7 +127,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
 			"item_octarine_core"		"Nice addition for a hybrid core (getting use of Mjolnir cooldown reduction, mjolnir procs and reduced cooldown on Q and E)"
 			"item_soul_ring"		"Another mana solution, may replace Bracer, but it's more expensive as well"
-			"item_blade_mail"		"Efficient stats, additional armor, active ability suitable for active tanky Bane"
 			"item_spirit_vessel"		"You don't really need it yourself, but it's usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
 		}
 	}
