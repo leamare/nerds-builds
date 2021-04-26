@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724B74"
-	"TimePublished"		"0x0000000060724B74"
+	"TimeUpdated"		"0x0000000060773FD2"
+	"TimePublished"		"0x0000000060773FD2"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,11 +40,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_bottle"
+				"item"		"item_tranquil_boots"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_ancient_janggo"
-				"item"		"item_tranquil_boots"
-				"item"		"item_falcon_blade"
 				"item"		"item_desolator"
 				"item"		"item_vladmir"
 			}
