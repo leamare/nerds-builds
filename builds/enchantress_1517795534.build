@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"101"
+	"GuideRevision"		"102"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724102"
-	"TimePublished"		"0x0000000060724102"
+	"TimeUpdated"		"0x00000000607DF3FD"
+	"TimePublished"		"0x00000000607DF3FD"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,14 +29,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_bracer"
+				"item"		"item_bracer"
 				"item"		"item_power_treads"
-				"item"		"item_witch_blade"
 			}
 			"Core"
 			{
-				"item"		"item_pipe"
+				"item"		"item_witch_blade"
+				"item"		"item_eternal_shroud"
 				"item"		"item_hurricane_pike"
-				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -57,7 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_gungir"
+				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_monkey_king_bar"
@@ -67,6 +69,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_gungir"
 				"item"		"item_solar_crest"
 				"item"		"item_silver_edge"
 				"item"		"item_blink"
@@ -75,12 +78,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_sphere"
 				"item"		"item_hand_of_midas"
-				"item"		"item_witch_blade"
-				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_quicksilver_amulet"
+				"item"		"item_mysterious_hat"
 				"item"		"item_faded_broach"
 				"item"		"item_grove_bow"
 				"item"		"item_vambrace"
