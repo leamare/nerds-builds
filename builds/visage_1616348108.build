@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x00000000910F481B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724C24"
-	"TimePublished"		"0x0000000060724C24"
+	"TimeUpdated"		"0x0000000060794359"
+	"TimePublished"		"0x0000000060794359"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,32 +32,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_rod_of_atos"
-				"item"		"item_magic_wand"
+				"item"		"item_solar_crest"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ring_of_basilius"
-				"item"		"item_urn_of_shadows"
-				"item"		"item_kaya"
 				"item"		"item_ghost"
+				"item"		"item_tranquil_boots"
+				"item"		"item_urn_of_shadows"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
+				"item"		"item_guardian_greaves"
 				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_rod_of_atos"
 				"item"		"item_gungir"
-				"item"		"item_guardian_greaves"
 				"item"		"item_lotus_orb"
+				"item"		"item_glimmer_cape"
+				"item"		"item_assault"
+				"item"		"item_veil_of_discord"
 			}
 			"Best Neutral Items"
 			{
