@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060723F73"
-	"TimePublished"		"0x0000000060723F73"
+	"TimeUpdated"		"0x0000000060794447"
+	"TimePublished"		"0x0000000060794447"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,41 +28,39 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bracer"
-				"item"		"item_wraith_band"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_falcon_blade"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_hand_of_midas"
-				"item"		"item_heavens_halberd"
-				"item"		"item_ancient_janggo"
-				"item"		"item_maelstrom"
 				"item"		"item_invis_sword"
 				"item"		"item_soul_ring"
 			}
 			"Lategame"
 			{
+				"item"		"item_assault"
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_assault"
-				"item"		"item_mjollnir"
 				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_heavens_halberd"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_silver_edge"
 				"item"		"item_greater_crit"
 				"item"		"item_satanic"
 				"item"		"item_pipe"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_mjollnir"
 			}
 			"Best Neutral Items"
 			{
