@@ -69,6 +69,7 @@ Hero | Role | Desc. | Link | File
 ![night_stalker][night_stalker] Night Stalker | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859825400) | [buildfile](builds/night_stalker_1568122408.build)
 ![obsidian_destroyer][obsidian_destroyer] Outworld Destroyer | Offlane |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725152) | [buildfile](builds/obsidian_destroyer_1570301605.build)
 ![obsidian_destroyer][obsidian_destroyer] Outworld Destroyer | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2453350955) | [buildfile](builds/obsidian_destroyer_1610826816.build)
+![obsidian_destroyer][obsidian_destroyer] Outworld Destroyer | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2453350955) | [buildfile](builds/obsidian_destroyer_1610826816.build)
 ![phantom_assassin][phantom_assassin] Phantom Assassin | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1853144623) | [buildfile](builds/phantom_assassin_1560009568.build)
 ![phantom_lancer][phantom_lancer] Phantom Lancer | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885724445) | [buildfile](builds/phantom_lancer_1570302386.build)
 ![puck][puck] Puck | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1929848853) | [buildfile](builds/puck_1575644211.build) 
