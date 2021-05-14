@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724C69"
-	"TimePublished"		"0x0000000060724C69"
+	"TimeUpdated"		"0x00000000609E9808"
+	"TimePublished"		"0x00000000609E9808"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,13 +22,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_fluffy_hat"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
-				"item"		"item_falcon_blade"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{

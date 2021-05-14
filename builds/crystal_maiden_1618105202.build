@@ -3,16 +3,16 @@
 	"Hero"		"crystal_maiden"
 	"Title"		"Nerds Core Crystal Maiden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"2"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x00000000923BDA3C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060725392"
-	"TimePublished"		"0x0000000060725392"
+	"TimeUpdated"		"0x00000000609AF869"
+	"TimePublished"		"0x00000000609AF869"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,10 +34,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_witch_blade"
-				"item"		"item_aghanims_shard"
 				"item"		"item_blink"
+				"item"		"item_witch_blade"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -62,6 +62,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_eternal_shroud"
 				"item"		"item_lotus_orb"
 				"item"		"item_bloodthorn"
+				"item"		"item_aeon_disk"
+				"item"		"item_monkey_king_bar"
 			}
 			"Best Neutral Items"
 			{
@@ -104,7 +106,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"crystal_maiden_freezing_field"
 			"13"		"crystal_maiden_frostbite"
 			"14"		"crystal_maiden_frostbite"
-			"15"		"special_bonus_unique_crystal_maiden_5"
+			"15"		"special_bonus_unique_crystal_maiden_4"
 			"16"		"crystal_maiden_frostbite"
 			"18"		"crystal_maiden_freezing_field"
 			"20"		"special_bonus_attack_speed_200"
