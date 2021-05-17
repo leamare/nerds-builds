@@ -3,27 +3,28 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724BCA"
-	"TimePublished"		"0x0000000060724BCA"
+	"TimeUpdated"		"0x0000000060A26983"
+	"TimePublished"		"0x0000000060A26983"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_slippers"
-				"item"		"item_slippers"
-				"item"		"item_circlet"
-				"item"		"item_branches"
 				"item"		"item_tango"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -34,9 +35,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_rod_of_atos"
 				"item"		"item_travel_boots"
-				"item"		"item_hurricane_pike"
+				"item"		"item_rod_of_atos"
+				"item"		"item_aghanims_shard"
+				"item"		"item_dragon_lance"
 			}
 			"Situational Early"
 			{
@@ -47,8 +49,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
-				"item"		"item_lotus_orb"
-				"item"		"item_crimson_guard"
 				"item"		"item_heavens_halberd"
 				"item"		"item_spirit_vessel"
 				"item"		"item_pipe"
@@ -56,11 +56,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_hurricane_pike"
 				"item"		"item_gungir"
 				"item"		"item_black_king_bar"
-				"item"		"item_assault"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_butterfly"
 				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
@@ -69,17 +67,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_ghost"
-				"item"		"item_aghanims_shard"
+				"item"		"item_eternal_shroud"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
 				"item"		"item_greater_crit"
-				"item"		"item_octarine_core"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_sheepstick"
 				"item"		"item_skadi"
 				"item"		"item_guardian_greaves"
-				"item"		"item_eternal_shroud"
 				"item"		"item_mjollnir"
+				"item"		"item_assault"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_satanic"
+				"item"		"item_lotus_orb"
+				"item"		"item_crimson_guard"
 			}
 			"Best Neutral Items"
 			{

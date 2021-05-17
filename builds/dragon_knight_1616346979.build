@@ -3,17 +3,17 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Support Davion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"5"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x0000000091100B19"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060723F5C"
-	"TimePublished"		"0x0000000060723F5C"
+	"TimeUpdated"		"0x0000000060A2712D"
+	"TimePublished"		"0x0000000060A2712D"
 	"ItemBuild"
 	{
 		"Items"

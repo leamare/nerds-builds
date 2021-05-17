@@ -3,18 +3,18 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"92"
+	"GuideRevision"		"93"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724D17"
-	"TimePublished"		"0x0000000060724D17"
+	"TimeUpdated"		"0x00000000609E9796"
+	"TimePublished"		"0x00000000609E9796"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,20 +36,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_orchid"
 				"item"		"item_blink"
+				"item"		"item_witch_blade"
 			}
 			"Situational Early"
 			{
-				"item"		"item_witch_blade"
-				"item"		"item_maelstrom"
-				"item"		"item_soul_ring"
-				"item"		"item_ancient_janggo"
 				"item"		"item_mask_of_madness"
 				"item"		"item_cyclone"
-				"item"		"item_force_staff"
 				"item"		"item_invis_sword"
 				"item"		"item_null_talisman"
+				"item"		"item_force_staff"
 			}
 			"Utility Slots"
 			{
@@ -60,9 +58,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
+				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
@@ -114,7 +112,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_maelstrom"		"~12 min
 Additional increase in our farming capabilities, as well as boosting our teamfight damage. You  can get it before pike if you're sure you won't need stats and positioning"
 			"item_mjollnir"		"Relatively cheap upgrade with huge damage boost (from attack speed and active ability)"
-			"item_soul_ring"		"You can get it instead of one of null talismans as your mana sustain, but considering Offlane Wyvern being all about winning the lane and getting all-in on damage output, you will sell it pretty soon"
 			"item_hand_of_midas"		"If you're still successfully winning your lane, but not sure about being able to finish in first 5-10 minutes, you can get Midas after Force Staff, so you'll be able to keep up later on. Altho, you already farm pretty quickly with Mjolnir and you don't want to spend 2k gold on an item that doesn't help you in fights."
 			"item_blink"		"Agressive positioning solution, helps with better positioning for your ults (and future Hex)"
 			"item_cyclone"		"Cheap mobility and mana regen. Can be good in case if you're playing against Kunkka or some sort of silences"
@@ -131,7 +128,6 @@ Additional increase in our farming capabilities, as well as boosting our teamfig
 			"item_solar_crest"		"Cheap replacement for Orchid/Bloodthorn"
 			"item_yasha_and_kaya"		"Offensive replacement for Euls. Manacost reduction and attack speed are very valuable for Wyvern and she doesn't need to go for Sange and Kaya since she's naturally pretty tanky."
 			"item_orchid"		"~25 min"
-			"item_ancient_janggo"		"~12 min"
 		}
 	}
 	"AbilityBuild"
@@ -140,15 +136,15 @@ Additional increase in our farming capabilities, as well as boosting our teamfig
 		{
 			"1"		"winter_wyvern_arctic_burn"
 			"2"		"winter_wyvern_splinter_blast"
-			"3"		"winter_wyvern_arctic_burn"
-			"4"		"winter_wyvern_splinter_blast"
-			"5"		"winter_wyvern_arctic_burn"
+			"3"		"winter_wyvern_splinter_blast"
+			"4"		"winter_wyvern_cold_embrace"
+			"5"		"winter_wyvern_splinter_blast"
 			"6"		"winter_wyvern_winters_curse"
 			"7"		"winter_wyvern_splinter_blast"
 			"8"		"winter_wyvern_arctic_burn"
-			"9"		"winter_wyvern_cold_embrace"
+			"9"		"winter_wyvern_arctic_burn"
 			"10"		"special_bonus_attack_damage_50"
-			"11"		"winter_wyvern_splinter_blast"
+			"11"		"winter_wyvern_arctic_burn"
 			"12"		"winter_wyvern_winters_curse"
 			"13"		"winter_wyvern_cold_embrace"
 			"14"		"winter_wyvern_cold_embrace"

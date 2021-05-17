@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Support Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"68"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006072410A"
-	"TimePublished"		"0x000000006072410A"
+	"TimeUpdated"		"0x0000000060A2711B"
+	"TimePublished"		"0x0000000060A2711B"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,14 +34,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
+				"item"		"item_solar_crest"
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_medallion_of_courage"
+				"item"		"item_tranquil_boots"
 				"item"		"item_bracer"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_blade_mail"
@@ -52,7 +52,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_hurricane_pike"
-				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"

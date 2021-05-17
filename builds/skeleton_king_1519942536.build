@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.29"
+	"GameplayVersion"		"7.29c"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060724D2C"
-	"TimePublished"		"0x0000000060724D2C"
+	"TimeUpdated"		"0x00000000609E8F0D"
+	"TimePublished"		"0x00000000609E8F0D"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,34 +32,33 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
-				"item"		"item_buckler"
+				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
-				"item"		"item_urn_of_shadows"
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 				"item"		"item_blink"
-				"item"		"item_blade_mail"
+				"item"		"item_holy_locket"
 			}
 			"Situational"
 			{
-				"item"		"item_meteor_hammer"
 				"item"		"item_quelling_blade"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
-				"item"		"item_solar_crest"
 				"item"		"item_ghost"
-				"item"		"item_magic_wand"
+				"item"		"item_meteor_hammer"
+				"item"		"item_blade_mail"
+				"item"		"item_spirit_vessel"
 			}
 			"Utility"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_pipe"
 				"item"		"item_crimson_guard"
 				"item"		"item_guardian_greaves"
 				"item"		"item_force_staff"
 				"item"		"item_heavens_halberd"
+				"item"		"item_vladmir"
+				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
