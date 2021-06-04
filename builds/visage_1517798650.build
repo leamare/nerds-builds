@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"108"
+	"GuideRevision"		"110"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000609E985B"
-	"TimePublished"		"0x00000000609E985B"
+	"TimeUpdated"		"0x0000000060B406A3"
+	"TimePublished"		"0x0000000060B406A3"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Midlane"
 			{
 				"item"		"item_branches"
-				"item"		"item_mantle"
+				"item"		"item_quelling_blade"
 				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_tango"
@@ -42,6 +42,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_ancient_janggo"
+				"item"		"item_pipe"
 				"item"		"item_solar_crest"
 				"item"		"item_witch_blade"
 				"item"		"item_rod_of_atos"
@@ -57,7 +58,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_pipe"
 				"item"		"item_nullifier"
 				"item"		"item_heart"
 				"item"		"item_desolator"
