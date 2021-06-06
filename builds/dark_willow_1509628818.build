@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"112"
+	"GuideRevision"		"114"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27160"
-	"TimePublished"		"0x0000000060A27160"
+	"TimeUpdated"		"0x0000000060B5891E"
+	"TimePublished"		"0x0000000060B5891E"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,8 +25,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_faerie_fire"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
@@ -40,6 +39,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_power_treads"
 				"item"		"item_cyclone"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -81,9 +81,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ancient_janggo"
-				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
