@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27127"
-	"TimePublished"		"0x0000000060A27127"
+	"TimeUpdated"		"0x0000000060BFB50A"
+	"TimePublished"		"0x0000000060BFB50A"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,20 +23,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_slippers"
 				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_branches"
+				"item"		"item_quelling_blade"
 			}
 			"Early Game"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_power_treads"
+				"item"		"item_dragon_lance"
 			}
 			"Core Items"
 			{
-				"item"		"item_yasha"
-				"item"		"item_hurricane_pike"
 				"item"		"item_manta"
+				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -47,18 +47,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_skadi"
+				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
 				"item"		"item_butterfly"
-				"item"		"item_skadi"
 				"item"		"item_greater_crit"
-				"item"		"item_ethereal_blade"
 				"item"		"item_satanic"
-				"item"		"item_moon_shard"
 				"item"		"item_swift_blink"
+				"item"		"item_ethereal_blade"
+				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
 				"item"		"item_silver_edge"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_mjollnir"

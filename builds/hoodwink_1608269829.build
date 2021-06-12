@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"13"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A270F2"
-	"TimePublished"		"0x0000000060A270F2"
+	"TimeUpdated"		"0x0000000060BFB67F"
+	"TimePublished"		"0x0000000060BFB67F"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,17 +30,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_stick"
-				"item"		"item_boots"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
 				"item"		"item_glimmer_cape"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_falcon_blade"
 				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
@@ -48,13 +49,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
 				"item"		"item_gungir"
 				"item"		"item_guardian_greaves"
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_aeon_disk"
 				"item"		"item_ethereal_blade"
 				"item"		"item_cyclone"

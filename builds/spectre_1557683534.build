@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A26E57"
-	"TimePublished"		"0x0000000060A26E57"
+	"TimeUpdated"		"0x0000000060BE1195"
+	"TimePublished"		"0x0000000060BE1195"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,14 +32,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_wind_lace"
+				"item"		"item_fluffy_hat"
 			}
 			"Core"
 			{
+				"item"		"item_falcon_blade"
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_spirit_vessel"
-				"item"		"item_blade_mail"
 			}
 			"Situational"
 			{
@@ -48,6 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_ghost"
+				"item"		"item_blade_mail"
 			}
 			"Utility"
 			{

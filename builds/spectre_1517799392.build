@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"148"
+	"GuideRevision"		"154"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A26E44"
-	"TimePublished"		"0x0000000060A26E44"
+	"TimeUpdated"		"0x0000000060BA6239"
+	"TimePublished"		"0x0000000060BA6239"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,33 +26,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_branches"
 				"item"		"item_quelling_blade"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_boots"
+				"item"		"item_power_treads"
 				"item"		"item_magic_wand"
-				"item"		"item_blade_mail"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_echo_sabre"
 				"item"		"item_manta"
-				"item"		"item_aghanims_shard"
 				"item"		"item_diffusal_blade"
 			}
 			"Situational Early"
 			{
-				"item"		"item_flask"
+				"item"		"item_wraith_band"
+				"item"		"item_blade_mail"
 				"item"		"item_falcon_blade"
+				"item"		"item_meteor_hammer"
 				"item"		"item_radiance"
 			}
 			"Lategame"
 			{
-				"item"		"item_abyssal_blade"
 				"item"		"item_skadi"
+				"item"		"item_aghanims_shard"
+				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_heart"
@@ -67,8 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_nullifier"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
-				"item"		"item_gungir"
-				"item"		"item_mage_slayer"
 				"item"		"item_meteor_hammer"
 				"item"		"item_mask_of_madness"
 				"item"		"item_vanguard"
@@ -101,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_enchanted_mango"		"Usually mango is the best thing due to health regen and emergency mana button."
-			"item_flask"		"If the lane will be fine, maybe a little bit contested - get a salve for yourself"
 			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
 			"item_tango"		"If the lane will be tough - get more tangoes."
 			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don't have it in your team and really need armor"
@@ -129,6 +127,7 @@ ALTERNATIVES: Vanguard, HotD"
 			"item_soul_ring"		"Solves all mana issues and allowes to spam Spectral Dagger + gives additional tankiness and armor. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don't really need to use it in fights, but you CAN if you need to focus a squishy target. It's better to purchase with some cheap armor (like Blade Mail)"
 			"item_meteor_hammer"		"Another awesome farming solution for early game. It's going to replace Blade Mail and Soul Ring, but it will provide you a lot of regen for early game"
+			"item_echo_sabre"		"Blade Mail alternative"
 		}
 	}
 	"AbilityBuild"

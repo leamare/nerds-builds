@@ -3,18 +3,18 @@
 	"Hero"		"dark_seer"
 	"Title"		"Nerds Dark Seer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Dark Seer in an intelligence utility core hero who excells at teamfighting and resetting fights, as well as surviving in a tough circumstances.
 
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27170"
-	"TimePublished"		"0x0000000060A27170"
+	"TimeUpdated"		"0x0000000060BFAC06"
+	"TimePublished"		"0x0000000060BFAC06"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,7 +31,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_buckler"
 				"item"		"item_boots"
 				"item"		"item_headdress"
 				"item"		"item_soul_ring"
@@ -39,23 +38,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_guardian_greaves"
-				"item"		"item_pipe"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_vanguard"
 				"item"		"item_force_staff"
 				"item"		"item_blade_mail"
-				"item"		"item_aghanims_shard"
 				"item"		"item_eternal_shroud"
-				"item"		"item_witch_blade"
 			}
 			"Lategame"
 			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_crimson_guard"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
@@ -68,7 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_solar_crest"
 				"item"		"item_helm_of_the_dominator"
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_witch_blade"
 			}
 			"Best Neutral Items"
 			{
@@ -89,7 +87,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_buckler"		"Buy it first and then think what you need better: Mekansm into Greaves or Crimson Guard"
 			"item_soul_ring"		"Considering Dark Seer's HP regen, with Soul Ring you will be able to cast Ion Shells on lane pretty much for free"
 			"item_headdress"		"Additional regen+stats item for early game, just to ensure that it's either impossible or too hard to kill you"
 			"item_arcane_boots"		"Additional mana sustain for farming and to ensure you will have enough mana for everything"
@@ -108,7 +105,6 @@ Uses:
 			"item_hood_of_defiance"		"Against magic heavy lineups"
 			"item_force_staff"		"Against slows or lockdowns, like Riki, Slark. Even if you're not afraid of them, you can use if to help your teammates"
 			"item_blade_mail"		"Dark Seer is naturally pretty tanky, so if you feel like enemies are focusing you a lot, or you just need a bit more armor, you can get it"
-			"item_yasha_and_kaya"		"More of a snowballing item. If enemies aren't shutting you down a lot, you can double down on damage talent and just start autoattacking, while getting all the nice bonuses"
 			"item_crimson_guard"		"Natural upgrade for Vanguard and great item overall: helps your team, gives you HP and armor"
 			"item_guardian_greaves"		"One of the best and core items for Dark Seer. You can get it relatively fast, it gives you overall good stats for your hero and makes your team stronger which is all you may want.
 

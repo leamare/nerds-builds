@@ -3,18 +3,18 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27197"
-	"TimePublished"		"0x0000000060A27197"
+	"TimeUpdated"		"0x0000000060BFAB37"
+	"TimePublished"		"0x0000000060BFAB37"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,12 +22,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 				"item"		"item_faerie_fire"
+				"item"		"item_enchanted_mango"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
@@ -38,24 +38,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_orb_of_corrosion"
+				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_hood_of_defiance"
 				"item"		"item_vanguard"
-				"item"		"item_ancient_janggo"
+				"item"		"item_echo_sabre"
 				"item"		"item_falcon_blade"
 			}
 			"Lategame"
 			{
 				"item"		"item_sange_and_yasha"
-				"item"		"item_black_king_bar"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_abyssal_blade"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_butterfly"
+				"item"		"item_abyssal_blade"
 				"item"		"item_satanic"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_swift_blink"
@@ -79,7 +79,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_nullifier"
 				"item"		"item_skadi"
 				"item"		"item_manta"
-				"item"		"item_mage_slayer"
 			}
 			"Best Neutral Items"
 			{
@@ -104,7 +103,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ancient_janggo"		"Flat movement speed increase and mana sustain to start snowballing early on"
 			"item_sange_and_yasha"		"Another snowballing item and another flat movement speed bonus. It makes you strong at both defense and offense"
 			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won't be able to catch up to you"
 			"item_vladmir"		"Early sustain boost. Usually good when you're position 3 and you want to start pushing agressively with your team"

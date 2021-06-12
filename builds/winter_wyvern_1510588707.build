@@ -2,19 +2,19 @@
 {
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"93"
+	"GuideRevision"		"96"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000609E9796"
-	"TimePublished"		"0x00000000609E9796"
+	"TimeUpdated"		"0x0000000060BFBE12"
+	"TimePublished"		"0x0000000060BFBE12"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,9 +30,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_falcon_blade"
 			}
 			"Core"
 			{
@@ -44,31 +45,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_mask_of_madness"
-				"item"		"item_cyclone"
-				"item"		"item_invis_sword"
-				"item"		"item_null_talisman"
+				"item"		"item_solar_crest"
 				"item"		"item_force_staff"
+				"item"		"item_falcon_blade"
+				"item"		"item_cyclone"
 			}
 			"Utility Slots"
 			{
 				"item"		"item_glimmer_cape"
-				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
 				"item"		"item_spirit_vessel"
+				"item"		"item_holy_locket"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
-				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_swift_blink"
 				"item"		"item_mjollnir"
 			}
 			"Situational"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_greater_crit"
 				"item"		"item_bloodstone"
@@ -78,9 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_rod_of_atos"
-				"item"		"item_yasha_and_kaya"
-				"item"		"item_desolator"
-				"item"		"item_swift_blink"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
@@ -119,14 +119,13 @@ Additional increase in our farming capabilities, as well as boosting our teamfig
 			"item_ultimate_scepter"		"Increasing our attack range drastically, as well as making our attack animation faster and removing arctiv burn stack limit is that strong so the whole idea of core Winter Wyvern was born out of it. Altho, you can't get it straight away since you need some kind of mobility item, mana regen item, attack speed item and all this while establishing dominance on the map."
 			"item_sheepstick"		"Continuing the theme of mana regen and int items, Scythe is the great addition, that also gives a good utility as well with its active."
 			"item_greater_crit"		"Cheap offensive option if you want to get more damage, but don't really want to delay the game too much and won't be able to get top-tier alternatives"
-			"item_nullifier"		"Rarely needed since you should have enough lockdown and damage and you Scythe is better in most cases, while Nullifier projectile is pretty slow and you're going to stay away in fights. Altho, it can work in combination with blink or Winter's Curse (use it right at the end of your ultimate, so enemy won't be able to dodge it)"
+			"item_nullifier"		"Mostly needed to purge Ghost form. Altho, it can work in combination with blink or Winter's Curse (use it right at the end of your ultimate, so enemy won't be able to dodge it)"
 			"item_sphere"		"OK-ish item to get if you're being locked down a bit too much or playing againstDoom"
 			"item_black_king_bar"		"...but BKB is usually better choice against lockdown than Linkens"
 			"item_shivas_guard"		"OK-ish choice if you need armor. It's not really good item for core Wyvern since you need to get other stuff first, and when it comes to Shivas, you will usually be attacking from too far away for it to get benefit from it (as well as AC)"
 			"item_mask_of_madness"		"Good item to increase attack speed drastically for a short period when you really need it. Works well when you have a mana item, Mjolnir and Aghs"
 			"item_monkey_king_bar"		"vs Miss chance"
-			"item_solar_crest"		"Cheap replacement for Orchid/Bloodthorn"
-			"item_yasha_and_kaya"		"Offensive replacement for Euls. Manacost reduction and attack speed are very valuable for Wyvern and she doesn't need to go for Sange and Kaya since she's naturally pretty tanky."
+			"item_solar_crest"		"Cheap replacement for Witch Blade / Orchid"
 			"item_orchid"		"~25 min"
 		}
 	}

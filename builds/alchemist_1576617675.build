@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Support Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"16"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27201"
-	"TimePublished"		"0x0000000060A27201"
+	"TimeUpdated"		"0x0000000060BFA666"
+	"TimePublished"		"0x0000000060BFA666"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,20 +21,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_wind_lace"
-				"item"		"item_clarity"
-				"item"		"item_magic_stick"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
 			}
 			"Early"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_phase_boots"
 				"item"		"item_infused_raindrop"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
-				"item"		"item_medallion_of_courage"
-				"item"		"item_cloak"
+				"item"		"item_glimmer_cape"
+				"item"		"item_solar_crest"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{

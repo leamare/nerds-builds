@@ -3,16 +3,16 @@
 	"Hero"		"monkey_king"
 	"Title"		"Nerds Monkey King"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27053"
-	"TimePublished"		"0x0000000060A27053"
+	"TimeUpdated"		"0x0000000060BFBB35"
+	"TimePublished"		"0x0000000060BFBB35"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,12 +29,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_power_treads"
 				"item"		"item_quelling_blade"
+				"item"		"item_echo_sabre"
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
 				"item"		"item_maelstrom"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
+				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
@@ -42,12 +44,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bfury"
 				"item"		"item_wraith_band"
 				"item"		"item_ancient_janggo"
-				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{
 				"item"		"item_abyssal_blade"
-				"item"		"item_skadi"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"

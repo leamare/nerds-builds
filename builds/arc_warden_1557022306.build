@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Experimental Offlane Warden"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A53E89"
-	"TimePublished"		"0x0000000060A53E89"
+	"TimeUpdated"		"0x0000000060BFA74A"
+	"TimePublished"		"0x0000000060BFA74A"
 	"ItemBuild"
 	{
 		"Items"
@@ -63,7 +63,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_lotus_orb"
 				"item"		"item_ethereal_blade"
-				"item"		"item_mage_slayer"
+				"item"		"item_solar_crest"
 			}
 			"Situational"
 			{

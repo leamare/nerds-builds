@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Magic Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"77"
+	"GuideRevision"		"78"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A271EF"
-	"TimePublished"		"0x0000000060A271EF"
+	"TimeUpdated"		"0x0000000060BFA792"
+	"TimePublished"		"0x0000000060BFA792"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_slippers"
-				"item"		"item_slippers"
+				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_tango"
@@ -30,7 +30,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_null_talisman"
-				"item"		"item_ring_of_basilius"
 				"item"		"item_boots"
 			}
 			"Core"
@@ -54,6 +53,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
 				"item"		"item_moon_shard"
+				"item"		"item_arcane_blink"
 			}
 			"Situational"
 			{
@@ -63,7 +63,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_arcane_blink"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_gungir"
 				"item"		"item_aghanims_shard"

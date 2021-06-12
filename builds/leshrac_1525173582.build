@@ -3,18 +3,18 @@
 	"Hero"		"leshrac"
 	"Title"		"Nerds Leshrac"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Leshrac is an intelligence hero who can be played at every position and transition into powerful core at the end of the game. The hero farms extremely fast, has lockdown and the only things he needs are mana regen and surviveability, so he can deal more damage and outlive opponents. His Diabolic Edict ability allowes him to become a powerful core hero and essentially be able to almost singlehandedly end the game at later stages.
 
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A270BB"
-	"TimePublished"		"0x0000000060A270BB"
+	"TimeUpdated"		"0x0000000060BFB920"
+	"TimePublished"		"0x0000000060BFB920"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,7 +39,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_travel_boots"
 				"item"		"item_cyclone"
-				"item"		"item_aghanims_shard"
 				"item"		"item_bloodstone"
 			}
 			"Situational Early"
@@ -51,9 +50,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
 				"item"		"item_sphere"
 				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
@@ -65,7 +66,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_lotus_orb"
 				"item"		"item_silver_edge"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_veil_of_discord"
 				"item"		"item_rod_of_atos"
 			}

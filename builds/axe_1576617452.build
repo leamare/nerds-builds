@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Axe"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x0000000073B5405B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A271C4"
-	"TimePublished"		"0x0000000060A271C4"
+	"TimeUpdated"		"0x0000000060BFA7B6"
+	"TimePublished"		"0x0000000060BFA7B6"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,13 +29,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
+				"item"		"item_vanguard"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_vanguard"
 				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -54,8 +53,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_crimson_guard"
 				"item"		"item_aghanims_shard"
+				"item"		"item_crimson_guard"
 				"item"		"item_abyssal_blade"
 				"item"		"item_silver_edge"
 				"item"		"item_ultimate_scepter"
@@ -80,7 +79,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_chipped_vest"
 				"item"		"item_possessed_mask"
 				"item"		"item_keen_optic"
-				"item"		"item_royal_jelly"
 				"item"		"item_bullwhip"
 				"item"		"item_essence_ring"
 				"item"		"item_cloak_of_flames"

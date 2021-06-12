@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"103"
+	"GuideRevision"		"107"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A27102"
-	"TimePublished"		"0x0000000060A27102"
+	"TimeUpdated"		"0x0000000060B69D84"
+	"TimePublished"		"0x0000000060B69D84"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_circlet"
 				"item"		"item_circlet"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
@@ -36,19 +35,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_eternal_shroud"
+				"item"		"item_hood_of_defiance"
 				"item"		"item_hurricane_pike"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_solar_crest"
+				"item"		"item_phase_boots"
 				"item"		"item_rod_of_atos"
-				"item"		"item_falcon_blade"
 				"item"		"item_force_staff"
 				"item"		"item_orchid"
-				"item"		"item_phase_boots"
-				"item"		"item_hood_of_defiance"
 				"item"		"item_ancient_janggo"
+				"item"		"item_falcon_blade"
 			}
 			"Utility"
 			{
@@ -59,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_eternal_shroud"
 				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
@@ -69,8 +69,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_kaya_and_sange"
 				"item"		"item_gungir"
-				"item"		"item_solar_crest"
 				"item"		"item_silver_edge"
 				"item"		"item_blink"
 				"item"		"item_skadi"
@@ -124,6 +124,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_mask_of_madness"		"YOUR IMPETUS DOESN'T WORK WHILE SILENCED"
 			"item_blight_stone"		"Good early game item for increasing damage output, farming and pushing. This item is also useful while dominating the lane, especially against armor-heavy heroes like Sven, WK, Naga, Terrorblade."
 			"item_medallion_of_courage"		"Great armor/mana regen solution. Awesome early game item, potential Solar Crest upgrade which provides awesome stats and strong buff for your another core"
+			"item_solar_crest"		"Witch blade alternative if you're playing offlane or relying on your team a bit more"
 		}
 	}
 	"AbilityBuild"

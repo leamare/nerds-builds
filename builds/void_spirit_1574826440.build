@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x00000000728CF9EE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000609E9819"
-	"TimePublished"		"0x00000000609E9819"
+	"TimeUpdated"		"0x0000000060BFBDBC"
+	"TimePublished"		"0x0000000060BFBDBC"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_veil_of_discord"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_cyclone"
 			}
 			"Utility"
 			{
@@ -46,26 +46,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_vladmir"
 				"item"		"item_rod_of_atos"
-				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ghost"
-				"item"		"item_kaya"
-				"item"		"item_cyclone"
-				"item"		"item_dagon"
+				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
-				"item"		"item_dagon_5"
 				"item"		"item_lotus_orb"
 				"item"		"item_guardian_greaves"
 				"item"		"item_aghanims_shard"
 				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
+			}
+			"Situational"
+			{
+				"item"		"item_dagon_5"
 				"item"		"item_bloodstone"
 				"item"		"item_octarine_core"
-				"item"		"item_desolator"
+				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{

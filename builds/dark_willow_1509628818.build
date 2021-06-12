@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"114"
+	"GuideRevision"		"115"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060B5891E"
-	"TimePublished"		"0x0000000060B5891E"
+	"TimeUpdated"		"0x0000000060BFACD1"
+	"TimePublished"		"0x0000000060BFACD1"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,32 +21,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
+				"item"		"item_circlet"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_sobi_mask"
+				"item"		"item_falcon_blade"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_cyclone"
 				"item"		"item_blink"
+				"item"		"item_cyclone"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_falcon_blade"
 				"item"		"item_soul_ring"
 				"item"		"item_bottle"
+				"item"		"item_force_staff"
 			}
 			"Utility"
 			{
@@ -59,29 +58,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_sphere"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_gungir"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_wind_waker"
-				"item"		"item_arcane_blink"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_shivas_guard"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodthorn"
-				"item"		"item_force_staff"
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
-				"item"		"item_shivas_guard"
-				"item"		"item_octarine_core"
-				"item"		"item_silver_edge"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
-				"item"		"item_ancient_janggo"
+				"item"		"item_gungir"
+				"item"		"item_arcane_blink"
 			}
 			"Best Neutral Items"
 			{

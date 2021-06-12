@@ -3,13 +3,13 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Support Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.27d"
+	"GameplayVersion"		"7.29d"
 	"Overview"		""
-	"GuideRevision"		"2"
+	"GuideRevision"		"3"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005FC69357"
+	"TimeUpdated"		"0x0000000060BFBD6C"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -80,7 +80,7 @@
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
 			"20"		"attribute_bonus"
-			"25"		"special_bonus_unique_viper_3"
+			"25"		"attribute_bonus"
 		}
 		"AbilityTooltips"
 		{

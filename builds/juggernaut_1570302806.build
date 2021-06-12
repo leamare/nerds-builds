@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060A270C5"
-	"TimePublished"		"0x0000000060A270C5"
+	"TimeUpdated"		"0x0000000060BFB8BE"
+	"TimePublished"		"0x0000000060BFB8BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,10 +20,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
 				"item"		"item_quelling_blade"
+				"item"		"item_circlet"
 				"item"		"item_slippers"
-				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
@@ -36,38 +35,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_bfury"
-				"item"		"item_manta"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_maelstrom"
+				"item"		"item_sange_and_yasha"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_mask_of_madness"
 				"item"		"item_wind_lace"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_mask_of_madness"
+				"item"		"item_bfury"
 			}
 			"Lategame"
 			{
+				"item"		"item_skadi"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_mjollnir"
 				"item"		"item_abyssal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_skadi"
 				"item"		"item_butterfly"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_swift_blink"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_manta"
 				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
-				"item"		"item_sange_and_yasha"
-				"item"		"item_blink"
 				"item"		"item_diffusal_blade"
-				"item"		"item_mjollnir"
-				"item"		"item_swift_blink"
 			}
 			"Best Neutral Items"
 			{

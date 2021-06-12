@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Support Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.29c"
+	"GameplayVersion"		"7.29d"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060957A02"
-	"TimePublished"		"0x0000000060957A02"
+	"TimeUpdated"		"0x0000000060BFAF0E"
+	"TimePublished"		"0x0000000060BFAF0E"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,40 +30,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_stick"
-				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_holy_locket"
+				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_orb_of_corrosion"
-				"item"		"item_ancient_janggo"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_mekansm"
-				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_vladmir"
+				"item"		"item_pipe"
 				"item"		"item_guardian_greaves"
 			}
 			"Situational"
 			{
-				"item"		"item_pipe"
+				"item"		"item_glimmer_cape"
 				"item"		"item_mage_slayer"
-				"item"		"item_veil_of_discord"
-				"item"		"item_gungir"
 				"item"		"item_lotus_orb"
 				"item"		"item_spirit_vessel"
-				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 				"item"		"item_crimson_guard"
+				"item"		"item_blink"
+				"item"		"item_heavens_halberd"
 			}
 			"Best Neutral Items"
 			{
