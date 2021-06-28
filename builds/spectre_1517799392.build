@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"154"
+	"GuideRevision"		"155"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BA6239"
-	"TimePublished"		"0x0000000060BA6239"
+	"TimeUpdated"		"0x0000000060C51F9E"
+	"TimePublished"		"0x0000000060C51F9E"
 	"ItemBuild"
 	{
 		"Items"
@@ -85,6 +85,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_illusionsts_cape"
 				"item"		"item_titan_sliver"
 				"item"		"item_cloak_of_flames"
+				"item"		"item_paladin_sword"
 				"item"		"item_minotaur_horn"
 				"item"		"item_ninja_gear"
 				"item"		"item_imp_claw"
