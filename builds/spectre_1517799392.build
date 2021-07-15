@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"155"
+	"GuideRevision"		"156"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060C51F9E"
-	"TimePublished"		"0x0000000060C51F9E"
+	"TimeUpdated"		"0x0000000060DBAC5A"
+	"TimePublished"		"0x0000000060DBAC5A"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,15 +23,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_quelling_blade"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
+				"item"		"item_wraith_band"
 				"item"		"item_power_treads"
 				"item"		"item_magic_wand"
 			}
@@ -39,27 +38,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_echo_sabre"
 				"item"		"item_manta"
-				"item"		"item_diffusal_blade"
+				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wraith_band"
+				"item"		"item_soul_ring"
 				"item"		"item_blade_mail"
 				"item"		"item_falcon_blade"
 				"item"		"item_meteor_hammer"
 				"item"		"item_radiance"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_skadi"
 				"item"		"item_aghanims_shard"
 				"item"		"item_abyssal_blade"
+				"item"		"item_heart"
 				"item"		"item_butterfly"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_heart"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
+				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
