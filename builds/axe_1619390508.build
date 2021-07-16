@@ -1,0 +1,119 @@
+"guidedata"
+{
+	"Hero"		"axe"
+	"Title"		"Nerds Carry Axe"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.29d"
+	"Overview"		"based on games of Wagamama  and some other high ranked players (found using stratz guides section)
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x00000000931E893C"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060BFA7D6"
+	"TimePublished"		"0x0000000060BFA7D6"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_ring_of_protection"
+				"item"		"item_ring_of_regen"
+				"item"		"item_quelling_blade"
+				"item"		"item_tango"
+			}
+			"Early"
+			{
+				"item"		"item_magic_stick"
+				"item"		"item_vanguard"
+				"item"		"item_boots"
+				"item"		"item_yasha"
+			}
+			"Core"
+			{
+				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+				"item"		"item_travel_boots"
+			}
+			"Situational Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+				"item"		"item_invis_sword"
+			}
+			"Lategame"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_octarine_core"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_heart"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_travel_boots_2"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blade_mail"
+				"item"		"item_eternal_shroud"
+				"item"		"item_mjollnir"
+				"item"		"item_skadi"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_chipped_vest"
+				"item"		"item_illusionsts_cape"
+				"item"		"item_the_leveller"
+				"item"		"item_broom_handle"
+				"item"		"item_faded_broach"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_vambrace"
+				"item"		"item_pupils_gift"
+				"item"		"item_dragon_scale"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_titan_sliver"
+				"item"		"item_spider_legs"
+				"item"		"item_spell_prism"
+				"item"		"item_minotaur_horn"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"axe_battle_hunger"
+			"2"		"axe_counter_helix"
+			"3"		"axe_battle_hunger"
+			"4"		"axe_berserkers_call"
+			"5"		"axe_counter_helix"
+			"6"		"axe_culling_blade"
+			"7"		"axe_counter_helix"
+			"8"		"axe_counter_helix"
+			"9"		"axe_berserkers_call"
+			"10"		"special_bonus_strength_9"
+			"11"		"axe_berserkers_call"
+			"12"		"axe_culling_blade"
+			"13"		"axe_berserkers_call"
+			"14"		"axe_battle_hunger"
+			"15"		"special_bonus_hp_300"
+			"16"		"axe_battle_hunger"
+			"18"		"axe_culling_blade"
+			"20"		"special_bonus_hp_regen_20"
+			"25"		"special_bonus_unique_axe_2"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
