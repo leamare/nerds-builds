@@ -64,6 +64,7 @@ Hero | Role | Desc. | Link | File
 ![magnataur][magnataur] Magnus | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1928873072) | [buildfile](builds/magnataur_1575536994.build)
 ![mars][mars] Mars | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [buildfile](builds/mars_1551812621.build)
 ![mars][mars] Mars | Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [buildfile](builds/mars_1551813312.build)
+![meepo][meepo] Meepo | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2517043718) | [buildfile](builds/meepo_1623620108.build)
 ![mirana][mirana] Mirana | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824958) | [buildfile](builds/mirana_1568051607.build)
 ![monkey_king][monkey_king] Monkey King | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1859824659) | [buildfile](builds/monkey_king_1565584957.build)
 ![morphling][morphling] Morphling | Support/Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=916801192) | [buildfile](builds/morphling_1517800581.build)

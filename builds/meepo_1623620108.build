@@ -1,0 +1,115 @@
+"guidedata"
+{
+	"Hero"		"meepo"
+	"Title"		"Experimental Support Meepo"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.29d"
+	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
+
+The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
+Another strong advantage of Meepo is his burst damage and map presence. You can use Poof to farm jungle inbetween ganks, to deal massive amounts of damage during ganks.
+Or with your ult you can gank early on. For that you can send one clone to another lane and get into position (or check runes), while actively showing your main hero in a lane. This way enemies are less likely to expect a gank, allowing you to quickly use your clone, set up a net and poof your hero for an additional 2 seconds root.
+
+Later into the game you have two different ways to play Meepo Support. The first way would be slowly transitioning the hero into a core, buying stat efficient items, blink and ethereal,
+But that's not why you'd play a support Meepo. Another way would be around buying team oriented auras (Vlads, Pipe, Crimson Guard) and other utility (Glimmer Cape).
+You can use Aether Lens to use net from a longer distance, and you can use aghs shard poof to quickly blink to your ally to either help with a kill or save your ally from focus.
+
+This build is experimental and is very hard to execute. Proceed on your own risk.
+This guide was requested by lamallama
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"7"
+	"AssociatedWorkshopItemID"		"0x0000000096070A06"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000060C7B43F"
+	"TimePublished"		"0x0000000060C7B43F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_boots"
+				"item"		"item_tango"
+			}
+			"Early"
+			{
+				"item"		"item_wind_lace"
+				"item"		"item_orb_of_venom"
+				"item"		"item_tranquil_boots"
+			}
+			"CorE"
+			{
+				"item"		"item_bracer"
+				"item"		"item_bracer"
+				"item"		"item_vladmir"
+				"item"		"item_aether_lens"
+			}
+			"Situational Early"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_power_treads"
+				"item"		"item_glimmer_cape"
+				"item"		"item_dragon_lance"
+			}
+			"Lategame"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_pipe"
+				"item"		"item_blink"
+				"item"		"item_ethereal_blade"
+				"item"		"item_skadi"
+			}
+			"Situational"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
+				"item"		"item_crimson_guard"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_keen_optic"
+				"item"		"item_trusty_shovel"
+				"item"		"item_pupils_gift"
+				"item"		"item_bullwhip"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_spy_gadget"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"meepo_earthbind"
+			"2"		"meepo_poof"
+			"3"		"meepo_poof"
+			"4"		"meepo_divided_we_stand"
+			"5"		"meepo_poof"
+			"6"		"meepo_earthbind"
+			"7"		"meepo_poof"
+			"8"		"meepo_ransack"
+			"9"		"meepo_earthbind"
+			"10"		"special_bonus_strength_6"
+			"11"		"meepo_divided_we_stand"
+			"12"		"meepo_earthbind"
+			"13"		"meepo_ransack"
+			"14"		"meepo_ransack"
+			"15"		"special_bonus_unique_meepo_2"
+			"16"		"meepo_ransack"
+			"18"		"meepo_divided_we_stand"
+			"20"		"special_bonus_unique_meepo_3"
+			"25"		"special_bonus_hp_375"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
