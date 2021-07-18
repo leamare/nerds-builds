@@ -45,6 +45,7 @@ Hero | Role | Desc. | Link | File
 ![enchantress][enchantress] Enchantress | Roaming Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=782292474) | [buildfile](builds/enchantress_1517796324.build)
 ![faceless_void][faceless_void] Faceless Void | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1879546300) | [buildfile](builds/faceless_void_1570126879.build)
 ![faceless_void][faceless_void] Faceless Void | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2468255080) | [buildfile](builds/faceless_void_1618484079.build)
+![furion][furion] Natures Prophet | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2516219731) | [buildfile](builds/furion_1623619641.build)
 ![grimstroke][grimstroke] Grimstroke | Mid Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1534949762) | [buildfile](builds/grimstroke_1535353295.build)
 ![hoodwink][hoodwink] Hoodwink | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2325313349) | [buildfile](builds/hoodwink_1608269788.build)
 ![hoodwink][hoodwink] Hoodwink | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2325323781) | [buildfile](builds/hoodwink_1608269829.build)
