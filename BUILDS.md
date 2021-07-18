@@ -24,6 +24,7 @@ Hero | Role | Desc. | Link | File
 ![bane][bane] Bane | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1190692799) | [buildfile](builds/bane_1509773602.build)
 ![beastmaster][beastmaster] Beastmaster | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1459274094) | [buildfile](builds/beastmaster_1528952182.build)
 ![bloodseeker][bloodseeker] Bloodseeker | Offlane | ✅ | [Steeam](https://steamcommunity.com/sharedfiles/filedetails/?id=2213866317) | [buildfile](builds/bloodseeker_1598752443.build)
+![broodmother][broodmother] Broodmother | Offlane/Mid |  | [Steeam](https://steamcommunity.com/sharedfiles/filedetails/?id=2489347195) | [buildfile](builds/broodmother_1621184180.build)
 ![bounty_hunter][bounty_hunter] Bounty Hunter | Offlane | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1658890909) | [buildfile](builds/bounty_hunter_1549567475.build)
 ![bounty_hunter][bounty_hunter] Bounty Hunter | Support/Roamer |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2345305382) | [buildfile](bounty_hunter_1571101741.build)
 ![chen][chen] Chen | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1288577137) | [buildfile](builds/chen_1515803189.build)
@@ -134,6 +135,7 @@ Hero | Role | Desc. | Link | File
 [doom_bringer]: https://courier.spectral.gg/images/dota/portraits/doom_bringer.png?size=smallest
 [dragon_knight]: https://courier.spectral.gg/images/dota/portraits/dragon_knight.png?size=smallest
 [drow_ranger]: https://courier.spectral.gg/images/dota/portraits/drow_ranger.png?size=smallest
+[broodmother]: https://courier.spectral.gg/images/dota/portraits/broodmother.png?size=smallest
 [enchantress]: https://courier.spectral.gg/images/dota/portraits/enchantress.png?size=smallest
 [faceless_void]: https://courier.spectral.gg/images/dota/portraits/faceless_void.png?size=smallest
 [grimstroke]: https://courier.spectral.gg/images/dota/portraits/grimstroke.png?size=smallest
@@ -149,6 +151,7 @@ Hero | Role | Desc. | Link | File
 [lone_druid]: https://courier.spectral.gg/images/dota/portraits/lone_druid.png?size=smallest
 [luna]: https://courier.spectral.gg/images/dota/portraits/luna.png?size=smallest
 [lycan]: https://courier.spectral.gg/images/dota/portraits/lycan.png?size=smallest
+[meepo]: https://courier.spectral.gg/images/dota/portraits/meepo.png?size=smallest
 [magnataur]: https://courier.spectral.gg/images/dota/portraits/magnataur.png?size=smallest
 [mars]: https://courier.spectral.gg/images/dota/portraits/mars.png?size=smallest
 [mirana]: https://courier.spectral.gg/images/dota/portraits/mirana.png?size=smallest
