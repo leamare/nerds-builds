@@ -3,16 +3,16 @@
 	"Hero"		"phantom_assassin"
 	"Title"		"Nerds Support PA"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFBC15"
-	"TimePublished"		"0x0000000060BFBC15"
+	"TimeUpdated"		"0x00000000611CE490"
+	"TimePublished"		"0x00000000611CE490"
 	"ItemBuild"
 	{
 		"Items"
@@ -61,8 +61,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_imp_claw"
-				"item"		"item_orb_of_destruction"
 				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
 			}

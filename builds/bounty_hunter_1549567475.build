@@ -3,18 +3,18 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFAB37"
-	"TimePublished"		"0x0000000060BFAB37"
+	"TimeUpdated"		"0x00000000611CF249"
+	"TimePublished"		"0x00000000611CF249"
 	"ItemBuild"
 	{
 		"Items"
@@ -84,13 +84,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_possessed_mask"
 				"item"		"item_bullwhip"
-				"item"		"item_imp_claw"
 				"item"		"item_mind_breaker"
-				"item"		"item_orb_of_destruction"
 				"item"		"item_ninja_gear"
 				"item"		"item_trusty_shovel"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_faded_broach"
 				"item"		"item_elven_tunic"
 				"item"		"item_stormcrafter"
 			}
@@ -137,11 +134,11 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"12"		"bounty_hunter_track"
 			"13"		"bounty_hunter_wind_walk"
 			"14"		"bounty_hunter_wind_walk"
-			"15"		"special_bonus_hp_275"
+			"15"		"special_bonus_unique_bounty_hunter_2"
 			"16"		"bounty_hunter_wind_walk"
 			"18"		"bounty_hunter_track"
 			"20"		"special_bonus_unique_bounty_hunter"
-			"25"		"special_bonus_evasion_40"
+			"25"		"special_bonus_unique_bounty_hunter_3"
 		}
 		"AbilityTooltips"
 		{

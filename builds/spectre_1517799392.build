@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"156"
+	"GuideRevision"		"159"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060DBAC5A"
-	"TimePublished"		"0x0000000060DBAC5A"
+	"TimeUpdated"		"0x00000000611CD9B0"
+	"TimePublished"		"0x00000000611CD9B0"
 	"ItemBuild"
 	{
 		"Items"
@@ -43,6 +43,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
+				"item"		"item_mage_slayer"
 				"item"		"item_blade_mail"
 				"item"		"item_falcon_blade"
 				"item"		"item_meteor_hammer"
@@ -51,7 +52,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_abyssal_blade"
 				"item"		"item_heart"
 				"item"		"item_butterfly"
@@ -63,6 +63,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
 				"item"		"item_nullifier"
@@ -79,14 +80,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
+				"item"		"item_unstable_wand"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_pupils_gift"
 				"item"		"item_vambrace"
-				"item"		"item_illusionsts_cape"
+				"item"		"item_misericorde"
 				"item"		"item_titan_sliver"
+				"item"		"item_black_powder_bag"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_paladin_sword"
-				"item"		"item_minotaur_horn"
+				"item"		"item_ascetic_cap"
 				"item"		"item_ninja_gear"
 				"item"		"item_imp_claw"
 				"item"		"item_penta_edged_sword"
@@ -144,12 +147,12 @@ ALTERNATIVES: Vanguard, HotD"
 			"7"		"spectre_spectral_dagger"
 			"8"		"spectre_desolate"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_all_stats_5"
+			"10"		"special_bonus_unique_spectre"
 			"11"		"spectre_desolate"
 			"12"		"spectre_haunt"
 			"13"		"spectre_dispersion"
 			"14"		"spectre_desolate"
-			"15"		"special_bonus_unique_spectre"
+			"15"		"special_bonus_unique_spectre_6"
 			"16"		"spectre_desolate"
 			"18"		"spectre_haunt"
 			"20"		"special_bonus_hp_400"

@@ -3,18 +3,18 @@
 	"Hero"		"dark_seer"
 	"Title"		"Nerds Dark Seer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"Dark Seer in an intelligence utility core hero who excells at teamfighting and resetting fights, as well as surviving in a tough circumstances.
 
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFAC06"
-	"TimePublished"		"0x0000000060BFAC06"
+	"TimeUpdated"		"0x00000000611CDD7F"
+	"TimePublished"		"0x00000000611CDD7F"
 	"ItemBuild"
 	{
 		"Items"
@@ -75,7 +75,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cloak_of_flames"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_spell_prism"
-				"item"		"item_illusionsts_cape"
 				"item"		"item_quickening_charm"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -139,8 +138,8 @@ You can rush Greaves to get lower cooldown and fight more often, as well as keep
 			"12"		"dark_seer_vacuum"
 			"13"		"dark_seer_vacuum"
 			"14"		"dark_seer_wall_of_replica"
-			"15"		"special_bonus_unique_dark_seer_5"
-			"16"		"special_bonus_unique_dark_seer_7"
+			"15"		"special_bonus_unique_dark_seer_7"
+			"16"		"special_bonus_unique_dark_seer_5"
 			"18"		"dark_seer_wall_of_replica"
 			"20"		"special_bonus_unique_dark_seer"
 			"25"		"special_bonus_unique_dark_seer_3"

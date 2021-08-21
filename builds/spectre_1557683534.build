@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BE1195"
-	"TimePublished"		"0x0000000060BE1195"
+	"TimeUpdated"		"0x00000000611CE969"
+	"TimePublished"		"0x00000000611CE969"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,16 +36,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_falcon_blade"
-				"item"		"item_phase_boots"
-				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+				"item"		"item_holy_locket"
+				"item"		"item_aghanims_shard"
 				"item"		"item_spirit_vessel"
 			}
 			"Situational"
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
-				"item"		"item_aghanims_shard"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_ghost"
 				"item"		"item_blade_mail"
@@ -79,8 +78,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_chipped_vest"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_pupils_gift"
-				"item"		"item_minotaur_horn"
-				"item"		"item_illusionsts_cape"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -104,12 +101,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"spectre_spectral_dagger"
 			"8"		"spectre_dispersion"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_hp_regen_5"
+			"10"		"special_bonus_unique_spectre"
 			"11"		"spectre_dispersion"
 			"12"		"spectre_haunt"
 			"13"		"spectre_desolate"
 			"14"		"spectre_desolate"
-			"15"		"special_bonus_unique_spectre"
+			"15"		"special_bonus_unique_spectre_6"
 			"16"		"spectre_desolate"
 			"18"		"spectre_haunt"
 			"20"		"special_bonus_hp_400"

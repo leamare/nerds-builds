@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFBC89"
-	"TimePublished"		"0x0000000060BFBC89"
+	"TimeUpdated"		"0x00000000611CE4D9"
+	"TimePublished"		"0x00000000611CE4D9"
 	"ItemBuild"
 	{
 		"Items"
@@ -77,7 +77,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_elven_tunic"
 				"item"		"item_stormcrafter"
 				"item"		"item_spider_legs"
-				"item"		"item_minotaur_horn"
 				"item"		"item_timeless_relic"
 				"item"		"item_spy_gadget"
 			}

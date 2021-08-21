@@ -1,6 +1,6 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.29c
+## Patch: 7.30
 
 ### Total builds published: 101 (out of ~218 planned)
 
@@ -130,6 +130,7 @@ Hero | Role | Desc. | Link | File
 [bounty_hunter]: https://courier.spectral.gg/images/dota/portraits/bounty_hunter.png?size=smallest
 [dawnbreaker]: https://courier.spectral.gg/images/dota/portraits/dawnbreaker.png?size=smallest
 [chen]: https://courier.spectral.gg/images/dota/portraits/chen.png?size=smallest
+[crystal_maiden]: https://courier.spectral.gg/images/dota/portraits/crystal_maiden.png?size=smallest
 [dark_seer]: https://courier.spectral.gg/images/dota/portraits/dark_seer.png?size=smallest
 [dark_willow]: https://courier.spectral.gg/images/dota/portraits/dark_willow.png?size=smallest
 [dazzle]: https://courier.spectral.gg/images/dota/portraits/dazzle.png?size=smallest
@@ -139,6 +140,7 @@ Hero | Role | Desc. | Link | File
 [broodmother]: https://courier.spectral.gg/images/dota/portraits/broodmother.png?size=smallest
 [enchantress]: https://courier.spectral.gg/images/dota/portraits/enchantress.png?size=smallest
 [faceless_void]: https://courier.spectral.gg/images/dota/portraits/faceless_void.png?size=smallest
+[furion]: https://courier.spectral.gg/images/dota/portraits/furion.png?size=smallest
 [grimstroke]: https://courier.spectral.gg/images/dota/portraits/grimstroke.png?size=smallest
 [invoker]: https://courier.spectral.gg/images/dota/portraits/invoker.png?size=smallest
 [hoodwink]: https://courier.spectral.gg/images/dota/portraits/hoodwink.png?size=smallest

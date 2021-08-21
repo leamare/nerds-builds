@@ -3,16 +3,16 @@
 	"Hero"		"broodmother"
 	"Title"		"Nerds Offlane/Mid Brood"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFAB97"
-	"TimePublished"		"0x0000000060BFAB97"
+	"TimeUpdated"		"0x00000000611CDC97"
+	"TimePublished"		"0x00000000611CDC97"
 	"ItemBuild"
 	{
 		"Items"
@@ -67,14 +67,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_keen_optic"
-				"item"		"item_faded_broach"
 				"item"		"item_chipped_vest"
 				"item"		"item_nether_shawl"
 				"item"		"item_bullwhip"
 				"item"		"item_grove_bow"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_stormcrafter"
-				"item"		"item_illusionsts_cape"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"12"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060BFAE21"
-	"TimePublished"		"0x0000000060BFAE21"
+	"TimeUpdated"		"0x00000000611CDE35"
+	"TimePublished"		"0x00000000611CDE35"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_echo_sabre"
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
@@ -46,10 +47,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_sange_and_yasha"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
-				"item"		"item_abyssal_blade"
 				"item"		"item_heart"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
@@ -96,15 +98,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"dawnbreaker_fire_wreath"
 			"8"		"dawnbreaker_fire_wreath"
 			"9"		"dawnbreaker_luminosity"
-			"10"		"special_bonus_strength_7"
+			"10"		"special_bonus_unique_dawnbreaker_fire_wreath_swipe"
 			"11"		"dawnbreaker_fire_wreath"
 			"12"		"dawnbreaker_solar_guardian"
 			"13"		"dawnbreaker_celestial_hammer"
 			"14"		"dawnbreaker_luminosity"
-			"15"		"special_bonus_attack_damage_20"
+			"15"		"special_bonus_unique_dawnbreaker_solar_guardian_cooldown"
 			"16"		"dawnbreaker_luminosity"
 			"18"		"dawnbreaker_solar_guardian"
-			"20"		"special_bonus_unique_dawnbreaker_luminosity_crit"
+			"20"		"special_bonus_unique_dawnbreaker_solar_guardian_radius"
 			"25"		"special_bonus_unique_dawnbreaker_celestial_hammer_cast_range"
 		}
 		"AbilityTooltips"

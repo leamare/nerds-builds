@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.29d"
+	"GameplayVersion"		"7.30"
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"110"
+	"GuideRevision"		"112"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000060B406A3"
-	"TimePublished"		"0x0000000060B406A3"
+	"TimeUpdated"		"0x00000000611CD90B"
+	"TimePublished"		"0x00000000611CD90B"
 	"ItemBuild"
 	{
 		"Items"
@@ -51,6 +51,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
+				"item"		"item_helm_of_the_overlord"
 				"item"		"item_travel_boots"
 				"item"		"item_gungir"
 				"item"		"item_refresher"
@@ -80,15 +81,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
+				"item"		"item_unstable_wand"
 				"item"		"item_pupils_gift"
 				"item"		"item_bullwhip"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_black_powder_bag"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_titan_sliver"
 				"item"		"item_the_leveller"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_spider_legs"
-				"item"		"item_illusionsts_cape"
 				"item"		"item_minotaur_horn"
 			}
 			"https://leamare.github.io/nerds-builds/"
