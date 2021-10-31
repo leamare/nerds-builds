@@ -1,0 +1,111 @@
+"guidedata"
+{
+	"Hero"		"marci"
+	"Title"		"Nerds Support Marci"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.30e"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x000000009D813310"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000617EEEEF"
+	"TimePublished"		"0x00000000617EEEEF"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_orb_of_venom"
+				"item"		"item_tango"
+				"item"		"item_flask"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_boots"
+				"item"		"item_soul_ring"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_solar_crest"
+				"item"		"item_basher"
+			}
+			"Situational Early"
+			{
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_tranquil_boots"
+				"item"		"item_urn_of_shadows"
+			}
+			"Lategame"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_black_king_bar"
+				"item"		"item_silver_edge"
+				"item"		"item_assault"
+			}
+			"Situational"
+			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_glimmer_cape"
+				"item"		"item_vladmir"
+				"item"		"item_spirit_vessel"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_chipped_vest"
+				"item"		"item_possessed_mask"
+				"item"		"item_keen_optic"
+				"item"		"item_bullwhip"
+				"item"		"item_dragon_scale"
+				"item"		"item_spider_legs"
+				"item"		"item_paladin_sword"
+				"item"		"item_spell_prism"
+				"item"		"item_flicker"
+				"item"		"item_stormcrafter"
+				"item"		"item_penta_edged_sword"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_phase_boots"		"it&apos;s just a phase"
+			"item_tranquil_boots"		"(it&apos;s not just a phase)"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"marci_companion_run"
+			"2"		"marci_grapple"
+			"3"		"marci_guardian"
+			"4"		"marci_companion_run"
+			"5"		"marci_companion_run"
+			"6"		"marci_unleash"
+			"7"		"marci_companion_run"
+			"8"		"marci_guardian"
+			"9"		"marci_guardian"
+			"10"		"special_bonus_mp_regen_2"
+			"11"		"marci_guardian"
+			"12"		"marci_unleash"
+			"13"		"marci_grapple"
+			"14"		"marci_grapple"
+			"15"		"special_bonus_unique_marci_grapple_stun_duration"
+			"16"		"marci_grapple"
+			"18"		"marci_unleash"
+			"20"		"special_bonus_unique_marci_guardian_magic_immune"
+			"25"		"special_bonus_unique_marci_unleash_silence"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
