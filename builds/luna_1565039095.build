@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000006CDACDE8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE1E8"
-	"TimePublished"		"0x00000000611CE1E8"
+	"TimeUpdated"		"0x000000006140F586"
+	"TimePublished"		"0x000000006140F586"
 	"ItemBuild"
 	{
 		"Items"
@@ -87,7 +87,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_helm_of_the_dominator"		"Use helm to stack neutral creeps for yourself (you should set up your control groups for it) and control Alpha Wolf/Satyr to get additional damage aura or disable
 
 Alternatively, you may go for Mask of Madness"
-			"item_mask_of_madness"		"Mask of Madness works as a more aggressive counterpart to Helm of the Dominator. It doesn't give you stats, but it's also easier to use for farming (you don't need to control additional unit). It's OK alternative to HotD if you're bad with controlled units or playing against heroes like Lich or WR"
+			"item_mask_of_madness"		"Mask of Madness works as a more aggressive counterpart to Helm of the Dominator. It doesn&apos;t give you stats, but it&apos;s also easier to use for farming (you don&apos;t need to control additional unit). It&apos;s OK alternative to HotD if you&apos;re bad with controlled units or playing against heroes like Lich or WR"
 		}
 	}
 	"AbilityBuild"

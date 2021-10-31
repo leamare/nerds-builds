@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"broodmother"
-	"Title"		"Nerds Offlane/Mid Brood"
+	"Title"		"Nerds Offlane Brood"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CDC97"
-	"TimePublished"		"0x00000000611CDC97"
+	"TimeUpdated"		"0x000000006140ED68"
+	"TimePublished"		"0x000000006140ED68"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,6 +34,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_arcane_boots"
 				"item"		"item_pipe"
 				"item"		"item_guardian_greaves"
+				"item"		"item_aghanims_shard"
 			}
 			"Core - Damage"
 			{
@@ -56,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"
 				"item"		"item_butterfly"

@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"73"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CEB1C"
-	"TimePublished"		"0x00000000611CEB1C"
+	"TimeUpdated"		"0x00000000617EF510"
+	"TimePublished"		"0x00000000617EF510"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,29 +28,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
-				"item"		"item_medallion_of_courage"
-				"item"		"item_boots"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
 				"item"		"item_aghanims_shard"
-				"item"		"item_solar_crest"
 			}
 			"Situational Early"
 			{
+				"item"		"item_medallion_of_courage"
 				"item"		"item_maelstrom"
 				"item"		"item_sphere"
 				"item"		"item_ancient_janggo"
-				"item"		"item_falcon_blade"
 			}
 			"Utility"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
@@ -59,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
 				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
@@ -90,9 +90,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_infused_raindrop"		"Extra mana regen and early game tankiness against nukes"
-			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it's pretty good to have early."
-			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don't need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
-			"item_hand_of_midas"		"If you think that game is going to be super long, it's probably best choice since you don't have abilty to farm really fast."
+			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it&amp;apos;s pretty good to have early."
+			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don&amp;apos;t need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
+			"item_hand_of_midas"		"If you think that game is going to be super long, it&amp;apos;s probably best choice since you don&amp;apos;t have abilty to farm really fast."
 			"item_urn_of_shadows"		"Good for surviving in fights, outlving the opponents."
 			"item_hurricane_pike"		"Bonus attack range, stats and ability to save allies once again with forcestaff active. Pretty nice, huh?"
 			"item_assault"		"Pretty good on weaver because of our minusarmor playstyle."
@@ -127,8 +127,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"weaver_the_swarm"		"Our main harassing, fighting and farming tool."
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
-			"weaver_geminate_attack"		"If you don't need shikuchi early, you can skill this one first. It's pretty good for harassing enemy early."
-			"weaver_time_lapse"		"Don't be afraid to use it. There's no shame to use it when you think you need to. If there's a signs of emergency - hit it to disengage and run out."
+			"weaver_geminate_attack"		"If you don&amp;apos;t need shikuchi early, you can skill this one first. It&amp;apos;s pretty good for harassing enemy early."
+			"weaver_time_lapse"		"Don&amp;apos;t be afraid to use it. There&amp;apos;s no shame to use it when you think you need to. If there&amp;apos;s a signs of emergency - hit it to disengage and run out."
 		}
 	}
 }

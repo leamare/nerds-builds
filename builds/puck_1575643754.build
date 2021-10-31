@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 Based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE4C5"
-	"TimePublished"		"0x00000000611CE4C5"
+	"TimeUpdated"		"0x000000006140F837"
+	"TimePublished"		"0x000000006140F837"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,17 +34,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_urn_of_shadows"
+				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
 				"item"		"item_cyclone"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_blink"
 				"item"		"item_bracer"
 				"item"		"item_veil_of_discord"
+				"item"		"item_urn_of_shadows"
 			}
 			"Utility"
 			{
@@ -102,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_spy_gadget"		"Bonus attack range and cast range. Enough said"
 			"item_timeless_relic"		"Absolutely best item for us with extra debuff duration and spell damage. Dream coils lasts for an eternity, and we have perma-silence for enemy supports"
 			"item_panic_button"		"Works almost like Aeon Disk. Helps to survive"
-			"item_princes_knife"		"Hex can never be enough. Doesnt work with our 'Phase Shift attack' talent."
+			"item_princes_knife"		"Hex can never be enough. Doesnt work with our &apos;Phase Shift attack&apos; talent."
 			"item_spell_prism"		"Another cooldown reduction item"
 			"item_witless_shako"		"Additional surviveability"
 		}

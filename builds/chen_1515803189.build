@@ -2,38 +2,40 @@
 {
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
-	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CDCF5"
-	"TimePublished"		"0x00000000611CDCF5"
+	"TimeUpdated"		"0x000000006140EDDC"
+	"TimePublished"		"0x000000006140EDDC"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_headdress"
+				"item"		"item_crown"
 				"item"		"item_tango"
 			}
 			"Early"
 			{
 				"item"		"item_magic_stick"
-				"item"		"item_mekansm"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_buckler"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_holy_locket"
+				"item"		"item_helm_of_the_overlord"
+				"item"		"item_solar_crest"
 				"item"		"item_aghanims_shard"
-				"item"		"item_guardian_greaves"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -45,11 +47,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
-				"item"		"item_vladmir"
+				"item"		"item_holy_locket"
 			}
 			"Lategame"
 			{
-				"item"		"item_solar_crest"
+				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_sheepstick"
 				"item"		"item_ultimate_scepter"
@@ -84,7 +86,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don't really need it every time, especially after recent changes and with this playstyle. Consider buying it if you're playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"
@@ -92,21 +94,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"chen_holy_persuasion"
-			"2"		"chen_penitence"
+			"2"		"chen_divine_favor"
 			"3"		"chen_holy_persuasion"
-			"4"		"chen_divine_favor"
+			"4"		"chen_penitence"
 			"5"		"chen_holy_persuasion"
 			"6"		"chen_hand_of_god"
 			"7"		"chen_holy_persuasion"
-			"8"		"chen_divine_favor"
-			"9"		"chen_divine_favor"
+			"8"		"chen_penitence"
+			"9"		"chen_penitence"
 			"10"		"special_bonus_unique_chen_11"
-			"11"		"chen_divine_favor"
+			"11"		"chen_penitence"
 			"12"		"chen_hand_of_god"
-			"13"		"chen_penitence"
-			"14"		"chen_penitence"
-			"15"		"special_bonus_unique_chen_5"
-			"16"		"chen_penitence"
+			"13"		"chen_divine_favor"
+			"14"		"chen_divine_favor"
+			"15"		"special_bonus_unique_chen_8"
+			"16"		"chen_divine_favor"
 			"18"		"chen_hand_of_god"
 			"20"		"special_bonus_unique_chen_7"
 			"25"		"special_bonus_unique_chen_2"

@@ -1,10 +1,10 @@
 # List of published Nerds Hero Builds
 
-## Patch: 7.30
+## Patch: 7.30d/e
 
-### Total builds published: 101 (out of ~218 planned)
+### Total builds published: 103 (out of ~220 planned)
 
-### Descriptions ready: 34 out of 101
+### Descriptions ready: 34 out of 103
 
 ---
 
@@ -65,6 +65,8 @@ Hero | Role | Desc. | Link | File
 ![luna][luna] Luna | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1826262090) | [buildfile](builds/luna_1550925602.build)
 ![lycan][lycan] Lycan | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1885725635) | [buildfile](builds/lycan_1570651552.build)
 ![magnataur][magnataur] Magnus | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1928873072) | [buildfile](builds/magnataur_1575536994.build)
+![marci][marci] Marci | Support |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2642490128) | [buildfile](builds/marci_1635708586.build)
+![marci][marci] Marci | Core |  | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2642510548) | [buildfile](builds/marci_1635709939.build)
 ![mars][mars] Mars | Core | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674151420) | [buildfile](builds/mars_1551812621.build)
 ![mars][mars] Mars | Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1674165875) | [buildfile](builds/mars_1551813312.build)
 ![meepo][meepo] Meepo | Support | ✅ | [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2517043718) | [buildfile](builds/meepo_1623620108.build)
@@ -154,6 +156,7 @@ Hero | Role | Desc. | Link | File
 [lone_druid]: https://courier.spectral.gg/images/dota/portraits/lone_druid.png?size=smallest
 [luna]: https://courier.spectral.gg/images/dota/portraits/luna.png?size=smallest
 [lycan]: https://courier.spectral.gg/images/dota/portraits/lycan.png?size=smallest
+[marci]: https://courier.spectral.gg/images/dota/portraits/marci.png?size=smallest
 [meepo]: https://courier.spectral.gg/images/dota/portraits/meepo.png?size=smallest
 [magnataur]: https://courier.spectral.gg/images/dota/portraits/magnataur.png?size=smallest
 [mars]: https://courier.spectral.gg/images/dota/portraits/mars.png?size=smallest

@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"99"
+	"GuideRevision"		"102"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CF20D"
-	"TimePublished"		"0x00000000611CF20D"
+	"TimeUpdated"		"0x000000006140EF08"
+	"TimePublished"		"0x000000006140EF08"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,25 +40,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_glimmer_cape"
-				"item"		"item_force_staff"
+				"item"		"item_cyclone"
 				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
-				"item"		"item_cyclone"
 				"item"		"item_arcane_boots"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_veil_of_discord"
 			}
 			"Utility"
 			{
-				"item"		"item_force_staff"
 				"item"		"item_lotus_orb"
 				"item"		"item_solar_crest"
+				"item"		"item_glimmer_cape"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
@@ -74,14 +75,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core Transition"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_greater_crit"
 				"item"		"item_nullifier"
 				"item"		"item_hurricane_pike"
-				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
 			{
@@ -103,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_wind_lace"		"You're pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_wind_lace"		"You&apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
@@ -139,10 +138,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityTooltips"
 		{
 			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
-			"dark_willow_cursed_crown"		"It's incredibly strong ability, but we don't really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
-			"special_bonus_unique_dark_willow_1"		"Since you're building a lot of mobility and surviveability, you won't really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
-			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won't be really useful most of the times won't change anything."
-			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won't be catched off guard)"
+			"dark_willow_cursed_crown"		"It&apos;s incredibly strong ability, but we don&apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
+			"special_bonus_unique_dark_willow_1"		"Since you&apos;re building a lot of mobility and surviveability, you won&apos;t really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
+			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won&apos;t be really useful most of the times won&apos;t change anything."
+			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won&apos;t be catched off guard)"
 		}
 	}
 }

@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE969"
-	"TimePublished"		"0x00000000611CE969"
+	"TimeUpdated"		"0x00000000614EFE62"
+	"TimePublished"		"0x00000000614EFE62"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,28 +22,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_wind_lace"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_boots"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
 				"item"		"item_magic_stick"
+				"item"		"item_arcane_boots"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_fluffy_hat"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_holy_locket"
-				"item"		"item_aghanims_shard"
-				"item"		"item_spirit_vessel"
+				"item"		"item_power_treads"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
-				"item"		"item_soul_ring"
 				"item"		"item_ancient_janggo"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_ghost"
@@ -51,7 +45,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Utility"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_vladmir"
+				"item"		"item_mage_slayer"
 				"item"		"item_heavens_halberd"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
@@ -65,7 +61,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_manta"
 				"item"		"item_heart"
 				"item"		"item_gungir"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
 			}
 			"Situational"
@@ -92,8 +87,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"spectre_spectral_dagger"
-			"2"		"spectre_desolate"
+			"1"		"spectre_desolate"
+			"2"		"spectre_spectral_dagger"
 			"3"		"spectre_spectral_dagger"
 			"4"		"spectre_dispersion"
 			"5"		"spectre_spectral_dagger"

@@ -3,16 +3,16 @@
 	"Hero"		"phantom_lancer"
 	"Title"		"Nerds Phantom Lancer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE4B8"
-	"TimePublished"		"0x00000000611CE4B8"
+	"TimeUpdated"		"0x000000006140F814"
+	"TimePublished"		"0x000000006140F814"
 	"ItemBuild"
 	{
 		"Items"
@@ -42,6 +42,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
+				"item"		"item_mage_slayer"
 				"item"		"item_soul_ring"
 				"item"		"item_sange_and_yasha"
 			}

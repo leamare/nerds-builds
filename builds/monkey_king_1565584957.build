@@ -3,16 +3,16 @@
 	"Hero"		"monkey_king"
 	"Title"		"Nerds Monkey King"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"37"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE3C3"
-	"TimePublished"		"0x00000000611CE3C3"
+	"TimeUpdated"		"0x000000006140F729"
+	"TimePublished"		"0x000000006140F729"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,13 +22,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_flask"
 				"item"		"item_tango"
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
+				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"#DOTA_Item_Build_Early_Game"
 			{
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_power_treads"
-				"item"		"item_quelling_blade"
 				"item"		"item_echo_sabre"
 			}
 			"#DOTA_Item_Build_Core_Items"
@@ -37,17 +38,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
-				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
-				"item"		"item_falcon_blade"
 				"item"		"item_bfury"
 				"item"		"item_wraith_band"
 				"item"		"item_ancient_janggo"
+				"item"		"item_orb_of_corrosion"
 			}
 			"Lategame"
 			{
+				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"

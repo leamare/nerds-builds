@@ -3,19 +3,19 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Warding Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"Arc Warden is powerful lategame core that can be played as position 4-5 support (or offlane utility core) with possibility of transitioning into powerful lategame core. Arc Warden's able to save allies and structures from physical attacks, savely scout with sparks and use items twice (and without spending charges). 
 
 This strategy works well against ranged push strats, low mobility heroes. It also works well agains Undying and Phoenix and helps to enable high-damage-low-attack-speed cores while taking objectives. Arc can serve as good push assistaint as well as depusher.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"84"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CF2C5"
-	"TimePublished"		"0x00000000611CF2C5"
+	"TimeUpdated"		"0x000000006140E9D8"
+	"TimePublished"		"0x000000006140E9D8"
 	"ItemBuild"
 	{
 		"Items"
@@ -106,31 +106,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_blink"		"More offensive alternative to force staff. You won't be able to save somebody, but you will be able to initiate from far away with hex or diffusal."
+			"item_blink"		"More offensive alternative to force staff. You won&apos;t be able to save somebody, but you will be able to initiate from far away with hex or diffusal."
 			"item_wind_lace"		"We need to fix some of our mobility issues early. Wind Lace is pretty good for us to have at the start, so we can roam around the map and gank more effectively"
 			"item_ghost"		"Against REALLY HIGH phys damage lineups"
-			"item_clarity"		"We are going to use a lot of spells early, so we will need a lot of mana regen in the beginning. Can be skipped if you don't have enough money"
+			"item_clarity"		"We are going to use a lot of spells early, so we will need a lot of mana regen in the beginning. Can be skipped if you don&apos;t have enough money"
 			"item_tango"		"Another reasonable choice: instead of early wind lace or ring of protection you can buy two sets of tangoes."
 			"item_travel_boots"		"Ability to split-push and teleport from other part of the map. Pretty straight forward"
-			"item_hand_of_midas"		"You won't get much time and space to farm, so most of your money will come from assists and structures, so your midas will be probably late (somewhere between min 16-30), but it's fine: aside from drums and tranquils we don't need that much, while midas will just allow us to buy expensive stuff"
+			"item_hand_of_midas"		"You won&apos;t get much time and space to farm, so most of your money will come from assists and structures, so your midas will be probably late (somewhere between min 16-30), but it&apos;s fine: aside from drums and tranquils we don&apos;t need that much, while midas will just allow us to buy expensive stuff"
 			"item_pipe"		"Since 6.88 (I believe) pipes stack, so you can get it against high-magic damage lineups (tinker, zeus) and just cover up your team with magic shield twice"
-			"item_sheepstick"		"It's very expensive for position 4/5 support, but in very long game scenario we will be able to transition into core and we will get a lot of money, so we can afford sheepstick and, well, double hex in fights is very strong."
+			"item_sheepstick"		"It&apos;s very expensive for position 4/5 support, but in very long game scenario we will be able to transition into core and we will get a lot of money, so we can afford sheepstick and, well, double hex in fights is very strong."
 			"item_bloodthorn"		"Ultimate damage solution, mostly because you will have two of bloodthorns and lightnings so you will benefit from attack speed and crits a lot."
 			"item_force_staff"		"Some utility to save allies, some mobility, pike upgrade. Pretty nice to have in both agressive and defensive situations: you can save your allies with it, save yourself, reach enemies and, well, you will have not one, but two force staffs."
 			"item_hurricane_pike"		"Since we want to have Force staff anyways, getting Pike is just a matter of time: it provides a lot of stats, as well as a little bit of damage. Quite good to have on a support."
-			"item_assault"		"Same issue as vladmir's offering, same reason to get as deso: if nobody goes for it, you may get it"
+			"item_assault"		"Same issue as vladmir&apos;s offering, same reason to get as deso: if nobody goes for it, you may get it"
 			"item_sphere"		"Another way of saving your ally (double linkens)"
 			"item_lotus_orb"		"Purging negative effects from allies with doubled speed is quite nice, altho it has low cooldown anyway so somebody else can get it instead"
-			"item_silver_edge"		"Break, -50% damage debuff, all of that can't be dispelled. It provides us invis and some pickoff ability, but think of it more like about utility item: it boosts our stats and damage a little bit, but also gives us ability to turn enemy core into useless hero for a while with this damage reduction"
+			"item_silver_edge"		"Break, -50% damage debuff, all of that can&apos;t be dispelled. It provides us invis and some pickoff ability, but think of it more like about utility item: it boosts our stats and damage a little bit, but also gives us ability to turn enemy core into useless hero for a while with this damage reduction"
 			"item_mjollnir"		"Natural upgrade to your maelstrom, increases damage output for a very good price"
-			"item_desolator"		"It's not really cheap for us and against heroes medallion will be better, but if we need something to get structures early and nobody gets deso, you can buy it."
+			"item_desolator"		"It&apos;s not really cheap for us and against heroes medallion will be better, but if we need something to get structures early and nobody gets deso, you can buy it."
 			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and twice effective slow (with your double)"
-			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn't have diffusal blade or other purge)"
-			"item_arcane_boots"		"Another one good pickup. Can be disassebled, can be used on double and original, pretty good choice. Tranquils are usually better because of health regen and armor, which is AW's problems early, but if your team has mana issues, you can pick up arcanes, even as second boot"
+			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn&apos;t have diffusal blade or other purge)"
+			"item_arcane_boots"		"Another one good pickup. Can be disassebled, can be used on double and original, pretty good choice. Tranquils are usually better because of health regen and armor, which is AW&apos;s problems early, but if your team has mana issues, you can pick up arcanes, even as second boot"
 			"item_ancient_janggo"		"Gives us a little bit of stats and solves our mana regen issues, so we can spam our spells. And not obly that: you can summon tempest double and use Drum while not spending any charges, basically having endless drums in every fight."
 			"item_solar_crest"		"Awesome upgrade for medallion: miss chance, a lot of armor and very good price"
-			"item_smoke_of_deceit"		"It's hard for us to gank since we don't have blink, invisibility or mobility spell, so smoke will help us to gank early and not get spotted"
-			"item_guardian_greaves"		"Debuff that prevents multiple healing lasts for almost 38 seconds, greaves have 40 seconds cooldown. It doesn't give us any benefit with double, so you want to get it only when nobody else gets it and your team REALLY needs it"
+			"item_smoke_of_deceit"		"It&apos;s hard for us to gank since we don&apos;t have blink, invisibility or mobility spell, so smoke will help us to gank early and not get spotted"
+			"item_guardian_greaves"		"Debuff that prevents multiple healing lasts for almost 38 seconds, greaves have 40 seconds cooldown. It doesn&apos;t give us any benefit with double, so you want to get it only when nobody else gets it and your team REALLY needs it"
 			"item_tranquil_boots"		"Ultimate ganking boots. Higher movement speed, armor and solution for our bad early health regen."
 			"item_glimmer_cape"		"Good to have against magic-heavy lineups or to reset enemy focus from an ally"
 		}
@@ -166,9 +166,9 @@ We will be relying on our physical damage anyway, our sparks are going to be mos
 			"special_bonus_attack_speed_25"		"Even while we are going to play support, we want to transition into core. Bonus flux damage is nice, but attack speed is more useful later on."
 			"special_bonus_attack_damage_30"		"Pretty much same as level 10 talent: 200 health is a lot, but you can get health anyway, but damage is much more valueable for you"
 			"special_bonus_cooldown_reduction_10"		"In AW-core build I mentioned that both talents are good. In support build you are going to play as utility guy with active items and skills, so your main focus will be not attack range and sieging, but using these items as much as possible, co CDR is more valueable"
-			"arc_warden_flux"		"Our main ganking spell. It's not very reliable because it can be muted nearby allies, so you need to get very good moment early to use it: right after new creepwave arrives and when enemy is far away from tower"
-			"arc_warden_magnetic_field"		"Main support spell. Allowes us to save allies from physical attacks and also save structures with a free glyph. Altho, you need to position it in a very good way, so enemy won't be able to bet inside of the field or force enemy to be out of position to get inside. And again, it fully works on tower"
-			"arc_warden_spark_wraith"		"It's pretty good level 4 nuke, but as level 1 spell it's pretty much only a slow and vision spell.
+			"arc_warden_flux"		"Our main ganking spell. It&apos;s not very reliable because it can be muted nearby allies, so you need to get very good moment early to use it: right after new creepwave arrives and when enemy is far away from tower"
+			"arc_warden_magnetic_field"		"Main support spell. Allowes us to save allies from physical attacks and also save structures with a free glyph. Altho, you need to position it in a very good way, so enemy won&apos;t be able to bet inside of the field or force enemy to be out of position to get inside. And again, it fully works on tower"
+			"arc_warden_spark_wraith"		"It&apos;s pretty good level 4 nuke, but as level 1 spell it&apos;s pretty much only a slow and vision spell.
 
 The first thing you do as Arc, is you go to the rune and use a spark wraith on every choke point and rune spawn area. Also use it to harass enemy core from a distance."
 			"arc_warden_tempest_double"		"Keep TP scroll in your inventory past level 6 and gank with your tempest double, applying pressure and creating kill potential.

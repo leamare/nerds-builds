@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CF2F1"
-	"TimePublished"		"0x00000000611CF2F1"
+	"TimeUpdated"		"0x000000006140E960"
+	"TimePublished"		"0x000000006140E960"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,27 +28,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
 				"item"		"item_soul_ring"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
+				"item"		"item_armlet"
 				"item"		"item_radiance"
-				"item"		"item_sange_and_yasha"
 			}
 			"Situational Early"
 			{
-				"item"		"item_armlet"
+				"item"		"item_power_treads"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_silver_edge"
 				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
 				"item"		"item_moon_shard"
@@ -60,6 +58,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_silver_edge"
 				"item"		"item_solar_crest"
 				"item"		"item_heavens_halberd"
 				"item"		"item_manta"
@@ -67,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_satanic"
 				"item"		"item_bloodthorn"
 				"item"		"item_greater_crit"
-				"item"		"item_desolator"
 				"item"		"item_shivas_guard"
 				"item"		"item_aghanims_shard"
 			}
@@ -77,8 +76,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
 				"item"		"item_cloak_of_flames"
+				"item"		"item_black_powder_bag"
 				"item"		"item_bullwhip"
-				"item"		"item_trusty_shovel"
+				"item"		"item_titan_sliver"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
 			}
@@ -101,8 +101,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"1"		"alchemist_goblins_greed"
 			"2"		"alchemist_acid_spray"
-			"3"		"alchemist_goblins_greed"
-			"4"		"alchemist_acid_spray"
+			"3"		"alchemist_acid_spray"
+			"4"		"alchemist_goblins_greed"
 			"5"		"alchemist_acid_spray"
 			"6"		"alchemist_chemical_rage"
 			"7"		"alchemist_goblins_greed"

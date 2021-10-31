@@ -3,16 +3,16 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CE50D"
-	"TimePublished"		"0x00000000611CE50D"
+	"TimeUpdated"		"0x000000006140F8A5"
+	"TimePublished"		"0x000000006140F8A5"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,8 +25,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_stick"
+				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
 			}
 			"Core"

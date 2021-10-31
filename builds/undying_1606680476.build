@@ -2,17 +2,17 @@
 {
 	"Hero"		"undying"
 	"Title"		"Nerds Offlane Undying"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"Undying is a Strength Utility hero. He excells at dominating in the early game and teamfights, as well as healing allies. Offlane Undying focuses on winning the lane and forcing enemies out of it to rush Meteor Hammer and farm efficiently to get use of early dominance, and to get the early tier 1 towers as well. Later into the game the build is focusing on being tanky and snowballing through fights, while providing auras to the team. Lategame Undying with Aghs Decay upgrade is the finishing touch, amping the hero's power level.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x00000000894DCC50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CEA40"
-	"TimePublished"		"0x00000000611CEA40"
+	"TimeUpdated"		"0x000000006140FA83"
+	"TimePublished"		"0x000000006140FA83"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,40 +21,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_flask"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_boots"
-				"item"		"item_wind_lace"
 				"item"		"item_soul_ring"
+				"item"		"item_orb_of_venom"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_guardian_greaves"
+				"item"		"item_phase_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_hood_of_defiance"
 				"item"		"item_arcane_boots"
-				"item"		"item_holy_locket"
 				"item"		"item_rod_of_atos"
+				"item"		"item_echo_sabre"
+				"item"		"item_meteor_hammer"
 			}
 			"Lategame"
 			{
+				"item"		"item_overwhelming_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
-				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 			}
 			"Situational / Utility"
 			{
 				"item"		"item_blade_mail"
+				"item"		"item_guardian_greaves"
 				"item"		"item_vladmir"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
@@ -62,11 +66,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_crimson_guard"
 				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
-				"item"		"item_radiance"
-				"item"		"item_blink"
 				"item"		"item_heart"
 				"item"		"item_abyssal_blade"
-				"item"		"item_gungir"
+				"item"		"item_holy_locket"
+				"item"		"item_aeon_disk"
 			}
 			"Best Neutral Items"
 			{
@@ -90,12 +93,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_enchanted_mango"		"Early mana solution to keep spamming Decay. You can get another pack of mangoes, but it's better to just use these three and go straight for Arcane Boots afterwards"
+			"item_enchanted_mango"		"Early mana solution to keep spamming Decay. You can get another pack of mangoes, but it&apos;s better to just use these three and go straight for Arcane Boots afterwards"
 			"item_magic_stick"		"Early mana solution for low int heroes"
-			"item_arcane_boots"		"A good mana sustain item. Can be upgraded into Greaves later or disassembled into Holy Locket"
 			"item_wind_lace"		"Additional mobility to keep up with enemy heroes"
-			"item_meteor_hammer"		"THE item you want to get as a Core Undying. The main problems you will fice is keeping up in farm as the game goes and dealing with objectives. Meteor Hammer allowes you to farm efficiently and take towers, which in turn allowes you to use your early game dominance and stay relatively strong throughout the game."
-			"item_guardian_greaves"		"You want to make Greaves ASAP after Meteor - healing, mana sustain, armor, dispel. The only cases you'd like to skip it are (a) when you're going for Hocket instead or (b) somebody else wants to make Greaves too and it will be better on the hero (e.g. Dazzle)"
+			"item_meteor_hammer"		"The main problems you will face is keeping up in farm as the game goes and dealing with objectives. Meteor Hammer allowes you to farm efficiently and take towers, which in turn allowes you to use your early game dominance and stay relatively strong throughout the game."
+			"item_guardian_greaves"		"You want to make Greaves ASAP after Meteor - healing, mana sustain, armor, dispel. The only cases you&apos;d like to skip it are (a) when you&apos;re going for Hocket instead or (b) somebody else wants to make Greaves too and it will be better on the hero (e.g. Dazzle)"
 			"item_holy_locket"		"An insanely powerful Undying item. Gives you great stats and makes Soul Rip much stronger"
 			"item_rod_of_atos"		"A nice early item if you lack any kind of control on your team"
 			"item_soul_ring"		"A nice item for early mana sustain, but usually Arcane Boots will be enough"
@@ -105,10 +107,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_octarine_core"		"Additional increase in power for Decay and Soul Rip - cooldown reduction, additional health (and spell lifesteal comes in handy, too)"
 			"item_vladmir"		"Casual offlaner Vlads for your team"
 			"item_pipe"		"Casual Pipe for your team, good against magic heavy lineups"
-			"item_lotus_orb"		"Good armor solution to get against roots/silences/other debuffs to help your team (or yourself if greaves is not enough). Usually would replace Shiva's (may also replace Greaves)"
+			"item_lotus_orb"		"Good armor solution to get against roots/silences/other debuffs to help your team (or yourself if greaves is not enough). Usually would replace Shiva&apos;s (may also replace Greaves)"
 			"item_heavens_halberd"		"Casual Halberd to help your team, Sange to increase your self healing"
-			"item_radiance"		"Good item to keep with \"tanky and slowing hero\" theme, works well with Octarine, usually a shit item choice"
 			"item_blink"		"Can be used to blink on your target with your ult active to make it harder for the hero to run away"
+			"item_arcane_boots"		"A good mana sustain item. Can be upgraded into Greaves later or disassembled into Holy Locket"
 		}
 	}
 	"AbilityBuild"
@@ -137,9 +139,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"undying_decay"		"The early to mid game domination spell. You don't really want to upgrade it early on, since its duration doesn't change, while mana cost is increasing."
+			"undying_decay"		"The early to mid game domination spell. You don&apos;t really want to upgrade it early on, since its duration doesn&apos;t change, while mana cost is increasing."
 			"undying_soul_rip"		"Early nuke/heal. Try to use it on lane as much as possible after you get enemy low enough with Decay. Keep in mind - your heal is directly tied to the number of units around. You can also use it to heal Tombstone OR to get more units around."
-			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don't have meteor/bm yet), as well as deals with enemy running away.
+			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&apos;t have meteor/bm yet), as well as deals with enemy running away.
 You can also use it on highgrounds / ward spots to make it harder to destroy for your enemies."
 			"undying_flesh_golem"		"The amount of Strength is directly tied to your own strength, so you want to steal as much with Decay as possible. It also makes you a bit faster, so you want to use it in teamfights to (a) tank more and survive and (b) chase enemies down and focus them with your team."
 		}

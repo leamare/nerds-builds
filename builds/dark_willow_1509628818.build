@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"116"
+	"GuideRevision"		"118"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CF1F4"
-	"TimePublished"		"0x00000000611CF1F4"
+	"TimeUpdated"		"0x000000006140EE97"
+	"TimePublished"		"0x000000006140EE97"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,8 +30,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_falcon_blade"
-				"item"		"item_wind_lace"
+				"item"		"item_null_talisman"
+				"item"		"item_veil_of_discord"
 			}
 			"Core"
 			{
@@ -43,6 +43,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_witch_blade"
+				"item"		"item_falcon_blade"
 				"item"		"item_soul_ring"
 				"item"		"item_bottle"
 				"item"		"item_force_staff"
@@ -56,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_sphere"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
@@ -67,17 +67,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_sphere"
+				"item"		"item_invis_sword"
+				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodthorn"
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
-				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
-				"item"		"item_mjollnir"
 				"item"		"item_gungir"
-				"item"		"item_arcane_blink"
 			}
 			"Best Neutral Items"
 			{
@@ -129,7 +129,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_spell_lifesteal_10"		"This talent is pretty good for staying alive in fights. Haldor is usually getting this talent and this talent by itself is as successful as its alternative. It also stacks pretty well with Mjolnir. Altho, if you sure you won't need more sustain, you can switch to bonus Shadow Realm damage since it almost doubles your damage output from the ability."
+			"special_bonus_spell_lifesteal_10"		"This talent is pretty good for staying alive in fights. Haldor is usually getting this talent and this talent by itself is as successful as its alternative. It also stacks pretty well with Mjolnir. Altho, if you sure you won&apos;t need more sustain, you can switch to bonus Shadow Realm damage since it almost doubles your damage output from the ability."
 		}
 	}
 }

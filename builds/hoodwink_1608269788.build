@@ -2,18 +2,18 @@
 {
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Hoodwink"
-	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.30c"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x000000008A997745"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000611CF1B1"
-	"TimePublished"		"0x00000000611CF1B1"
+	"TimeUpdated"		"0x000000006140F3B5"
+	"TimePublished"		"0x000000006140F3B5"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,50 +29,55 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Midlane"
 			{
 				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_slippers"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_maelstrom"
 			}
 			"Core"
 			{
 				"item"		"item_gungir"
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_falcon_blade"
 				"item"		"item_wraith_band"
 				"item"		"item_bottle"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_sphere"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_aghanims_shard"
+				"item"		"item_octarine_core"
 				"item"		"item_black_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_blink"
 				"item"		"item_greater_crit"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_swift_blink"
-				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
+				"item"		"item_kaya_and_sange"
+				"item"		"item_mage_slayer"
+				"item"		"item_sphere"
 				"item"		"item_desolator"
 				"item"		"item_guardian_greaves"
 				"item"		"item_solar_crest"
-				"item"		"item_mjollnir"
 				"item"		"item_manta"
 				"item"		"item_satanic"
 				"item"		"item_hurricane_pike"
 				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
 			}
 			"Best Neutral Items"
 			{
