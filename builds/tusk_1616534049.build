@@ -3,16 +3,16 @@
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140FA7B"
-	"TimePublished"		"0x000000006140FA7B"
+	"TimeUpdated"		"0x0000000061914B07"
+	"TimePublished"		"0x0000000061914B07"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,7 +35,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
@@ -51,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_bloodthorn"
