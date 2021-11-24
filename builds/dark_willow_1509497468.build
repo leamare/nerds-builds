@@ -3,24 +3,22 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"102"
+	"GuideRevision"		"103"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140EF08"
-	"TimePublished"		"0x000000006140EF08"
+	"TimeUpdated"		"0x00000000619D3B6E"
+	"TimePublished"		"0x00000000619D3B6E"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_ward_observer"
-				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_branches"
@@ -28,6 +26,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_faerie_fire"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
@@ -102,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_wind_lace"		"You&apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_wind_lace"		"You&amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
@@ -138,10 +138,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityTooltips"
 		{
 			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
-			"dark_willow_cursed_crown"		"It&apos;s incredibly strong ability, but we don&apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
-			"special_bonus_unique_dark_willow_1"		"Since you&apos;re building a lot of mobility and surviveability, you won&apos;t really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
-			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won&apos;t be really useful most of the times won&apos;t change anything."
-			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won&apos;t be catched off guard)"
+			"dark_willow_cursed_crown"		"It&amp;apos;s incredibly strong ability, but we don&amp;apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
+			"special_bonus_unique_dark_willow_1"		"Since you&amp;apos;re building a lot of mobility and surviveability, you won&amp;apos;t really need Spell Lifesteal anyway, while buff to your main spell will make you way stronger."
+			"special_bonus_attack_speed_200"		"With this talent you can become another core for your team, while additional second to a spell that won&amp;apos;t be really useful most of the times won&amp;apos;t change anything."
+			"special_bonus_cast_range_125"		"Even while Sylph already has a lot of cast range, this talent will be way more helpful for a squishy support (so you won&amp;apos;t be catched off guard)"
 		}
 	}
 }

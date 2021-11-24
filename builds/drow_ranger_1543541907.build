@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F023"
-	"TimePublished"		"0x000000006140F023"
+	"TimeUpdated"		"0x00000000619D3B09"
+	"TimePublished"		"0x00000000619D3B09"
 	"ItemBuild"
 	{
 		"Items"
@@ -96,16 +96,16 @@ If you want to go all-in for farming and can get it relatively early, it may be 
 			"item_power_treads"		"~10 min
 Even while Drow wants attack speed more than damage, getting additional agility for such a cheap price is way too valuable for her"
 			"item_wraith_band"		"Stack as much of Wraith Bands as you possibly can, saving a slot for boots and blink. This will allow you to keep on moving during early game"
-			"item_blink"		"Main mobility and farming tool. Get it if you&apos;re going to play agressively around pickoffs"
+			"item_blink"		"Main mobility and farming tool. Get it if you&amp;apos;re going to play agressively around pickoffs"
 			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more"
 			"item_hurricane_pike"		"Both mobility and surviveability item, that will also help with keeping distance"
-			"item_diffusal_blade"		"Cheap agility and ability to control your enemy. It&apos;s usually too cheap to purchase considering Drow&apos;s farming speed, but it may be helpful"
+			"item_diffusal_blade"		"Cheap agility and ability to control your enemy. It&amp;apos;s usually too cheap to purchase considering Drow&amp;apos;s farming speed, but it may be helpful"
 			"item_mask_of_madness"		"It may be a good farming item for Drow, increasing attack speed and mobility, but in most scenarios getting more traditional items is better"
 			"item_silver_edge"		"Can be useful for repositioning if you feel like you need a bit more surviveability. Nice bonus - at level 25 you can be permanently invisible"
 			"item_butterfly"		"More of an offensive choice if you want to boost your damage significantly. Keep in mind that you will also give 28 attack speed to your team (and yourself, making it 35+30+28 attack speed item)"
 			"item_greater_crit"		"Most offensive choice, mostly purchased as sixth slot"
 			"item_satanic"		"Tankiness, status resistance and low cooldown lifesteal that will make you pretty much unkillable"
-			"item_sheepstick"		"Considering level 25 talent, it&apos;s good purchase if your team lacks control"
+			"item_sheepstick"		"Considering level 25 talent, it&amp;apos;s good purchase if your team lacks control"
 			"item_ethereal_blade"		"Usually purchased as defensive butterfly replacement because of stats and ability to save an ally from physical burst"
 		}
 	}
@@ -138,7 +138,7 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 			"special_bonus_evasion_25"		"Makes you tankier against physical damage and much harder to take down"
 			"special_bonus_movement_speed_20"		"Everything that gives mobility is our main priority"
 			"special_bonus_unique_drow_ranger_2"		"Can be pretty good choice when you use it in combiation with Pike and Blink (get in, gust opponent to your team, pike away) or when you just want to keep your distance"
-			"special_bonus_attack_speed_25"		"Raw and self explanatory attack speed bonus if you&apos;re lazy, it always works fine"
+			"special_bonus_attack_speed_25"		"Raw and self explanatory attack speed bonus if you&amp;apos;re lazy, it always works fine"
 			"special_bonus_unique_drow_ranger_4"		"Can be useful against caster-heavy lineups or elusive heroes"
 		}
 	}

@@ -3,44 +3,46 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F6DA"
-	"TimePublished"		"0x000000006140F6DA"
+	"TimeUpdated"		"0x00000000619D3233"
+	"TimePublished"		"0x00000000619D3233"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_flask"
 				"item"		"item_tango"
-				"item"		"item_branches"
 				"item"		"item_circlet"
+				"item"		"item_branches"
 				"item"		"item_clarity"
+				"item"		"item_flask"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_stick"
-				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_cyclone"
-				"item"		"item_solar_crest"
+				"item"		"item_arcane_boots"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_force_staff"
+				"item"		"item_ghost"
 			}
 			"Lategame"
 			{
@@ -55,7 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ghost"
+				"item"		"item_solar_crest"
 				"item"		"item_vladmir"
 				"item"		"item_travel_boots"
 				"item"		"item_pipe"

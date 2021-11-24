@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F948"
-	"TimePublished"		"0x000000006140F948"
+	"TimeUpdated"		"0x00000000619D281D"
+	"TimePublished"		"0x00000000619D281D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,33 +20,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_flask"
-				"item"		"item_faerie_fire"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_blight_stone"
 				"item"		"item_clarity"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_headdress"
 				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
 				"item"		"item_mekansm"
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
-				"item"		"item_soul_ring"
+				"item"		"item_ghost"
 			}
 			"Utility"
 			{
@@ -57,18 +55,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
-				"item"		"item_blink"
 				"item"		"item_sheepstick"
 				"item"		"item_monkey_king_bar"
 			}
 			"Situational"
 			{
-				"item"		"item_ghost"
 				"item"		"item_rod_of_atos"
 				"item"		"item_veil_of_discord"
 				"item"		"item_cyclone"
 				"item"		"item_vladmir"
+				"item"		"item_aeon_disk"
+				"item"		"item_octarine_core"
 			}
 			"Best Neutral Items"
 			{
@@ -92,22 +92,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"snapfire_scatterblast"
-			"2"		"snapfire_lil_shredder"
-			"3"		"snapfire_firesnap_cookie"
-			"4"		"snapfire_lil_shredder"
-			"5"		"snapfire_scatterblast"
+			"1"		"snapfire_lil_shredder"
+			"2"		"snapfire_firesnap_cookie"
+			"3"		"snapfire_lil_shredder"
+			"4"		"snapfire_firesnap_cookie"
+			"5"		"snapfire_lil_shredder"
 			"6"		"snapfire_mortimer_kisses"
-			"7"		"snapfire_scatterblast"
-			"8"		"snapfire_lil_shredder"
-			"9"		"snapfire_lil_shredder"
+			"7"		"snapfire_lil_shredder"
+			"8"		"snapfire_firesnap_cookie"
+			"9"		"snapfire_firesnap_cookie"
 			"10"		"special_bonus_hp_200"
 			"11"		"snapfire_scatterblast"
 			"12"		"snapfire_mortimer_kisses"
-			"13"		"snapfire_firesnap_cookie"
-			"14"		"snapfire_firesnap_cookie"
+			"13"		"snapfire_scatterblast"
+			"14"		"snapfire_scatterblast"
 			"15"		"special_bonus_unique_snapfire_5"
-			"16"		"snapfire_firesnap_cookie"
+			"16"		"snapfire_scatterblast"
 			"18"		"snapfire_mortimer_kisses"
 			"20"		"special_bonus_unique_snapfire_4"
 			"25"		"special_bonus_unique_snapfire_1"

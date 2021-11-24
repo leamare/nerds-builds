@@ -3,18 +3,18 @@
 	"Hero"		"dazzle"
 	"Title"		"Nerds Dazzle"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"Dazzle is a strong intelligence hero who can be played as position 2, 3 or 5. He's pretty effective at snowballing out of control because of his ult, Bad Juju, its synergy with Poison Touch and his early +75 damage talent. All of these things make Dazzle a powerful manfighter with high physical damage burst and high attack damage, as well as good backliner, healing source and manfighter. Because of Bad Juju and its synergy with other skills and items, Dazzle is also able to flashfarm pretty quickly, whick, in combination with his high damage output and healing, make him able to get out of control very early and finish the game before it even starts.
 
 Early on you want to get a point into Shadow Wave to keep yourself alive on lane, but afterwards you're going to max Poison Touch and use it as harassing tool. With level 3 Poison Touch you're able to bully your enemy out of lane by autoattacking him (or just kill your opponent if he's not backing up), at level 7 with maxed poison touch and Bad Juju stacks you will be able to kill every creepwave pretty fast (or instakill it by using Shadow Wave on your creepwave). As soon as you get Necronomicon level 1, you will become an unstoppable farming machine, capable of destroying 3-stack of ancients in a blink of an eye. And with level 10 talent you wil be able to kill pretty much every hero on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"75"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140EFC5"
-	"TimePublished"		"0x000000006140EFC5"
+	"TimeUpdated"		"0x00000000619D3B38"
+	"TimePublished"		"0x00000000619D3B38"
 	"ItemBuild"
 	{
 		"Items"
@@ -95,24 +95,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_hand_of_midas"		"~5min or ~14min
 
-It&apos;s super effective on Dazzle because of Bad Juju. If you&apos;re aiming on lategame, snowballing too hard or can pick it up early - it&apos;s pretty good purchase."
+It&amp;apos;s super effective on Dazzle because of Bad Juju. If you&amp;apos;re aiming on lategame, snowballing too hard or can pick it up early - it&amp;apos;s pretty good purchase."
 			"item_solar_crest"		"~35min
 
 Not only amplifies your damage, but also makes you a lot more tanky"
 			"item_rod_of_atos"		"Makes you tankier and allows to catch enemies from a distance (as well as interrupt teleportation)"
 			"item_sheepstick"		"Bad Juju makes it pretty awesome pickup for your hero since it will have its cooldown reduced by 50% and will allow you to control the flow of the fight"
-			"item_hurricane_pike"		"Additional stats and attack range, but what&apos;s more important - low cooldown force staff"
+			"item_hurricane_pike"		"Additional stats and attack range, but what&amp;apos;s more important - low cooldown force staff"
 			"item_assault"		"Additional improvement for all the armor and attack speed theme"
 			"item_ultimate_scepter"		"Pick this one up if you need to save all your teammates from burst damage or control. Try to retreat afterwads with your team and reset fight"
 			"item_lotus_orb"		"Pretty much dispel with a 7 second cooldown"
-			"item_holy_locket"		"Pretty cheap item for a core Dazzle to pick up, but still effective overall. It&apos;s pretty helpful against a lot of magical spam (e.g. Tinker) whe you&apos;re aiming to end early"
-			"item_greater_crit"		"For a hero who hits pretty hard getting a lucky crit may end a hero&apos;s life immidiately"
-			"item_desolator"		"Continuing with all the negative armor theme. You don&apos;t really need it since you already have more effective sources of both damage and negative armor, but it&apos;s still fine snowballing/game ending item"
-			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&apos;t bother getting it whenever you feel like you&apos;re stunned or focused in fights"
+			"item_holy_locket"		"Pretty cheap item for a core Dazzle to pick up, but still effective overall. It&amp;apos;s pretty helpful against a lot of magical spam (e.g. Tinker) whe you&amp;apos;re aiming to end early"
+			"item_greater_crit"		"For a hero who hits pretty hard getting a lucky crit may end a hero&amp;apos;s life immidiately"
+			"item_desolator"		"Continuing with all the negative armor theme. You don&amp;apos;t really need it since you already have more effective sources of both damage and negative armor, but it&amp;apos;s still fine snowballing/game ending item"
+			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&amp;apos;t bother getting it whenever you feel like you&amp;apos;re stunned or focused in fights"
 			"item_satanic"		"Lifestealing from strong attacks? 13 seconds Satanic downtime? Hell yes!"
-			"item_mask_of_madness"		"Don&apos;t even think of it. The more you cast in fights the more Bad Juju stacks enemies have on them. If you are silenced you won&apos;t deal as much damage as you could"
+			"item_mask_of_madness"		"Don&amp;apos;t even think of it. The more you cast in fights the more Bad Juju stacks enemies have on them. If you are silenced you won&amp;apos;t deal as much damage as you could"
 			"item_shivas_guard"		"Mostly to stop enemies from running away, but Hex and Atos are generally better for that"
-			"item_aeon_disk"		"If you&apos;re being focused way too much"
+			"item_aeon_disk"		"If you&amp;apos;re being focused way too much"
 			"item_bloodthorn"		"Additional control for fights and damage amplification. 4 seconds downtime on silence"
 			"item_monkey_king_bar"		"Against evasion"
 		}
@@ -143,20 +143,20 @@ Not only amplifies your damage, but also makes you a lot more tanky"
 		}
 		"AbilityTooltips"
 		{
-			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&apos;s duration will be refreshed with your every attack and it also stacks with itself. COmbining with Bad Juju, you can use it as farming tool as well"
-			"dazzle_shallow_grave"		"You don&apos;t really need it early on, but having a value point still won&apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
-			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&apos;s also your farming tool and wave clearing tool.
+			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&amp;apos;s duration will be refreshed with your every attack and it also stacks with itself. COmbining with Bad Juju, you can use it as farming tool as well"
+			"dazzle_shallow_grave"		"You don&amp;apos;t really need it early on, but having a value point still won&amp;apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
+			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&amp;apos;s also your farming tool and wave clearing tool.
 
 It deals more damage with more units being healed by it. You can use it on lane against melee heroes (or ranged heroes who will walk across creepwave) and in fights you can combo it with your teammates or illusions/summons.
 
-Try to spam it every time it&apos;s off cooldown. At level 12 you shouldn&apos;t have much mana issues and this spell will make your all team unstoppable."
+Try to spam it every time it&amp;apos;s off cooldown. At level 12 you shouldn&amp;apos;t have much mana issues and this spell will make your all team unstoppable."
 			"dazzle_bad_juju"		"Your main DPS/farming tool. As soon as you get it, all your farming items will have less of a cooldown, all your spells will be stronger and any of your harass will destroy your enemies"
 			"special_bonus_attack_damage_75"		"This amount of damage is way to valuable to ignore it, but in combination with all our spells you will be the strongest hero on the map at least for a while"
-			"special_bonus_unique_dazzle_2"		"You will be in the middle of a fight most of the time, so you don&apos;t really need cast range, while additional heal/damage will give you way more value considering Shadow Wave spam"
+			"special_bonus_unique_dazzle_2"		"You will be in the middle of a fight most of the time, so you don&amp;apos;t really need cast range, while additional heal/damage will give you way more value considering Shadow Wave spam"
 			"special_bonus_movement_speed_40"		"If you lack some mobility and need to catch up to fast enemies - why not pick it up? +40 MS is A LOT, considering every MS item giving percentage based bonuses"
 			"special_bonus_unique_dazzle_3"		"Upgrading damage on an already strong DPS spell even further will make it hard to deal with at any stage, so why not?"
-			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&apos;t be able to run away anymore."
-			"special_bonus_unique_dazzle_4"		"You don&apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
+			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&amp;apos;t be able to run away anymore."
+			"special_bonus_unique_dazzle_4"		"You don&amp;apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
 		}
 	}
 }

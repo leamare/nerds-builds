@@ -3,33 +3,34 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F851"
-	"TimePublished"		"0x000000006140F851"
+	"TimeUpdated"		"0x00000000619D2CFC"
+	"TimePublished"		"0x00000000619D2CFC"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_tango"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_circlet"
-				"item"		"item_tango"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_bottle"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 				"item"		"item_boots"
 			}
 			"Core"
@@ -37,7 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_witch_blade"
 				"item"		"item_blink"
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -48,6 +48,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_kaya_and_sange"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
@@ -62,11 +64,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_dagon_5"
 				"item"		"item_aghanims_shard"
 				"item"		"item_mjollnir"
 				"item"		"item_black_king_bar"
 				"item"		"item_radiance"
-				"item"		"item_dagon_5"
 				"item"		"item_solar_crest"
 			}
 			"Best Neutral Items"

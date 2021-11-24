@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"2"
+	"GuideRevision"		"3"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000617EF408"
-	"TimePublished"		"0x00000000617EF408"
+	"TimeUpdated"		"0x00000000619D3418"
+	"TimePublished"		"0x00000000619D3418"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,28 +30,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_phase_boots"
-				"item"		"item_helm_of_iron_will"
 			}
 			"Core"
 			{
-				"item"		"item_armlet"
 				"item"		"item_black_king_bar"
 				"item"		"item_basher"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bracer"
+				"item"		"item_armlet"
 				"item"		"item_bottle"
-				"item"		"item_maelstrom"
 				"item"		"item_sange"
 			}
 			"Lategame"
 			{
-				"item"		"item_abyssal_blade"
 				"item"		"item_greater_crit"
+				"item"		"item_travel_boots"
+				"item"		"item_abyssal_blade"
 				"item"		"item_satanic"
 				"item"		"item_assault"
-				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
 			}
@@ -91,32 +90,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_armlet"		"~10-13 min"
 			"item_phase_boots"		"~8-11 min"
-			"item_maelstrom"		"~13-15 min"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"marci_grapple"
-			"2"		"marci_guardian"
+			"1"		"marci_companion_run"
+			"2"		"marci_grapple"
 			"3"		"marci_companion_run"
-			"4"		"marci_guardian"
-			"5"		"marci_guardian"
+			"4"		"marci_grapple"
+			"5"		"marci_companion_run"
 			"6"		"marci_unleash"
-			"7"		"marci_guardian"
-			"8"		"marci_companion_run"
-			"9"		"marci_companion_run"
-			"10"		"special_bonus_mp_regen_2"
-			"11"		"marci_companion_run"
+			"7"		"marci_companion_run"
+			"8"		"marci_guardian"
+			"9"		"marci_guardian"
+			"10"		"special_bonus_armor_5"
+			"11"		"marci_guardian"
 			"12"		"marci_unleash"
-			"13"		"marci_grapple"
+			"13"		"marci_guardian"
 			"14"		"marci_grapple"
-			"15"		"special_bonus_unique_marci_grapple_stun_duration"
+			"15"		"special_bonus_unique_marci_lunge_range"
 			"16"		"marci_grapple"
 			"18"		"marci_unleash"
-			"20"		"special_bonus_unique_marci_guardian_magic_immune"
-			"25"		"special_bonus_unique_marci_unleash_silence"
+			"20"		"special_bonus_movement_speed_30"
+			"25"		"special_bonus_unique_marci_guardian_magic_immune"
 		}
 		"AbilityTooltips"
 		{

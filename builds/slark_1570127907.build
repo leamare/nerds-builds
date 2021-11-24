@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F93E"
-	"TimePublished"		"0x000000006140F93E"
+	"TimeUpdated"		"0x00000000619D288C"
+	"TimePublished"		"0x00000000619D288C"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
 				"item"		"item_quelling_blade"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
+				"item"		"item_magic_stick"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -83,7 +83,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_hand_of_midas"		"~10-12 min
-Situationally good before drum if you&apos;re not going to fight straight on or will need to keep your pace"
+Situationally good before drum if you&amp;apos;re not going to fight straight on or will need to keep your pace"
 			"item_wraith_band"		"Fighting choice"
 		}
 	}
@@ -95,16 +95,16 @@ Situationally good before drum if you&apos;re not going to fight straight on or 
 			"2"		"slark_pounce"
 			"3"		"slark_dark_pact"
 			"4"		"slark_dark_pact"
-			"5"		"slark_essence_shift"
+			"5"		"slark_dark_pact"
 			"6"		"slark_shadow_dance"
 			"7"		"slark_dark_pact"
-			"8"		"slark_dark_pact"
+			"8"		"slark_pounce"
 			"9"		"slark_pounce"
 			"10"		"special_bonus_agility_8"
-			"11"		"slark_essence_shift"
+			"11"		"slark_pounce"
 			"12"		"slark_shadow_dance"
-			"13"		"slark_pounce"
-			"14"		"slark_pounce"
+			"13"		"slark_essence_shift"
+			"14"		"slark_essence_shift"
 			"15"		"special_bonus_unique_slark_2"
 			"16"		"slark_essence_shift"
 			"18"		"slark_shadow_dance"

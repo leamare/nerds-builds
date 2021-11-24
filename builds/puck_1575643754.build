@@ -3,29 +3,28 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 Based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140F837"
-	"TimePublished"		"0x000000006140F837"
+	"TimeUpdated"		"0x00000000619D2CAC"
+	"TimePublished"		"0x00000000619D2CAC"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_flask"
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_flask"
 				"item"		"item_sobi_mask"
+				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
@@ -34,10 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_travel_boots"
-				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
@@ -54,11 +51,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_aeon_disk"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_cyclone"
 				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
@@ -102,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_spy_gadget"		"Bonus attack range and cast range. Enough said"
 			"item_timeless_relic"		"Absolutely best item for us with extra debuff duration and spell damage. Dream coils lasts for an eternity, and we have perma-silence for enemy supports"
 			"item_panic_button"		"Works almost like Aeon Disk. Helps to survive"
-			"item_princes_knife"		"Hex can never be enough. Doesnt work with our &apos;Phase Shift attack&apos; talent."
+			"item_princes_knife"		"Hex can never be enough. Doesnt work with our &amp;apos;Phase Shift attack&amp;apos; talent."
 			"item_spell_prism"		"Another cooldown reduction item"
 			"item_witless_shako"		"Additional surviveability"
 		}

@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.30e"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000614EFE62"
-	"TimePublished"		"0x00000000614EFE62"
+	"TimeUpdated"		"0x00000000619D260A"
+	"TimePublished"		"0x00000000619D260A"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,8 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_holy_locket"
-				"item"		"item_power_treads"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_power_treads"
 			}
 			"Situational"
 			{
