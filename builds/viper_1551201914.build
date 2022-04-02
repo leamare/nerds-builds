@@ -3,16 +3,16 @@
 	"Hero"		"viper"
 	"Title"		"Nerds Viper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"70"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619148C9"
-	"TimePublished"		"0x00000000619148C9"
+	"TimeUpdated"		"0x00000000623660A0"
+	"TimePublished"		"0x00000000623660A0"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,24 +36,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_travel_boots"
 				"item"		"item_dragon_lance"
+				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
 				"item"		"item_power_treads"
+				"item"		"item_maelstrom"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_blade_mail"
-				"item"		"item_rod_of_atos"
 			}
 			"Utility"
 			{
-				"item"		"item_heavens_halberd"
 				"item"		"item_spirit_vessel"
 				"item"		"item_pipe"
 				"item"		"item_solar_crest"
+				"item"		"item_heavens_halberd"
 			}
 			"Lategame"
 			{
@@ -68,6 +68,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_ghost"
+				"item"		"item_rod_of_atos"
 				"item"		"item_eternal_shroud"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
@@ -107,16 +108,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_veil_of_discord"		"Early tankiness solution and magic damage amplification. Makes you almost much more unkillable in fights early on and makes your damage output stupidly high"
 			"item_sange_and_yasha"		"More of a defensive replacement for Drum or KaYasha, usually good when you need some mobility and stats"
-			"item_hurricane_pike"		"Additional mobility and cheap stats. Early Force Staff works well when you&amp;apos;re playing against AoE silences, terrain lockdowns or struggle to get into attack range to enemy"
+			"item_hurricane_pike"		"Additional mobility and cheap stats. Early Force Staff works well when you&amp;amp;apos;re playing against AoE silences, terrain lockdowns or struggle to get into attack range to enemy"
 			"item_ultimate_scepter"		"Great addition to reduce cooldown of your ultimate and amplify your crowd controlling capabilities"
 			"item_shivas_guard"		"Doubling down on your magic tank role by amplifying your armor, magic damage and increasing your crowd control abilities by standing in the middle of a fight"
-			"item_butterfly"		"Great addition for hybrid core. It also allowes you to become a decent damage dealer and pusher. It&amp;apos;s also a great addition to +120 damage talent"
-			"item_greater_crit"		"Nice addition to Buttterfly if you&amp;apos;re playing against tanky cores or want to burst enemies down"
-			"item_assault"		"More of an utility replacement for both Butterfly and Shiva&amp;apos;s Guard. It helps with both tankiness, pushing and physical damage output, while also fitting theme of a walking tank"
+			"item_butterfly"		"Great addition for hybrid core. It also allowes you to become a decent damage dealer and pusher. It&amp;amp;apos;s also a great addition to +120 damage talent"
+			"item_greater_crit"		"Nice addition to Buttterfly if you&amp;amp;apos;re playing against tanky cores or want to burst enemies down"
+			"item_assault"		"More of an utility replacement for both Butterfly and Shiva&amp;amp;apos;s Guard. It helps with both tankiness, pushing and physical damage output, while also fitting theme of a walking tank"
 			"item_crimson_guard"		"Against high attack speed cores, high physical damage lineups or summons"
-			"item_lotus_orb"		"Against light disables (like slows and silences) in case you&amp;apos;re not the only one struggling from them"
+			"item_lotus_orb"		"Against light disables (like slows and silences) in case you&amp;amp;apos;re not the only one struggling from them"
 			"item_sheepstick"		"Additional reliable lockdown"
-			"item_black_king_bar"		"Against hard disables and silences (if lotus doesn&amp;apos;t work)"
+			"item_black_king_bar"		"Against hard disables and silences (if lotus doesn&amp;amp;apos;t work)"
 			"item_mjollnir"		"Great DPS item for hybrid tank core transition"
 		}
 	}
@@ -141,20 +142,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_300"
 			"16"		"viper_nethertoxin"
 			"18"		"viper_viper_strike"
-			"20"		"special_bonus_attack_damage_70"
+			"20"		"special_bonus_unique_viper_2"
 			"25"		"special_bonus_unique_viper_5"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_viper_2"		"Since you&amp;apos;re doubling down on magic damage, it sounds convinient to significantly amplify your ult"
+			"special_bonus_unique_viper_2"		"Since you&amp;amp;apos;re doubling down on magic damage, it sounds convinient to significantly amplify your ult"
 			"viper_nethertoxin"		"Aside from massive damage and magic resistance reduction, this spell is your main farming tool. You just need to max it out early and start farming nearest jungle camp and lane at the same time"
-			"viper_poison_attack"		"Poison attack makes a strong laner out of Viper.  You don&amp;apos;t really need to level this up more than once, but it&amp;apos;s still pretty important to have early on to zone opponent out of lane without drawing aggro from creeps"
+			"viper_poison_attack"		"Poison attack makes a strong laner out of Viper.  You don&amp;amp;apos;t really need to level this up more than once, but it&amp;amp;apos;s still pretty important to have early on to zone opponent out of lane without drawing aggro from creeps"
 			"viper_corrosive_skin"		"Early tankiness solution and another spell that can be useful for farming"
-			"viper_viper_strike"		"Massive magic damage (especially in combination with nethertoxin) and undispellable slow. It&amp;apos;s almost reliable kill early on except it&amp;apos;s possible to TP out from it"
+			"viper_viper_strike"		"Massive magic damage (especially in combination with nethertoxin) and undispellable slow. It&amp;amp;apos;s almost reliable kill early on except it&amp;amp;apos;s possible to TP out from it"
 			"special_bonus_spell_lifesteal_8"		"Considering your massive amounts of AoE damage you will be healing a lot from it "
-			"special_bonus_unique_viper_1"		"Considering you&amp;apos;re playing as a tanky frontliner, there aren&amp;apos;t much use from attack range, but having a bit more slow, damage and magic resist will do some work"
-			"special_bonus_attack_damage_120"		"If you&amp;apos;re planning to transition into physical or hybrid core later on, it may be a good idea to get this talent"
-			"special_bonus_unique_viper_3"		"Considering Nethertoxin&amp;apos;s cooldown it&amp;apos;s usually good idea to make it also AoE silence which will also help against a lot of heroes in fights"
+			"special_bonus_unique_viper_1"		"Considering you&amp;amp;apos;re playing as a tanky frontliner, there aren&amp;amp;apos;t much use from attack range, but having a bit more slow, damage and magic resist will do some work"
+			"special_bonus_attack_damage_120"		"If you&amp;amp;apos;re planning to transition into physical or hybrid core later on, it may be a good idea to get this talent"
+			"special_bonus_unique_viper_3"		"Considering Nethertoxin&amp;amp;apos;s cooldown it&amp;amp;apos;s usually good idea to make it also AoE silence which will also help against a lot of heroes in fights"
 		}
 	}
 }
