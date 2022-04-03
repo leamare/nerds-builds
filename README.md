@@ -4,6 +4,14 @@
 
 [FAQ](FAQ.md)
 
+## IMPORTANT NOTE ABOUT 7.31b
+
+I am working on a replacement for this builds page, including a new build guidelines, viewer and stats.
+
+Initial release date was planned to be around 7.31b, but dates shifted because of ***the war***.
+
+I plan to finish the builds section sometime mid-april. I'll try to update the builds until then, but it won't be a priority for now.
+
 ## What is it?
 
 It's a collection of Dota 2 in-game guides.
