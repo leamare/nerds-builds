@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D288C"
-	"TimePublished"		"0x00000000619D288C"
+	"TimeUpdated"		"0x00000000623A8576"
+	"TimePublished"		"0x00000000623A8576"
 	"ItemBuild"
 	{
 		"Items"
@@ -83,7 +83,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_hand_of_midas"		"~10-12 min
-Situationally good before drum if you&amp;apos;re not going to fight straight on or will need to keep your pace"
+Situationally good before drum if you&amp;amp;apos;re not going to fight straight on or will need to keep your pace"
 			"item_wraith_band"		"Fighting choice"
 		}
 	}
@@ -100,7 +100,7 @@ Situationally good before drum if you&amp;apos;re not going to fight straight on
 			"7"		"slark_dark_pact"
 			"8"		"slark_pounce"
 			"9"		"slark_pounce"
-			"10"		"special_bonus_agility_8"
+			"10"		"special_bonus_unique_slark"
 			"11"		"slark_pounce"
 			"12"		"slark_shadow_dance"
 			"13"		"slark_essence_shift"

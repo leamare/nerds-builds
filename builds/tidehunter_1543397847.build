@@ -3,18 +3,18 @@
 	"Hero"		"tidehunter"
 	"Title"		"Nerds Tidehunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Tidehunter is a strength core hero who excells at being tanky and hard to take down beast. He's also great lane dominator and one of the best teamfighters in the game because of his ultimate, Ravage.
 Main issue that comes with his main strength is that Ravage Tide is useless when his ult is on cooldown. This build is focused around making Tide's out-of-teamfight potential much better by abusing power that comes with Anchor Smash. This ability allowes not only to dominate the lane and farm, but also transition into great physical damage core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/
 It's based on Immortal rank Core Tidehunter matches"
-	"GuideRevision"		"71"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D2526"
-	"TimePublished"		"0x00000000619D2526"
+	"TimeUpdated"		"0x00000000623A841F"
+	"TimePublished"		"0x00000000623A841F"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,49 +23,51 @@ It's based on Immortal rank Core Tidehunter matches"
 			{
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
+				"item"		"item_bracer"
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 			}
-			"Core"
+			"Core - Offlane"
 			{
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 			}
 			"Core - Carry/mid"
 			{
+				"item"		"item_echo_sabre"
 				"item"		"item_desolator"
+				"item"		"item_satanic"
 				"item"		"item_lesser_crit"
 			}
 			"Situational Early"
 			{
+				"item"		"item_bottle"
+				"item"		"item_soul_ring"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_invis_sword"
-				"item"		"item_vladmir"
-				"item"		"item_bottle"
 			}
 			"Lategame"
 			{
 				"item"		"item_aghanims_shard"
+				"item"		"item_greater_crit"
+				"item"		"item_assault"
 				"item"		"item_shivas_guard"
 				"item"		"item_refresher"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_assault"
-				"item"		"item_greater_crit"
 				"item"		"item_heart"
 			}
 			"Utility"
 			{
-				"item"		"item_helm_of_the_overlord"
+				"item"		"item_wraith_pact"
 				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
@@ -102,9 +104,9 @@ It's based on Immortal rank Core Tidehunter matches"
 		{
 			"item_bracer"		"Casual bracers for early tankiness"
 			"item_soul_ring"		"Soul Ring for mana sustain. This item alone is enough for you to keep your manapool up even without treads switching"
-			"item_phase_boots"		"You&amp;apos;re going to play around Anchor Smash, so getting early damage boost is already valuable enough, but additional tankiness makes it even better"
-			"item_solar_crest"		"Additional armor boost, utility for your team, movement speed buff, but most importantly ability to reduce enemy armor by 12. With Solar Crest debuff you&amp;apos;ll be able to two-shot supports during midgame"
-			"item_blink"		"Main initiation/mobilty item. It may look weird that you&amp;apos;re not going to pick it up as your first item, but the thing is you don&amp;apos;t really need it as Tidehunter, while Solar Crest will do much more for your team"
+			"item_phase_boots"		"You&amp;amp;apos;re going to play around Anchor Smash, so getting early damage boost is already valuable enough, but additional tankiness makes it even better"
+			"item_solar_crest"		"Additional armor boost, utility for your team, movement speed buff, but most importantly ability to reduce enemy armor by 12. With Solar Crest debuff you&amp;amp;apos;ll be able to two-shot supports during midgame"
+			"item_blink"		"Main initiation/mobilty item. It may look weird that you&amp;amp;apos;re not going to pick it up as your first item, but the thing is you don&amp;amp;apos;t really need it as Tidehunter, while Solar Crest will do much more for your team"
 			"item_desolator"		"Additional damage buff and negative armor debuff against enemies"
 			"item_magic_wand"		"Additional MP/HP sustain against spell spammers"
 			"item_invis_sword"		"Another initiation/damage item. Can be purchased instead of Blink or Desolator or as an extension item"
@@ -116,8 +118,8 @@ It's based on Immortal rank Core Tidehunter matches"
 			"item_lotus_orb"		"Great if you need armor and badly need the dispel for your team"
 			"item_heavens_halberd"		"Great addition to SnY and good item in general to deal with stuns and high attack damage cores"
 			"item_guardian_greaves"		"Great item if you have other heroes to deal damage and just want to snowball out of control and finish the game"
-			"item_shivas_guard"		"Armor and mana pool. Doesn&amp;apos;t really work with attack damage theme and you don&amp;apos;t really need manapool in this kind of build, but it can be helpful if you want to keep your enemies from running away"
-			"item_refresher"		"Great addition if you desperately need to use two ravages. Altho, with attack damage build you will have a lot of stuff to do while Ravage is on cooldown, it&amp;apos;s still a really strong kind of spell"
+			"item_shivas_guard"		"Armor and mana pool. Doesn&amp;amp;apos;t really work with attack damage theme and you don&amp;amp;apos;t really need manapool in this kind of build, but it can be helpful if you want to keep your enemies from running away"
+			"item_refresher"		"Great addition if you desperately need to use two ravages. Altho, with attack damage build you will have a lot of stuff to do while Ravage is on cooldown, it&amp;amp;apos;s still a really strong kind of spell"
 			"item_bloodthorn"		"More expensive damage/crit choice, that also provides a lot of mana and attack speed. May work as a lategame extension item in cases when you need some kind of cheap lockdown or transition into pushing core a little bit more"
 			"item_abyssal_blade"		"Additional cheap lockdown, works well if you have other attack speed items"
 			"item_sheepstick"		"Cheap lockdown + mana pool"
@@ -152,16 +154,16 @@ It's based on Immortal rank Core Tidehunter matches"
 		}
 		"AbilityTooltips"
 		{
-			"tidehunter_kraken_shell"		"Great surviveability tool and what essentially makes Tide able to use his items no matter what. Altho, it&amp;apos;s still not a priority on lane and is probably the last abilty to max"
-			"tidehunter_anchor_smash"		"Tide&amp;apos;s main tool for lane dominating and farm. Try to use it as close to enemy heroes on lane as possible and secure creeps. Later on think of it as your main damage tool, like one big AoE autoattack or physical damage nuke"
+			"tidehunter_kraken_shell"		"Great surviveability tool and what essentially makes Tide able to use his items no matter what. Altho, it&amp;amp;apos;s still not a priority on lane and is probably the last abilty to max"
+			"tidehunter_anchor_smash"		"Tide&amp;amp;apos;s main tool for lane dominating and farm. Try to use it as close to enemy heroes on lane as possible and secure creeps. Later on think of it as your main damage tool, like one big AoE autoattack or physical damage nuke"
 			"tidehunter_gush"		"Great chasing spell, works well with Anchor Smash. Not a priority in leveling up, but is definately good spell to have early on"
 			"special_bonus_unique_tidehunter_2"		"Great talent to have, works well with Having Gush as a damage tool"
 			"special_bonus_unique_tidehunter_3"		"Works fine against targets with high amounts of base damage (Terrorblade, PL)"
 			"special_bonus_exp_boost_40"		"In most cases this one is just better. +40% XP is already a lot, but you also have some strong talents later on"
 			"special_bonus_unique_tidehunter"		"Works well with all the physical damage theme"
-			"special_bonus_cooldown_reduction_25"		"It&amp;apos;s kind of good if you&amp;apos;re going to be the spellcasting core and play around Ravage but the thing is you&amp;apos;ree not going to do that. When you play around dominating lane, dealing physical damage and brawling, cooldown reduction just doesn&amp;apos;t seem to be that good"
-			"special_bonus_attack_damage_250"		"With +40% XP talent it should be easy to get here pretty fast and the talent itself not only works great with all the physical damage theme we have, but also helps while pushing and makes Tide&amp;apos;s out-of-teamfight potential even better"
-			"tidehunter_ravage"		"One of the greatest teamfighting spells. While it&amp;apos;s still one of the best spells in the game, our main goal is to make Tide useful and strong even without it, so don&amp;apos;t focus on the Big Red Button too much."
+			"special_bonus_cooldown_reduction_25"		"It&amp;amp;apos;s kind of good if you&amp;amp;apos;re going to be the spellcasting core and play around Ravage but the thing is you&amp;amp;apos;ree not going to do that. When you play around dominating lane, dealing physical damage and brawling, cooldown reduction just doesn&amp;amp;apos;t seem to be that good"
+			"special_bonus_attack_damage_250"		"With +40% XP talent it should be easy to get here pretty fast and the talent itself not only works great with all the physical damage theme we have, but also helps while pushing and makes Tide&amp;amp;apos;s out-of-teamfight potential even better"
+			"tidehunter_ravage"		"One of the greatest teamfighting spells. While it&amp;amp;apos;s still one of the best spells in the game, our main goal is to make Tide useful and strong even without it, so don&amp;amp;apos;t focus on the Big Red Button too much."
 		}
 	}
 }
