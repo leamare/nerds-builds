@@ -3,17 +3,17 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Undying"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30c"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Undying is an utility strength hero, who excells at healing allies and making teamfights chaotic. Undying slowly steals enemy's strength, slowly decaying them to the ground, forcing to react and tanking massive amounts of damage.
 
 This build is based on Immortal rank Undying matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000894E0851"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006140FA88"
-	"TimePublished"		"0x000000006140FA88"
+	"TimeUpdated"		"0x00000000623A820F"
+	"TimePublished"		"0x00000000623A820F"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,18 +31,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_magic_wand"
 				"item"		"item_holy_locket"
-				"item"		"item_glimmer_cape"
+				"item"		"item_magic_wand"
+				"item"		"item_boots_of_bearing"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ghost"
-				"item"		"item_arcane_boots"
 				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 			}
@@ -52,6 +51,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spirit_vessel"
 				"item"		"item_force_staff"
 				"item"		"item_solar_crest"
+				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
@@ -100,7 +100,7 @@ You may get the second Wind Lace afterwards, too"
 			"item_tranquil_boots"		"Great for roaming around as a support"
 			"item_arcane_boots"		"Good early mana solution. Can be disassembled later to make Locket, too"
 			"item_blade_mail"		"Armor solution, that also allowes you to farm and deal with focus in teamfights"
-			"item_meteor_hammer"		"Great farming solution, you won&apos;t really need it as a support"
+			"item_meteor_hammer"		"Great farming solution, you won&amp;apos;t really need it as a support"
 			"item_holy_locket"		"An insanely powerful Undying item. Gives you great stats and makes Soul Rip much stronger"
 			"item_soul_ring"		"A nice item for early mana sustain and armor"
 			"item_shivas_guard"		"Massive armor boost, regen reduction aura, additional mana and the slow to go with your ult"
@@ -114,7 +114,7 @@ You may get the second Wind Lace afterwards, too"
 		"AbilityOrder"
 		{
 			"1"		"undying_decay"
-			"2"		"undying_soul_rip"
+			"2"		"undying_tombstone"
 			"3"		"undying_soul_rip"
 			"4"		"undying_tombstone"
 			"5"		"undying_soul_rip"
@@ -123,7 +123,7 @@ You may get the second Wind Lace afterwards, too"
 			"8"		"undying_tombstone"
 			"9"		"undying_tombstone"
 			"10"		"special_bonus_unique_undying_7"
-			"11"		"undying_tombstone"
+			"11"		"undying_soul_rip"
 			"12"		"undying_flesh_golem"
 			"13"		"undying_decay"
 			"14"		"undying_decay"
@@ -135,9 +135,9 @@ You may get the second Wind Lace afterwards, too"
 		}
 		"AbilityTooltips"
 		{
-			"undying_decay"		"The early to mid game domination spell. You don&apos;t really want to upgrade it early on, since its duration doesn&apos;t change, while mana cost is increasing."
+			"undying_decay"		"The early to mid game domination spell. You don&amp;apos;t really want to upgrade it early on, since its duration doesn&amp;apos;t change, while mana cost is increasing."
 			"undying_soul_rip"		"Early nuke/heal. Try to use it on lane as much as possible after you get enemy low enough with Decay. Keep in mind - your heal is directly tied to the number of units around. You can also use it to heal Tombstone OR to get more units around."
-			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&apos;t have meteor/bm yet), as well as deals with enemy running away.
+			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
 You can also use it on highgrounds / ward spots to make it harder to destroy for your enemies."
 			"undying_flesh_golem"		"The amount of Strength is directly tied to your own strength, so you want to steal as much with Decay as possible. It also makes you a bit faster, so you want to use it in teamfights to (a) tank more and survive and (b) chase enemies down and focus them with your team."
 		}
