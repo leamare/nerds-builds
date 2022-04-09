@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D2973"
-	"TimePublished"		"0x00000000619D2973"
+	"TimeUpdated"		"0x00000000623A8659"
+	"TimePublished"		"0x00000000623A8659"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,23 +35,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_force_staff"
-				"item"		"item_aghanims_shard"
+				"item"		"item_witch_blade"
 				"item"		"item_hurricane_pike"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_orchid"
 				"item"		"item_invis_sword"
 				"item"		"item_rod_of_atos"
-				"item"		"item_witch_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
 				"item"		"item_sheepstick"
+				"item"		"item_revenants_brooch"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
 				"item"		"item_assault"
 				"item"		"item_moon_shard"
@@ -97,12 +97,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_bloodthorn"		"Best offensive choice for any int core because of massive damage increase, can also be bought as some kind of replacement to MKB"
 			"item_force_staff"		"With our mobility issues and massive damage increase from int, getting early forcestaff will be much more valuable than anything else."
 			"item_hurricane_pike"		"At this point we will have Force Staff already, so upgrading it to pike will not be that expensive, while also providing a lot of good stats and attack range: those things Silencer has problems with"
-			"item_refresher"		"Need double global? Well, why not. There&amp;amp;apos;re no other reasons to get it tho: it doesn&amp;amp;apos;t give us anything else we actually need"
-			"item_assault"		"Safer version of Moon Shard: huge attack speed boost and armor increase, works well with Silencer&amp;amp;apos;s agressive playstyle"
-			"item_black_king_bar"		"The item we don&amp;amp;apos;t really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
+			"item_refresher"		"Need double global? Well, why not. There&amp;amp;amp;apos;re no other reasons to get it tho: it doesn&amp;amp;amp;apos;t give us anything else we actually need"
+			"item_assault"		"Safer version of Moon Shard: huge attack speed boost and armor increase, works well with Silencer&amp;amp;amp;apos;s agressive playstyle"
+			"item_black_king_bar"		"The item we don&amp;amp;amp;apos;t really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
 			"item_shivas_guard"		"With our agressive plays, pretty often bought item: massive int and armor increase, works as huge boost to our durability"
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
-			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it&amp;amp;apos;s goo only when you need raw hp increase and damage"
+			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it&amp;amp;amp;apos;s goo only when you need raw hp increase and damage"
 		}
 	}
 	"AbilityBuild"
@@ -130,7 +130,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"special_bonus_attack_speed_30"		"Talks to itself: additional increase in our damage output"
 			"silencer_curse_of_the_silent"		"Our main killing tool (slow). Better slow early = more kill potential"
-			"silencer_glaives_of_wisdom"		"good to have early in lane to harass opponent. Doesn&amp;amp;apos;t really good for maxing out early on since other spells will increase our damage much more"
+			"silencer_glaives_of_wisdom"		"good to have early in lane to harass opponent. Doesn&amp;amp;amp;apos;t really good for maxing out early on since other spells will increase our damage much more"
 			"silencer_last_word"		"Additonal lockdown, nuke and, the most valuable, vision over target"
 			"special_bonus_intelligence_7"		"Armor is nice, but 7 int costs much more and, of course, with our glaives it gives not only 7 damage to us"
 			"special_bonus_attack_range_200"		"With combined pike and talent attack ranges, we will start hitting hard from a lond distance, pretty similar to Sniper"
