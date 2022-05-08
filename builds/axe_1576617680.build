@@ -3,18 +3,18 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Support Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Axe is a tanky strength hero who excells at brawling enemies to death. His natural tankiness and skill set allow him to chase people down and take as much damage as your team needs while also providing high amounts of damage and crowd control.
 
 Main game plan as a support Axe is to chase people down with Battle Hunger (supports first) to win the lane (or switch to jungle if it's not possible anywhere on the map). Winning the lane and transitioning to Urn and other \"brawling\" support items allowes Axe to keep up in fights and tank enemy damage while also using Berserker's Call, disengage, regen and come back to fight to use all spells again. Lategame Axe with Aghanim's Scepter and Battle Hunger talent allow the hero to deal even more damage in lategame and be practically unkillable with Octarine Core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"36"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x0000000073B5F7D9"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3C86"
-	"TimePublished"		"0x00000000619D3C86"
+	"TimeUpdated"		"0x0000000062509809"
+	"TimePublished"		"0x0000000062509809"
 	"ItemBuild"
 	{
 		"Items"
@@ -152,10 +152,10 @@ It also works well incombination with Berserker&amp;apos;s Call. You use Call, d
 			"12"		"axe_culling_blade"
 			"13"		"axe_counter_helix"
 			"14"		"axe_counter_helix"
-			"15"		"special_bonus_movement_speed_25"
+			"15"		"special_bonus_unique_axe_6"
 			"16"		"axe_counter_helix"
 			"18"		"axe_culling_blade"
-			"20"		"special_bonus_hp_regen_20"
+			"20"		"special_bonus_unique_axe_5"
 			"25"		"special_bonus_unique_axe"
 		}
 		"AbilityTooltips"

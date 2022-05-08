@@ -3,17 +3,17 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Support Davion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"11"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x0000000091100B19"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B1D"
-	"TimePublished"		"0x00000000619D3B1D"
+	"TimeUpdated"		"0x0000000062508ED4"
+	"TimePublished"		"0x0000000062508ED4"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,6 +34,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -54,7 +55,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_lotus_orb"
-				"item"		"item_aghanims_shard"
 				"item"		"item_vladmir"
 				"item"		"item_spirit_vessel"
 				"item"		"item_heavens_halberd"
@@ -67,8 +67,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bullwhip"
 				"item"		"item_timeless_relic"
 				"item"		"item_ceremonial_robe"
-				"item"		"item_the_leveller"
 				"item"		"item_cloak_of_flames"
+				"item"		"item_quickening_charm"
+				"item"		"item_flicker"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

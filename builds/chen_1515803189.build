@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"78"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3BCB"
-	"TimePublished"		"0x00000000619D3BCB"
+	"TimeUpdated"		"0x00000000625093D7"
+	"TimePublished"		"0x00000000625093D7"
 	"ItemBuild"
 	{
 		"Items"
@@ -72,13 +72,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_arcane_ring"
-				"item"		"item_mysterious_hat"
-				"item"		"item_quickening_charm"
-				"item"		"item_spell_prism"
+				"item"		"item_unstable_wand"
+				"item"		"item_ocean_heart"
+				"item"		"item_paintball"
+				"item"		"item_philosophers_stone"
 				"item"		"item_bullwhip"
-				"item"		"item_psychic_headband"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_trickster_cloak"
+				"item"		"item_spider_legs"
+				"item"		"item_quickening_charm"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_ascetic_cap"
+				"item"		"item_spy_gadget"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -3,43 +3,41 @@
 	"Hero"		"dark_seer"
 	"Title"		"Nerds Dark Seer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Dark Seer in an intelligence utility core hero who excells at teamfighting and resetting fights, as well as surviving in a tough circumstances.
 
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B98"
-	"TimePublished"		"0x00000000619D3B98"
+	"TimeUpdated"		"0x0000000062509323"
+	"TimePublished"		"0x0000000062509323"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_quelling_blade"
-				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_tango"
-				"item"		"item_enchanted_mango"
+				"item"		"item_quelling_blade"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_headdress"
 				"item"		"item_soul_ring"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -51,31 +49,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_refresher"
 				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
-				"item"		"item_crimson_guard"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
 			}
 			"Situational"
 			{
+				"item"		"item_aeon_disk"
+				"item"		"item_crimson_guard"
 				"item"		"item_sphere"
 				"item"		"item_radiance"
 				"item"		"item_assault"
 				"item"		"item_cyclone"
-				"item"		"item_solar_crest"
 				"item"		"item_helm_of_the_dominator"
-				"item"		"item_witch_blade"
+				"item"		"item_revenants_brooch"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_arcane_ring"
 				"item"		"item_chipped_vest"
-				"item"		"item_bullwhip"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_spell_prism"
+				"item"		"item_keen_optic"
+				"item"		"item_vambrace"
+				"item"		"item_dragon_scale"
+				"item"		"item_philosophers_stone"
+				"item"		"item_spider_legs"
 				"item"		"item_quickening_charm"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_ninja_gear"
+				"item"		"item_trickster_cloak"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -139,10 +144,10 @@ You can rush Greaves to get lower cooldown and fight more often, as well as keep
 			"13"		"dark_seer_vacuum"
 			"14"		"dark_seer_wall_of_replica"
 			"15"		"special_bonus_unique_dark_seer_7"
-			"16"		"special_bonus_unique_dark_seer_5"
+			"16"		"special_bonus_unique_dark_seer_2"
 			"18"		"dark_seer_wall_of_replica"
 			"20"		"special_bonus_unique_dark_seer"
-			"25"		"special_bonus_unique_dark_seer_3"
+			"25"		"special_bonus_unique_dark_seer_4"
 		}
 		"AbilityTooltips"
 		{

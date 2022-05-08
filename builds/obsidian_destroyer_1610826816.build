@@ -3,14 +3,16 @@
 	"Hero"		"obsidian_destroyer"
 	"Title"		"Nerds Overwhelming Designator"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
-	"Overview"		""
-	"GuideRevision"		"9"
+	"GameplayVersion"		"7.31b"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x00000000923B2A2B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D300E"
-	"TimePublished"		"0x00000000619D300E"
+	"TimeUpdated"		"0x00000000625075A1"
+	"TimePublished"		"0x00000000625075A1"
 	"ItemBuild"
 	{
 		"Items"
@@ -59,16 +61,22 @@
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_keen_optic"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_essence_ring"
+				"item"		"item_pogo_stick"
 				"item"		"item_mysterious_hat"
+				"item"		"item_keen_optic"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_grove_bow"
+				"item"		"item_essence_ring"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_spy_gadget"
 				"item"		"item_bullwhip"
 				"item"		"item_arcane_ring"
 				"item"		"item_philosophers_stone"
 				"item"		"item_quickening_charm"
-				"item"		"item_ocean_heart"
 				"item"		"item_stormcrafter"
+			}
+			"https://leamare.github.io/nerds-builds/"
+			{
 			}
 		}
 		"ItemTooltips"

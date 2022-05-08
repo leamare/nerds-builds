@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3A4B"
-	"TimePublished"		"0x00000000619D3A4B"
+	"TimeUpdated"		"0x0000000062508A70"
+	"TimePublished"		"0x0000000062508A70"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,11 +21,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_flask"
+				"item"		"item_blight_stone"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
@@ -36,19 +36,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
-				"item"		"item_glimmer_cape"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_urn_of_shadows"
-				"item"		"item_falcon_blade"
-				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
-				"item"		"item_force_staff"
+				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
+				"item"		"item_force_staff"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_ethereal_blade"
 				"item"		"item_solar_crest"
 				"item"		"item_gungir"
 				"item"		"item_guardian_greaves"
@@ -56,8 +56,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
+				"item"		"item_gungir"
 				"item"		"item_aeon_disk"
-				"item"		"item_ethereal_blade"
 				"item"		"item_cyclone"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
@@ -65,13 +65,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_keen_optic"
 				"item"		"item_trusty_shovel"
-				"item"		"item_grove_bow"
+				"item"		"item_keen_optic"
+				"item"		"item_pogo_stick"
+				"item"		"item_arcane_ring"
+				"item"		"item_nether_shawl"
+				"item"		"item_paintball"
+				"item"		"item_bullwhip"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
-				"item"		"item_elven_tunic"
-				"item"		"item_spell_prism"
-				"item"		"item_trickster_cloak"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_spy_gadget"
+				"item"		"item_timeless_relic"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -102,8 +107,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_hoodwink_camouflage"
 			"16"		"hoodwink_scurry"
 			"18"		"hoodwink_sharpshooter"
-			"20"		"special_bonus_corruption_3"
-			"25"		"special_bonus_unique_hoodwink_sharpshooter_pure_damage"
+			"20"		"special_bonus_unique_hoodwink_sharpshooter_speed"
+			"25"		"special_bonus_unique_hoodwink_bushwhack_radius"
 		}
 		"AbilityTooltips"
 		{

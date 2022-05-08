@@ -3,16 +3,16 @@
 	"Hero"		"enchantress"
 	"Title"		"Nerds Support Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good for agressive playstyle. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy cores lifes by roaming with jungle creeps, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"75"
 	"AssociatedWorkshopItemID"		"0x000000002EA0D5FA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3ABE"
-	"TimePublished"		"0x00000000619D3ABE"
+	"TimeUpdated"		"0x0000000062508B42"
+	"TimePublished"		"0x0000000062508B42"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_blight_stone"
 				"item"		"item_flask"
-				"item"		"item_enchanted_mango"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
@@ -37,6 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_holy_locket"
 				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
@@ -47,12 +47,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
-				"item"		"item_hurricane_pike"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_sheepstick"
+				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
-				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 			}
 			"Utility"
@@ -64,13 +63,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spirit_vessel"
 				"item"		"item_pipe"
 				"item"		"item_mekansm"
-				"item"		"item_holy_locket"
+				"item"		"item_guardian_greaves"
 			}
 			"Situational"
 			{
 				"item"		"item_rod_of_atos"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aeon_disk"
-				"item"		"item_black_king_bar"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_sphere"
 				"item"		"item_assault"
@@ -120,8 +119,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"enchantress_impetus"
-			"2"		"enchantress_enchant"
+			"1"		"enchantress_enchant"
+			"2"		"enchantress_impetus"
 			"3"		"enchantress_enchant"
 			"4"		"enchantress_impetus"
 			"5"		"enchantress_impetus"

@@ -3,7 +3,7 @@
 	"Hero"		"doom_bringer"
 	"Title"		"Nerds Doom"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Doom is strength hero who can be played as offlane. He's great at disabling heroes for a long period with his ultimate and dealing massive amounts of damage with Infernal Blade and Scorched Earth. Doom excells at farming because of Devour that gets him a ton of bonus gold. The only things that hold him down are low armor, low mana pool, lack of reliable escape and long cooldowns.
 
 Doom becomes extremely important when it faces some heroes with very strong ultimates (e.g. Enigma, Tidehunter). With his ultimate he is able to change the fight, disabling any hero from casting his spells, or reliably kill any hero on the map early on. Doom gets a lot of money really fast and even after being shut down early it will allow him to come back and fight.
@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B25"
-	"TimePublished"		"0x00000000619D3B25"
+	"TimeUpdated"		"0x0000000062508F65"
+	"TimePublished"		"0x0000000062508F65"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,9 +25,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_ring_of_protection"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
@@ -36,28 +36,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_blink"
-				"item"		"item_shivas_guard"
-				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_invis_sword"
-				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
-				"item"		"item_arcane_blink"
+				"item"		"item_shivas_guard"
 				"item"		"item_refresher"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_silver_edge"
+				"item"		"item_aeon_disk"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_heavens_halberd"
 				"item"		"item_solar_crest"
@@ -65,20 +65,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_radiance"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
-				"item"		"item_vladmir"
 				"item"		"item_crimson_guard"
+				"item"		"item_vladmir"
 				"item"		"item_sheepstick"
+				"item"		"item_arcane_blink"
+				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_bullwhip"
+				"item"		"item_mysterious_hat"
+				"item"		"item_possessed_mask"
+				"item"		"item_pogo_stick"
+				"item"		"item_vambrace"
+				"item"		"item_paintball"
+				"item"		"item_essence_ring"
+				"item"		"item_black_powder_bag"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_quickening_charm"
 				"item"		"item_spider_legs"
+				"item"		"item_quickening_charm"
+				"item"		"item_trickster_cloak"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_stormcrafter"
+				"item"		"item_ninja_gear"
 			}
 			"http://dotablog.ileamare.ru/builds"
 			{
@@ -109,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"doom_bringer_doom"
 			"13"		"doom_bringer_infernal_blade"
 			"14"		"doom_bringer_infernal_blade"
-			"15"		"special_bonus_unique_doom_2"
+			"15"		"special_bonus_unique_doom_9"
 			"16"		"doom_bringer_infernal_blade"
 			"18"		"doom_bringer_doom"
 			"20"		"special_bonus_unique_doom_5"

@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Lifestealer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Lifestealer is a strength core hero who is extremely good against high HP targets. His skillset allowes him to outlive opponents in fights and be durable, while Feast gives him damage based on enemy HP.
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"83"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3A04"
-	"TimePublished"		"0x00000000619D3A04"
+	"TimeUpdated"		"0x0000000062508384"
+	"TimePublished"		"0x0000000062508384"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,8 +34,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_desolator"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_abyssal_blade"
+				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
@@ -45,20 +46,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_satanic"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_assault"
 				"item"		"item_skadi"
+				"item"		"item_satanic"
+				"item"		"item_nullifier"
+				"item"		"item_abyssal_blade"
+				"item"		"item_assault"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_greater_crit"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_nullifier"
 			}
 			"Situational"
 			{
 				"item"		"item_aghanims_shard"
-				"item"		"item_desolator"
 				"item"		"item_sphere"
 				"item"		"item_mjollnir"
 				"item"		"item_bloodthorn"
@@ -68,12 +69,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
 				"item"		"item_chipped_vest"
-				"item"		"item_bullwhip"
-				"item"		"item_paladin_sword"
+				"item"		"item_broom_handle"
+				"item"		"item_unstable_wand"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_misericorde"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_spider_legs"
+				"item"		"item_mind_breaker"
+				"item"		"item_elven_tunic"
+				"item"		"item_titan_sliver"
+				"item"		"item_paladin_sword"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
 			}
@@ -103,15 +108,15 @@ Amplifies our mobility even further, as well as attack speed. Gives a lot of HP 
 		{
 			"1"		"life_stealer_feast"
 			"2"		"life_stealer_ghoul_frenzy"
-			"3"		"life_stealer_feast"
+			"3"		"life_stealer_ghoul_frenzy"
 			"4"		"life_stealer_rage"
 			"5"		"life_stealer_ghoul_frenzy"
 			"6"		"life_stealer_infest"
-			"7"		"life_stealer_feast"
+			"7"		"life_stealer_ghoul_frenzy"
 			"8"		"life_stealer_feast"
-			"9"		"life_stealer_ghoul_frenzy"
+			"9"		"life_stealer_feast"
 			"10"		"special_bonus_attack_speed_30"
-			"11"		"life_stealer_ghoul_frenzy"
+			"11"		"life_stealer_feast"
 			"12"		"life_stealer_infest"
 			"13"		"life_stealer_rage"
 			"14"		"life_stealer_rage"

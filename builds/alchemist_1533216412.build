@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3CD8"
-	"TimePublished"		"0x00000000619D3CD8"
+	"TimeUpdated"		"0x00000000625099F1"
+	"TimePublished"		"0x00000000625099F1"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,9 +22,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -35,14 +35,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_armlet"
 				"item"		"item_radiance"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_armlet"
 				"item"		"item_invis_sword"
-				"item"		"item_blink"
 			}
 			"Lategame"
 			{
@@ -52,7 +52,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_overwhelming_blink"
+				"item"		"item_swift_blink"
 				"item"		"item_ultimate_scepter_2"
 				"item"		"item_travel_boots_2"
 			}
@@ -68,19 +68,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodthorn"
 				"item"		"item_greater_crit"
 				"item"		"item_shivas_guard"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral  Items"
 			{
-				"item"		"item_chipped_vest"
+				"item"		"item_ocean_heart"
+				"item"		"item_unstable_wand"
+				"item"		"item_broom_handle"
+				"item"		"item_essence_ring"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
+				"item"		"item_spider_legs"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_black_powder_bag"
-				"item"		"item_bullwhip"
 				"item"		"item_titan_sliver"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -116,8 +120,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_350"
 			"16"		"alchemist_unstable_concoction"
 			"18"		"alchemist_chemical_rage"
-			"20"		"special_bonus_unique_alchemist_2"
-			"25"		"special_bonus_unique_alchemist_4"
+			"20"		"special_bonus_cleave_25"
+			"25"		"special_bonus_unique_alchemist_6"
 		}
 		"AbilityTooltips"
 		{

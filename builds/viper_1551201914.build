@@ -7,12 +7,12 @@
 	"Overview"		"Viper is an agility core hero who excells at slowing down enemies, dominating a lane and snowballing out of control. The hero lacks any hard controlling abilities but it has a lot of slows in return. Another thing to consider is Nethertoxin - Viper's most dangerous weapon that can make you burn out in seconds during fights or help it farm extremely fast. And the last addition to this toolset is natural tankiness against magic. Viper's weaknessess are being easy to kill with physical damage and natural lack of mobility. And finally the lack of any hard controlling abilities that may stop you from teleporting away.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"71"
 	"AssociatedWorkshopItemID"		"0x00000000637F33EA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623660A0"
-	"TimePublished"		"0x00000000623660A0"
+	"TimeUpdated"		"0x00000000624F87CF"
+	"TimePublished"		"0x00000000624F87CF"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,9 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_enchanted_mango"
 				"item"		"item_faerie_fire"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -85,17 +84,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
-				"item"		"item_possessed_mask"
+				"item"		"item_pogo_stick"
 				"item"		"item_chipped_vest"
-				"item"		"item_grove_bow"
-				"item"		"item_quickening_charm"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_ocean_heart"
+				"item"		"item_essence_ring"
 				"item"		"item_pupils_gift"
-				"item"		"item_nether_shawl"
-				"item"		"item_ninja_gear"
+				"item"		"item_grove_bow"
+				"item"		"item_paladin_sword"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_mind_breaker"
 				"item"		"item_the_leveller"
-				"item"		"item_spell_prism"
+				"item"		"item_ascetic_cap"
+				"item"		"item_ninja_gear"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

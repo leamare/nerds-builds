@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062351ECC"
-	"TimePublished"		"0x0000000062351ECC"
+	"TimeUpdated"		"0x00000000624F82FA"
+	"TimePublished"		"0x00000000624F82FA"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_null_talisman"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
+				"item"		"item_clarity"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -31,9 +36,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aether_lens"
 				"item"		"item_aghanims_shard"
-				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
@@ -44,14 +49,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_refresher"
 				"item"		"item_octarine_core"
+				"item"		"item_refresher"
+				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_cyclone"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_lotus_orb"
@@ -80,25 +85,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"zuus_lightning_bolt"
-			"2"		"zuus_heavenly_jump"
-			"3"		"zuus_arc_lightning"
-			"4"		"zuus_arc_lightning"
-			"5"		"zuus_arc_lightning"
+			"1"		"zuus_heavenly_jump"
+			"2"		"zuus_arc_lightning"
+			"3"		"zuus_lightning_bolt"
+			"4"		"zuus_lightning_bolt"
+			"5"		"zuus_lightning_bolt"
 			"6"		"zuus_thundergods_wrath"
-			"7"		"zuus_arc_lightning"
+			"7"		"zuus_lightning_bolt"
 			"8"		"zuus_heavenly_jump"
 			"9"		"zuus_heavenly_jump"
 			"10"		"special_bonus_mp_regen_125"
 			"11"		"zuus_heavenly_jump"
 			"12"		"zuus_thundergods_wrath"
-			"13"		"zuus_lightning_bolt"
-			"14"		"zuus_lightning_bolt"
-			"15"		"special_bonus_unique_zeus"
-			"16"		"zuus_lightning_bolt"
+			"13"		"zuus_arc_lightning"
+			"14"		"zuus_arc_lightning"
+			"15"		"special_bonus_hp_350"
+			"16"		"zuus_arc_lightning"
 			"18"		"zuus_thundergods_wrath"
 			"20"		"special_bonus_unique_zeus_3"
-			"25"		"special_bonus_unique_zeus_2"
+			"25"		"special_bonus_unique_zeus_5"
 		}
 		"AbilityTooltips"
 		{

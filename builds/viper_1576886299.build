@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"9"
 	"AssociatedWorkshopItemID"		"0x000000009B18DEB2"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623661F4"
-	"TimePublished"		"0x00000000623661F4"
+	"TimeUpdated"		"0x00000000624F8866"
+	"TimePublished"		"0x00000000624F8866"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,38 +21,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_ward_sentry"
+				"item"		"item_branches"
 				"item"		"item_circlet"
 				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_urn_of_shadows"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"CorE"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_ancient_janggo"
+				"item"		"item_spirit_vessel"
+				"item"		"item_rod_of_atos"
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_glimmer_cape"
 				"item"		"item_arcane_boots"
+				"item"		"item_ghost"
 			}
 			"Lategame"
 			{
-				"item"		"item_boots_of_bearing"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_rod_of_atos"
+				"item"		"item_boots_of_bearing"
 			}
 			"Situational"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_veil_of_discord"
 				"item"		"item_holy_locket"
 				"item"		"item_guardian_greaves"
@@ -61,7 +61,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
-				"item"		"item_mysterious_hat"
 				"item"		"item_arcane_ring"
 				"item"		"item_pupils_gift"
 				"item"		"item_grove_bow"

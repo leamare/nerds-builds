@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"87"
+	"GuideRevision"		"88"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B90"
-	"TimePublished"		"0x00000000619D3B90"
+	"TimeUpdated"		"0x000000006250919A"
+	"TimePublished"		"0x000000006250919A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_circlet"
 				"item"		"item_mantle"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
@@ -52,7 +52,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sphere"
+				"item"		"item_black_king_bar"
 				"item"		"item_gungir"
+				"item"		"item_revenants_brooch"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -68,7 +70,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_silver_edge"
 				"item"		"item_shivas_guard"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
 				"item"		"item_mask_of_madness"
@@ -118,7 +119,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"dark_willow_cursed_crown"
 			"18"		"dark_willow_bedlam"
 			"20"		"special_bonus_unique_dark_willow_1"
-			"25"		"special_bonus_attack_speed_110"
+			"25"		"special_bonus_attack_speed_100"
 		}
 		"AbilityTooltips"
 		{

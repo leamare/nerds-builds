@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"120"
+	"GuideRevision"		"122"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B5C"
-	"TimePublished"		"0x00000000619D3B5C"
+	"TimeUpdated"		"0x0000000062509173"
+	"TimePublished"		"0x0000000062509173"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,18 +20,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_circlet"
-				"item"		"item_quelling_blade"
+				"item"		"item_mantle"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_flask"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_null_talisman"
-				"item"		"item_falcon_blade"
 			}
 			"Core"
 			{
@@ -125,7 +124,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"dark_willow_cursed_crown"
 			"18"		"dark_willow_bedlam"
 			"20"		"special_bonus_unique_dark_willow_1"
-			"25"		"special_bonus_attack_speed_110"
+			"25"		"special_bonus_attack_speed_100"
 		}
 		"AbilityTooltips"
 		{

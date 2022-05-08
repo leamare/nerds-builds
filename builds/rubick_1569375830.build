@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623A86E0"
-	"TimePublished"		"0x00000000623A86E0"
+	"TimeUpdated"		"0x00000000624F8DCC"
+	"TimePublished"		"0x00000000624F8DCC"
 	"ItemBuild"
 	{
 		"Items"
@@ -96,11 +96,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"rubick_telekinesis"
 			"13"		"rubick_telekinesis"
 			"14"		"rubick_telekinesis"
-			"15"		"special_bonus_unique_rubick_7"
+			"15"		"special_bonus_unique_rubick_6"
 			"16"		"rubick_spell_steal"
 			"18"		"rubick_spell_steal"
-			"20"		"special_bonus_unique_rubick_3"
-			"25"		"special_bonus_unique_rubick_4"
+			"20"		"special_bonus_unique_rubick"
+			"25"		"special_bonus_unique_rubick_5"
 		}
 		"AbilityTooltips"
 		{

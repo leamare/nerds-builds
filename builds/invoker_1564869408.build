@@ -3,16 +3,16 @@
 	"Hero"		"invoker"
 	"Title"		"Nerds Support QW Invoker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x000000006CDA7DD2"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3A27"
-	"TimePublished"		"0x00000000619D3A27"
+	"TimeUpdated"		"0x0000000062508543"
+	"TimePublished"		"0x0000000062508543"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,34 +20,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_flask"
-				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
+				"item"		"item_flask"
 				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
-				"item"		"item_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_null_talisman"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_solar_crest"
+				"item"		"item_travel_boots"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_cyclone"
 				"item"		"item_force_staff"
+				"item"		"item_ring_of_basilius"
 			}
 			"Lategame"
 			{
+				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
 				"item"		"item_refresher"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
@@ -55,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_orchid"
 				"item"		"item_glimmer_cape"
 				"item"		"item_ghost"
@@ -67,13 +70,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
 				"item"		"item_mysterious_hat"
+				"item"		"item_pogo_stick"
 				"item"		"item_quickening_charm"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
 				"item"		"item_psychic_headband"
+				"item"		"item_essence_ring"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -88,16 +93,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"invoker_quas"
-			"2"		"invoker_wex"
+			"1"		"invoker_wex"
+			"2"		"invoker_quas"
 			"3"		"invoker_quas"
 			"4"		"invoker_wex"
 			"5"		"invoker_quas"
 			"6"		"invoker_wex"
 			"7"		"invoker_quas"
 			"8"		"invoker_wex"
-			"9"		"invoker_wex"
-			"10"		"special_bonus_unique_invoker_10"
+			"9"		"invoker_exort"
+			"10"		"special_bonus_unique_invoker_6"
 			"11"		"invoker_exort"
 			"12"		"invoker_quas"
 			"13"		"invoker_wex"
@@ -111,7 +116,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"21"		"invoker_quas"
 			"22"		"invoker_wex"
 			"23"		"invoker_quas"
-			"24"		"invoker_exort"
+			"24"		"invoker_wex"
 			"25"		"special_bonus_unique_invoker_2"
 		}
 		"AbilityTooltips"

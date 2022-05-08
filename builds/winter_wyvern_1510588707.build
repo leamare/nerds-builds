@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"103"
+	"GuideRevision"		"104"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062365DE2"
-	"TimePublished"		"0x0000000062365DE2"
+	"TimeUpdated"		"0x00000000624F83BA"
+	"TimePublished"		"0x00000000624F83BA"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,9 +22,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_branches"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
@@ -38,7 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_witch_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
@@ -56,8 +55,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodthorn"
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_revenants_brooch"
 				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_hurricane_pike"
@@ -80,6 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_hand_of_midas"
+				"item"		"item_yasha_and_kaya"
 			}
 			"Best Neutral Items"
 			{
@@ -129,17 +130,17 @@ Additional increase in our farming capabilities, as well as boosting our teamfig
 	{
 		"AbilityOrder"
 		{
-			"1"		"winter_wyvern_arctic_burn"
-			"2"		"winter_wyvern_splinter_blast"
+			"1"		"winter_wyvern_splinter_blast"
+			"2"		"winter_wyvern_arctic_burn"
 			"3"		"winter_wyvern_splinter_blast"
-			"4"		"winter_wyvern_cold_embrace"
+			"4"		"winter_wyvern_arctic_burn"
 			"5"		"winter_wyvern_splinter_blast"
 			"6"		"winter_wyvern_winters_curse"
 			"7"		"winter_wyvern_splinter_blast"
 			"8"		"winter_wyvern_arctic_burn"
 			"9"		"winter_wyvern_arctic_burn"
 			"10"		"special_bonus_attack_damage_35"
-			"11"		"winter_wyvern_arctic_burn"
+			"11"		"winter_wyvern_cold_embrace"
 			"12"		"winter_wyvern_winters_curse"
 			"13"		"winter_wyvern_cold_embrace"
 			"14"		"winter_wyvern_cold_embrace"

@@ -9,24 +9,24 @@
 Venomancer's most successful at sieging enemy towers and defending his own ones. The hero is also a big problem when it comes to teamfights, since his massice damage output can't be ignored and often can force enemies to retreat, even if Venomancer died a long time ago. The disadvantages of the hero, however, are his lack of any kind of reliable controlling spells and his lack of inbuilt surviveability. Naturally, the best items you can build for Venomancer are the ones that make your team stronger, while also making you tankier, allowing you to sirvive.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"15"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x0000000083A19077"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062366258"
-	"TimePublished"		"0x0000000062366258"
+	"TimeUpdated"		"0x00000000624F895F"
+	"TimePublished"		"0x00000000624F895F"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_circlet"
 				"item"		"item_tango"
+				"item"		"item_ring_of_protection"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_flask"
-				"item"		"item_quelling_blade"
+				"item"		"item_faerie_fire"
 			}
 			"Starting items - Support"
 			{
@@ -49,7 +49,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_rod_of_atos"
+				"item"		"item_hood_of_defiance"
 				"item"		"item_ghost"
 				"item"		"item_travel_boots"
 				"item"		"item_force_staff"
@@ -57,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_boots_of_bearing"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
@@ -65,15 +66,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Utility"
 			{
 				"item"		"item_pipe"
+				"item"		"item_ethereal_blade"
 				"item"		"item_solar_crest"
 				"item"		"item_heavens_halberd"
 				"item"		"item_lotus_orb"
-				"item"		"item_ethereal_blade"
 				"item"		"item_orchid"
 				"item"		"item_guardian_greaves"
 			}
 			"SItuational"
 			{
+				"item"		"item_rod_of_atos"
 				"item"		"item_veil_of_discord"
 				"item"		"item_blink"
 				"item"		"item_cyclone"
@@ -117,7 +119,7 @@ Alternatively, if you&amp;amp;apos;re not planning to get Vessel, you can switch
 			"item_force_staff"		"Utility/save item, mostly for cases when playing against heroes like Clock/Riki"
 			"item_ghost"		"Utility/save item, against phisycal burst cores"
 			"item_veil_of_discord"		"Early game aggressive solution. If you&amp;amp;apos;re not getting Vessel (or it won&amp;amp;apos;t be as useful, e.g. enemy heroes don&amp;amp;apos;t even have much regen), Veil comes in handy, significantly increasing your damage"
-			"item_hand_of_midas"		"If you&amp;amp;apos;re having an easy early game and don&amp;amp;apos;t really need a fast Vessel, you can go for Midas instead, increasing your XPM"
+			"item_hand_of_midas"		"If you&apos;re having an easy early game and don&apos;t really need a fast Vessel, you can go for Midas instead, increasing your XPM"
 			"item_ethereal_blade"		"Mostly to save allies from physical burst"
 			"item_quelling_blade"		"Allowes you to create passages that you can block with plague wards (effectively blocking enemies out)
 

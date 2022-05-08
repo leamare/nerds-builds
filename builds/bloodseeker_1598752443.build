@@ -3,18 +3,18 @@
 	"Hero"		"bloodseeker"
 	"Title"		"Nerds Utility Bloodseeker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"Bloodseeker is an agility core hero, who can be played as an utility core (or a support). Bloodseekers excells at early game fights, as well as disrupting enemy positioning and immobilizing them. He's also good at crearing jungle and creep waves. His passive ability Thirst makes im very durable early on, thanks to the heal. Bloodrite, on the other hand, allowes the hero to secure ranged creeps and fight for bounty runes effectively. Bloodrage, the signature spell, allows Bloodseeker to make any strong core hero on his team even more powerful, infusing them with a massive spell amplification and attack speed buff.
 
 Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3BF1"
-	"TimePublished"		"0x00000000619D3BF1"
+	"TimeUpdated"		"0x00000000625096DE"
+	"TimePublished"		"0x00000000625096DE"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_rod_of_atos"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -45,18 +45,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_maelstrom"
 				"item"		"item_diffusal_blade"
 			}
-			"Utility"
-			{
-				"item"		"item_solar_crest"
-				"item"		"item_heavens_halberd"
-				"item"		"item_pipe"
-				"item"		"item_force_staff"
-				"item"		"item_crimson_guard"
-				"item"		"item_lotus_orb"
-			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_gungir"
 				"item"		"item_abyssal_blade"
 				"item"		"item_octarine_core"
@@ -70,6 +61,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_cyclone"
 				"item"		"item_dagon_5"
+				"item"		"item_crimson_guard"
+				"item"		"item_lotus_orb"
+				"item"		"item_heavens_halberd"
+				"item"		"item_pipe"
+				"item"		"item_force_staff"
 			}
 			"Best Neutral Items"
 			{
@@ -121,11 +117,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"bloodseeker_rupture"
 			"13"		"bloodseeker_bloodrage"
 			"14"		"bloodseeker_bloodrage"
-			"15"		"special_bonus_unique_bloodseeker_6"
-			"16"		"special_bonus_unique_bloodseeker_2"
+			"15"		"special_bonus_unique_bloodseeker_5"
+			"16"		"special_bonus_unique_bloodseeker_7"
 			"18"		"bloodseeker_rupture"
 			"20"		"special_bonus_unique_bloodseeker_3"
-			"25"		"special_bonus_unique_bloodseeker"
+			"25"		"special_bonus_unique_bloodseeker_rupture_charges"
 		}
 		"AbilityTooltips"
 		{

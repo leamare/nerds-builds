@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623A8470"
-	"TimePublished"		"0x00000000623A8470"
+	"TimeUpdated"		"0x0000000062731195"
+	"TimePublished"		"0x0000000062731195"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,43 +36,56 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ultimate_scepter"
 				"item"		"item_power_treads"
 			}
-			"Situational"
+			"Situational Early"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_ghost"
 				"item"		"item_blade_mail"
 			}
-			"Utility"
-			{
-				"item"		"item_spirit_vessel"
-				"item"		"item_vladmir"
-				"item"		"item_mage_slayer"
-				"item"		"item_heavens_halberd"
-				"item"		"item_crimson_guard"
-				"item"		"item_pipe"
-				"item"		"item_lotus_orb"
-			}
 			"Lategame / Core Transition"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_assault"
-				"item"		"item_sheepstick"
 				"item"		"item_manta"
+				"item"		"item_bloodthorn"
 				"item"		"item_heart"
-				"item"		"item_gungir"
-				"item"		"item_ethereal_blade"
+			}
+			"Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_crimson_guard"
+				"item"		"item_spirit_vessel"
+				"item"		"item_vladmir"
+				"item"		"item_lotus_orb"
+				"item"		"item_heavens_halberd"
+				"item"		"item_pipe"
 			}
 			"Situational"
 			{
-				"item"		"item_mage_slayer"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_diffusal_blade"
+				"item"		"item_sheepstick"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_gungir"
+				"item"		"item_wraith_pact"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_chipped_vest"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_ocean_heart"
+				"item"		"item_arcane_ring"
+				"item"		"item_pogo_stick"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_vambrace"
+				"item"		"item_dragon_scale"
 				"item"		"item_pupils_gift"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_paladin_sword"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_mind_breaker"
+				"item"		"item_spy_gadget"
+				"item"		"item_stormcrafter"
+				"item"		"item_heavy_blade"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623A8576"
-	"TimePublished"		"0x00000000623A8576"
+	"TimeUpdated"		"0x00000000624F8D1C"
+	"TimePublished"		"0x00000000624F8D1C"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,7 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
-				"item"		"item_silver_edge"
+				"item"		"item_invis_sword"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -48,6 +48,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_silver_edge"
+				"item"		"item_sange_and_yasha"
 				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
@@ -58,23 +60,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_sphere"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_unstable_wand"
 				"item"		"item_broom_handle"
 				"item"		"item_possessed_mask"
-				"item"		"item_bullwhip"
+				"item"		"item_misericorde"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
 				"item"		"item_pupils_gift"
+				"item"		"item_mind_breaker"
 				"item"		"item_paladin_sword"
-				"item"		"item_ninja_gear"
+				"item"		"item_elven_tunic"
 				"item"		"item_titan_sliver"
+				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
-				"item"		"item_penta_edged_sword"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -100,7 +104,7 @@ Situationally good before drum if you&amp;amp;apos;re not going to fight straigh
 			"7"		"slark_dark_pact"
 			"8"		"slark_pounce"
 			"9"		"slark_pounce"
-			"10"		"special_bonus_unique_slark"
+			"10"		"special_bonus_unique_slark_6"
 			"11"		"slark_pounce"
 			"12"		"slark_shadow_dance"
 			"13"		"slark_essence_shift"

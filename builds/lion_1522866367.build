@@ -3,18 +3,18 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"79"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D39A9"
-	"TimePublished"		"0x00000000619D39A9"
+	"TimeUpdated"		"0x0000000062508272"
+	"TimePublished"		"0x0000000062508272"
 	"ItemBuild"
 	{
 		"Items"
@@ -56,13 +56,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_aeon_disk"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
@@ -71,7 +71,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_keen_optic"
+				"item"		"item_pogo_stick"
+				"item"		"item_philosophers_stone"
 				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
@@ -106,15 +109,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"5"		"lion_impale"
 			"6"		"lion_finger_of_death"
 			"7"		"lion_impale"
-			"8"		"lion_mana_drain"
+			"8"		"lion_voodoo"
 			"9"		"lion_voodoo"
 			"10"		"special_bonus_movement_speed_15"
-			"11"		"lion_mana_drain"
+			"11"		"lion_voodoo"
 			"12"		"lion_finger_of_death"
 			"13"		"lion_mana_drain"
-			"14"		"lion_voodoo"
-			"15"		"special_bonus_unique_lion_7"
-			"16"		"lion_voodoo"
+			"14"		"lion_mana_drain"
+			"15"		"special_bonus_unique_lion_11"
+			"16"		"lion_mana_drain"
 			"18"		"lion_finger_of_death"
 			"20"		"special_bonus_unique_lion_8"
 			"25"		"special_bonus_unique_lion_4"

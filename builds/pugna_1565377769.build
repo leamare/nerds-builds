@@ -3,16 +3,16 @@
 	"Hero"		"pugna"
 	"Title"		"Nerds Pugna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000006E74B8E5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D2B9D"
-	"TimePublished"		"0x00000000619D2B9D"
+	"TimeUpdated"		"0x0000000062506DBC"
+	"TimePublished"		"0x0000000062506DBC"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,6 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_mantle"
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -27,7 +28,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bottle"
 				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
 			}
@@ -39,23 +39,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_witch_blade"
+				"item"		"item_null_talisman"
+				"item"		"item_bottle"
 				"item"		"item_blink"
 				"item"		"item_tranquil_boots"
-				"item"		"item_null_talisman"
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
+				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
-				"item"		"item_arcane_blink"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_arcane_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_black_king_bar"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_cyclone"
 				"item"		"item_force_staff"
 				"item"		"item_aeon_disk"
@@ -63,20 +64,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_ethereal_blade"
 				"item"		"item_heart"
-				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_keen_optic"
 				"item"		"item_mysterious_hat"
+				"item"		"item_pogo_stick"
+				"item"		"item_philosophers_stone"
 				"item"		"item_nether_shawl"
-				"item"		"item_grove_bow"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_quickening_charm"
 				"item"		"item_psychic_headband"
 				"item"		"item_stormcrafter"
-				"item"		"item_quickening_charm"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
+				"item"		"item_grove_bow"
+				"item"		"item_ceremonial_robe"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -98,9 +101,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"6"		"pugna_life_drain"
 			"7"		"pugna_nether_blast"
 			"8"		"pugna_decrepify"
-			"9"		"pugna_nether_ward"
+			"9"		"pugna_decrepify"
 			"10"		"special_bonus_hp_200"
-			"11"		"pugna_decrepify"
+			"11"		"pugna_nether_ward"
 			"12"		"pugna_life_drain"
 			"13"		"pugna_nether_ward"
 			"14"		"pugna_nether_ward"
@@ -108,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"pugna_nether_ward"
 			"18"		"pugna_life_drain"
 			"20"		"special_bonus_unique_pugna_5"
-			"25"		"special_bonus_unique_pugna_3"
+			"25"		"special_bonus_unique_pugna_2"
 		}
 		"AbilityTooltips"
 		{

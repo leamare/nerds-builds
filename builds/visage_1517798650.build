@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"121"
+	"GuideRevision"		"123"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006236602A"
-	"TimePublished"		"0x000000006236602A"
+	"TimeUpdated"		"0x00000000624F8719"
+	"TimePublished"		"0x00000000624F8719"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
+				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_orchid"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -49,8 +49,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots_of_bearing"
 				"item"		"item_assault"
-				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
+				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_refresher"
 				"item"		"item_moon_shard"
@@ -80,17 +80,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_chipped_vest"
-				"item"		"item_pupils_gift"
-				"item"		"item_black_powder_bag"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_unstable_wand"
+				"item"		"item_ocean_heart"
+				"item"		"item_arcane_ring"
+				"item"		"item_mysterious_hat"
+				"item"		"item_misericorde"
 				"item"		"item_grove_bow"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_the_leveller"
-				"item"		"item_minotaur_horn"
-				"item"		"item_psychic_headband"
-				"item"		"item_titan_sliver"
 				"item"		"item_bullwhip"
+				"item"		"item_vambrace"
+				"item"		"item_spider_legs"
+				"item"		"item_black_powder_bag"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_timeless_relic"
 				"item"		"item_trickster_cloak"
 			}
 			"https://leamare.github.io/nerds-builds/"
@@ -136,7 +137,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"visage_grave_chill"
 			"8"		"visage_soul_assumption"
 			"9"		"visage_gravekeepers_cloak"
-			"10"		"special_bonus_unique_visage_8"
+			"10"		"special_bonus_unique_visage_7"
 			"11"		"visage_gravekeepers_cloak"
 			"12"		"visage_summon_familiars"
 			"13"		"visage_gravekeepers_cloak"
@@ -151,18 +152,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"special_bonus_attack_damage_50"		"If we are going to be core and rely on physical damage, it&amp;amp;amp;apos;s quite pointless to get cast range anyway, while 50 AD is actually a lot."
 			"special_bonus_hp_300"		"Double strike massively increases our damage output, altho 300 health is a lot, so it may be worth it for a hero with a lot of resists"
-			"special_bonus_exp_boost_25"		"Money won&amp;amp;amp;apos;t be a problem and items won&amp;amp;amp;apos;t give us as much as experience gain. With extra GPM you can get aghs and other shit faster, but who cares, you are already farming machine with your familliars and medallion."
 			"visage_grave_chill"		"Our main kill-potential spell. It&amp;amp;amp;apos;s not only a slow, but also an attack speed buff for us and our familliars. It&amp;amp;amp;apos;s also a good way to escape ganks."
 			"visage_soul_assumption"		"Our another killing/finishing up spell. It&amp;amp;amp;apos;s generally not a good idea to not skill this, but for a core Visage it won&amp;amp;amp;apos;t be a problem to get a bunch of levels. Early on it won&amp;amp;amp;apos;t be that useful with higher levels, so it&amp;amp;amp;apos;s better to leave as level 1 skill until later point."
 			"visage_gravekeepers_cloak"		"Max Gravekeeper&amp;amp;amp;apos;s Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
 			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he&amp;amp;amp;apos;s almost completely useless. Don&amp;amp;amp;apos;t be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you&amp;amp;amp;apos;re close to aghs or lvl 12/18."
-			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
-
-+ 
-
-Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
 			"special_bonus_unique_visage_3"		"It&amp;amp;amp;apos;s good when you&amp;amp;amp;apos;re dominating and won&amp;amp;amp;apos;t be able to get that much benefit from XP talent."
-			"special_bonus_exp_boost_40"		"Altho, in most case XP gain helps you to get level 20 and 25 talents much faster, both of them are huge power spikes."
 			"special_bonus_unique_visage_5"		"Good in cases when you have aghs slot and play more like a tank than damage dealer."
 			"special_bonus_unique_visage_6"		"Better in almost every case. 4 familliars with aghs or &amp;amp;amp;quot;free slot&amp;amp;amp;quot; to buy something instead of aghs. In both cases this talent helps much more than cloak upgrade."
 		}

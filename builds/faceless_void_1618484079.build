@@ -3,16 +3,16 @@
 	"Hero"		"faceless_void"
 	"Title"		"Nerds Support Void"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"based on games of DuBu and 2B (as well as feedback of various Void Support spammers from 5.6k+ mmr)
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"12"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x00000000931E9568"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3A9F"
-	"TimePublished"		"0x00000000619D3A9F"
+	"TimeUpdated"		"0x0000000062508AD3"
+	"TimePublished"		"0x0000000062508AD3"
 	"ItemBuild"
 	{
 		"Items"
@@ -62,6 +62,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_pogo_stick"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_pupils_gift"
+				"item"		"item_quickening_charm"
+				"item"		"item_black_powder_bag"
+				"item"		"item_mind_breaker"
+				"item"		"item_heavy_blade"
+				"item"		"item_ninja_gear"
+				"item"		"item_the_leveller"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{

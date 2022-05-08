@@ -3,16 +3,16 @@
 	"Hero"		"magnataur"
 	"Title"		"Nerds Magnus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"36"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x0000000072F84470"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D345B"
-	"TimePublished"		"0x00000000619D345B"
+	"TimeUpdated"		"0x0000000062507BCC"
+	"TimePublished"		"0x0000000062507BCC"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,21 +22,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_boots"
+				"item"		"item_power_treads"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
 				"item"		"item_blink"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -46,6 +47,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
 				"item"		"item_assault"
 				"item"		"item_greater_crit"
 				"item"		"item_abyssal_blade"
@@ -61,17 +63,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_bloodthorn"
 				"item"		"item_lotus_orb"
-				"item"		"item_octarine_core"
-				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
+				"item"		"item_arcane_ring"
+				"item"		"item_unstable_wand"
+				"item"		"item_dragon_scale"
 				"item"		"item_bullwhip"
+				"item"		"item_pupils_gift"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_penta_edged_sword"
-				"item"		"item_mind_breaker"
-				"item"		"item_the_leveller"
+				"item"		"item_spider_legs"
+				"item"		"item_timeless_relic"
+				"item"		"item_spy_gadget"
+				"item"		"item_stormcrafter"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -102,8 +108,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_magnus_7"
 			"16"		"magnataur_shockwave"
 			"18"		"magnataur_reverse_polarity"
-			"20"		"special_bonus_hp_350"
-			"25"		"special_bonus_unique_magnus_2"
+			"20"		"special_bonus_unique_magnus_3"
+			"25"		"special_bonus_unique_magnus_5"
 		}
 		"AbilityTooltips"
 		{

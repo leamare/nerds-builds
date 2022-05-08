@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Support Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x00000000910FA549"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D2ACD"
-	"TimePublished"		"0x00000000619D2ACD"
+	"TimeUpdated"		"0x00000000624F8EB5"
+	"TimePublished"		"0x00000000624F8EB5"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,21 +28,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_urn_of_shadows"
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_meteor_hammer"
 				"item"		"item_aghanims_shard"
-				"item"		"item_basher"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wraith_band"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_basher"
 			}
 			"Late"
 			{
@@ -67,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bullwhip"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
-				"item"		"item_enchanted_quiver"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -90,16 +89,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"riki_blink_strike"
 			"8"		"riki_smoke_screen"
 			"9"		"riki_tricks_of_the_trade"
-			"10"		"special_bonus_attack_speed_20"
+			"10"		"special_bonus_unique_riki_7"
 			"11"		"riki_smoke_screen"
 			"12"		"riki_backstab"
 			"13"		"riki_smoke_screen"
 			"14"		"riki_tricks_of_the_trade"
-			"15"		"special_bonus_unique_riki_8"
+			"15"		"special_bonus_unique_riki_3"
 			"16"		"riki_tricks_of_the_trade"
 			"18"		"riki_backstab"
 			"20"		"special_bonus_unique_riki_9"
-			"25"		"special_bonus_unique_riki_6"
+			"25"		"special_bonus_unique_riki_5"
 		}
 		"AbilityTooltips"
 		{

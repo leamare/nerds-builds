@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31b"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3B32"
-	"TimePublished"		"0x00000000619D3B32"
+	"TimeUpdated"		"0x00000000625090BE"
+	"TimePublished"		"0x00000000625090BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_gauntlets"
-				"item"		"item_flask"
+				"item"		"item_gauntlets"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -36,47 +36,49 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_echo_sabre"
-				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_pipe"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_blink"
+				"item"		"item_holy_locket"
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
-				"item"		"item_heart"
-				"item"		"item_sange_and_yasha"
-				"item"		"item_abyssal_blade"
-				"item"		"item_overwhelming_blink"
+				"item"		"item_heavens_halberd"
 			}
 			"Situational"
 			{
-				"item"		"item_solar_crest"
-				"item"		"item_heavens_halberd"
 				"item"		"item_desolator"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_satanic"
 				"item"		"item_guardian_greaves"
 				"item"		"item_crimson_guard"
 				"item"		"item_silver_edge"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_heart"
+				"item"		"item_abyssal_blade"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_possessed_mask"
 				"item"		"item_chipped_vest"
 				"item"		"item_broom_handle"
 				"item"		"item_dragon_scale"
 				"item"		"item_vambrace"
-				"item"		"item_imp_claw"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_spider_legs"
-				"item"		"item_minotaur_horn"
-				"item"		"item_the_leveller"
+				"item"		"item_titan_sliver"
+				"item"		"item_black_powder_bag"
+				"item"		"item_stormcrafter"
+				"item"		"item_ascetic_cap"
+				"item"		"item_spell_prism"
 			}
 			"https://leamare.github.io/nerds-builds/"
 			{
@@ -104,11 +106,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"dawnbreaker_solar_guardian"
 			"13"		"dawnbreaker_celestial_hammer"
 			"14"		"dawnbreaker_luminosity"
-			"15"		"special_bonus_unique_dawnbreaker_solar_guardian_cooldown"
+			"15"		"special_bonus_unique_dawnbreaker_luminosity_crit"
 			"16"		"dawnbreaker_luminosity"
 			"18"		"dawnbreaker_solar_guardian"
-			"20"		"special_bonus_unique_dawnbreaker_solar_guardian_radius"
-			"25"		"special_bonus_unique_dawnbreaker_celestial_hammer_cast_range"
+			"20"		"special_bonus_unique_dawnbreaker_luminosity_attack_count"
+			"25"		"special_bonus_unique_dawnbreaker_fire_wreath_charges"
 		}
 		"AbilityTooltips"
 		{
