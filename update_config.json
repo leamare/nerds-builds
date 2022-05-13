@@ -1,0 +1,60 @@
+{
+  "path": "./build-files/builds/",
+  "link": "https://builds.spectral.gg/",
+  "levels": {
+    "skip": {
+      "skip": true
+    },
+    "simulate": {
+      "simulate": true
+    },
+    "bump": {
+      "fixStrings": true
+    },
+    "skills": {
+      "skillBuild": true,
+      "talents": true,
+      "startingItems": true
+    },
+    "timings": {
+      "mainTimings": true
+    },
+    "timingsAll": {
+      "allTimings": true
+    },
+    "buildMain": {
+      "buildMain": true
+    },
+    "build": {
+      "buildMain": true,
+      "buildLategame": true,
+      "buildSituational": true,
+      "buildOther": true
+    },
+    "full": {
+      "fixStrings": true,
+      "skillBuild": true,
+      "talents": true,
+      "startingItems": true,
+      "neutralItems": true,
+      "criticalTimings": true,
+      "mainTimings": true,
+      "allTimings": true,
+      "buildMain": true,
+      "buildLategame": true,
+      "buildSituational": true,
+      "buildOther": true,
+      "altsTooltips": true
+    }
+  },
+  "builds": {
+    "axe_1576617452": "full"
+  },
+  "overrides": {
+    "morphling_1517800581": {
+      "suggest": {
+        "all": false
+      }
+    }
+  }
+}

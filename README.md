@@ -4,13 +4,7 @@
 
 [FAQ](FAQ.md)
 
-## IMPORTANT NOTE ABOUT 7.31b
-
-I am working on a replacement for this builds page, including a new build guidelines, viewer and stats.
-
-Initial release date was planned to be around 7.31b, but dates shifted because of ***the war***.
-
-I plan to finish the builds section sometime mid-april. I'll try to update the builds until then, but it won't be a priority for now.
+This repository is used to power up the [Spectral Builds](https://builds.spectral.gg/) website.
 
 ## What is it?
 
@@ -43,13 +37,38 @@ The categories I'm using and brief explanation:
 * **Lategame.** Extension items you would like to buy after your Core items are done. The order is usually preserved and items in this category are usually your "ideal lategame plan", however sometimes you may swap things around. In some guides it's more like a list of suggestions that you may mix and match as you wish.
 * **Situational.** Replacement and extension items for mid to late game. For example, Black King Bar and Monkey King Bar for most of the heroes goes here (you don't want to buy it every game, but in some cases it may be necessary). Some REALLY situational items for early/mid game are moved here as well, just so they will be available somewhere, but won't clutter other categories.
 * **Best Neutral Items.** Self explanatory, from tier 1 to tier 4, from best to worst (of the best). Doesn't include tier 5 items (mostly) since all of them are broken anyway and I don't want to have three lines of neutral items.
+* **Other Significant Items.** Might be good on rare occasions, but usually aren't purchased.
 
 Additional categories:
 
 * **Core Transition.** Used for some heroes that may be played as both core and support. Contains items to turn your support hero into a lategame core.
 * **Utility.** Used in support and offlane core builds, usually contains items that you don't really need yourself, but need for your team. This category is used separately usually when you don't really want and need these items for yourself anyway.
 
-Other notable stuff:
+### Tooltips
+
+All tooltips are parsed on a per-line basis to add Alternatives, Swap Order and Timings metadata.
+
+Usually an item tooltip should look like this:
+
+```
+~15-18 min
+An item tooltip text.
+Might be multiple lines.
+ALTERNATIVES: Boots of Speed, Wind Lace
+ORDER SWAP: Hand of Midas
+Before 
+```
+
+Any of these lines might be absent.
+
+Some additional notes:
+* Timing is always placed on the first line. It might be either in `~15-18 min` format or `~12 min` or `~13:30`. The first is preferred.
+* ALTERNATIVES might be shortened to ALTS
+* `Before` section is only used for situational items to indicate the item's position on the timeline
+* Alternatives, Order swap and Before lines use **full localized item name**. Alternatives and Order swap can have multiple items (comma delimited), though it's not advised to have more than 2 possible order swaps for an item.
+
+
+### Other notable stuff
 
 * If the guide has three tomes in its last category, it has detailed descriptions.
 * Every category is shifted to have 4x items and don't have lines with only one item in it.

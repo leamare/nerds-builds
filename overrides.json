@@ -1,0 +1,384 @@
+{
+  "_example": {
+    "role": ["0.1", "0.3"],
+
+    "updateSkillBuild": true,
+    "replaceOldSkillBuild": "0.1",
+    "fillInSkillBuilds": true,
+
+    "disableStats": true,
+
+    "updateStartingItems": true,
+    "replaceOldStartingItems": { "1.1": "1.2", "1.2": null },
+    "fillInStartingItems": false,
+
+    "rewriteTimes": true,
+
+    "priority": 3
+  },
+  "authored_alchemist_1826240453": {
+    "role": ["1.1", "1.2"]
+  },
+  "authored_antimage_2433751364": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false,
+    "priority": 1
+  },
+  "authored_arc_warden_814024669": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_arc_warden_917504030": {
+    "role": ["1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_bristleback_2479948506": {
+    "role": ["1.3", "1.2", "1.1"]
+  },
+  "authored_crystal_maiden_2453396028": {
+    "role": ["1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dark_willow_1396923037": {
+    "role": "1.2"
+  },
+  "authored_dark_willow_1187400450": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dawnbreaker_2451886613": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dawnbreaker_2451876525": {
+    "role": ["1.3", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dazzle_1572131797": {
+    "role": ["1.2", "1.3", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_doom_bringer_1650678243": {
+    "role": ["1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dragon_knight_1990463880": {
+    "role": ["1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_dragon_knight_2433747737": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_drow_ranger_1584779697": {
+    "role": ["1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_ember_spirit_2433745117": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_enchantress_704639984": {
+    "role": ["1.2", "1.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_enchantress_782292474": {
+    "role": ["0.1", "0.3"]
+  },
+  "authored_faceless_void_2468255080": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_grimstroke_1534949762": {
+    "role": "1.2"
+  },
+  "authored_hoodwink_2325313349": {
+    "role": ["1.3", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_hoodwink_2325323781": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_huskar_1201608892": {
+    "role": ["1.1", "1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_invoker_1826258386": {
+    "role": ["0.1", "0.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_leshrac_1401022207": {
+    "role": ["1.2", "1.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_life_stealer_1922924099": {
+    "role": ["1.3", "0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false,
+    "priority": 1
+  },
+  "authored_lina_1879573325": {
+    "role": "0.3"
+  },
+  "authored_lion_1739757772": {
+    "role": "1.2"
+  },
+  "authored_lion_1352342730": {
+    "role": ["0.1", "0.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_lone_druid_1826260173": {
+    "role": ["1.1", "1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_luna_1826272526": {
+    "role": "1.2",
+    "priority": 0,
+    "disableStats": true
+  },
+  "authored_luna_1826262090": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_lycan_1885725635": {
+    "role": ["1.1", "1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_magnataur_1928873072": {
+    "role": ["1.3", "1.2", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_marci_2642490128": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_mars_1674151420": {
+    "role": ["1.3", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_meepo_2517043718": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false,
+    "priority": 1
+  },
+  "authored_mirana_1859824958": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_monkey_king_1859824659": {
+    "role": ["1.1", "1.2", "1.3"]
+  },
+  "authored_morphling_916801192": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_furion_2516219731": {
+    "role": ["1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_night_stalker_1859825400": {
+    "role": ["1.3", "1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_obsidian_destroyer_1885725152": {
+    "role": ["1.2", "1.3", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_obsidian_destroyer_2453350955": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_puck_1929848853": {
+    "role": "1.2"
+  },
+  "authored_puck_1929843422": {
+    "role": ["0.1", "0.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_pudge_1750985856": {
+    "role": ["1.3", "1.2", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_pugna_1853143269": {
+    "role": ["1.2", "1.3", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_riki_1972552037": {
+    "role": ["1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_riki_2433721673": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_rubick_1609326506": {
+    "role": "1.2"
+  },
+  "authored_rubick_1885723430": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_shadow_demon_1609337231": {
+    "role": ["1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_silencer_917140515": {
+    "role": ["1.2", "1.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_silencer_905824211": {
+    "role": ["0.3", "0.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_snapfire_1923630478": {
+    "role": ["1.3", "1.2"]
+  },
+  "authored_snapfire_1922972240": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_sniper_1879536271": {
+    "role": "1.2",
+    "priority": 0
+  },
+  "authored_sven_2200760947": {
+    "role": ["1.1", "1.2"]
+  },
+  "authored_sven_1594812320": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_spectre_1739726188": {
+    "priority": 1
+  },
+  "authored_tidehunter_1593487437": {
+    "role": ["1.3", "1.2", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_tiny_1201609040": {
+    "role": ["1.1", "1.2", "1.3"]
+  },
+  "authored_treant_917506257": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_tusk_2433758893": {
+    "role": ["1.3", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_undying_2303577168": {
+    "role": ["1.1", "1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_undying_2303592529": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_vengefulspirit_906051803": {
+    "role": ["1.3", "1.1", "1.2"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_viper_1669280746": {
+    "role": ["1.2", "1.3", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_viper_2602098354": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_visage_836044023": {
+    "role": ["1.2", "1.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_visage_2433697819": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_void_spirit_1921591322": {
+    "role": "1.2"
+  },
+  "authored_void_spirit_1921841646": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_weaver_814033002": {
+    "role": ["0.3", "0.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_windrunner_1885697295": {
+    "role": ["1.2", "1.3"],
+    "replaceOldSkillBuild": "1.2",
+    "replaceOldStartingItems": { "1.1": "1.2" }
+  },
+  "authored_winter_wyvern_1201608995": {
+    "role": ["1.2", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
+  "authored_zuus_1826263668": {
+    "role": "1.2"
+  },
+  "authored_zuus_1826265178": {
+    "role": ["0.3", "0.1", "1.3"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  }
+}
