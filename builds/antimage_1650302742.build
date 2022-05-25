@@ -3,16 +3,16 @@
 	"Hero"		"antimage"
 	"Title"		"Nerds Offlane Antimage"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"2"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x00000000A6ADE441"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625D9F38"
-	"TimePublished"		"0x00000000625D9F38"
+	"TimeUpdated"		"0x00000000628C0820"
+	"TimePublished"		"0x00000000628C0820"
 	"ItemBuild"
 	{
 		"Items"
@@ -81,6 +81,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_bfury"		"Before Vanguard"
 		}
 	}
 	"AbilityBuild"

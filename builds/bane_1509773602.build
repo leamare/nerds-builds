@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Core Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"102"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"104"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006250975F"
-	"TimePublished"		"0x000000006250975F"
+	"TimeUpdated"		"0x00000000628C22C5"
+	"TimePublished"		"0x00000000628C22C5"
 	"ItemBuild"
 	{
 		"Items"
@@ -44,7 +44,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_phase_boots"
-				"item"		"item_medallion_of_courage"
+				"item"		"item_ghost"
 				"item"		"item_force_staff"
 			}
 			"Lategame"
@@ -56,7 +56,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
 				"item"		"item_moon_shard"
-				"item"		"item_arcane_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_sphere"
+				"item"		"item_aeon_disk"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_overwhelming_blink"
 			}
 			"Utility"
 			{
@@ -66,61 +72,53 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_glimmer_cape"
-				"item"		"item_vladmir"
-				"item"		"item_spirit_vessel"
+				"item"		"item_wraith_pact"
 			}
-			"Situational"
+			"Other Significant Items"
 			{
-				"item"		"item_veil_of_discord"
 				"item"		"item_assault"
-				"item"		"item_black_king_bar"
-				"item"		"item_sphere"
-				"item"		"item_aeon_disk"
-				"item"		"item_ghost"
+				"item"		"item_spirit_vessel"
 				"item"		"item_hand_of_midas"
-				"item"		"item_hurricane_pike"
-				"item"		"item_kaya_and_sange"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_quickening_charm"
-				"item"		"item_quicksilver_amulet"
+				"item"		"item_keen_optic"
+				"item"		"item_mysterious_hat"
+				"item"		"item_arcane_ring"
+				"item"		"item_essence_ring"
 				"item"		"item_grove_bow"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
 				"item"		"item_spell_prism"
 				"item"		"item_stormcrafter"
 				"item"		"item_timeless_relic"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_arcane_boots"		"Early mana boost. To be disassembled into Aether Lens and Phase Boots later on"
-			"item_aether_lens"		"Increases Bane&amp;apos;s manapool and effective catch up range"
-			"item_phase_boots"		"Additional movement speed and armor are pretty much all Bane needs seems he doesn&amp;apos;t need attack speed and stats more than he already has"
-			"item_medallion_of_courage"		"Additional armor and utility. It will help with mana sustain and tankiness, but it will also help with damage output early on for a cheap price"
-			"item_hand_of_midas"		"Good for cases when you won your lane early on, but can&amp;apos;t finish the game early. Bane struggles with farming after laning stage, so it may be a helpful pickup"
+			"item_aether_lens"		"Increases Bane&apos;s manapool and effective catch up range"
+			"item_phase_boots"		"Additional movement speed and armor are pretty much all Bane needs seems he doesn&apos;t need attack speed and stats more than he already has"
+			"item_hand_of_midas"		"Good for cases when you won your lane early on, but can&apos;t finish the game early. Bane struggles with farming after laning stage, so it may be a helpful pickup"
 			"item_solar_crest"		"Natural upgrade to Medallion and useful buff for your team"
 			"item_sheepstick"		"Reliable disable and mana sustain"
-			"item_ultimate_scepter"		"Great addition after picking up level 25 talent. It&amp;apos;s not really worth picking up beforehand because it won&amp;apos;t be as effective and it will leave you without mana anyway"
-			"item_hurricane_pike"		"Addition for rightclick build"
-			"item_guardian_greaves"		"Strong regen aura and useful item to have in general. Good pickup if you&amp;apos;re playing more of an utility core and there&amp;apos;s no better Greaves carrier on your team"
+			"item_ultimate_scepter"		"Great addition after picking up level 25 talent. It&apos;s not really worth picking up beforehand because it won&apos;t be as effective and it will leave you without mana anyway"
+			"item_guardian_greaves"		"Strong regen aura and useful item to have in general. Good pickup if you&apos;re playing more of an utility core and there&apos;s no better Greaves carrier on your team"
 			"item_force_staff"		"Good thing to have against slows and similar stuff in its nature (X-Mark)"
 			"item_lotus_orb"		"Against silences and purgable slows"
 			"item_heavens_halberd"		"Against high attack damage cores"
 			"item_pipe"		"Against magic heavy lineups"
 			"item_glimmer_cape"		"Good item to save allies (or yourself) from being focused"
-			"item_vladmir"		"In case nobody has Vlads"
-			"item_greater_crit"		"In case you&amp;apos;re going full core and lack a bit of damage"
 			"item_shivas_guard"		"For a hybrid core way when you need armor"
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
 			"item_octarine_core"		"Nice addition for a hybrid core (getting use of Mjolnir cooldown reduction, mjolnir procs and reduced cooldown on Q and E)"
-			"item_soul_ring"		"Another mana solution, may replace Bracer, but it&amp;apos;s more expensive as well"
-			"item_spirit_vessel"		"You don&amp;apos;t really need it yourself, but it&amp;apos;s usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
+			"item_soul_ring"		"Another mana solution, may replace Bracer, but it&apos;s more expensive as well"
+			"item_spirit_vessel"		"You don&apos;t really need it yourself, but it&apos;s usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
 		}
 	}
 	"AbilityBuild"
@@ -149,16 +147,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_cast_range_100"		"Considering nature of Bane&amp;apos;s spells, the hero wants to stay away from fight to avoid being focused and cast range helps dealing with that"
-			"special_bonus_armor_7"		"Armor works well if you&amp;apos;re going for more of a core-ish playstyle and planning to tank in fights (which works fine when you&amp;apos;re going for a hybrid way)"
-			"special_bonus_unique_bane_4"		"Works well in combination with Mjolnir and buffs your hero. Altho it works only during fights and it&amp;apos;s unreliable"
-			"special_bonus_exp_boost_40"		"Works every time and tends to be a more reliable alternative unless you&amp;apos;re already stomping"
-			"special_bonus_movement_speed_50"		"+50 flat movement speed is a lot and it&amp;apos;s reliable and easy to get use of"
-			"special_bonus_unique_bane_3"		"Great if you&amp;apos;re going for more of an utility way"
-			"special_bonus_unique_bane_2"		"...but you picked offlane Bane not to be a disabler, right? Increasing your damage output on Brain Sap effectively turns the spell into poor man&amp;apos;s Laguna Blade. The spell is extremely strong when you&amp;apos;re playing tank Bane and have aghs"
-			"bane_fiends_grip"		"One of the strongest disables in the game. You can use it to setup kills with your team early on, but later into the game it may be better to either initiate with it or hold it off since you&amp;apos;re most likely to play as a tanky frontlaner which increases your chances of being interrupted mid-ult"
-			"bane_nightmare"		"You can use it to both harass opponents early on and setup kills. It can also be used for it&amp;apos;s 1sec invulnerability after cast which can save you or your allies (or your enemies) from a projectile or a spell (like X-Mark)"
-			"bane_brain_sap"		"Poor man&amp;apos;s Laguna Blade, pure damage nuke and heal. Makes a better hit-trader out of you and a good tank"
+			"special_bonus_unique_bane_3"		"Great if you&apos;re going for more of an utility way"
+			"special_bonus_unique_bane_2"		"...but you picked offlane Bane not to be a disabler, right? Increasing your damage output on Brain Sap effectively turns the spell into poor man&apos;s Laguna Blade. The spell is extremely strong when you&apos;re playing tank Bane and have aghs"
+			"bane_fiends_grip"		"One of the strongest disables in the game. You can use it to setup kills with your team early on, but later into the game it may be better to either initiate with it or hold it off since you&apos;re most likely to play as a tanky frontlaner which increases your chances of being interrupted mid-ult"
+			"bane_nightmare"		"You can use it to both harass opponents early on and setup kills. It can also be used for it&apos;s 1sec invulnerability after cast which can save you or your allies (or your enemies) from a projectile or a spell (like X-Mark)"
+			"bane_brain_sap"		"Poor man&apos;s Laguna Blade, pure damage nuke and heal. Makes a better hit-trader out of you and a good tank"
 			"bane_enfeeble"		"You can also use if just to get longer duration on effects (slows, stuns) from your team and increase kill potential"
 		}
 	}

@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Magic Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"83"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"85"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625098B7"
-	"TimePublished"		"0x00000000625098B7"
+	"TimeUpdated"		"0x00000000628C0820"
+	"TimePublished"		"0x00000000628C0820"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,25 +50,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_octarine_core"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_dagon_5"
+				"item"		"item_aghanims_shard"
 				"item"		"item_sheepstick"
-				"item"		"item_bloodstone"
+				"item"		"item_shivas_guard"
 				"item"		"item_bloodthorn"
 				"item"		"item_moon_shard"
-				"item"		"item_arcane_blink"
+				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_mjollnir"
 				"item"		"item_sphere"
 				"item"		"item_lotus_orb"
-				"item"		"item_shivas_guard"
 				"item"		"item_hurricane_pike"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_overwhelming_blink"
-				"item"		"item_gungir"
-				"item"		"item_mjollnir"
+				"item"		"item_arcane_blink"
 			}
 			"Best Neutral Items"
 			{
@@ -85,9 +83,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spy_gadget"
 				"item"		"item_stormcrafter"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
@@ -95,9 +92,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_blink"		"Pretty good item for long-range initiation, works pretty nice with tempest double (blink on hero, tempest double, blink on double, flux)"
-			"item_wind_lace"		"Solves our mobility issues a little bit for a cheap price"
 			"item_bottle"		"Not really good item for Arc in general since consumables nerf, but it fits pretty well ganking theme of this build"
-			"item_hand_of_midas"		"Our main farming tool, obviously. We don&amp;apos;t really want to skip it since we will get a lot of benefit from it."
+			"item_hand_of_midas"		"Our main farming tool, obviously. We don&apos;t really want to skip it since we will get a lot of benefit from it."
 			"item_sheepstick"		"Dagon-Shotgun combo is pretty straight forward, but later into the game we will lack on controlling stuff and will start losing momentum eventually, so Sheepstick will make us not only much more useful for our team, but also increase our kill potential."
 			"item_orchid"		"Orchid can be good solution early because of 30% additional damage, while also improving our physical damage output"
 			"item_bloodthorn"		"Natural upgrade to Orchid and one of the best lategame slots for Arc Warden in general"
@@ -105,9 +101,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"...and even more tankiness. In combo with Octarine makes us pretty scary and hard to kill hero."
 			"item_sphere"		"More offensive save item: for cases when we need some sort of save, but not too much, so we can stay in fight"
 			"item_lotus_orb"		"Useful utility item for our team, may be a good item to get if nobody in your team already got it."
-			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it&amp;apos;s counterpart as getting-out tool"
-			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage"
-			"item_octarine_core"		"Lower cooldown, additional tankiness..."
+			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it&apos;s counterpart as getting-out tool"
+			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage
+ALTERNATIVE: Gleipnir"
+			"item_gungir"		"ALTERNATIVE: Mjolnir"
 		}
 	}
 	"AbilityBuild"
@@ -136,13 +133,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_attack_damage_30"		"Both talents are equally useful for us, but 30 damage will boost our farm and work out with magnetic field better."
-			"special_bonus_cooldown_reduction_10"		"Pretty straight forward: double-dagon-shotgun build is cooldown dependant, so CDR will be pretty good, while attack range won&amp;apos;t do shit"
 			"arc_warden_flux"		"Our main killing tool in terms of damage and slow"
-			"arc_warden_magnetic_field"		"Even while we don&amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
+			"arc_warden_magnetic_field"		"Even while we don&apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
 			"arc_warden_spark_wraith"		"Scouting tool to avoid ganks, lasthit secure tool and, of cource, RQQEE combo allowes us to kill anybody early"
-			"special_bonus_unique_arc_warden_2"		"25 attack speed is better since it&amp;apos;s more useful in lategame, but nukes-oriented build doesn&amp;apos;t really want to go into lategame, so flux damage will be more useful in terms of that"
-			"special_bonus_unique_arc_warden"		"Again, most of the time lifesteal will be better, but we aren&amp;apos;t going to deal a lot of attack damage, while making one of our nukes stronger is pretty reasonable choice."
+			"special_bonus_unique_arc_warden_2"		"25 attack speed is better since it&apos;s more useful in lategame, but nukes-oriented build doesn&apos;t really want to go into lategame, so flux damage will be more useful in terms of that"
+			"special_bonus_unique_arc_warden"		"Again, most of the time lifesteal will be better, but we aren&apos;t going to deal a lot of attack damage, while making one of our nukes stronger is pretty reasonable choice."
 		}
 	}
 }

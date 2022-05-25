@@ -3,15 +3,15 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623A854D"
+	"TimeUpdated"		"0x00000000628C0828"
 	"TimePublished"		"0x00000000623A854D"
 	"ItemBuild"
 	{
@@ -80,7 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spell_prism"
 				"item"		"item_grove_bow"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

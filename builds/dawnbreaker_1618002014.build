@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"20"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625090BE"
-	"TimePublished"		"0x00000000625090BE"
+	"TimeUpdated"		"0x00000000628C2D72"
+	"TimePublished"		"0x00000000628C2D72"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,52 +40,65 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_pipe"
+				"item"		"item_power_treads"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_blink"
 				"item"		"item_holy_locket"
+				"item"		"item_falcon_blade"
+				"item"		"item_armlet"
 			}
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_overwhelming_blink"
+				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_basher"
 				"item"		"item_assault"
-				"item"		"item_heavens_halberd"
+				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_pipe"
 				"item"		"item_desolator"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_satanic"
-				"item"		"item_guardian_greaves"
+				"item"		"item_abyssal_blade"
+				"item"		"item_lotus_orb"
 				"item"		"item_crimson_guard"
+			}
+			"Other Significant Items"
+			{
 				"item"		"item_silver_edge"
+				"item"		"item_greater_crit"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_heart"
-				"item"		"item_abyssal_blade"
+				"item"		"item_bloodthorn"
+				"item"		"item_satanic"
+				"item"		"item_guardian_greaves"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
-				"item"		"item_chipped_vest"
+				"item"		"item_trusty_shovel"
 				"item"		"item_broom_handle"
-				"item"		"item_dragon_scale"
-				"item"		"item_vambrace"
+				"item"		"item_keen_optic"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_titan_sliver"
-				"item"		"item_black_powder_bag"
-				"item"		"item_stormcrafter"
-				"item"		"item_ascetic_cap"
-				"item"		"item_spell_prism"
+				"item"		"item_dragon_scale"
+				"item"		"item_paintball"
+				"item"		"item_spider_legs"
+				"item"		"item_mind_breaker"
+				"item"		"item_quickening_charm"
+				"item"		"item_flicker"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_trickster_cloak"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
+			"item_power_treads"		"ALTERNATIVE: Phase Boots"
+			"item_phase_boots"		"ALTERNATIVE: Power Treads"
+			"item_falcon_blade"		"ALTERNATIVE: Soul Ring"
+			"item_soul_ring"		"ALTERNATIVE: Falcon Blade"
 		}
 	}
 	"AbilityBuild"

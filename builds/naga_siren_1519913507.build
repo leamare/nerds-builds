@@ -3,13 +3,13 @@
 	"Hero"		"naga_siren"
 	"Title"		"WIP"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.14"
+	"GameplayVersion"		"7.31c"
 	"Overview"		""
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005AE83D62"
+	"TimeUpdated"		"0x00000000628C0826"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -36,23 +36,29 @@
 				"item"		"item_spirit_vessel"
 				"item"		"item_blink"
 			}
+			"Situational Early"
+			{
+			}
 			"Utility"
 			{
 				"item"		"item_force_staff"
 				"item"		"item_lotus_orb"
 				"item"		"item_glimmer_cape"
 			}
-			"Situational"
-			{
-				"item"		"item_ghost"
-				"item"		"item_aeon_disk"
-			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_shivas_guard"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"Situational"
+			{
+				"item"		"item_ghost"
+				"item"		"item_aeon_disk"
+			}
+			"Best Neutral Items"
+			{
+			}
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

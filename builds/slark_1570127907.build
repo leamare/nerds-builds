@@ -3,15 +3,15 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"42"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000624F8D1C"
+	"TimeUpdated"		"0x00000000628C0828"
 	"TimePublished"		"0x00000000624F8D1C"
 	"ItemBuild"
 	{
@@ -80,14 +80,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ninja_gear"
 				"item"		"item_the_leveller"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
 			"item_hand_of_midas"		"~10-12 min
-Situationally good before drum if you&amp;amp;apos;re not going to fight straight on or will need to keep your pace"
+Situationally good before drum if you're not going to fight straight on or will need to keep your pace"
 			"item_wraith_band"		"Fighting choice"
 		}
 	}
@@ -118,7 +118,6 @@ Situationally good before drum if you&amp;amp;apos;re not going to fight straigh
 		"AbilityTooltips"
 		{
 			"special_bonus_unique_slark"		"Situationally good against elusive heroes with escapes and invisibility or against very tanky opponents"
-			"special_bonus_lifesteal_20"		"Situationally good against high damage output without a possibility to dodge most of it (e.g. Clinkz, Juggernaut, Axe, Centaur)"
 		}
 	}
 }

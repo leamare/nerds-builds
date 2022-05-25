@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"61"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062508C78"
-	"TimePublished"		"0x0000000062508C78"
+	"TimeUpdated"		"0x00000000628C482B"
+	"TimePublished"		"0x00000000628C482B"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,15 +26,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
-			"Early Game"
+			"Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_wraith_band"
 				"item"		"item_power_treads"
 				"item"		"item_dragon_lance"
 			}
-			"Core Items"
+			"Core"
 			{
+				"item"		"item_yasha"
 				"item"		"item_manta"
 				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
@@ -42,51 +43,54 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_wind_lace"
-				"item"		"item_diffusal_blade"
+				"item"		"item_sange_and_yasha"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_skadi"
 				"item"		"item_silver_edge"
 				"item"		"item_swift_blink"
-				"item"		"item_skadi"
 				"item"		"item_butterfly"
-				"item"		"item_greater_crit"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_monkey_king_bar"
-				"item"		"item_mjollnir"
+				"item"		"item_greater_crit"
+				"item"		"item_sphere"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_abyssal_blade"
+				"item"		"item_travel_boots"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_diffusal_blade"
+				"item"		"item_mjollnir"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_mask_of_madness"
 				"item"		"item_sheepstick"
-				"item"		"item_mage_slayer"
-				"item"		"item_travel_boots"
+				"item"		"item_abyssal_blade"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_ocean_heart"
-				"item"		"item_unstable_wand"
 				"item"		"item_possessed_mask"
+				"item"		"item_unstable_wand"
+				"item"		"item_ocean_heart"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
-				"item"		"item_quicksilver_amulet"
 				"item"		"item_grove_bow"
-				"item"		"item_paladin_sword"
-				"item"		"item_enchanted_quiver"
+				"item"		"item_vambrace"
+				"item"		"item_misericorde"
+				"item"		"item_quicksilver_amulet"
 				"item"		"item_elven_tunic"
 				"item"		"item_titan_sliver"
-				"item"		"item_ninja_gear"
+				"item"		"item_paladin_sword"
 				"item"		"item_the_leveller"
+				"item"		"item_ninja_gear"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
@@ -95,20 +99,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_ultimate_scepter"		"~17 min
 If you want to go all-in for farming and can get it relatively early, it may be good purchase. Altho, getting Blink Dagger is still your first priority, so you need to fit it in somewhere between Blink and Manta"
-			"item_power_treads"		"~10 min
+			"item_power_treads"		"~7 min
 Even while Drow wants attack speed more than damage, getting additional agility for such a cheap price is way too valuable for her"
 			"item_wraith_band"		"Stack as much of Wraith Bands as you possibly can, saving a slot for boots and blink. This will allow you to keep on moving during early game"
-			"item_blink"		"Main mobility and farming tool. Get it if you&amp;apos;re going to play agressively around pickoffs"
-			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more"
+			"item_blink"		"Main mobility and farming tool. Get it if you&apos;re going to play agressively around pickoffs
+Before Manta Style"
+			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more
+ALTERNATIVE: Sange and Yasha"
 			"item_hurricane_pike"		"Both mobility and surviveability item, that will also help with keeping distance"
-			"item_diffusal_blade"		"Cheap agility and ability to control your enemy. It&amp;apos;s usually too cheap to purchase considering Drow&amp;apos;s farming speed, but it may be helpful"
 			"item_mask_of_madness"		"It may be a good farming item for Drow, increasing attack speed and mobility, but in most scenarios getting more traditional items is better"
 			"item_silver_edge"		"Can be useful for repositioning if you feel like you need a bit more surviveability. Nice bonus - at level 25 you can be permanently invisible"
-			"item_butterfly"		"More of an offensive choice if you want to boost your damage significantly. Keep in mind that you will also give 28 attack speed to your team (and yourself, making it 35+30+28 attack speed item)"
+			"item_butterfly"		"More of an offensive choice if you want to boost your damage significantly"
 			"item_greater_crit"		"Most offensive choice, mostly purchased as sixth slot"
 			"item_satanic"		"Tankiness, status resistance and low cooldown lifesteal that will make you pretty much unkillable"
-			"item_sheepstick"		"Considering level 25 talent, it&amp;apos;s good purchase if your team lacks control"
-			"item_ethereal_blade"		"Usually purchased as defensive butterfly replacement because of stats and ability to save an ally from physical burst"
+			"item_sheepstick"		"Considering level 25 talent, it&apos;s good purchase if your team lacks control"
+			"item_dragon_lance"		"~11-13 min"
+			"item_invis_sword"		"Before Manta Style"
+			"item_yasha"		"~16 min"
+			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 		}
 	}
 	"AbilityBuild"
@@ -137,10 +145,7 @@ Even while Drow wants attack speed more than damage, getting additional agility 
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_evasion_25"		"Makes you tankier against physical damage and much harder to take down"
-			"special_bonus_movement_speed_20"		"Everything that gives mobility is our main priority"
 			"special_bonus_unique_drow_ranger_2"		"Can be pretty good choice when you use it in combiation with Pike and Blink (get in, gust opponent to your team, pike away) or when you just want to keep your distance"
-			"special_bonus_attack_speed_25"		"Raw and self explanatory attack speed bonus if you&amp;apos;re lazy, it always works fine"
 			"special_bonus_unique_drow_ranger_4"		"Can be useful against caster-heavy lineups or elusive heroes"
 		}
 	}

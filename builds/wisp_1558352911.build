@@ -3,16 +3,16 @@
 	"Hero"		"wisp"
 	"Title"		"Nerds Core Io"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x000000006E74C3AE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625084B6"
-	"TimePublished"		"0x00000000625084B6"
+	"TimeUpdated"		"0x00000000628D9902"
+	"TimePublished"		"0x00000000628D9902"
 	"ItemBuild"
 	{
 		"Items"
@@ -67,13 +67,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_possessed_mask"
-				"item"		"item_quicksilver_amulet"
+				"item"		"item_chipped_vest"
+				"item"		"item_broom_handle"
+				"item"		"item_dragon_scale"
 				"item"		"item_grove_bow"
+				"item"		"item_misericorde"
 				"item"		"item_paladin_sword"
+				"item"		"item_titan_sliver"
+				"item"		"item_mind_breaker"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

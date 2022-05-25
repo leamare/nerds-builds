@@ -3,16 +3,16 @@
 	"Hero"		"faceless_void"
 	"Title"		"Nerds Core Void"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.30e"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"43"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000619D3AB1"
-	"TimePublished"		"0x00000000619D3AB1"
+	"TimeUpdated"		"0x00000000628C4CDB"
+	"TimePublished"		"0x00000000628C4CDB"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,12 +30,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
 			}
-			"Core - Maelstrom"
+			"Core"
 			{
 				"item"		"item_maelstrom"
-				"item"		"item_echo_sabre"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 				"item"		"item_mjollnir"
 			}
 			"Core - tanky radiance"
@@ -46,55 +47,68 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_mask_of_madness"
+				"item"		"item_echo_sabre"
 				"item"		"item_hand_of_midas"
 				"item"		"item_invis_sword"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
 				"item"		"item_skadi"
+				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
 				"item"		"item_satanic"
 				"item"		"item_aghanims_shard"
-				"item"		"item_silver_edge"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_octarine_core"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
-				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_bfury"
+				"item"		"item_silver_edge"
+				"item"		"item_octarine_core"
+				"item"		"item_sphere"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_manta"
 				"item"		"item_nullifier"
-				"item"		"item_sphere"
-				"item"		"item_diffusal_blade"
-				"item"		"item_refresher"
-				"item"		"item_butterfly"
+				"item"		"item_travel_boots"
+				"item"		"item_assault"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_chipped_vest"
+				"item"		"item_broom_handle"
 				"item"		"item_possessed_mask"
+				"item"		"item_unstable_wand"
 				"item"		"item_ring_of_aquila"
+				"item"		"item_quicksilver_amulet"
 				"item"		"item_pupils_gift"
-				"item"		"item_quickening_charm"
+				"item"		"item_titan_sliver"
+				"item"		"item_paladin_sword"
 				"item"		"item_mind_breaker"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_spell_prism"
 				"item"		"item_ninja_gear"
+				"item"		"item_heavy_blade"
 				"item"		"item_the_leveller"
-				"item"		"item_stormcrafter"
-				"item"		"item_elven_tunic"
+				"item"		"item_ninja_gear"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"May be skipped in favor of early maelstrom"
-			"item_mask_of_madness"		"Replaces Hand of Midas, mostly a farm item"
+			"item_hand_of_midas"		"May be skipped in favor of early maelstrom
+ALTERNATIVES: Mask of Madness, Echo Sabre"
+			"item_mask_of_madness"		"~8-12 min
+ALTERNATIVE: Hand of Midas, Echo Sabre"
+			"item_echo_sabre"		"ALTERNATIVES: Mask of Madness, Hand of Midas"
+			"item_invis_sword"		"Before Black King Bar"
+			"item_diffusal_blade"		"ALTERNATIVES: Maelstrom, Battle Fury"
+			"item_maelstrom"		"~12-16 min
+ALTERNATIVES: Diffusal Blade, Battle Fury"
+			"item_bfury"		"ALTERNATIVES: Maelstrom, Diffusal Blade"
+			"item_power_treads"		"~7 min"
+			"item_black_king_bar"		"~22-24 min"
 		}
 	}
 	"AbilityBuild"

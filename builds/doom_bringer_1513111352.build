@@ -3,20 +3,20 @@
 	"Hero"		"doom_bringer"
 	"Title"		"Nerds Doom"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Doom is strength hero who can be played as offlane. He's great at disabling heroes for a long period with his ultimate and dealing massive amounts of damage with Infernal Blade and Scorched Earth. Doom excells at farming because of Devour that gets him a ton of bonus gold. The only things that hold him down are low armor, low mana pool, lack of reliable escape and long cooldowns.
 
 Doom becomes extremely important when it faces some heroes with very strong ultimates (e.g. Enigma, Tidehunter). With his ultimate he is able to change the fight, disabling any hero from casting his spells, or reliably kill any hero on the map early on. Doom gets a lot of money really fast and even after being shut down early it will allow him to come back and fight.
 
 Thanks to @Nitemoy for all the descriptions.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"66"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"70"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062508F65"
-	"TimePublished"		"0x0000000062508F65"
+	"TimeUpdated"		"0x00000000628C4626"
+	"TimePublished"		"0x00000000628C4626"
 	"ItemBuild"
 	{
 		"Items"
@@ -46,6 +46,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_invis_sword"
+				"item"		"item_vanguard"
 			}
 			"Lategame"
 			{
@@ -53,50 +54,63 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_refresher"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_silver_edge"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_aeon_disk"
-				"item"		"item_kaya_and_sange"
+				"item"		"item_spirit_vessel"
 				"item"		"item_heavens_halberd"
-				"item"		"item_solar_crest"
+				"item"		"item_octarine_core"
 				"item"		"item_guardian_greaves"
-				"item"		"item_radiance"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
 				"item"		"item_crimson_guard"
-				"item"		"item_vladmir"
-				"item"		"item_sheepstick"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_wraith_pact"
+				"item"		"item_radiance"
 				"item"		"item_arcane_blink"
-				"item"		"item_silver_edge"
+				"item"		"item_sheepstick"
+				"item"		"item_aeon_disk"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_mysterious_hat"
-				"item"		"item_possessed_mask"
 				"item"		"item_pogo_stick"
-				"item"		"item_vambrace"
-				"item"		"item_paintball"
+				"item"		"item_unstable_wand"
+				"item"		"item_dragon_scale"
 				"item"		"item_essence_ring"
+				"item"		"item_bullwhip"
 				"item"		"item_black_powder_bag"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_spider_legs"
 				"item"		"item_quickening_charm"
-				"item"		"item_trickster_cloak"
+				"item"		"item_spider_legs"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_flicker"
 				"item"		"item_timeless_relic"
-				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
 				"item"		"item_ninja_gear"
+				"item"		"item_spell_prism"
+				"item"		"item_ascetic_cap"
 			}
-			"http://dotablog.ileamare.ru/builds"
+			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
+			"item_hand_of_midas"		"~7-10 min
+ALTERNATIVE: Drum of Endurance"
+			"item_ancient_janggo"		"For a more active playstyle
+ALTERNATIVE: Hand of Midas"
+			"item_invis_sword"		"Before Black King Bar"
+			"item_spirit_vessel"		"Another item for a more active playstyle, focused more around magic damage
+ALTERNATIVE: Hand of Midas"
+			"item_black_king_bar"		"~23-25 min"
+			"item_blink"		"~13-17 min"
 		}
 	}
 	"AbilityBuild"
@@ -128,12 +142,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"doom_bringer_devour"		"Your main farming ability that allows you to kill big jungle camp in a couple of seconds. Because it provides you with a lot of extra gold (+250 gold for each creep at level 15!), Doom is always at top among any other offlaners in terms of farm. Moreover, HP regeneration from Devour helps you to sustain efficiently on offlane while going to big jungle camps. Ablities took from jungle creeps give Doom a lot of versatility and makes him really unique hero"
 			"doom_bringer_scorched_earth"		"The only mobility skill, that also provides a certain amount of AoE damage. Great for chasing down enemy heroes, but has quite a long cooldown and becomes quite inefficient while the game goes to late"
 			"doom_bringer_infernal_blade"		"Infernal Blade allows you to kill any hero relatively fast or force him to get out. With a very short cooldown of 4 seconds and damage dealt in percentage of max HP, it provides a lot of damage if Doom can cast it at least couple of times in teamfight"
-			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&amp;apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
+			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
 			"special_bonus_unique_doom_6"		"Makes your Scorched Earth more useful in a lategame and provides you with extra mobility. +30% movement speed is not a joke, while +20 damage makes almost no difference"
-			"special_bonus_unique_doom_3"		"With this you will become sometimes even more richier than your other cores. 20% Evasion is good if enemy team has a lot of physical damage, but evasion is not reliable (unless it&amp;apos;s a huge value) while Devour bonus gold always works and will work no matter what"
 			"special_bonus_unique_doom_2"		"Gives you even more versatility in terms of skills. You can get extra HP aura, lifesteal and HP regeneration aura, Frenzy and War Drums Aura, or even Splash Attack and Fireball in case you need some fast pushing tool"
-			"special_bonus_unique_doom_1"		"Easiest choice among all other talents, this just skyrockets your solo target DPS. Doom doesn&amp;apos;t need cleave to farm or deal damage in a teamfight, while with Infernal Blade he can just solo kill any hero with 3 swings of his sword. "
-			"special_bonus_unique_doom_5"		"Doom DPS talent is good for cases when you&amp;apos;re going for heavy caster build, going to pick up Aghs or just need to deal a lot of pure damage. It can also be good talent if your team don&amp;apos;t really need any kind of ancients aura"
+			"special_bonus_unique_doom_1"		"Easiest choice among all other talents, this just skyrockets your solo target DPS. Doom doesn&apos;t need cleave to farm or deal damage in a teamfight, while with Infernal Blade he can just solo kill any hero with 3 swings of his sword. "
+			"special_bonus_unique_doom_5"		"Doom DPS talent is good for cases when you&apos;re going for heavy caster build, going to pick up Aghs or just need to deal a lot of pure damage. It can also be good talent if your team don&apos;t really need any kind of ancients aura"
 		}
 	}
 }

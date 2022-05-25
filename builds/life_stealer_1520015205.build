@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Lifestealer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Lifestealer is a strength core hero who is extremely good against high HP targets. His skillset allowes him to outlive opponents in fights and be durable, while Feast gives him damage based on enemy HP.
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"83"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"85"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062508384"
-	"TimePublished"		"0x0000000062508384"
+	"TimeUpdated"		"0x00000000628D9F21"
+	"TimePublished"		"0x00000000628D9F21"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,61 +28,70 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_armlet"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
+				"item"		"item_armlet"
 				"item"		"item_desolator"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_basher"
+				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_heavens_halberd"
+				"item"		"item_power_treads"
+				"item"		"item_hand_of_midas"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_skadi"
 				"item"		"item_satanic"
-				"item"		"item_nullifier"
 				"item"		"item_abyssal_blade"
-				"item"		"item_assault"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_monkey_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_nullifier"
 				"item"		"item_greater_crit"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_sphere"
 				"item"		"item_mjollnir"
-				"item"		"item_bloodthorn"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_skadi"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_sphere"
 				"item"		"item_silver_edge"
+				"item"		"item_heavens_halberd"
+				"item"		"item_bloodthorn"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_radiance"
+				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_swift_blink"
 				"item"		"item_heart"
-				"item"		"item_hand_of_midas"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_chipped_vest"
-				"item"		"item_broom_handle"
 				"item"		"item_unstable_wand"
+				"item"		"item_broom_handle"
+				"item"		"item_possessed_mask"
 				"item"		"item_quicksilver_amulet"
 				"item"		"item_misericorde"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_vambrace"
 				"item"		"item_mind_breaker"
-				"item"		"item_elven_tunic"
-				"item"		"item_titan_sliver"
 				"item"		"item_paladin_sword"
-				"item"		"item_the_leveller"
+				"item"		"item_titan_sliver"
+				"item"		"item_elven_tunic"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_the_leveller"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
@@ -90,16 +99,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_radiance"		"~15-19 mins
-Farming tool and durability tool. Combines well with Open Wounds (lifesteal from burn damage) and gives us miss chance, that may work as armor in a way."
-			"item_solar_crest"		"~18-22 mins
-Makes Lifestealer even more tanky, but also gives him damage and Rosh potential."
 			"item_sange_and_yasha"		"~25 min
-Amplifies our mobility even further, as well as attack speed. Gives a lot of HP as a bonus.
-"
-			"item_manta"		"Good SnY replacement if you need to deal with silences. In other cases it&amp;apos;s not that good."
+Amplifies our mobility even further, as well as attack speed. Gives a lot of HP as a bonus
+Before Assault Cuirass"
 			"item_blink"		"Works well if you need to catch off guard somebody like Sniper"
-			"item_armlet"		"~12-15 min"
+			"item_armlet"		"~11-14 min
+ORDER SWAP: Phase Boots"
+			"item_phase_boots"		"~6-9 min
+ORDER SWAP: Armlet of Mordiggian
+ALTERNATIVE: Power Treads"
+			"item_orb_of_corrosion"		"Before Armlet of Mordiggian"
+			"item_hand_of_midas"		"~6-10 min
+Before Armlet of Mordiggian"
+			"item_desolator"		"~18-21 min
+ALTERNATIVES: Radiance, Mjolnir"
+			"item_radiance"		"ALTERNATIVES: Desolator, Mjolnir"
+			"item_sphere"		"Additional defensive slot against lineups heavy on targeted control
+Before Assault Cuirass"
+			"item_heavens_halberd"		"Alternative to Sange and Yasha
+Against primarily physical damage cores
+Before Assault Cuirass"
+			"item_mjollnir"		"ALTERNATIVES: Radiance, Desolator"
+			"item_manta"		"Additional mobility and solution against slows/silences
+Before Assault Cuirass"
+			"item_basher"		"~23-25 min"
+			"item_assault"		"~30 min"
+			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 		}
 	}
 	"AbilityBuild"

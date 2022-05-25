@@ -3,17 +3,16 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"41"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"43"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625082D1"
-	"TimePublished"		"0x00000000625082D1"
+	"TimeUpdated"		"0x00000000628D9FEE"
+	"TimePublished"		"0x00000000628D9FEE"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +28,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_buckler"
 				"item"		"item_wind_lace"
 			}
@@ -38,37 +36,52 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_vladmir"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_ancient_janggo"
 			}
 			"Situational Early"
 			{
-				"item"		"item_medallion_of_courage"
-				"item"		"item_blade_mail"
 				"item"		"item_orb_of_corrosion"
+				"item"		"item_blade_mail"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
+				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_assault"
 				"item"		"item_radiance"
+			}
+			"Situational"
+			{
 				"item"		"item_shivas_guard"
-				"item"		"item_travel_boots"
 				"item"		"item_gem"
+				"item"		"item_travel_boots"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_chipped_vest"
+				"item"		"item_arcane_ring"
+				"item"		"item_broom_handle"
 				"item"		"item_bullwhip"
+				"item"		"item_dragon_scale"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_cloak_of_flames"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_paladin_sword"
 				"item"		"item_the_leveller"
+				"item"		"item_spy_gadget"
+				"item"		"item_stormcrafter"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
+			"item_orb_of_corrosion"		"Before Vladmir&apos;s Offering"
+			"item_blade_mail"		"Before Aghanim&apos;s Scepter"
+			"item_medallion_of_courage"		"Before Aghanim&apos;s Shard"
+			"item_phase_boots"		"Before Vladimir&apos;s Offering"
 		}
 	}
 	"AbilityBuild"

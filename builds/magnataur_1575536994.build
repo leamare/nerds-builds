@@ -3,15 +3,15 @@
 	"Hero"		"magnataur"
 	"Title"		"Nerds Magnus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000072F84470"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062507BCC"
+	"TimeUpdated"		"0x00000000628C0825"
 	"TimePublished"		"0x0000000062507BCC"
 	"ItemBuild"
 	{
@@ -79,7 +79,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spy_gadget"
 				"item"		"item_stormcrafter"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

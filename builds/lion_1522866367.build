@@ -3,17 +3,17 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
 
 Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"80"
+	"GuideRevision"		"81"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062508272"
+	"TimeUpdated"		"0x00000000628C0825"
 	"TimePublished"		"0x0000000062508272"
 	"ItemBuild"
 	{
@@ -79,23 +79,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_aether_lens"		"Even while you don&apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
-			"item_blink"		"The most important Lion item. If you aren&apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
+			"item_aether_lens"		"Even while you don't really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
+			"item_blink"		"The most important Lion item. If you aren't going for a full utility, you can delay it, but mobility is still essential for your initiation."
 			"item_tranquil_boots"		"Mobility + HP regen"
 			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
 			"item_ethereal_blade"		"Potential save against physical damage"
 			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
-			"item_silver_edge"		"Additional initiation and stats"
 			"item_ghost"		"Potential self-save against physical damage"
-			"item_ultimate_scepter"		"It&apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&apos;t really focused on this aspect of Lion."
-			"item_assault"		"Both armor and attack speed boost. Works well for semi-carry Lion"
+			"item_ultimate_scepter"		"It's good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren't really focused on this aspect of Lion."
 		}
 	}
 	"AbilityBuild"

@@ -3,13 +3,13 @@
 	"Hero"		"monkey_king"
 	"Title"		"Untitled"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.26c"
+	"GameplayVersion"		"7.31c"
 	"Overview"		""
-	"GuideRevision"		"1"
+	"GuideRevision"		"2"
 	"AssociatedWorkshopItemID"		"0x0000000000000000"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000005ED1888C"
+	"TimeUpdated"		"0x00000000628C0826"
 	"TimePublished"		"0x0000000000000000"
 	"ItemBuild"
 	{
@@ -36,7 +36,7 @@
 				"item"		"item_magic_wand"
 				"item"		"item_vladmir"
 			}
-			"Situational early"
+			"Situational Early"
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_lesser_crit"
@@ -65,6 +65,12 @@
 				"item"		"item_craggy_coat"
 				"item"		"item_paladin_sword"
 				"item"		"item_panic_button"
+			}
+			"Best Neutral Items"
+			{
+			}
+			"https://builds.spectral.gg/"
+			{
 			}
 		}
 		"ItemTooltips"

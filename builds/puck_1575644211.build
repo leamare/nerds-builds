@@ -3,15 +3,15 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"32"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006250707C"
+	"TimeUpdated"		"0x00000000628C0827"
 	"TimePublished"		"0x000000006250707C"
 	"ItemBuild"
 	{
@@ -56,6 +56,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 			}
+			"Situational"
+			{
+				"item"		"item_dagon_5"
+				"item"		"item_aghanims_shard"
+				"item"		"item_mjollnir"
+				"item"		"item_black_king_bar"
+				"item"		"item_radiance"
+				"item"		"item_solar_crest"
+			}
 			"Physical DPS"
 			{
 				"item"		"item_sheepstick"
@@ -66,15 +75,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_satanic"
 				"item"		"item_rapier"
-			}
-			"Situational"
-			{
-				"item"		"item_dagon_5"
-				"item"		"item_aghanims_shard"
-				"item"		"item_mjollnir"
-				"item"		"item_black_king_bar"
-				"item"		"item_radiance"
-				"item"		"item_solar_crest"
 			}
 			"Best Neutral Items"
 			{
@@ -92,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_timeless_relic"
 				"item"		"item_stormcrafter"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

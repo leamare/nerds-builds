@@ -3,16 +3,16 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Dragon Knight"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"30"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062508DAF"
-	"TimePublished"		"0x0000000062508DAF"
+	"TimeUpdated"		"0x00000000628C467F"
+	"TimePublished"		"0x00000000628C467F"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,6 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_soul_ring"
+				"item"		"item_bracer"
 				"item"		"item_boots"
 			}
 			"Core"
@@ -36,27 +37,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_power_treads"
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_hand_of_midas"
-				"item"		"item_invis_sword"
-				"item"		"item_bracer"
 				"item"		"item_falcon_blade"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_silver_edge"
 				"item"		"item_assault"
-				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_travel_boots"
 				"item"		"item_heavens_halberd"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_silver_edge"
 				"item"		"item_greater_crit"
 				"item"		"item_satanic"
 				"item"		"item_pipe"
@@ -65,42 +65,50 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
+				"item"		"item_chipped_vest"
+				"item"		"item_arcane_ring"
 				"item"		"item_pogo_stick"
-				"item"		"item_ocean_heart"
-				"item"		"item_bullwhip"
-				"item"		"item_essence_ring"
+				"item"		"item_vambrace"
 				"item"		"item_dragon_scale"
-				"item"		"item_titan_sliver"
+				"item"		"item_essence_ring"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_quickening_charm"
-				"item"		"item_flicker"
+				"item"		"item_black_powder_bag"
+				"item"		"item_titan_sliver"
 				"item"		"item_ascetic_cap"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
+			"item_hand_of_midas"		"~6-10 min
+Before Power Treads"
+			"item_falcon_blade"		"ALTERNATIVE: Soul Ring"
+			"item_soul_ring"		"ALTERNATIVE: Falcon Blade"
+			"item_blink"		"~12-15 min"
+			"item_power_treads"		"~7-9 min"
+			"item_black_king_bar"		"~23-27 min"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"dragon_knight_breathe_fire"
+			"1"		"dragon_knight_dragon_tail"
 			"2"		"dragon_knight_dragon_blood"
-			"3"		"dragon_knight_breathe_fire"
-			"4"		"dragon_knight_dragon_tail"
-			"5"		"dragon_knight_breathe_fire"
+			"3"		"dragon_knight_dragon_blood"
+			"4"		"dragon_knight_breathe_fire"
+			"5"		"dragon_knight_dragon_blood"
 			"6"		"dragon_knight_elder_dragon_form"
-			"7"		"dragon_knight_breathe_fire"
-			"8"		"dragon_knight_dragon_blood"
-			"9"		"dragon_knight_dragon_blood"
+			"7"		"dragon_knight_dragon_blood"
+			"8"		"dragon_knight_breathe_fire"
+			"9"		"dragon_knight_breathe_fire"
 			"10"		"special_bonus_attack_damage_15"
-			"11"		"dragon_knight_dragon_blood"
+			"11"		"dragon_knight_breathe_fire"
 			"12"		"dragon_knight_elder_dragon_form"
 			"13"		"dragon_knight_dragon_tail"
 			"14"		"dragon_knight_dragon_tail"

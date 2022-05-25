@@ -3,15 +3,15 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000623A853D"
+	"TimeUpdated"		"0x00000000628C0828"
 	"TimePublished"		"0x00000000623A853D"
 	"ItemBuild"
 	{
@@ -93,7 +93,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_minotaur_horn"
 				"item"		"item_the_leveller"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

@@ -3,15 +3,15 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006250818C"
+	"TimeUpdated"		"0x00000000628C0825"
 	"TimePublished"		"0x000000006250818C"
 	"ItemBuild"
 	{
@@ -29,11 +29,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_enchanted_mango"
 				"item"		"item_ward_observer"
 			}
-			"#DOTA_Item_Build_Early_Game"
+			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_magic_stick"
+			}
+			"Core"
+			{
 			}
 			"#DOTA_Item_Build_Core_Items"
 			{
@@ -42,21 +45,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_aghanims_shard"
 			}
+			"Situational Early"
+			{
+			}
 			"Lategame"
 			{
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"
 				"item"		"item_hurricane_pike"
-			}
-			"Utility"
-			{
-				"item"		"item_veil_of_discord"
-				"item"		"item_force_staff"
-				"item"		"item_vladmir"
-				"item"		"item_ancient_janggo"
-				"item"		"item_solar_crest"
-				"item"		"item_glimmer_cape"
-				"item"		"item_lotus_orb"
 			}
 			"Situational"
 			{
@@ -69,6 +65,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blink"
 				"item"		"item_pipe"
 			}
+			"Utility"
+			{
+				"item"		"item_veil_of_discord"
+				"item"		"item_force_staff"
+				"item"		"item_vladmir"
+				"item"		"item_ancient_janggo"
+				"item"		"item_solar_crest"
+				"item"		"item_glimmer_cape"
+				"item"		"item_lotus_orb"
+			}
 			"Best Neutral Items"
 			{
 				"item"		"item_keen_optic"
@@ -77,7 +83,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pupils_gift"
 				"item"		"item_spy_gadget"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

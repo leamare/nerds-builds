@@ -3,15 +3,15 @@
 	"Hero"		"marci"
 	"Title"		"Nerds Core Marci"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"4"
+	"GuideRevision"		"5"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062507B11"
+	"TimeUpdated"		"0x00000000628C0825"
 	"TimePublished"		"0x0000000062507B11"
 	"ItemBuild"
 	{
@@ -80,7 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_stormcrafter"
 				"item"		"item_ninja_gear"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

@@ -1,5 +1,5 @@
 {
-  "path": "./build-files/builds/",
+  "path": "/mnt/f/code/nerds-builds/builds/",
   "link": "https://builds.spectral.gg/",
   "levels": {
     "skip": {
@@ -48,13 +48,7 @@
     }
   },
   "builds": {
-    "axe_1576617452": "full"
   },
   "overrides": {
-    "morphling_1517800581": {
-      "suggest": {
-        "all": false
-      }
-    }
   }
 }

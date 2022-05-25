@@ -3,43 +3,43 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"80"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"82"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625093D7"
-	"TimePublished"		"0x00000000625093D7"
+	"TimeUpdated"		"0x00000000628C28BD"
+	"TimePublished"		"0x00000000628C28BD"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_crown"
 				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blight_stone"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_helm_of_the_dominator"
-				"item"		"item_buckler"
+				"item"		"item_ancient_janggo"
 				"item"		"item_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_helm_of_the_overlord"
-				"item"		"item_solar_crest"
 				"item"		"item_aghanims_shard"
+				"item"		"item_vladmir"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_wraith_pact"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ancient_janggo"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_orb_of_corrosion"
 			}
@@ -51,31 +51,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
-				"item"		"item_pipe"
-				"item"		"item_sheepstick"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_solar_crest"
+				"item"		"item_pipe"
+				"item"		"item_guardian_greaves"
 				"item"		"item_shivas_guard"
 				"item"		"item_bloodthorn"
+				"item"		"item_spirit_vessel"
 				"item"		"item_rod_of_atos"
 				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
 				"item"		"item_crimson_guard"
-				"item"		"item_spirit_vessel"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_arcane_ring"
-				"item"		"item_unstable_wand"
+				"item"		"item_keen_optic"
+				"item"		"item_trusty_shovel"
 				"item"		"item_ocean_heart"
-				"item"		"item_paintball"
-				"item"		"item_philosophers_stone"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_essence_ring"
 				"item"		"item_bullwhip"
 				"item"		"item_spider_legs"
 				"item"		"item_quickening_charm"
@@ -83,13 +86,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ascetic_cap"
 				"item"		"item_spy_gadget"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"

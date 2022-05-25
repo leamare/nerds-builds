@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"65"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"71"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625099F1"
-	"TimePublished"		"0x00000000625099F1"
+	"TimeUpdated"		"0x00000000628C081F"
+	"TimePublished"		"0x00000000628C081F"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
-				"item"		"item_branches"
+				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
@@ -37,66 +37,72 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_radiance"
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_bfury"
 				"item"		"item_armlet"
 				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_assault"
+				"item"		"item_silver_edge"
 				"item"		"item_abyssal_blade"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_monkey_king_bar"
-				"item"		"item_swift_blink"
+				"item"		"item_bloodthorn"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_ultimate_scepter_2"
-				"item"		"item_travel_boots_2"
 			}
 			"Situational"
 			{
+				"item"		"item_swift_blink"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_silver_edge"
 				"item"		"item_solar_crest"
 				"item"		"item_heavens_halberd"
 				"item"		"item_manta"
 				"item"		"item_skadi"
 				"item"		"item_satanic"
-				"item"		"item_bloodthorn"
 				"item"		"item_greater_crit"
 				"item"		"item_shivas_guard"
-				"item"		"item_overwhelming_blink"
 				"item"		"item_aghanims_shard"
+				"item"		"item_travel_boots_2"
 			}
-			"Best Neutral  Items"
+			"Best Neutral Items"
 			{
-				"item"		"item_ocean_heart"
-				"item"		"item_unstable_wand"
 				"item"		"item_broom_handle"
-				"item"		"item_essence_ring"
+				"item"		"item_chipped_vest"
+				"item"		"item_arcane_ring"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
-				"item"		"item_spider_legs"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_bullwhip"
+				"item"		"item_misericorde"
+				"item"		"item_mind_breaker"
 				"item"		"item_titan_sliver"
+				"item"		"item_paladin_sword"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_trickster_cloak"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_trickster_cloak"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}
 		"ItemTooltips"
 		{
 			"item_armlet"		"~6-8 min"
-			"item_radiance"		"~8-10 min"
+			"item_radiance"		"~12-15 min
+ALTERNATIVE: Battle Fury"
 			"item_blink"		"~10 min"
 			"item_manta"		"~15-18 min"
-			"item_invis_sword"		"~14+ min"
+			"item_invis_sword"		"~14 min"
+			"item_phase_boots"		"ALTERNATIVE: Power Treads"
+			"item_power_treads"		"ALTERNATIVE: Phase Boots"
+			"item_bfury"		"ALTERNATIVE: Radiance"
 		}
 	}
 	"AbilityBuild"
@@ -120,12 +126,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_350"
 			"16"		"alchemist_unstable_concoction"
 			"18"		"alchemist_chemical_rage"
-			"20"		"special_bonus_cleave_25"
-			"25"		"special_bonus_unique_alchemist_6"
+			"20"		"special_bonus_unique_alchemist_2"
+			"25"		"special_bonus_unique_alchemist_4"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_hp_400"		"* Pretty good as well"
 		}
 	}
 }

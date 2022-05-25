@@ -3,15 +3,15 @@
 	"Hero"		"obsidian_destroyer"
 	"Title"		"Nerds Overwhelming Designator"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.31b"
+	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"10"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x00000000923B2A2B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000625075A1"
+	"TimeUpdated"		"0x00000000628C0826"
 	"TimePublished"		"0x00000000625075A1"
 	"ItemBuild"
 	{
@@ -49,6 +49,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 			}
+			"Lategame"
+			{
+			}
 			"Situational"
 			{
 				"item"		"item_aeon_disk"
@@ -75,7 +78,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quickening_charm"
 				"item"		"item_stormcrafter"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 			}
 		}

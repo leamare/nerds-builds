@@ -8,13 +8,13 @@
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"174"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"178"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062785D59"
-	"TimePublished"		"0x0000000062785D59"
+	"TimeUpdated"		"0x00000000628C0829"
+	"TimePublished"		"0x00000000628C0829"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,8 +36,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_radiance"
 				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_skadi"
 				"item"		"item_basher"
 			}
@@ -48,13 +48,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_falcon_blade"
 				"item"		"item_diffusal_blade"
 				"item"		"item_blade_mail"
-				"item"		"item_orchid"
 				"item"		"item_echo_sabre"
+				"item"		"item_radiance"
 				"item"		"item_mage_slayer"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_bloodthorn"
 				"item"		"item_heart"
@@ -65,6 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_orchid"
 				"item"		"item_nullifier"
 				"item"		"item_sheepstick"
 				"item"		"item_refresher"
@@ -98,7 +98,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ninja_gear"
 				"item"		"item_penta_edged_sword"
 			}
-			"https://leamare.github.io/nerds-builds/"
+			"https://builds.spectral.gg/"
 			{
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
@@ -107,30 +107,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_enchanted_mango"		"Usually mango is the best thing due to health regen and emergency mana button."
-			"item_dust"		"If you are playing against invisible heroes, TAKE IT. You can spot these bastards with your ult and immidiately show them to your team."
 			"item_tango"		"If the lane will be tough - get more tangoes."
-			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don&amp;amp;amp;amp;amp;apos;t have it in your team and really need armor"
+			"item_assault"		"Good armor aura and attack speed buff. Good thing to pick up if you don&apos;t have it in your team and really need armor"
 			"item_heart"		"Heart is that point of becoming out-of-control. It replaces any of your cheap regen items, while also making you very hard to kill in fights (not only because of HP pool, but also because of ability to get out, regen ad re-engage)."
 			"item_black_king_bar"		"Almost all the time you WILL need to pick up BKB. It helps a lot against disables, break and a lot of other stuff."
-			"item_vanguard"		"Gives a lot of tankiness and sustain, BUT doesn`t boost farming speed, while also being quite expensive.
+			"item_vanguard"		"Gives a lot of tankiness and sustain, BUT doesn&apos;t boost farming speed, while also being quite expensive.
 Good for tower dives (and very agressive plays) or against summons/high attack speed."
 			"item_blade_mail"		"~8 min
-It&apos;s both farming and fighting item. With Soul Ring and Treads you`re capable of clearing creep waves and stacks by using Spectral Dager and finishing off creeps with the Blade Mail passive 
+It&apos;s both farming and fighting item. With Soul Ring and Treads you&apos;re capable of clearing creep waves and stacks by using Spectral Dager and finishing off creeps with the Blade Mail passive 
 ALTERNATIVES: Radiance, Diffusal Blade"
 			"item_radiance"		"~13-18 min
-Radiance is the best farming item you can get, but it slows you down quite a bit. It`s better to get Soul Ring and Blade Mail most of the time (it will be enough for farming), but if you have a free early game and enough time to get Radiance then go for it.
+Radiance is the best farming item you can get, but it slows you down quite a bit. It&apos;s better to get Soul Ring and Blade Mail most of the time (it will be enough for farming), but if you have a free early game and enough time to get Radiance then go for it.
+Before Manta Style
 ALTERNATIVES: Blade Mail, Diffusal Blade"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
 			"item_manta"		"~19-24 min
 Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit"
 			"item_skadi"		"Gives a lot of stats and slow passive (which should work on illusions too), so it&apos;s one of the best items to pick up actually"
-			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don&amp;amp;amp;amp;amp;apos;t really need it or just have more important slot to have. Altho, it&amp;amp;amp;amp;amp;apos;s actually pretty good as 6-7th slot."
+			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don&apos;t really need it or just have more important slot to have. Altho, it&apos;s actually pretty good as 6-7th slot."
 			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_soul_ring"		"~6 min
 Solves mana issues and allowes to spam Spectral Dagger + gives additional tankiness and armor. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
-			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don`t really need to use it in fights, but you CAN if you need to focus a squishy target. It`s better to purchase with some cheap armor (like Blade Mail)"
-			"item_meteor_hammer"		"Another awesome farming solution for early game. It`s going to replace Blade Mail and Soul Ring, but it will provide you a lot of regen for early game"
+			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don&apos;t really need to use it in fights, but you CAN if you need to focus a squishy target. It&apos;s better to purchase with some cheap armor (like Blade Mail)"
+			"item_meteor_hammer"		"Another awesome farming solution for early game. It&apos;s going to replace Blade Mail and Soul Ring, but it will provide you a lot of regen for early game"
 			"item_falcon_blade"		"~5 min"
 			"item_ultimate_scepter"		"~20-30 min"
 			"item_diffusal_blade"		"~13 min
@@ -169,9 +168,8 @@ ALTERNATIVES: Blade Mail, Radiance"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_spectre_2"		"With current Desolate radius icreasing it&amp;amp;amp;amp;amp;apos;s damage is pointless since it&amp;amp;amp;amp;amp;apos;s unreliable."
-			"special_bonus_hp_regen_5"		"Health regen is better almost always, but if you&amp;amp;amp;amp;amp;apos;re going to get a regen item early, +4 stats may not be that bad, considering you don&amp;amp;amp;amp;amp;apos;t need even more regen anyways."
-			"special_bonus_unique_spectre"		"This kind of change will compensate Dagger&amp;amp;amp;amp;amp;apos;s low linger time as well as boost your farming capabilities. The only problem is mana sustain, but Soul Ring and Scythe may help with that."
+			"special_bonus_unique_spectre_2"		"With current Desolate radius icreasing it&apos;s damage is pointless since it&apos;s unreliable."
+			"special_bonus_unique_spectre"		"This kind of change will compensate Dagger&apos;s low linger time as well as boost your farming capabilities. The only problem is mana sustain, but Soul Ring and Scythe may help with that."
 		}
 	}
 }
