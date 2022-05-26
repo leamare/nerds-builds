@@ -8,13 +8,13 @@
 
 As a support Sven your main goal is not to deal damage or transition into core. First thing to focus on is using Storm Hammer and soaking resources from enemy heroes on lane early on, to then proceed to ganking. During mid-game fights Sven's goal is to initiate and then be a frontline hero, while also constantly throwing Storm Hammer and using Warcry.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x000000005F0EE7A0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0829"
-	"TimePublished"		"0x00000000624F8C3F"
+	"TimeUpdated"		"0x00000000628FB461"
+	"TimePublished"		"0x00000000628FB461"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,12 +22,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_ward_sentry"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
-				"item"		"item_gauntlets"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_flask"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
@@ -39,17 +38,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_bracer"
-				"item"		"item_ancient_janggo"
-				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_vladmir"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
+				"item"		"item_bracer"
 				"item"		"item_power_treads"
-				"item"		"item_quelling_blade"
+				"item"		"item_ancient_janggo"
 			}
 			"Utility"
 			{
@@ -59,66 +57,74 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heavens_halberd"
 				"item"		"item_solar_crest"
 				"item"		"item_pipe"
+				"item"		"item_lotus_orb"
 			}
 			"Lategame"
 			{
+				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_black_king_bar"
+				"item"		"item_meteor_hammer"
+				"item"		"item_assault"
+			}
+			"Core Transition"
+			{
 				"item"		"item_echo_sabre"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_greater_crit"
 				"item"		"item_heart"
 			}
-			"Situational"
-			{
-				"item"		"item_vladmir"
-				"item"		"item_spirit_vessel"
-				"item"		"item_black_king_bar"
-				"item"		"item_meteor_hammer"
-				"item"		"item_assault"
-				"item"		"item_blink"
-				"item"		"item_pipe"
-				"item"		"item_lotus_orb"
-			}
 			"Best Neutral Items"
 			{
+				"item"		"item_broom_handle"
+				"item"		"item_chipped_vest"
 				"item"		"item_arcane_ring"
-				"item"		"item_quickening_charm"
+				"item"		"item_quicksilver_amulet"
+				"item"		"item_pupils_gift"
+				"item"		"item_bullwhip"
+				"item"		"item_spider_legs"
+				"item"		"item_titan_sliver"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
-				"item"		"item_bullwhip"
 				"item"		"item_the_leveller"
 			}
 			"https://builds.spectral.gg/"
 			{
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_boots"		"Being melee support is tough. Sven doesn't have any issues with his base damage and attack time, but he's still a melee hero who needs to come closer first. Getting Boots first may help with this issue"
-			"item_tranquil_boots"		"Another mobility solving item. Works great for early roaming and for getting closer to enemy heroes (considering you know how to abuse enemy vision and get closer without losing movement speed buff)"
+			"item_boots"		"Being melee support is tough. Sven doesn&apos;t have any issues with his base damage and attack time, but he&apos;s still a melee hero who needs to come closer first. Getting Boots first may help with this issue"
+			"item_tranquil_boots"		"Another mobility solving item. Works great for early roaming and for getting closer to enemy heroes (considering you know how to abuse enemy vision and get closer without losing movement speed buff)
+ALTERNATIVE: Power Treads"
 			"item_magic_wand"		"Cheap stats and natural upgrade to Magic Stick"
 			"item_blink"		"The only necessary item. Helps you getting close to enemies and stun them without giving any time to react. Also allowes you to use all your abilities perfectly and initiate"
-			"item_quelling_blade"		"Fine solution for early farming if nothing's really going on"
 			"item_vladmir"		"Nice and cheap aura to have, great item to pickup after blink"
 			"item_soul_ring"		"Great replacement for bracer stacking. Gives reasonable amount of HP and regen, but also helps with mana issues"
-			"item_ancient_janggo"		"Drum's stats are pretty awful, but its bonuses are valuable to Sven in general: mana regen, some HP, some mobility"
-			"item_ultimate_scepter"		"Works as a blink replacement. It's more expensive but it's also a bit more powerful. Can be replaced or accompanied by blink if you need long range initiation or/and get initiation early"
+			"item_ancient_janggo"		"Drum&apos;s stats are pretty awful, but its bonuses are valuable to Sven in general: mana regen, some HP, some mobility"
+			"item_ultimate_scepter"		"Works as a blink replacement. It&apos;s more expensive but it&apos;s also a bit more powerful. Can be replaced or accompanied by blink if you need long range initiation or/and get initiation early"
 			"item_spirit_vessel"		"Natural Urn upgrade. Some HP, some mobility, more heal/damage"
 			"item_heavens_halberd"		"Great item to pickup on a melee strength utility brawler. Relatively cheap and always useful"
-			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you're playing against miss chance heroes and nobody else is making it"
+			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you&apos;re playing against miss chance heroes and nobody else is making it"
 			"item_pipe"		"Against high magic damage lineups"
 			"item_force_staff"		"Works fine for getting in and instantly getting out. Also comes in handy against slowing assassins, like Riki and Ursa"
-			"item_meteor_hammer"		"Good solution if you need some kind of pushing power on your team. You can also try to combo it with your Storm Hammer, but there's a time window that will be enogth to react"
-			"item_black_king_bar"		"Good solution against stuns and silences if that's what makes it hard for you to initiate"
+			"item_meteor_hammer"		"Good solution if you need some kind of pushing power on your team. You can also try to combo it with your Storm Hammer, but there&apos;s a time window that will be enogth to react"
+			"item_black_king_bar"		"Good solution against stuns and silences if that&apos;s what makes it hard for you to initiate"
 			"item_echo_sabre"		"Good pickup early on if you have enough money and feel like you can start transitioning into core"
 			"item_sange_and_yasha"		"Makes you even faster and solves all your mobility issues, but aside from that it also makes you a better core and frontliner, so you may start thinking about transitioning into core"
 			"item_lotus_orb"		"Armor/mana solution if enemy heroes have some sort of dispellable debuffs"
 			"item_assault"		"Good aura to pickup if nobody on your team wants to buy it"
 			"item_greater_crit"		"If you have enough tankiness and money, it may work out well, turning you into a scary damage dealer and force enemies to deal with you. Altho, keep in mind: dealing damage is not your main priority"
-			"item_heart"		"Great item to get if you have any opportinuty to farm it. Most of the time you will be your team's frontliner, so having huge HP boost and ability to re-engage is massive in this regard"
+			"item_heart"		"Great item to get if you have any opportinuty to farm it. Most of the time you will be your team&apos;s frontliner, so having huge HP boost and ability to re-engage is massive in this regard"
+			"item_power_treads"		"ALTERNATIVE: Tranquil Boots"
 		}
 	}
 	"AbilityBuild"
@@ -131,11 +137,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"4"		"sven_warcry"
 			"5"		"sven_storm_bolt"
 			"6"		"sven_gods_strength"
-			"7"		"sven_warcry"
-			"8"		"sven_great_cleave"
-			"9"		"sven_storm_bolt"
+			"7"		"sven_storm_bolt"
+			"8"		"sven_warcry"
+			"9"		"sven_warcry"
 			"10"		"special_bonus_unique_sven_5"
-			"11"		"sven_warcry"
+			"11"		"sven_great_cleave"
 			"12"		"sven_gods_strength"
 			"13"		"sven_great_cleave"
 			"14"		"sven_great_cleave"
@@ -149,11 +155,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"special_bonus_unique_sven_3"		"This talent is situationally pretty powerful against some kind of buffers (Ogre, Magnus) or heroes with strong self-buffs (Clinkz, WIndranger)"
 			"special_bonus_unique_sven_4"		"Makes 3.25 second AoE stun out of Storm Hammer which is pretty insane by itself"
-			"special_bonus_unique_sven_2"		"Situationally may be pretty good if you're playing role of your team's main tank"
-			"sven_storm_bolt"		"Your main initiation/fighting tool. Ideally you want to catch the moment to stun multiple people at once, but in reality you just want to get close, so enemy can't react in time. It's also pretty mana expensive ability, so you need to be careful with it early on"
-			"sven_great_cleave"		"Great farming tool, but it won't be that useful since we're not going to farm early on. You can get one point into it if there's nothing going on the map and you don't need to help anywhere"
+			"special_bonus_unique_sven_2"		"Situationally may be pretty good if you&apos;re playing role of your team&apos;s main tank"
+			"sven_storm_bolt"		"Your main initiation/fighting tool. Ideally you want to catch the moment to stun multiple people at once, but in reality you just want to get close, so enemy can&apos;t react in time. It&apos;s also pretty mana expensive ability, so you need to be careful with it early on"
+			"sven_great_cleave"		"Great farming tool, but it won&apos;t be that useful since we&apos;re not going to farm early on. You can get one point into it if there&apos;s nothing going on the map and you don&apos;t need to help anywhere"
 			"sven_gods_strength"		"While core Sven uses this to get a ton of damage and crit through people, think of it as of tool that will allow you to tank more in fights. You can get some damage items and transition into core, but beforehand try to just use it pre-fight and then start initiating"
-			"sven_warcry"		"It's pretty much another tanking tool in your inventory that also acts as Crimson Guard (which makes you great counter against a-lot-of-attacks kind of heroes (Windranger, Visage), but it also makes getting close to enemies and retreating much easier"
+			"sven_warcry"		"It&apos;s pretty much another tanking tool in your inventory that also acts as Crimson Guard (which makes you great counter against a-lot-of-attacks kind of heroes (Windranger, Visage), but it also makes getting close to enemies and retreating much easier"
 		}
 	}
 }

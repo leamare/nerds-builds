@@ -9,24 +9,24 @@
 You can use Disruption early on as a tool to abuse your good base damage for better hit trading. You will be lacking mobility before you'll get to Blink Dagger, but you can compensate it by using Shadow Poison to scout territory. Your goal to just get levels as fast as possible and start nuking enemies down. With blink, you can start aggressive lane push by killing creepwaves with shadow poison and running away as soon as you feel somebody's coming. Splitfarming and lane shaving will help you to get items and levels faster, while also creating space for your team.
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"58"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0828"
-	"TimePublished"		"0x00000000623A86A3"
+	"TimeUpdated"		"0x00000000628EEEC0"
+	"TimePublished"		"0x00000000628EEEC0"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items (Midlane)"
 			{
+				"item"		"item_tango"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
 				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_tango"
 			}
 			"Early"
 			{
@@ -52,7 +52,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
-				"item"		"item_aeon_disk"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodstone"
 				"item"		"item_dagon_5"
@@ -63,6 +62,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_cyclone"
+				"item"		"item_aeon_disk"
 				"item"		"item_force_staff"
 				"item"		"item_black_king_bar"
 				"item"		"item_lotus_orb"
@@ -76,16 +76,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_mysterious_hat"
+				"item"		"item_keen_optic"
+				"item"		"item_arcane_ring"
+				"item"		"item_vambrace"
+				"item"		"item_essence_ring"
+				"item"		"item_essence_ring"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
-				"item"		"item_nether_shawl"
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
+				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
@@ -141,7 +145,7 @@ When trying to solo-kill on the lane, both your Disruption and your ult essentia
 			"special_bonus_unique_shadow_demon_4"		"35 movement speed is no joke, and this hero runs around a lot. However, once again the 25% Shadow Poison damage is just a huge difference maker. "
 			"special_bonus_unique_shadow_demon_3"		"This is probably the most one-sided choice of all, the cooldown reduction is what sends this hero into OP territory, Shadow Poison basically becomes your auto-attack, it takes you only 4 seconds to insta-kill a creepwave from two screens away (if you’re good at aiming), it takes you 5 seconds to pop a hero for 2000+ damage, etc."
 			"special_bonus_unique_shadow_demon_7"		"2 charges of Disruption basically means you have no down-time, no weak moment where ‘oh, he used Disruption, I can go on him now’, because you always have another one ready. You can save 2 allies, save an ally and get illusions of the enemy carry, disrupt 2 enemy cores, save an ally and yourself as well, the possibilities are endless."
-			"shadow_demon_demonic_purge"		"May be worth skipping at lvl 6 since it's not as significant in terms of damage, but slow and constant purge are very valuable"
+			"shadow_demon_demonic_purge"		"May be worth skipping at lvl 6 since it&apos;s not as significant in terms of damage, but slow and constant purge are very valuable"
 		}
 	}
 }

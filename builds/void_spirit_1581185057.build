@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"31"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C082B"
-	"TimePublished"		"0x00000000624F8642"
+	"TimeUpdated"		"0x00000000628FBFC3"
+	"TimePublished"		"0x00000000628FBFC3"
 	"ItemBuild"
 	{
 		"Items"
@@ -59,6 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_dagon_5"
 				"item"		"item_travel_boots"
 				"item"		"item_shivas_guard"
+				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
@@ -67,7 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_sphere"
 				"item"		"item_ghost"
-				"item"		"item_octarine_core"
 				"item"		"item_nullifier"
 				"item"		"item_bloodthorn"
 				"item"		"item_desolator"
@@ -78,7 +78,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mysterious_hat"
 				"item"		"item_ocean_heart"
 				"item"		"item_arcane_ring"
-				"item"		"item_nether_shawl"
 				"item"		"item_vambrace"
 				"item"		"item_grove_bow"
 				"item"		"item_essence_ring"
@@ -95,6 +94,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_phase_boots"		"ALTERNATIVE: Power Treads"
+			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 		}
 	}
 	"AbilityBuild"

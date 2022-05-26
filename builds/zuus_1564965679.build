@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"47"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C082B"
-	"TimePublished"		"0x00000000624F82FA"
+	"TimeUpdated"		"0x00000000628FC654"
+	"TimePublished"		"0x00000000628FC654"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,6 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
@@ -36,9 +37,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_aether_lens"
 				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
@@ -50,28 +52,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_octarine_core"
-				"item"		"item_refresher"
+				"item"		"item_kaya"
 				"item"		"item_travel_boots"
+				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_cyclone"
 				"item"		"item_shivas_guard"
-				"item"		"item_aeon_disk"
 				"item"		"item_lotus_orb"
-				"item"		"item_kaya"
 				"item"		"item_blink"
 				"item"		"item_veil_of_discord"
+				"item"		"item_wind_waker"
+				"item"		"item_aeon_disk"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_arcane_ring"
+				"item"		"item_keen_optic"
+				"item"		"item_mysterious_hat"
+				"item"		"item_philosophers_stone"
+				"item"		"item_vambrace"
+				"item"		"item_essence_ring"
 				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
-				"item"		"item_mysterious_hat"
-				"item"		"item_ceremonial_robe"
 			}
 			"https://builds.spectral.gg/"
 			{

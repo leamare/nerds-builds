@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"52"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0828"
-	"TimePublished"		"0x00000000623A853D"
+	"TimeUpdated"		"0x00000000628EF899"
+	"TimePublished"		"0x00000000628EF899"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,6 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
@@ -35,41 +36,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_blink"
-				"item"		"item_travel_boots"
 				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_cyclone"
 				"item"		"item_bracer"
 				"item"		"item_bottle"
-				"item"		"item_phase_boots"
+				"item"		"item_travel_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_silver_edge"
-				"item"		"item_octarine_core"
-				"item"		"item_lotus_orb"
 				"item"		"item_greater_crit"
-				"item"		"item_moon_shard"
-			}
-			"Situational"
-			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_assault"
 				"item"		"item_satanic"
+				"item"		"item_moon_shard"
+				"item"		"item_octarine_core"
+			}
+			"Situational"
+			{
+				"item"		"item_silver_edge"
+				"item"		"item_lotus_orb"
 				"item"		"item_desolator"
 				"item"		"item_kaya_and_sange"
-				"item"		"item_rod_of_atos"
-				"item"		"item_solar_crest"
 				"item"		"item_nullifier"
 				"item"		"item_shivas_guard"
-				"item"		"item_rapier"
-				"item"		"item_gungir"
 				"item"		"item_aeon_disk"
+				"item"		"item_rapier"
 			}
 			"Utility"
 			{
@@ -79,19 +77,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_guardian_greaves"
 				"item"		"item_heavens_halberd"
+				"item"		"item_solar_crest"
 				"item"		"item_sheepstick"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
+				"item"		"item_keen_optic"
+				"item"		"item_trusty_shovel"
 				"item"		"item_possessed_mask"
 				"item"		"item_bullwhip"
-				"item"		"item_cloak_of_flames"
 				"item"		"item_grove_bow"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_paintball"
+				"item"		"item_black_powder_bag"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_enchanted_quiver"
-				"item"		"item_minotaur_horn"
-				"item"		"item_the_leveller"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_flicker"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -99,6 +101,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_power_treads"		"ALTERNATIVE: Boots of Travel"
+			"item_travel_boots"		"ALTERNATIVE: Power Treads"
 		}
 	}
 	"AbilityBuild"
@@ -108,18 +112,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"snapfire_scatterblast"
 			"2"		"snapfire_firesnap_cookie"
 			"3"		"snapfire_scatterblast"
-			"4"		"snapfire_lil_shredder"
+			"4"		"snapfire_firesnap_cookie"
 			"5"		"snapfire_scatterblast"
 			"6"		"snapfire_mortimer_kisses"
 			"7"		"snapfire_scatterblast"
 			"8"		"snapfire_firesnap_cookie"
 			"9"		"snapfire_firesnap_cookie"
-			"10"		"special_bonus_unique_snapfire_5"
-			"11"		"snapfire_firesnap_cookie"
+			"10"		"special_bonus_unique_snapfire_3"
+			"11"		"snapfire_lil_shredder"
 			"12"		"snapfire_mortimer_kisses"
 			"13"		"snapfire_lil_shredder"
 			"14"		"snapfire_lil_shredder"
-			"15"		"special_bonus_unique_snapfire_7"
+			"15"		"special_bonus_unique_snapfire_2"
 			"16"		"snapfire_lil_shredder"
 			"18"		"snapfire_mortimer_kisses"
 			"20"		"special_bonus_unique_snapfire_6"

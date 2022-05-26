@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"42"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"43"
 	"AssociatedWorkshopItemID"		"0x000000007007D071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0828"
-	"TimePublished"		"0x00000000624F8D1C"
+	"TimeUpdated"		"0x00000000628EF751"
+	"TimePublished"		"0x00000000628EF751"
 	"ItemBuild"
 	{
 		"Items"
@@ -42,15 +42,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_wraith_band"
+				"item"		"item_phase_boots"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_diffusal_blade"
 				"item"		"item_hand_of_midas"
-				"item"		"item_falcon_blade"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_silver_edge"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_black_king_bar"
 				"item"		"item_skadi"
+				"item"		"item_silver_edge"
 				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
 				"item"		"item_satanic"
@@ -58,27 +60,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_nullifier"
 				"item"		"item_sphere"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_nullifier"
 				"item"		"item_mjollnir"
+				"item"		"item_swift_blink"
+				"item"		"item_refresher"
+				"item"		"item_bloodthorn"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_broom_handle"
 				"item"		"item_possessed_mask"
-				"item"		"item_misericorde"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
+				"item"		"item_ocean_heart"
+				"item"		"item_chipped_vest"
 				"item"		"item_pupils_gift"
+				"item"		"item_vambrace"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_mind_breaker"
-				"item"		"item_paladin_sword"
-				"item"		"item_elven_tunic"
 				"item"		"item_titan_sliver"
-				"item"		"item_ninja_gear"
+				"item"		"item_elven_tunic"
+				"item"		"item_heavy_blade"
 				"item"		"item_the_leveller"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -86,9 +90,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~10-12 min
-Situationally good before drum if you're not going to fight straight on or will need to keep your pace"
+			"item_hand_of_midas"		"~8-11 min"
 			"item_wraith_band"		"Fighting choice"
+			"item_echo_sabre"		"~12-14 min"
+			"item_power_treads"		"~7 min
+ALTERNATIVE: Phase Boots"
+			"item_phase_boots"		"ALTERNATIVE: Power Treads"
+			"item_orb_of_corrosion"		"Before Echo Sabre"
+			"item_diffusal_blade"		"Before Shadow Blade"
+			"item_invis_sword"		"~18 min"
+			"item_blink"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"

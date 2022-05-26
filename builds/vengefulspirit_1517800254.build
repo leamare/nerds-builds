@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"93"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"94"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C082A"
-	"TimePublished"		"0x0000000062730D09"
+	"TimeUpdated"		"0x00000000628FBCBE"
+	"TimePublished"		"0x00000000628FBCBE"
 	"ItemBuild"
 	{
 		"Items"
@@ -107,25 +107,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_blink"		"Kind of good agressive positioning item, but it doesn't give stats/damage and, well, we will have pike anyway, so it will be a little bit overkill."
+			"item_blink"		"Kind of good agressive positioning item, but it doesn&apos;t give stats/damage and, well, we will have pike anyway, so it will be a little bit overkill."
 			"item_phase_boots"		"While attack speed and stats usually work better with venge (because with stats we will have enough damage and we need only attack speed), Phase boots work well too because of massive damage increase (works well with minus armor) and bonus mobility.
 ALTERNATIVES: Power Treads"
 			"item_power_treads"		"Probably the best boots to get because of attack speed increase, as well as tankiness or damage from agility.
 ALTERNATIVE: Phase Boots"
-			"item_sheepstick"		"Even while we have stun and we are going to be agility core, it's still remains as ultimate lockdown item for ranged cores."
-			"item_bloodthorn"		"The best core item at the moment: silence, crits, attack speed boost and a lot of damage. It's expensive and doesn't really work well with our skillset, but it's too good to ignore it"
+			"item_sheepstick"		"Even while we have stun and we are going to be agility core, it&apos;s still remains as ultimate lockdown item for ranged cores."
+			"item_bloodthorn"		"The best core item at the moment: silence, crits, attack speed boost and a lot of damage. It&apos;s expensive and doesn&apos;t really work well with our skillset, but it&apos;s too good to ignore it"
 			"item_hurricane_pike"		"Natural upgrade to Lance. More stats and mobility."
 			"item_ultimate_scepter"		"~15-19 min
-Kind of good if you know that you will probably die. Allowes you to deal damage even after death (and, well, it's 50% lower, but it will be still a lot of damage in case of core venge), as well as allowes to stun people, swap people and provide vengeance aura for your team.
-SWAP: Aghanim's Shard"
-			"item_assault"		"Works well with our minus armor theme and provides useful armor aura for our team. Good, if you need armor boost, if you're not the only core or if you're going to finish the game quickly."
-			"item_sphere"		"Massive stats boost, but there're a lot of better items, so it's actually useful only against some targeted stuff that will get us killed (f.e. Doom)"
-			"item_butterfly"		"Awesome gotta-go-late item for Venge: massive agility boost, damage, attack speed, tankiness from miss chance. Altho, it's quite expensive, so it may be not worth buying if you're behind or want to finish early.
+Kind of good if you know that you will probably die. Allowes you to deal damage even after death (and, well, it&apos;s 50% lower, but it will be still a lot of damage in case of core venge), as well as allowes to stun people, swap people and provide vengeance aura for your team.
+SWAP: Aghanim&apos;s Shard"
+			"item_assault"		"Works well with our minus armor theme and provides useful armor aura for our team. Good, if you need armor boost, if you&apos;re not the only core or if you&apos;re going to finish the game quickly."
+			"item_sphere"		"Massive stats boost, but there&apos;re a lot of better items, so it&apos;s actually useful only against some targeted stuff that will get us killed (f.e. Doom)"
+			"item_butterfly"		"Awesome gotta-go-late item for Venge: massive agility boost, damage, attack speed, tankiness from miss chance. Altho, it&apos;s quite expensive, so it may be not worth buying if you&apos;re behind or want to finish early.
 ALTERNATIVES: Desolator, Silver Edge, Diffusal Blade, Eye of Skadi"
 			"item_greater_crit"		"Good damage item, but right now Bloodthorn is much better, so Daedalus works only for cases when you need only damage and you need it for a low price."
 			"item_manta"		"~30 min
@@ -137,21 +136,21 @@ Cheap stats, but most important part is that it makes our attack range actually 
 ALTERNATIVES: Sange and Yasha, Manta Style, Eye of Skadi"
 			"item_sange_and_yasha"		"~30 min
 After series of small buffs, SnY is actually pretty good item and it was always good for Core Venge. A lot of stats, slow, damage and mobility. Works perfectly in scenarios when you are not going to play long match."
-			"item_satanic"		"It's good item for every offensive core, but it's not really the item venge wants to buy. It works as lategame replacement for Vlads and ultimate lifesteal item, but it's better to pick up something else before that"
+			"item_satanic"		"It&apos;s good item for every offensive core, but it&apos;s not really the item venge wants to buy. It works as lategame replacement for Vlads and ultimate lifesteal item, but it&apos;s better to pick up something else before that"
 			"item_skadi"		"Massive stats boost, which makes us tankier, our illusions stronger, and gives us slow effect. We want to build as much damage as we can, but items like this work fine too.
 ALTERNATIVES: Sange and Yasha, Butterfly, Diffusal Blade, Silver Edge"
-			"item_desolator"		"Good choice if you have nice start since it's cheap, it boosts our damage and farming speed even more, while also boosts our pushing speed.
+			"item_desolator"		"Good choice if you have nice start since it&apos;s cheap, it boosts our damage and farming speed even more, while also boosts our pushing speed.
 ALTERNATIVES: Solar Crest, Butterfly, Diffusal Blade
 "
 			"item_yasha"		"Massive agility, attack speed and damage boost. Probably the best item for almost any agility core, works perfectly with our aura."
-			"item_diffusal_blade"		"Massive agility boost, mana burn (even more damage), works quite well with manta, gives us active purge. It's quite cheap, so the item works awesome in mid-game and when we want to finish early."
-			"item_solar_crest"		"Defensive alternative to Desolator. Doesn't boost our pushing speed (no minus armor for towers) and doesn't give damage, but gives a lot of armor, miss chance as well as a lot of minus armor (more than deso) against heroes, roshan and regenerates a lot of mana.
+			"item_diffusal_blade"		"Massive agility boost, mana burn (even more damage), works quite well with manta, gives us active purge. It&apos;s quite cheap, so the item works awesome in mid-game and when we want to finish early."
+			"item_solar_crest"		"Defensive alternative to Desolator. Doesn&apos;t boost our pushing speed (no minus armor for towers) and doesn&apos;t give damage, but gives a lot of armor, miss chance as well as a lot of minus armor (more than deso) against heroes, roshan and regenerates a lot of mana.
 ALTERNATIVES: Yasha"
-			"item_vladmir"		"Great upgrade for Basilius. Buffs your team, makes you tankier and useful even after death. You can make aquila early and disassemble it for Vladmir's and Pike.
+			"item_vladmir"		"Great upgrade for Basilius. Buffs your team, makes you tankier and useful even after death. You can make aquila early and disassemble it for Vladmir&apos;s and Pike.
 ALTERNATIVE TO: Aquila, Mask of Madness, Helm of the Dominator"
 			"item_aether_lens"		"ALTERNATIVES: Yasha"
 			"item_aghanims_shard"		"~15-20 min
-SWAP: Aghanim's Scepter"
+SWAP: Aghanim&apos;s Scepter"
 			"item_octarine_core"		"ALTERNATIVES: Sange and Yasha, Manta Style, Silver Edge"
 		}
 	}
@@ -181,12 +180,12 @@ SWAP: Aghanim's Scepter"
 		}
 		"AbilityTooltips"
 		{
-			"vengefulspirit_magic_missile"		"Pretty powerful nuke, especially with talents. You can skill it on level 1 for kill potential, but you don't need to max it during laning stage."
+			"vengefulspirit_magic_missile"		"Pretty powerful nuke, especially with talents. You can skill it on level 1 for kill potential, but you don&apos;t need to max it during laning stage."
 			"vengefulspirit_wave_of_terror"		"Can be used to stack camps or secure creeps from a distance. Quite useful during early skirmishes and on a hard lane."
-			"vengefulspirit_command_aura"		"Our main damage source later on, but you don't really want to max it early since it'll not be as effective as other spells, until you will actually get some stats (this is also why we don't really want to get bonus damage)"
+			"vengefulspirit_command_aura"		"Our main damage source later on, but you don&apos;t really want to max it early since it&apos;ll not be as effective as other spells, until you will actually get some stats (this is also why we don&apos;t really want to get bonus damage)"
 			"vengefulspirit_nether_swap"		"Ultimate saving tool for ourselves or our allies. With it we also can get closer to enemy or get him out of position. With aghs it also allowes us to constantly jump around the fight, which in combination with Pike makes us nearly impossible to target."
 			"special_bonus_unique_vengeful_spirit_3"		"May be useful pickup against BKB heroes, but most of the time having damage is just better because you all of a sudden have a laguna blade."
-			"special_bonus_unique_vengeful_spirit_5"		"It's better if you're playing more of an utility core or need more disables, but most of the time additional aura damage makes your team and you way too strong in dominating scenarios (which you should have 90% of the time if you're playing Core venge)"
+			"special_bonus_unique_vengeful_spirit_5"		"It&apos;s better if you&apos;re playing more of an utility core or need more disables, but most of the time additional aura damage makes your team and you way too strong in dominating scenarios (which you should have 90% of the time if you&apos;re playing Core venge)"
 		}
 	}
 }

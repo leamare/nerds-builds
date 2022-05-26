@@ -9,12 +9,12 @@
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"178"
+	"GuideRevision"		"180"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0829"
-	"TimePublished"		"0x00000000628C0829"
+	"TimeUpdated"		"0x00000000628FB6A8"
+	"TimePublished"		"0x00000000628FB6A8"
 	"ItemBuild"
 	{
 		"Items"
@@ -121,11 +121,12 @@ Radiance is the best farming item you can get, but it slows you down quite a bit
 Before Manta Style
 ALTERNATIVES: Blade Mail, Diffusal Blade"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
-			"item_manta"		"~19-24 min
+			"item_manta"		"~18-24 min
 Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit"
 			"item_skadi"		"Gives a lot of stats and slow passive (which should work on illusions too), so it&apos;s one of the best items to pick up actually"
 			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don&apos;t really need it or just have more important slot to have. Altho, it&apos;s actually pretty good as 6-7th slot."
-			"item_power_treads"		"Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
+			"item_power_treads"		"~7 min
+Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_soul_ring"		"~6 min
 Solves mana issues and allowes to spam Spectral Dagger + gives additional tankiness and armor. It is invaluable and worth keeping in your inventory until you get to upgrade every single item slot"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don&apos;t really need to use it in fights, but you CAN if you need to focus a squishy target. It&apos;s better to purchase with some cheap armor (like Blade Mail)"

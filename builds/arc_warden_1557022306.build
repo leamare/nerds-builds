@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0820"
-	"TimePublished"		"0x00000000628C0820"
+	"TimeUpdated"		"0x00000000628FB2CB"
+	"TimePublished"		"0x00000000628FB2CB"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,12 +36,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_maelstrom"
 				"item"		"item_power_treads"
+				"item"		"item_maelstrom"
 				"item"		"item_gungir"
 				"item"		"item_aghanims_shard"
 			}
-			"Core - Classic Meteor Hammer build"
+			"Core - Meteor Hammer build"
 			{
 				"item"		"item_meteor_hammer"
 				"item"		"item_power_treads"

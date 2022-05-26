@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"50"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0828"
-	"TimePublished"		"0x00000000623A854D"
+	"TimeUpdated"		"0x00000000628FB1BF"
+	"TimePublished"		"0x00000000628FB1BF"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_blight_stone"
 				"item"		"item_clarity"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -34,24 +35,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
 				"item"		"item_blink"
-				"item"		"item_glimmer_cape"
+				"item"		"item_force_staff"
 			}
 			"Situational Early"
 			{
-				"item"		"item_mekansm"
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
+				"item"		"item_glimmer_cape"
 			}
 			"Utility"
 			{
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
-				"item"		"item_spirit_vessel"
 				"item"		"item_lotus_orb"
+				"item"		"item_mekansm"
 			}
 			"Lategame"
 			{
@@ -59,26 +59,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
 				"item"		"item_sheepstick"
-				"item"		"item_monkey_king_bar"
 			}
 			"Situational"
 			{
-				"item"		"item_rod_of_atos"
-				"item"		"item_veil_of_discord"
+				"item"		"item_spirit_vessel"
+				"item"		"item_ancient_janggo"
+				"item"		"item_lotus_orb"
 				"item"		"item_cyclone"
-				"item"		"item_vladmir"
 				"item"		"item_aeon_disk"
 				"item"		"item_octarine_core"
+				"item"		"item_wraith_pact"
+			}
+			"Core Transition"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_greater_crit"
+				"item"		"item_desolator"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_keen_optic"
 				"item"		"item_trusty_shovel"
-				"item"		"item_possessed_mask"
-				"item"		"item_bullwhip"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_quickening_charm"
-				"item"		"item_spell_prism"
+				"item"		"item_mysterious_hat"
+				"item"		"item_paintball"
 				"item"		"item_grove_bow"
+				"item"		"item_bullwhip"
+				"item"		"item_black_powder_bag"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_psychic_headband"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_flicker"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -86,28 +97,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_tranquil_boots"		"ALTERNATIVE: Arcane Boots"
+			"item_arcane_boots"		"ALTERNATIVE: Tranquil Boots"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"snapfire_lil_shredder"
+			"1"		"snapfire_scatterblast"
 			"2"		"snapfire_firesnap_cookie"
-			"3"		"snapfire_lil_shredder"
+			"3"		"snapfire_scatterblast"
 			"4"		"snapfire_firesnap_cookie"
-			"5"		"snapfire_lil_shredder"
+			"5"		"snapfire_scatterblast"
 			"6"		"snapfire_mortimer_kisses"
-			"7"		"snapfire_lil_shredder"
+			"7"		"snapfire_scatterblast"
 			"8"		"snapfire_firesnap_cookie"
 			"9"		"snapfire_firesnap_cookie"
-			"10"		"special_bonus_unique_snapfire_5"
-			"11"		"snapfire_scatterblast"
+			"10"		"special_bonus_unique_snapfire_3"
+			"11"		"snapfire_lil_shredder"
 			"12"		"snapfire_mortimer_kisses"
-			"13"		"snapfire_scatterblast"
-			"14"		"snapfire_scatterblast"
-			"15"		"special_bonus_unique_snapfire_2"
-			"16"		"snapfire_scatterblast"
+			"13"		"snapfire_lil_shredder"
+			"14"		"snapfire_lil_shredder"
+			"15"		"special_bonus_unique_snapfire_7"
+			"16"		"snapfire_lil_shredder"
 			"18"		"snapfire_mortimer_kisses"
 			"20"		"special_bonus_unique_snapfire_4"
 			"25"		"special_bonus_unique_snapfire_1"

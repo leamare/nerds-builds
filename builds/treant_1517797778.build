@@ -7,13 +7,13 @@
 	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
 This build is based on Immortal rank support Treant matches.
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"75"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0829"
-	"TimePublished"		"0x00000000624F8B74"
+	"TimeUpdated"		"0x00000000628FB8C2"
+	"TimePublished"		"0x00000000628FB8C2"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,9 +45,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_meteor_hammer"
 				"item"		"item_holy_locket"
 			}
-			"Utility Slots"
+			"Utility"
 			{
-				"item"		"item_solar_crest"
+				"item"		"item_vladmir"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_gem"
@@ -56,7 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
-				"item"		"item_travel_boots"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
@@ -64,18 +64,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_quelling_blade"
+				"item"		"item_travel_boots"
+				"item"		"item_solar_crest"
 				"item"		"item_cyclone"
 				"item"		"item_ghost"
 				"item"		"item_force_staff"
 				"item"		"item_spirit_vessel"
-				"item"		"item_vladmir"
+				"item"		"item_wraith_pact"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_chipped_vest"
+				"item"		"item_ocean_heart"
 				"item"		"item_arcane_ring"
 				"item"		"item_philosophers_stone"
 				"item"		"item_bullwhip"
+				"item"		"item_paintball"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_black_powder_bag"
 				"item"		"item_quickening_charm"
 				"item"		"item_spell_prism"
@@ -84,7 +89,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
 			}
@@ -109,12 +113,12 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 			"item_solar_crest"		"A little bit of extra armor to make your ally or yourself a bit tankier or to deal with enemy armor/evasion"
 			"item_pipe"		"For magic heavy lineups"
 			"item_lotus_orb"		"For purging debuffs from allies in case you can afford it"
-			"item_vladmir"		"Additional strong aura for your team if nobody else is going to buy it and you're going to finish early anyway"
+			"item_vladmir"		"Additional strong aura for your team if nobody else is going to buy it and you&apos;re going to finish early anyway"
 			"item_refresher"		"Works well with Overgrowth (and scepter). Can be used for both fighting and farming, depending on what you need from it"
-			"item_sheepstick"		"Better continuation of utility theme: additional reliable disable that won't be hard to farm once you have scepter or hammer"
+			"item_sheepstick"		"Better continuation of utility theme: additional reliable disable that won&apos;t be hard to farm once you have scepter or hammer"
 			"item_octarine_core"		"Additional cooldown reduction, works well with aghs-refresher theme for both farming and fighting"
 			"item_shivas_guard"		"Another utility way upgrade: useful aura, nuke and additional crowd control after Overgrowth"
-			"item_assault"		"Nice pickup if your team doesn't have any AC carriers and you need armor or struggle to push"
+			"item_assault"		"Nice pickup if your team doesn&apos;t have any AC carriers and you need armor or struggle to push"
 		}
 	}
 	"AbilityBuild"
@@ -124,30 +128,30 @@ Awesome upgrade that allowes you to place vision nearly everywhere. Your main go
 			"1"		"treant_natures_grasp"
 			"2"		"treant_leech_seed"
 			"3"		"treant_leech_seed"
-			"4"		"treant_living_armor"
-			"5"		"treant_living_armor"
+			"4"		"treant_natures_grasp"
+			"5"		"treant_leech_seed"
 			"6"		"treant_overgrowth"
-			"7"		"treant_living_armor"
-			"8"		"treant_living_armor"
+			"7"		"treant_leech_seed"
+			"8"		"treant_natures_grasp"
 			"9"		"treant_natures_grasp"
-			"10"		"special_bonus_unique_treant_8"
-			"11"		"treant_natures_grasp"
+			"10"		"special_bonus_unique_treant_12"
+			"11"		"treant_living_armor"
 			"12"		"treant_overgrowth"
-			"13"		"treant_natures_grasp"
-			"14"		"treant_leech_seed"
+			"13"		"treant_living_armor"
+			"14"		"treant_living_armor"
 			"15"		"special_bonus_unique_treant_9"
-			"16"		"treant_leech_seed"
+			"16"		"treant_living_armor"
 			"18"		"treant_overgrowth"
 			"20"		"special_bonus_unique_treant_13"
 			"25"		"special_bonus_unique_treant_7"
 		}
 		"AbilityTooltips"
 		{
-			"treant_living_armor"		"Even while it's Treant's sinature ability, your main purpose early on is to dominate the lane. For that you need to max other spells to maximize kill potential and snowball."
+			"treant_living_armor"		"Even while it&apos;s Treant&apos;s sinature ability, your main purpose early on is to dominate the lane. For that you need to max other spells to maximize kill potential and snowball."
 			"treant_natures_guise"		"Skill it to be annoying piece of tree. Be invisible, wait for a moment and then start attacking target with lower amount of regen to bully it out of lane. Root after hit should buy you some time to get additional one-two hits early on.
 Later into the game try to run around enemy jungle while being invisible, place wards and scout. Try to not show on the map. When you have blink - try to initiate with root from invisibility."
 			"treant_leech_seed"		"Strong slow + heal + damage spell for early brawling. As you get level 2 you will be able to kill somebody on your lane with your laning buddy. Try to max it out first to maximize your hero damage and kill potential early on."
-			"special_bonus_unique_treant_3"		"It's  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
+			"special_bonus_unique_treant_3"		"It&apos;s  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
 		}
 	}
 }

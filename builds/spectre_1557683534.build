@@ -9,12 +9,12 @@
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C2E7E"
-	"TimePublished"		"0x00000000628C2E7E"
+	"TimeUpdated"		"0x00000000628FB305"
+	"TimePublished"		"0x00000000628FB305"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,14 +33,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_spirit_vessel"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_tranquil_boots"
 				"item"		"item_medallion_of_courage"
 				"item"		"item_ancient_janggo"
-				"item"		"item_ghost"
 				"item"		"item_blade_mail"
 			}
 			"Lategame"
@@ -61,8 +61,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_boots_of_bearing"
+				"item"		"item_ghost"
 				"item"		"item_diffusal_blade"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_sheepstick"
 			}
 			"Other Significant Items"
@@ -93,6 +94,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_vladmir"		"Good armor and mana solution, buffs your team and allowes you to spam daggers"
+			"item_phase_boots"		"ALTERNATIVE: Tranquil Boots"
+			"item_tranquil_boots"		"ALTERNATIVE: Phase Boots"
 		}
 	}
 	"AbilityBuild"
@@ -116,7 +119,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_spectre_6"
 			"16"		"spectre_desolate"
 			"18"		"spectre_haunt"
-			"20"		"special_bonus_hp_350"
+			"20"		"special_bonus_unique_spectre_3"
 			"25"		"special_bonus_unique_spectre_5"
 		}
 		"AbilityTooltips"
