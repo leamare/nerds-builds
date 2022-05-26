@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"40"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0827"
-	"TimePublished"		"0x00000000625071BF"
+	"TimeUpdated"		"0x00000000628EE3AD"
+	"TimePublished"		"0x00000000628EE3AD"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,6 +28,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
 			}
@@ -40,7 +41,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_hand_of_midas"
 				"item"		"item_hood_of_defiance"
@@ -48,8 +48,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_octarine_core"
-				"item"		"item_skadi"
 				"item"		"item_butterfly"
+				"item"		"item_heart"
+				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -58,7 +59,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_bloodthorn"
-				"item"		"item_heart"
 				"item"		"item_satanic"
 				"item"		"item_nullifier"
 				"item"		"item_silver_edge"
@@ -69,19 +69,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_broom_handle"
 				"item"		"item_possessed_mask"
+				"item"		"item_chipped_vest"
+				"item"		"item_unstable_wand"
+				"item"		"item_misericorde"
 				"item"		"item_quicksilver_amulet"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
-				"item"		"item_pupils_gift"
+				"item"		"item_elven_tunic"
 				"item"		"item_paladin_sword"
 				"item"		"item_mind_breaker"
-				"item"		"item_titan_sliver"
 				"item"		"item_the_leveller"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_ninja_gear"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -89,6 +88,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_diffusal_blade"		"~11-13 min"
+			"item_manta"		"~18-23 min
+ALTERNATIVE: Sange and Yasha"
+			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
+			"item_hood_of_defiance"		"Against magic heavy lineups
+Before Diffusal Blade"
+			"item_hand_of_midas"		"For greedy playstyle
+Before Diffusal Blade"
 		}
 	}
 	"AbilityBuild"
@@ -96,8 +103,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"phantom_lancer_spirit_lance"
-			"2"		"phantom_lancer_doppelwalk"
-			"3"		"phantom_lancer_phantom_edge"
+			"2"		"phantom_lancer_phantom_edge"
+			"3"		"phantom_lancer_doppelwalk"
 			"4"		"phantom_lancer_phantom_edge"
 			"5"		"phantom_lancer_phantom_edge"
 			"6"		"phantom_lancer_juxtapose"

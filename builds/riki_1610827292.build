@@ -5,14 +5,14 @@
 	"Role"		"#DOTA_HeroGuide_Role_Support"
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
-Based on games on 2B's games: https://www.twitch.tv/2b_doto
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"16"
+Initially based on games on 2B's games: https://www.twitch.tv/2b_doto
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x00000000910FA549"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0827"
-	"TimePublished"		"0x00000000624F8EB5"
+	"TimeUpdated"		"0x00000000628EE8C7"
+	"TimePublished"		"0x00000000628EE8C7"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,56 +20,64 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
+				"item"		"item_orb_of_venom"
 				"item"		"item_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
+				"item"		"item_diffusal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_aether_lens"
+				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
 				"item"		"item_urn_of_shadows"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_medallion_of_courage"
-				"item"		"item_basher"
+				"item"		"item_solar_crest"
 			}
-			"Late"
+			"Lategame"
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
 				"item"		"item_ultimate_scepter"
 			}
-			"Lategame"
-			{
-			}
 			"Situational"
 			{
+				"item"		"item_meteor_hammer"
+				"item"		"item_cyclone"
+			}
+			"Core Transition"
+			{
 				"item"		"item_manta"
-				"item"		"item_diffusal_blade"
-				"item"		"item_ethereal_blade"
-				"item"		"item_butterfly"
 				"item"		"item_greater_crit"
+				"item"		"item_butterfly"
 				"item"		"item_bfury"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_ocean_heart"
-				"item"		"item_mysterious_hat"
-				"item"		"item_trusty_shovel"
+				"item"		"item_broom_handle"
+				"item"		"item_keen_optic"
+				"item"		"item_arcane_ring"
+				"item"		"item_vambrace"
 				"item"		"item_bullwhip"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
+				"item"		"item_mind_breaker"
+				"item"		"item_spider_legs"
+				"item"		"item_titan_sliver"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_heavy_blade"
+				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -84,24 +92,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"riki_blink_strike"
-			"2"		"riki_tricks_of_the_trade"
+			"2"		"riki_smoke_screen"
 			"3"		"riki_blink_strike"
-			"4"		"riki_smoke_screen"
+			"4"		"riki_tricks_of_the_trade"
 			"5"		"riki_blink_strike"
 			"6"		"riki_backstab"
 			"7"		"riki_blink_strike"
 			"8"		"riki_smoke_screen"
-			"9"		"riki_tricks_of_the_trade"
-			"10"		"special_bonus_unique_riki_7"
-			"11"		"riki_smoke_screen"
+			"9"		"riki_smoke_screen"
+			"10"		"riki_smoke_screen"
+			"11"		"special_bonus_unique_riki_7"
 			"12"		"riki_backstab"
-			"13"		"riki_smoke_screen"
+			"13"		"riki_tricks_of_the_trade"
 			"14"		"riki_tricks_of_the_trade"
 			"15"		"special_bonus_unique_riki_3"
 			"16"		"riki_tricks_of_the_trade"
 			"18"		"riki_backstab"
 			"20"		"special_bonus_unique_riki_9"
-			"25"		"special_bonus_unique_riki_5"
+			"25"		"special_bonus_unique_riki_6"
 		}
 		"AbilityTooltips"
 		{

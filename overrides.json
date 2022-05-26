@@ -313,6 +313,11 @@
   "authored_tiny_1201609040": {
     "role": ["1.1", "1.2", "1.3"]
   },
+  "authored_tinker_2584610578": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
   "authored_treant_917506257": {
     "role": ["0.3", "0.1"],
     "fillInSkillBuilds": false,

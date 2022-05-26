@@ -6,90 +6,77 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"39"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0825"
-	"TimePublished"		"0x000000006250822C"
+	"TimeUpdated"		"0x00000000628EB619"
+	"TimePublished"		"0x00000000628EB619"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items"
 			{
-				"item"		"item_branches"
 				"item"		"item_tango"
-			}
-			"#DOTA_Item_Build_Starting_Items_Secondary"
-			{
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_quelling_blade"
-				"item"		"item_orb_of_venom"
+				"item"		"item_blight_stone"
 			}
 			"Early"
 			{
+				"item"		"item_boots"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
-			}
-			"Core (Bear)"
-			{
 				"item"		"item_mask_of_madness"
 				"item"		"item_desolator"
-				"item"		"item_basher"
-				"item"		"item_assault"
-			}
-			"Core (Druid)"
-			{
 				"item"		"item_aghanims_shard"
+				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_radiance"
 				"item"		"item_hand_of_midas"
-				"item"		"item_blight_stone"
 				"item"		"item_power_treads"
-			}
-			"Early (Bear)"
-			{
-				"item"		"item_orb_of_corrosion"
-				"item"		"item_phase_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_assault"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_abyssal_blade"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_pipe"
-				"item"		"item_vladmir"
+				"item"		"item_wraith_pact"
 			}
 			"Situational"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_invis_sword"
+				"item"		"item_pipe"
 				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_solar_crest"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_ocean_heart"
 				"item"		"item_possessed_mask"
-				"item"		"item_essence_ring"
-				"item"		"item_paintball"
+				"item"		"item_ocean_heart"
+				"item"		"item_trusty_shovel"
 				"item"		"item_ring_of_aquila"
+				"item"		"item_paintball"
+				"item"		"item_essence_ring"
+				"item"		"item_elven_tunic"
 				"item"		"item_black_powder_bag"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_quickening_charm"
 				"item"		"item_ascetic_cap"
 				"item"		"item_spell_prism"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_ninja_gear"
-				"item"		"item_the_leveller"
 				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
@@ -98,11 +85,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_mjollnir"		"May replace with radiance early"
-			"item_hand_of_midas"		"~8-9"
-			"item_mask_of_madness"		"~10 min"
-			"item_radiance"		"~18-20"
+			"item_mjollnir"		"May replace with radiance early
+ALTERNATIVES: Radiance, Desolator"
+			"item_hand_of_midas"		"~8-10 min
+ALTERNATIVE: Mask of Madness"
+			"item_mask_of_madness"		"~10 min
+ALTERNATIVE: Hand of Midas"
+			"item_radiance"		"~18-20 min
+ALTERNATIVES: Desolator, Mjolnir"
 			"item_invis_sword"		"(bear)"
+			"item_quelling_blade"		"For Spirit Bear"
+			"item_orb_of_venom"		"For Spirit Bear"
+			"item_blight_stone"		"For Spirit Bear"
+			"item_phase_boots"		"~7 min
+For Spirit Bear"
+			"item_aghanims_shard"		"For Druid"
+			"item_desolator"		"~15-18 min
+ALTERNATIVES: Radiance, Mjolnir"
+			"item_basher"		"~21-27 min"
 		}
 	}
 	"AbilityBuild"
@@ -114,12 +114,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"3"		"lone_druid_spirit_bear"
 			"4"		"lone_druid_spirit_link"
 			"5"		"lone_druid_spirit_bear"
-			"6"		"lone_druid_true_form"
+			"6"		"lone_druid_spirit_link"
 			"7"		"lone_druid_spirit_bear"
 			"8"		"lone_druid_spirit_link"
-			"9"		"lone_druid_spirit_link"
-			"10"		"special_bonus_hp_200"
-			"11"		"lone_druid_savage_roar"
+			"9"		"lone_druid_true_form"
+			"10"		"lone_druid_savage_roar"
+			"11"		"special_bonus_hp_200"
 			"12"		"lone_druid_true_form"
 			"13"		"lone_druid_savage_roar"
 			"14"		"lone_druid_savage_roar"

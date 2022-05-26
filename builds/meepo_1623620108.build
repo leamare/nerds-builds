@@ -17,13 +17,13 @@ You can use Aether Lens to use net from a longer distance, and you can use aghs 
 This build is experimental and is very hard to execute. Proceed on your own risk.
 This guide was requested by lamallama
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"14"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0826"
-	"TimePublished"		"0x0000000062507888"
+	"TimeUpdated"		"0x00000000628EBE93"
+	"TimePublished"		"0x00000000628EBE93"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,21 +41,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-			}
-			"CorE"
-			{
 				"item"		"item_bracer"
 				"item"		"item_bracer"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_vladmir"
 				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
 				"item"		"item_urn_of_shadows"
 				"item"		"item_power_treads"
-				"item"		"item_glimmer_cape"
 				"item"		"item_dragon_lance"
+				"item"		"item_vladmir"
 			}
 			"Lategame"
 			{
@@ -67,8 +63,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
+				"item"		"item_glimmer_cape"
+				"item"		"item_solar_crest"
 				"item"		"item_crimson_guard"
 			}
 			"Best Neutral Items"
@@ -86,6 +83,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_vladmir"		"Before Aether Lens"
 		}
 	}
 	"AbilityBuild"

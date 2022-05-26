@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"51"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0825"
-	"TimePublished"		"0x0000000062507FC5"
+	"TimeUpdated"		"0x00000000628EBA9E"
+	"TimePublished"		"0x00000000628EBA9E"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,6 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ring_of_protection"
 				"item"		"item_faerie_fire"
 				"item"		"item_enchanted_mango"
 			}
@@ -33,18 +36,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_helm_of_the_overlord"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ancient_janggo"
+				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_invis_sword"
-				"item"		"item_aghanims_shard"
+				"item"		"item_wraith_pact"
+				"item"		"item_ultimate_scepter"
 			}
-			"No Helm Build"
+			"Core - No Helm Build"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_armlet"
@@ -52,14 +55,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
-				"item"		"item_basher"
+				"item"		"item_abyssal_blade"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_nullifier"
-				"item"		"item_abyssal_blade"
 				"item"		"item_satanic"
-				"item"		"item_silver_edge"
 			}
 			"Situational"
 			{
@@ -70,21 +70,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heavens_halberd"
 				"item"		"item_bloodthorn"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_ocean_heart"
 				"item"		"item_trusty_shovel"
-				"item"		"item_arcane_ring"
-				"item"		"item_chipped_vest"
+				"item"		"item_pogo_stick"
 				"item"		"item_paintball"
 				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
-				"item"		"item_elven_tunic"
-				"item"		"item_cloak_of_flames"
 				"item"		"item_mind_breaker"
+				"item"		"item_black_powder_bag"
+				"item"		"item_spider_legs"
 				"item"		"item_heavy_blade"
-				"item"		"item_spell_prism"
-				"item"		"item_ninja_gear"
+				"item"		"item_the_leveller"
+				"item"		"item_penta_edged_sword"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -92,7 +93,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_helm_of_the_dominator"		"~15 min"
+			"item_helm_of_the_dominator"		"~8 min"
+			"item_boots"		"Before Vladmir&apos;s Offering
+Usually you tend to play without Boots, especially in lane, until you finish Helm."
+			"item_helm_of_the_overlord"		"~14-16 min
+ALTERNATIVE: Wraith Pact"
+			"item_wraith_pact"		"ALTERNATIVE: Helm of the Overlord"
+			"item_ultimate_scepter"		"If you have teammates to bite (melee physical carries)
+Before Assault Cuirass"
+			"item_vladmir"		"~11 min"
+			"item_ancient_janggo"		"~20 min"
+			"item_assault"		"~26 min"
 		}
 	}
 	"AbilityBuild"
@@ -108,15 +119,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lycan_summon_wolves"
 			"8"		"lycan_feral_impulse"
 			"9"		"lycan_feral_impulse"
-			"10"		"lycan_howl"
+			"10"		"special_bonus_unique_lycan_3"
 			"11"		"lycan_howl"
 			"12"		"lycan_shapeshift"
 			"13"		"lycan_howl"
 			"14"		"lycan_howl"
-			"15"		"special_bonus_unique_lycan_3"
-			"16"		"special_bonus_unique_lycan_8"
+			"15"		"special_bonus_unique_lycan_8"
+			"16"		"lycan_howl"
 			"18"		"lycan_shapeshift"
-			"20"		"special_bonus_unique_lycan_4"
+			"20"		"special_bonus_unique_lycan_1"
 			"25"		"special_bonus_unique_lycan_2"
 		}
 		"AbilityTooltips"

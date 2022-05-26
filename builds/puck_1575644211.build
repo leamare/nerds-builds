@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"33"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"34"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0827"
-	"TimePublished"		"0x000000006250707C"
+	"TimeUpdated"		"0x00000000628EE549"
+	"TimePublished"		"0x00000000628EE549"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
@@ -30,46 +30,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_boots"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_power_treads"
 				"item"		"item_blink"
+				"item"		"item_travel_boots"
 			}
 			"Situational Early"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_cyclone"
+				"item"		"item_force_staff"
 				"item"		"item_sphere"
-				"item"		"item_veil_of_discord"
-				"item"		"item_travel_boots"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_kaya_and_sange"
-				"item"		"item_ethereal_blade"
 				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_revenants_brooch"
+				"item"		"item_ethereal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
 				"item"		"item_dagon_5"
-				"item"		"item_aghanims_shard"
 				"item"		"item_mjollnir"
 				"item"		"item_black_king_bar"
-				"item"		"item_radiance"
-				"item"		"item_solar_crest"
+				"item"		"item_wind_waker"
+				"item"		"item_aeon_disk"
+				"item"		"item_sheepstick"
 			}
 			"Physical DPS"
 			{
-				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
-				"item"		"item_wind_waker"
 				"item"		"item_greater_crit"
 				"item"		"item_desolator"
 				"item"		"item_monkey_king_bar"
@@ -98,6 +96,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_witch_blade"		"~11-13 min"
+			"item_blink"		"~16-19 min"
 		}
 	}
 	"AbilityBuild"

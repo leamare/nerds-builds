@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.31c"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"5"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"6"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0825"
-	"TimePublished"		"0x0000000062507B11"
+	"TimeUpdated"		"0x00000000628EBBFB"
+	"TimePublished"		"0x00000000628EBBFB"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,11 +28,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
 				"item"		"item_soul_ring"
-				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_basher"
 				"item"		"item_blink"
@@ -40,15 +42,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_bracer"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_armlet"
 				"item"		"item_bottle"
 				"item"		"item_sange"
+				"item"		"item_aether_lens"
 			}
 			"Lategame"
 			{
 				"item"		"item_greater_crit"
-				"item"		"item_travel_boots"
 				"item"		"item_abyssal_blade"
+				"item"		"item_travel_boots"
 				"item"		"item_satanic"
 				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
@@ -59,26 +63,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_silver_edge"
 				"item"		"item_heavens_halberd"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_kaya_and_sange"
-				"item"		"item_vladmir"
+				"item"		"item_wraith_pact"
 				"item"		"item_lotus_orb"
 				"item"		"item_heart"
 				"item"		"item_nullifier"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
 				"item"		"item_broom_handle"
-				"item"		"item_pogo_stick"
+				"item"		"item_ocean_heart"
+				"item"		"item_keen_optic"
 				"item"		"item_vambrace"
 				"item"		"item_bullwhip"
-				"item"		"item_paintball"
-				"item"		"item_psychic_headband"
-				"item"		"item_mind_breaker"
+				"item"		"item_dragon_scale"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_black_powder_bag"
 				"item"		"item_penta_edged_sword"
 				"item"		"item_stormcrafter"
-				"item"		"item_ninja_gear"
+				"item"		"item_flicker"
+				"item"		"item_stormcrafter"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -86,8 +89,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_armlet"		"~10-13 min"
+			"item_armlet"		"~10-13 min
+Usually replaces Soul Ring and Orb of Corruption altogether
+Before Phase Boots"
 			"item_phase_boots"		"~8-11 min"
+			"item_orb_of_corrosion"		"Before Phase Boots"
 		}
 	}
 	"AbilityBuild"

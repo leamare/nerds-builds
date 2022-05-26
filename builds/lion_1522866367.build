@@ -4,17 +4,15 @@
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
 	"GameplayVersion"		"7.31c"
-	"Overview"		"This is experimental build made for testing various Lion builds before making it part of Nerds Hero Builds project.
+	"Overview"		"
 
-Lion is an utility hero who has a lot of mana issues, but can provide a lot of AoE damage and control in return. This build is based around making him hybrid position 2/4 hero.
-
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"81"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"82"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0825"
-	"TimePublished"		"0x0000000062508272"
+	"TimeUpdated"		"0x00000000628EB409"
+	"TimePublished"		"0x00000000628EB409"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +21,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_magic_stick"
 				"item"		"item_enchanted_mango"
 				"item"		"item_faerie_fire"
 				"item"		"item_ward_observer"
@@ -32,20 +29,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
-				"item"		"item_magic_wand"
+				"item"		"item_tranquil_boots"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 				"item"		"item_aether_lens"
-				"item"		"item_glimmer_cape"
+				"item"		"item_ghost"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ghost"
+				"item"		"item_magic_wand"
 				"item"		"item_force_staff"
+				"item"		"item_glimmer_cape"
 			}
 			"Utility"
 			{
@@ -56,14 +55,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aeon_disk"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_black_king_bar"
@@ -72,6 +70,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_keen_optic"
 				"item"		"item_pogo_stick"
+				"item"		"item_trusty_shovel"
 				"item"		"item_philosophers_stone"
 				"item"		"item_quickening_charm"
 				"item"		"item_psychic_headband"
@@ -85,15 +84,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_aether_lens"		"Even while you don't really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
-			"item_blink"		"The most important Lion item. If you aren't going for a full utility, you can delay it, but mobility is still essential for your initiation."
+			"item_aether_lens"		"Even while you don&apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
+			"item_blink"		"The most important Lion item. If you aren&apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
 			"item_tranquil_boots"		"Mobility + HP regen"
 			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
 			"item_ethereal_blade"		"Potential save against physical damage"
 			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
 			"item_ghost"		"Potential self-save against physical damage"
-			"item_ultimate_scepter"		"It's good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren't really focused on this aspect of Lion."
+			"item_ultimate_scepter"		"It&apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&apos;t really focused on this aspect of Lion."
 		}
 	}
 	"AbilityBuild"
@@ -107,15 +106,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"5"		"lion_impale"
 			"6"		"lion_finger_of_death"
 			"7"		"lion_impale"
-			"8"		"lion_voodoo"
-			"9"		"lion_voodoo"
-			"10"		"special_bonus_movement_speed_15"
-			"11"		"lion_voodoo"
+			"8"		"lion_mana_drain"
+			"9"		"lion_mana_drain"
+			"10"		"special_bonus_attack_damage_60"
+			"11"		"lion_mana_drain"
 			"12"		"lion_finger_of_death"
-			"13"		"lion_mana_drain"
-			"14"		"lion_mana_drain"
+			"13"		"lion_voodoo"
+			"14"		"lion_voodoo"
 			"15"		"special_bonus_unique_lion_11"
-			"16"		"lion_mana_drain"
+			"16"		"lion_voodoo"
 			"18"		"lion_finger_of_death"
 			"20"		"special_bonus_unique_lion_8"
 			"25"		"special_bonus_unique_lion_4"

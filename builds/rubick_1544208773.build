@@ -8,24 +8,25 @@
 
 Good usage of Rubick's skillset allowes him to dominate the lane by using Fade Bolt at proper timing. Use your early advantage to start roaming around the map and setup some kills with Telekinesis, while also securing them with Fade Bolt. Surviving in fights is your main priority, so you want to stay as far as possible. After you reach level 15 and get Blink Dagger things will be much easier. Altho, main thing you need to consider - you're not the main damage dealer without proper enemy spells. You're utility core.
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"60"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000005FEC5FAA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C0827"
-	"TimePublished"		"0x00000000623A8717"
+	"TimeUpdated"		"0x00000000628EE9D3"
+	"TimePublished"		"0x00000000628EE9D3"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_mantle"
+				"item"		"item_tango"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -36,11 +37,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_aether_lens"
 				"item"		"item_travel_boots"
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
@@ -88,27 +89,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tome_of_knowledge"
 				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_magic_wand"		"Rubick loves to trade spells and it will usually result in getting a lot of Wand charges. Altho, you can just replace it with another one Null Talisman. Rush it when you're going to lane against Zeus, Skywrath Mage, Grimstroke or any other spamming hero"
-			"item_aether_lens"		"It's not only helpful because of massige mana boost, but it's also great for stealing spells from a distance which makes getting desired ability easier
+			"item_magic_wand"		"Rubick loves to trade spells and it will usually result in getting a lot of Wand charges. Altho, you can just replace it with another one Null Talisman. Rush it when you&apos;re going to lane against Zeus, Skywrath Mage, Grimstroke or any other spamming hero"
+			"item_aether_lens"		"It&apos;s not only helpful because of massige mana boost, but it&apos;s also great for stealing spells from a distance which makes getting desired ability easier
 
 Use disassembled Arcane Boots to build Lens"
-			"item_tranquil_boots"		"It's not really useful to get another Arcane Boots after you've finished Aether Lens, but you can upgrade Boots of Speed to Tranquil Boots so you will have both mana and health regen sources"
+			"item_tranquil_boots"		"It&apos;s not really useful to get another Arcane Boots after you&apos;ve finished Aether Lens, but you can upgrade Boots of Speed to Tranquil Boots so you will have both mana and health regen sources"
 			"item_ultimate_scepter"		"Makes every stolen ability with aghs upgrade just better, but more importantly it reduces Spell Steal cooldown to 2 seconds"
 			"item_blink"		"And the only problem that you need to solve is positioning and Blink Dagger works just fine for it"
-			"item_bottle"		"Bottle isn't that good nowadays in general, but it works fine for caster cores to solve early mana/health sustain issues. Just try to shave the lane and keep track of rune timings"
-			"item_veil_of_discord"		"Additional magic damage amplification and armor. Works well when you're playing against massive amounts of physical damage or just want to establish your dominance"
+			"item_bottle"		"Bottle isn&apos;t that good nowadays in general, but it works fine for caster cores to solve early mana/health sustain issues. Just try to shave the lane and keep track of rune timings"
+			"item_veil_of_discord"		"Additional magic damage amplification and armor. Works well when you&apos;re playing against massive amounts of physical damage or just want to establish your dominance"
 			"item_force_staff"		"Defensive solution against heroes who will disable your blink right right away or slow you (Riki, Venomancer...)"
 			"item_cyclone"		"Defensive solution against silences and slows. It also works great against Bounty Hunter, Slardar and Kunkka"
 			"item_sheepstick"		"Additional stats and reliable disable for your team"
 			"item_shivas_guard"		"Useful aura and heavy armor boost"
-			"item_octarine_core"		"Massive surviveability boost and cooldown reduction. Works especially great against teams with long spell cooldowns, but it's just good in general for a spellcaster like Rubick"
-			"item_dagon_5"		"Works great in theory with your passive, in reality it's only good when you're dominating"
-			"item_aeon_disk"		"When you're getting bursted and need to buy some time to get away and turn around"
+			"item_octarine_core"		"Massive surviveability boost and cooldown reduction. Works especially great against teams with long spell cooldowns, but it&apos;s just good in general for a spellcaster like Rubick"
+			"item_dagon_5"		"Works great in theory with your passive, in reality it&apos;s only good when you&apos;re dominating"
+			"item_aeon_disk"		"When you&apos;re getting bursted and need to buy some time to get away and turn around"
 			"item_sphere"		"Against single target focus (Doom, etc)"
 			"item_ghost"		"Against massive physical damage"
 			"item_ethereal_blade"		"Combo with Dagon or to save allies from physical burst"
@@ -145,16 +145,16 @@ Use disassembled Arcane Boots to build Lens"
 			"special_bonus_unique_rubick_3"		"Better talent most of the time, allowes you to spam Fade Bolt even more"
 			"special_bonus_unique_rubick_4"		"While spell amp talent seems strong, cooldown reduction for Telekinesis is just much stronger tool for crowd controlling, reducing Telekinesis downtime to 4 seconds"
 			"special_bonus_unique_rubick"		"Great talent for controlling mobile enemies"
-			"rubick_telekinesis"		"Telekinesis was nerfed so much, so there's no purpose in leveling it up more than once before maxing out everything else. Altho you can use it to manipulate enemy positioning
+			"rubick_telekinesis"		"Telekinesis was nerfed so much, so there&apos;s no purpose in leveling it up more than once before maxing out everything else. Altho you can use it to manipulate enemy positioning
 
 Try to cast Telekinesis land as soon as possible to win some time for yourself "
-			"rubick_fade_bolt"		"Great farming and fighting tool. Also works great while laning since it reduces enemy attack damage and makes it harder to lasthit for enemy hero. Since the duration is almost as long as it's cooldown, you can just keep enemy under damage reduction effect as long as you have mana
+			"rubick_fade_bolt"		"Great farming and fighting tool. Also works great while laning since it reduces enemy attack damage and makes it harder to lasthit for enemy hero. Since the duration is almost as long as it&apos;s cooldown, you can just keep enemy under damage reduction effect as long as you have mana
 
 Try to use it early on to secure some kills for yourself and snowball out of control"
-			"rubick_spell_steal"		"Rubick's signature spell. Keep in mind, your stolen spells have pretty low cast points, so you can cast almost everything faster than your enemies
+			"rubick_spell_steal"		"Rubick&apos;s signature spell. Keep in mind, your stolen spells have pretty low cast points, so you can cast almost everything faster than your enemies
 
 You can also Spell Steal through Spell Immunity"
-			"rubick_arcane_supremacy"		"Your next most favorite passive in the game. Debuff amplification effect doesn't work for items, but it's still great thing to have since you can steal enemy's disables and debuffs
+			"rubick_arcane_supremacy"		"Your next most favorite passive in the game. Debuff amplification effect doesn&apos;t work for items, but it&apos;s still great thing to have since you can steal enemy&apos;s disables and debuffs
 It also makes your Telekinesis a decent ability and massively boosts your damage output"
 		}
 	}
