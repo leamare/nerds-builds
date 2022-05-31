@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x00000000923BDA3C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C28F8"
-	"TimePublished"		"0x00000000628C28F8"
+	"TimeUpdated"		"0x000000006295FA05"
+	"TimePublished"		"0x000000006295FA05"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,11 +22,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_mantle"
 				"item"		"item_circlet"
-				"item"		"item_quelling_blade"
+				"item"		"item_mantle"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_null_talisman"
 				"item"		"item_null_talisman"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
@@ -36,20 +37,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_witch_blade"
 				"item"		"item_blink"
 				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
+				"item"		"item_maelstrom"
 			}
 			"Situational Early"
 			{
-				"item"		"item_platemail"
+				"item"		"item_hand_of_midas"
+				"item"		"item_tranquil_boots"
+				"item"		"item_ancient_janggo"
 				"item"		"item_rod_of_atos"
 				"item"		"item_force_staff"
 				"item"		"item_solar_crest"
+				"item"		"item_platemail"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_gungir"
-				"item"		"item_ethereal_blade"
-				"item"		"item_shivas_guard"
+				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
@@ -57,6 +61,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_boots_of_bearing"
+				"item"		"item_satanic"
+				"item"		"item_ethereal_blade"
+				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_guardian_greaves"
@@ -86,8 +94,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_witch_blade"		"ALTERNATIVE: Solar Crest"
-			"item_solar_crest"		"ALTERNATIVE: Witch Blade"
+			"item_witch_blade"		"ALTERNATIVES: Solar Crest, Drum of Endurance"
+			"item_solar_crest"		"ALTERNATIVE: Witch Blade, Drum of Endurance"
+			"item_hand_of_midas"		"~6-12 min"
+			"item_boots_of_bearing"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"
@@ -96,19 +106,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"1"		"crystal_maiden_crystal_nova"
 			"2"		"crystal_maiden_brilliance_aura"
-			"3"		"crystal_maiden_brilliance_aura"
-			"4"		"crystal_maiden_crystal_nova"
+			"3"		"crystal_maiden_crystal_nova"
+			"4"		"crystal_maiden_frostbite"
 			"5"		"crystal_maiden_crystal_nova"
 			"6"		"crystal_maiden_freezing_field"
 			"7"		"crystal_maiden_crystal_nova"
-			"8"		"crystal_maiden_frostbite"
+			"8"		"crystal_maiden_brilliance_aura"
 			"9"		"crystal_maiden_brilliance_aura"
 			"10"		"special_bonus_unique_crystal_maiden_6"
 			"11"		"crystal_maiden_brilliance_aura"
 			"12"		"crystal_maiden_freezing_field"
 			"13"		"crystal_maiden_frostbite"
 			"14"		"crystal_maiden_frostbite"
-			"15"		"special_bonus_unique_crystal_maiden_4"
+			"15"		"special_bonus_unique_crystal_maiden_5"
 			"16"		"crystal_maiden_frostbite"
 			"18"		"crystal_maiden_freezing_field"
 			"20"		"special_bonus_attack_speed_200"
