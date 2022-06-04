@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628FC5DB"
-	"TimePublished"		"0x00000000628FC5DB"
+	"TimeUpdated"		"0x00000000629B5BE3"
+	"TimePublished"		"0x00000000629B5BE3"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,33 +37,33 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aether_lens"
 				"item"		"item_travel_boots"
-				"item"		"item_kaya"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
+				"item"		"item_kaya"
 				"item"		"item_blink"
 				"item"		"item_cyclone"
-				"item"		"item_force_staff"
 				"item"		"item_tranquil_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_ethereal_blade"
-				"item"		"item_octarine_core"
 				"item"		"item_refresher"
+				"item"		"item_octarine_core"
+				"item"		"item_ethereal_blade"
 				"item"		"item_bloodstone"
 				"item"		"item_sheepstick"
 				"item"		"item_arcane_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_force_staff"
+				"item"		"item_ghost"
+				"item"		"item_black_king_bar"
 				"item"		"item_veil_of_discord"
 				"item"		"item_kaya_and_sange"
-				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
-				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_wind_waker"
@@ -89,6 +89,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
+			"item_kaya"		"Before Aghanim&apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -112,7 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_350"
 			"16"		"zuus_lightning_bolt"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_3"
+			"20"		"special_bonus_unique_zeus_4"
 			"25"		"special_bonus_unique_zeus_5"
 		}
 		"AbilityTooltips"
