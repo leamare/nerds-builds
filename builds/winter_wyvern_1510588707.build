@@ -3,18 +3,18 @@
 	"Hero"		"winter_wyvern"
 	"Title"		"Nerds Winter Wyvern"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31c"
+	"GameplayVersion"		"7.31d"
 	"Overview"		"Winter Wyvern is an intelligence hero, that can be played as a core against melee core heroes or bad laners. Arctic burn allowes her to deal a lot of damage at every stage of the game. It also helps her establish lane dominance and snowball to victory while staying at a long distance in safety and attacking enemies, while also having unobstructed movement and huge night vision bonus.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on Immortal rank offlane Winter Wyvern matches and inspired by iceiceice's matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"107"
+	"GuideRevision"		"108"
 	"AssociatedWorkshopItemID"		"0x00000000479F1923"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628FC528"
-	"TimePublished"		"0x00000000628FC528"
+	"TimeUpdated"		"0x0000000062A1D7AF"
+	"TimePublished"		"0x0000000062A1D7AF"
 	"ItemBuild"
 	{
 		"Items"
@@ -108,18 +108,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_force_staff"		"Additional mobility/save with a higher potential than Lance early on"
 			"item_hurricane_pike"		"Natural upgrade to Force Staff. Allowes us to get better position and zone opponents from miles away"
 			"item_mjollnir"		"Relatively cheap upgrade with huge damage boost (from attack speed and active ability)"
-			"item_hand_of_midas"		"If you&apos;re still successfully winning your lane, but not sure about being able to finish in first 5-10 minutes, you can get Midas after Force Staff, so you&apos;ll be able to keep up later on. Altho, you already farm pretty quickly with Mjolnir and you don&apos;t want to spend 2k gold on an item that doesn&apos;t help you in fights."
+			"item_hand_of_midas"		"If you&amp;apos;re still successfully winning your lane, but not sure about being able to finish in first 5-10 minutes, you can get Midas after Force Staff, so you&amp;apos;ll be able to keep up later on. Altho, you already farm pretty quickly with Mjolnir and you don&amp;apos;t want to spend 2k gold on an item that doesn&amp;apos;t help you in fights."
 			"item_blink"		"Agressive positioning solution, helps with better positioning for your ults (and future Hex)"
-			"item_cyclone"		"Cheap mobility and mana regen. Can be good in case if you&apos;re playing against Kunkka or some sort of silences"
-			"item_bloodthorn"		"Huge mana regen and damage boost. Active ability has pretty good synergy with Winter&apos;s Curse (you just need to use it on the ult&apos;s target at a proper time to maximize damage output), but the main reason to pick it up is great passive stats that give us everything our hero needs"
+			"item_cyclone"		"Cheap mobility and mana regen. Can be good in case if you&amp;apos;re playing against Kunkka or some sort of silences"
+			"item_bloodthorn"		"Huge mana regen and damage boost. Active ability has pretty good synergy with Winter&amp;apos;s Curse (you just need to use it on the ult&amp;apos;s target at a proper time to maximize damage output), but the main reason to pick it up is great passive stats that give us everything our hero needs"
 			"item_ultimate_scepter"		"~27 min
-Increasing our attack range drastically, as well as making our attack animation faster and removing arctiv burn stack limit is that strong so the whole idea of core Winter Wyvern was born out of it. Altho, you can&apos;t get it straight away since you need some kind of mobility item, mana regen item, attack speed item and all this while establishing dominance on the map."
+Increasing our attack range drastically, as well as making our attack animation faster and removing arctiv burn stack limit is that strong so the whole idea of core Winter Wyvern was born out of it. Altho, you can&amp;apos;t get it straight away since you need some kind of mobility item, mana regen item, attack speed item and all this while establishing dominance on the map."
 			"item_sheepstick"		"Continuing the theme of mana regen and int items, Scythe is the great addition, that also gives a good utility as well with its active."
-			"item_greater_crit"		"Cheap offensive option if you want to get more damage, but don&apos;t really want to delay the game too much and won&apos;t be able to get top-tier alternatives"
-			"item_nullifier"		"Mostly needed to purge Ghost form. Altho, it can work in combination with blink or Winter&apos;s Curse (use it right at the end of your ultimate, so enemy won&apos;t be able to dodge it)"
-			"item_sphere"		"OK-ish item to get if you&apos;re being locked down a bit too much or playing againstDoom"
+			"item_greater_crit"		"Cheap offensive option if you want to get more damage, but don&amp;apos;t really want to delay the game too much and won&amp;apos;t be able to get top-tier alternatives"
+			"item_nullifier"		"Mostly needed to purge Ghost form. Altho, it can work in combination with blink or Winter&amp;apos;s Curse (use it right at the end of your ultimate, so enemy won&amp;apos;t be able to dodge it)"
+			"item_sphere"		"OK-ish item to get if you&amp;apos;re being locked down a bit too much or playing againstDoom"
 			"item_black_king_bar"		"...but BKB is usually better choice against lockdown than Linkens"
-			"item_shivas_guard"		"OK-ish choice if you need armor. It&apos;s not really good item for core Wyvern since you need to get other stuff first, and when it comes to Shivas, you will usually be attacking from too far away for it to get benefit from it (as well as AC)"
+			"item_shivas_guard"		"OK-ish choice if you need armor. It&amp;apos;s not really good item for core Wyvern since you need to get other stuff first, and when it comes to Shivas, you will usually be attacking from too far away for it to get benefit from it (as well as AC)"
 			"item_mask_of_madness"		"Good item to increase attack speed drastically for a short period when you really need it. Works well when you have a mana item, Mjolnir and Aghs"
 			"item_solar_crest"		"Cheap replacement for Witch Blade / Orchid"
 			"item_witch_blade"		"~17 min"
@@ -152,12 +152,12 @@ Increasing our attack range drastically, as well as making our attack animation 
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_winter_wyvern_1"		"This whole build and strategy is built around Winter Wyvern&apos;s Arctic Burn, so making it even stronger will be more helpful than making lower cooldown on heal"
+			"special_bonus_unique_winter_wyvern_1"		"This whole build and strategy is built around Winter Wyvern&amp;apos;s Arctic Burn, so making it even stronger will be more helpful than making lower cooldown on heal"
 			"special_bonus_unique_winter_wyvern_4"		"Additional 2sec lockdown with 7 second cooldown seems way more strong than additional 1.5 seconds on the ability that is long enough already and has 80 seconds cooldown"
 			"winter_wyvern_cold_embrace"		"It may seem strange for Wyvern to skip Cold Embrace early on. You may get it on level 4 if you want , but the general idea is to establish dominance on early stages. While Cold Embrace is strong ability, you will need damage for what we are going to do"
-			"winter_wyvern_arctic_burn"		"The first thing to do on lane is to zone enemy support with Arctic Burn (and maybe enemy core if possible, you can switch targets while Arctic Burn is active to maximize damage). It will help you to get early level 2 and get dominance on your lane. Later on you&apos;ll want to max it out first since it&apos;s your main ability for both offensive (damage, slow, attack range) and defensive (slow, attack range, unobstructed movement) moves early on."
+			"winter_wyvern_arctic_burn"		"The first thing to do on lane is to zone enemy support with Arctic Burn (and maybe enemy core if possible, you can switch targets while Arctic Burn is active to maximize damage). It will help you to get early level 2 and get dominance on your lane. Later on you&amp;apos;ll want to max it out first since it&amp;apos;s your main ability for both offensive (damage, slow, attack range) and defensive (slow, attack range, unobstructed movement) moves early on."
 			"winter_wyvern_splinter_blast"		"Our main farming tool early (before maelstrom), as well as harassing tool on lane. On level 25 it becomes annoying 2sec duration stun and your main ability to spam in fights."
-			"winter_wyvern_winters_curse"		"You will use it as a setup ability most of the time. You can use it in a teamfight to remove one of your enemies (especially with Solar/Orchid/Bloodthorn: you can use them to amplify damage on ult&apos;s taeget) and contiue fighting with advantage, or just catch opponents and keep them in place while your team is repositioning and gets ready to fight, much like Naga&apos;s Song."
+			"winter_wyvern_winters_curse"		"You will use it as a setup ability most of the time. You can use it in a teamfight to remove one of your enemies (especially with Solar/Orchid/Bloodthorn: you can use them to amplify damage on ult&amp;apos;s taeget) and contiue fighting with advantage, or just catch opponents and keep them in place while your team is repositioning and gets ready to fight, much like Naga&amp;apos;s Song."
 		}
 	}
 }
