@@ -1,0 +1,112 @@
+"guidedata"
+{
+	"Hero"		"medusa"
+	"Title"		"Experimental Manadusa"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.31d"
+	"Overview"		""
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000A8043F97"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000062A4B65B"
+	"TimePublished"		"0x0000000062A4B65B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_slippers"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
+			}
+			"Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_magic_stick"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
+				"item"		"item_maelstrom"
+				"item"		"item_bloodstone"
+			}
+			"Situational Early"
+			{
+				"item"		"item_yasha"
+				"item"		"item_blink"
+			}
+			"Lategame"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_mjollnir"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_satanic"
+				"item"		"item_butterfly"
+				"item"		"item_greater_crit"
+				"item"		"item_swift_blink"
+			}
+			"Situational"
+			{
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_rapier"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_ocean_heart"
+				"item"		"item_pogo_stick"
+				"item"		"item_possessed_mask"
+				"item"		"item_essence_ring"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_nether_shawl"
+				"item"		"item_quickening_charm"
+				"item"		"item_paladin_sword"
+				"item"		"item_mind_breaker"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_timeless_relic"
+				"item"		"item_flicker"
+			}
+			"https://builds.spectral.gg/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"medusa_mystic_snake"
+			"2"		"medusa_mana_shield"
+			"3"		"medusa_mystic_snake"
+			"4"		"medusa_split_shot"
+			"5"		"medusa_mystic_snake"
+			"6"		"medusa_split_shot"
+			"7"		"medusa_mystic_snake"
+			"8"		"medusa_split_shot"
+			"9"		"medusa_split_shot"
+			"10"		"medusa_mana_shield"
+			"11"		"medusa_stone_gaze"
+			"12"		"special_bonus_attack_speed_20"
+			"13"		"medusa_mana_shield"
+			"14"		"medusa_mana_shield"
+			"15"		"special_bonus_unique_medusa_2"
+			"16"		"medusa_stone_gaze"
+			"18"		"medusa_stone_gaze"
+			"20"		"special_bonus_unique_medusa"
+			"25"		"special_bonus_intelligence_75"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
