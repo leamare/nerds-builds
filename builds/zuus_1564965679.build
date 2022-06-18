@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1D1D6"
-	"TimePublished"		"0x0000000062A1D1D6"
+	"TimeUpdated"		"0x0000000062A77A19"
+	"TimePublished"		"0x0000000062A77A19"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,7 +33,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
-				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
@@ -44,9 +43,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_magic_stick"
+				"item"		"item_soul_ring"
 				"item"		"item_glimmer_cape"
-				"item"		"item_force_staff"
-				"item"		"item_ghost"
 				"item"		"item_tranquil_boots"
 			}
 			"Lategame"
@@ -59,13 +58,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_ghost"
+				"item"		"item_force_staff"
+				"item"		"item_cyclone"
+				"item"		"item_veil_of_discord"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_kaya_and_sange"
-				"item"		"item_cyclone"
 				"item"		"item_shivas_guard"
 				"item"		"item_lotus_orb"
 				"item"		"item_blink"
-				"item"		"item_veil_of_discord"
 				"item"		"item_wind_waker"
 				"item"		"item_aeon_disk"
 			}
@@ -96,10 +97,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"zuus_heavenly_jump"
-			"2"		"zuus_arc_lightning"
+			"1"		"zuus_lightning_bolt"
+			"2"		"zuus_heavenly_jump"
 			"3"		"zuus_lightning_bolt"
-			"4"		"zuus_lightning_bolt"
+			"4"		"zuus_arc_lightning"
 			"5"		"zuus_lightning_bolt"
 			"6"		"zuus_thundergods_wrath"
 			"7"		"zuus_lightning_bolt"
