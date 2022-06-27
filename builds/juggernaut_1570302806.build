@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F6FD"
-	"TimePublished"		"0x0000000062A1F6FD"
+	"TimeUpdated"		"0x0000000062B9A355"
+	"TimePublished"		"0x0000000062B9A355"
 	"ItemBuild"
 	{
 		"Items"
@@ -114,10 +114,10 @@ ALTERNATIVE: Sange and Yasha"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 			"item_diffusal_blade"		"Cheap early damage and slow, for playstyle based on manaburn and illusions
 ALTERNATIVES: Maelstrom, Battle Fury, Radiance"
-			"item_skadi"		"ALTERNATIVES: Linken&amp;apos;s Sphere, Black King Bar"
+			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;apos;s Sphere, Black King Bar"
 			"item_sphere"		"ALTERNATIVES: Eye of Skadi, Black King Bar"
 			"item_black_king_bar"		"Against control heavy lineups
-ALTERNATIVES: Eye of Skadi, Linken&amp;apos;s Sphere"
+ALTERNATIVES: Eye of Skadi, Linken&amp;amp;apos;s Sphere"
 			"item_ancient_janggo"		"Before Maelstrom"
 		}
 	}

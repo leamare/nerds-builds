@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"12"
+	"GuideRevision"		"13"
 	"AssociatedWorkshopItemID"		"0x0000000095FA7753"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1EC3E"
-	"TimePublished"		"0x0000000062A1EC3E"
+	"TimeUpdated"		"0x0000000062B9A8AF"
+	"TimePublished"		"0x0000000062B9A8AF"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_robe"
+				"item"		"item_blight_stone"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
@@ -54,18 +55,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mjollnir"
 				"item"		"item_sphere"
 				"item"		"item_greater_crit"
 				"item"		"item_desolator"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_sheepstick"
-				"item"		"item_shivas_guard"
-				"item"		"item_solar_crest"
-				"item"		"item_mjollnir"
-				"item"		"item_revenants_brooch"
-				"item"		"item_wraith_pact"
 				"item"		"item_aeon_disk"
+				"item"		"item_revenants_brooch"
+			}
+			"Other Significant Items "
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
+				"item"		"item_shivas_guard"
 			}
 			"Best Neutral Items"
 			{
@@ -89,6 +93,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_hand_of_midas"		"Before Power Threads"
 			"item_witch_blade"		"Before Black King Bar"
+			"item_gungir"		"ALTERNATIVE: Mjolnir"
+			"item_mjollnir"		"ALTERNATIVE: Gleipnir"
 		}
 	}
 	"AbilityBuild"

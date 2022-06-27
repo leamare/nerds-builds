@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1EC51"
-	"TimePublished"		"0x0000000062A1EC51"
+	"TimeUpdated"		"0x0000000062B9A784"
+	"TimePublished"		"0x0000000062B9A784"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,7 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_cyclone"
-				"item"		"item_wraith_pact"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -49,15 +49,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
-				"item"		"item_blink"
 				"item"		"item_travel_boots"
+				"item"		"item_blink"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_wraith_pact"
 				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
 				"item"		"item_force_staff"
@@ -108,12 +108,12 @@ Before Spirit Vessel"
 		{
 			"1"		"mirana_arrow"
 			"2"		"mirana_leap"
-			"3"		"mirana_arrow"
+			"3"		"mirana_starfall"
 			"4"		"mirana_starfall"
 			"5"		"mirana_starfall"
 			"6"		"mirana_invis"
 			"7"		"mirana_starfall"
-			"8"		"mirana_starfall"
+			"8"		"mirana_arrow"
 			"9"		"mirana_arrow"
 			"10"		"mirana_arrow"
 			"11"		"special_bonus_unique_mirana_3"

@@ -8,57 +8,54 @@
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x000000008A997745"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F963"
-	"TimePublished"		"0x0000000062A1F963"
+	"TimeUpdated"		"0x0000000062B9A274"
+	"TimePublished"		"0x0000000062B9A274"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting Items / Sidelane"
+			"Starting Items"
 			{
-				"item"		"item_blight_stone"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_tango"
-				"item"		"item_flask"
-			}
-			"Starting Items / Midlane"
-			{
 				"item"		"item_circlet"
 				"item"		"item_slippers"
 				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_faerie_fire"
-				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_wraith_band"
-				"item"		"item_arcane_boots"
-				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_falcon_blade"
 				"item"		"item_maelstrom"
 			}
 			"Core"
 			{
 				"item"		"item_gungir"
 				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
 			}
 			"Situational Early"
 			{
-				"item"		"item_falcon_blade"
+				"item"		"item_wraith_band"
+				"item"		"item_magic_wand"
+				"item"		"item_blight_stone"
 				"item"		"item_bottle"
 				"item"		"item_power_treads"
+				"item"		"item_arcane_boots"
 			}
 			"Lategame"
 			{
+				"item"		"item_ethereal_blade"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
-				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
@@ -70,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_ethereal_blade"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_skadi"
 				"item"		"item_desolator"
@@ -110,15 +106,15 @@ For midlane games"
 		{
 			"1"		"hoodwink_acorn_shot"
 			"2"		"hoodwink_bushwhack"
-			"3"		"hoodwink_acorn_shot"
+			"3"		"hoodwink_bushwhack"
 			"4"		"hoodwink_scurry"
-			"5"		"hoodwink_acorn_shot"
+			"5"		"hoodwink_bushwhack"
 			"6"		"hoodwink_sharpshooter"
-			"7"		"hoodwink_acorn_shot"
-			"8"		"hoodwink_bushwhack"
-			"9"		"hoodwink_bushwhack"
+			"7"		"hoodwink_bushwhack"
+			"8"		"hoodwink_acorn_shot"
+			"9"		"hoodwink_acorn_shot"
 			"10"		"special_bonus_unique_hoodwink_bushwhack_cooldown"
-			"11"		"hoodwink_bushwhack"
+			"11"		"hoodwink_acorn_shot"
 			"12"		"hoodwink_sharpshooter"
 			"13"		"hoodwink_scurry"
 			"14"		"hoodwink_scurry"

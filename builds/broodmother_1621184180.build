@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"20"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1FBF1"
-	"TimePublished"		"0x0000000062A1FBF1"
+	"TimeUpdated"		"0x0000000062B9A05D"
+	"TimePublished"		"0x0000000062B9A05D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,8 +20,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_quelling_blade"
+				"item"		"item_ring_of_protection"
 				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
+				"item"		"item_branches"
 				"item"		"item_tango"
 			}
 			"Early"
@@ -37,6 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core - Physical Damage"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_orchid"
 				"item"		"item_black_king_bar"
 			}
@@ -49,11 +51,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
+				"item"		"item_bloodthorn"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
 				"item"		"item_sheepstick"
-				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
@@ -92,18 +94,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"broodmother_spin_web"
-			"2"		"broodmother_insatiable_hunger"
-			"3"		"broodmother_insatiable_hunger"
+			"2"		"broodmother_silken_bola"
+			"3"		"broodmother_spin_web"
 			"4"		"broodmother_silken_bola"
 			"5"		"broodmother_spin_web"
 			"6"		"broodmother_spawn_spiderlings"
 			"7"		"broodmother_spin_web"
-			"8"		"broodmother_spin_web"
+			"8"		"broodmother_silken_bola"
 			"9"		"broodmother_silken_bola"
 			"10"		"special_bonus_unique_broodmother_6"
-			"11"		"broodmother_silken_bola"
+			"11"		"broodmother_insatiable_hunger"
 			"12"		"broodmother_spawn_spiderlings"
-			"13"		"broodmother_silken_bola"
+			"13"		"broodmother_insatiable_hunger"
 			"14"		"broodmother_insatiable_hunger"
 			"15"		"special_bonus_unique_broodmother_5"
 			"16"		"broodmother_insatiable_hunger"

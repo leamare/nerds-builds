@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1DBF0"
-	"TimePublished"		"0x0000000062A1DBF0"
+	"TimeUpdated"		"0x0000000062B9C305"
+	"TimePublished"		"0x0000000062B9C305"
 	"ItemBuild"
 	{
 		"Items"
@@ -48,9 +48,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_black_king_bar"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
@@ -101,7 +101,7 @@ WIth maximum attack speed from Overpower you will get almost guaranteed bash on 
 			"item_lifesteal"		"Good for fighting Roshan by yourself or manfighting high damage cores
 Before Diffusal Blade"
 			"item_magic_wand"		"A bit of additional early mana/HP sustain in fights"
-			"item_quelling_blade"		"WIth Fury Swipes you won&amp;apos;t really need it most of the time, but it can be useful if you&amp;apos;re playing agaist Nature&amp;apos;s Prophet or didn&amp;apos;t get used to Ursa&amp;apos;s attack damage"
+			"item_quelling_blade"		"WIth Fury Swipes you won&amp;amp;apos;t really need it most of the time, but it can be useful if you&amp;amp;apos;re playing agaist Nature&amp;amp;apos;s Prophet or didn&amp;amp;apos;t get used to Ursa&amp;amp;apos;s attack damage"
 			"item_black_king_bar"		"~25-28 min
 You want to get it in almost every scenario. It helps deal with stuns, slows and other things that can stop you from killing opponents."
 			"item_abyssal_blade"		"Natural upgrade to Skull Basher with active ability to get a guaranteed BKB-piercing stun. It also gives you a bit more tankiness"

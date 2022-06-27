@@ -10,12 +10,12 @@ You can use Disruption early on as a tool to abuse your good base damage for bet
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1E404"
-	"TimePublished"		"0x0000000062A1E404"
+	"TimeUpdated"		"0x0000000062B9BF99"
+	"TimePublished"		"0x0000000062B9BF99"
 	"ItemBuild"
 	{
 		"Items"
@@ -99,7 +99,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_aether_lens"		"Aether Lens is your first core item. It allows you to initiate with Disruption and also use hammer on towers or Disruption targets from much further away (fog, trees, etc.) all of which is absolutely crucial for this build. It also makes the Soul Catcher much easier to land, lets you ult pretty much anyone you want in fights, and lastly the range increase on poison is also noticeable although not the biggest deal since its range is already massive."
 			"item_meteor_hammer"		" It not only gives you incredible solo kill potential, but also provides you with the structure damage you lack to go with your amazing wave-clear.
 
-In the standard Disruption-&amp;amp;gt;Hammer combo, you can shift-queue Soul Catcher while channeling the hammer – since the meteors take 0.5s to land, that gives you enough time to apply the amplification even before for the initial damage."
+In the standard Disruption-&amp;amp;amp;gt;Hammer combo, you can shift-queue Soul Catcher while channeling the hammer – since the meteors take 0.5s to land, that gives you enough time to apply the amplification even before for the initial damage."
 			"item_tranquil_boots"		"Tranquil Boots are an absolute must, for merely 500 gold you are almost doubling the MS you get and also getting more HP regen than a pipe gives you. The only down-side is that they deactivate when you attack or get attacked – well GUESS WHAT, you never attack and if you play properly you should very rarely be getting attacked also! "
 			"item_blink"		"Blink increases your safety-zone massively when split-pushing by giving you an escape, as well as increasing your catch-range by a ton, since blink range is also boosted by lens."
 			"item_cyclone"		"Eul’s gives you yet another disable / set-up, more movement speed and can also function as a Linken’s breaker which enemies will often pick up against an SD."
@@ -145,7 +145,7 @@ When trying to solo-kill on the lane, both your Disruption and your ult essentia
 			"special_bonus_unique_shadow_demon_4"		"35 movement speed is no joke, and this hero runs around a lot. However, once again the 25% Shadow Poison damage is just a huge difference maker. "
 			"special_bonus_unique_shadow_demon_3"		"This is probably the most one-sided choice of all, the cooldown reduction is what sends this hero into OP territory, Shadow Poison basically becomes your auto-attack, it takes you only 4 seconds to insta-kill a creepwave from two screens away (if you’re good at aiming), it takes you 5 seconds to pop a hero for 2000+ damage, etc."
 			"special_bonus_unique_shadow_demon_7"		"2 charges of Disruption basically means you have no down-time, no weak moment where ‘oh, he used Disruption, I can go on him now’, because you always have another one ready. You can save 2 allies, save an ally and get illusions of the enemy carry, disrupt 2 enemy cores, save an ally and yourself as well, the possibilities are endless."
-			"shadow_demon_demonic_purge"		"May be worth skipping at lvl 6 since it&amp;apos;s not as significant in terms of damage, but slow and constant purge are very valuable"
+			"shadow_demon_demonic_purge"		"May be worth skipping at lvl 6 since it&amp;amp;apos;s not as significant in terms of damage, but slow and constant purge are very valuable"
 		}
 	}
 }

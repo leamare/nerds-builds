@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"83"
+	"GuideRevision"		"85"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F52C"
-	"TimePublished"		"0x0000000062A1F52C"
+	"TimeUpdated"		"0x0000000062B9A4DD"
+	"TimePublished"		"0x0000000062B9A4DD"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,6 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_flask"
 				"item"		"item_enchanted_mango"
+				"item"		"item_magic_stick"
 				"item"		"item_faerie_fire"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
@@ -29,7 +30,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
 				"item"		"item_tranquil_boots"
 			}
@@ -37,8 +37,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
-				"item"		"item_aether_lens"
 				"item"		"item_ghost"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
@@ -84,15 +84,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_aether_lens"		"Even while you don&amp;apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
-			"item_blink"		"The most important Lion item. If you aren&amp;apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
+			"item_aether_lens"		"Even while you don&amp;amp;apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
+			"item_blink"		"The most important Lion item. If you aren&amp;amp;apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
 			"item_tranquil_boots"		"Mobility + HP regen"
 			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
 			"item_ethereal_blade"		"Potential save against physical damage"
 			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
 			"item_ghost"		"Potential self-save against physical damage"
-			"item_ultimate_scepter"		"It&amp;apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&amp;apos;t really focused on this aspect of Lion."
+			"item_ultimate_scepter"		"It&amp;amp;apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&amp;amp;apos;t really focused on this aspect of Lion."
 		}
 	}
 	"AbilityBuild"
@@ -108,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"lion_impale"
 			"8"		"lion_mana_drain"
 			"9"		"lion_mana_drain"
-			"10"		"special_bonus_attack_damage_60"
+			"10"		"special_bonus_movement_speed_15"
 			"11"		"lion_mana_drain"
 			"12"		"lion_finger_of_death"
 			"13"		"lion_voodoo"

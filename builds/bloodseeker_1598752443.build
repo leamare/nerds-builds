@@ -9,12 +9,12 @@
 Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1FC06"
-	"TimePublished"		"0x0000000062A1FC06"
+	"TimeUpdated"		"0x0000000062B9A034"
+	"TimePublished"		"0x0000000062B9A034"
 	"ItemBuild"
 	{
 		"Items"
@@ -42,8 +42,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_vladmir"
 				"item"		"item_diffusal_blade"
+				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{
@@ -85,14 +87,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"https://builds.spectral.gg/"
 			{
 				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
 			"item_cyclone"		"Additional movement speed and mana regen are already nice for Bloodseeker, but what makes it even better is the ability to cancel teleports and setup Bloodrite damage with it"
 			"item_phase_boots"		"A good alternative to Arcane Boots if you just want to build into early aggression"
-			"item_vladmir"		"Alternative to get instead of Veil, fits &amp;quot;buff the team&amp;quot; theme"
 			"item_dagon_5"		"Works great in combination with Bloodrage"
 			"item_ultimate_scepter"		"Allows you to practically immobilize two targets in fights"
 			"item_rod_of_atos"		"~14 min"
@@ -100,6 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ORDER SWAP: Black King Bar"
 			"item_black_king_bar"		"~15-20 min
 ORDER SWAP: Maelstrom"
+			"item_echo_sabre"		"Before Maelstrom"
 		}
 	}
 	"AbilityBuild"
@@ -126,8 +127,8 @@ ORDER SWAP: Maelstrom"
 		"AbilityTooltips"
 		{
 			"bloodseeker_blood_bath"		"Ideally you want to max it and use it to secure ranged creeps on lane, as well as bounty runes."
-			"bloodseeker_bloodrage"		"Your bread and butter as a support/utility Bloodseeker. You don&amp;apos;t need it early on, but when you get it, it gives your core an equivalent of a Hyperstone"
-			"bloodseeker_thirst"		"Your early game surviveability. You don&amp;apos;t even need to be good at last hitting, all you need to survive - to be around the creeps, and optionally you can be as annoying as possible"
+			"bloodseeker_bloodrage"		"Your bread and butter as a support/utility Bloodseeker. You don&amp;amp;amp;apos;t need it early on, but when you get it, it gives your core an equivalent of a Hyperstone"
+			"bloodseeker_thirst"		"Your early game surviveability. You don&amp;amp;amp;apos;t even need to be good at last hitting, all you need to survive - to be around the creeps, and optionally you can be as annoying as possible"
 		}
 	}
 }

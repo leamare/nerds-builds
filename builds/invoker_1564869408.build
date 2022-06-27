@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x000000006CDA7DD2"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F768"
-	"TimePublished"		"0x0000000062A1F768"
+	"TimeUpdated"		"0x0000000062B9A306"
+	"TimePublished"		"0x0000000062B9A306"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,20 +36,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_spirit_vessel"
+				"item"		"item_force_staff"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_travel_boots"
 			}
 			"Situational Early"
 			{
 				"item"		"item_hand_of_midas"
 				"item"		"item_tranquil_boots"
 				"item"		"item_cyclone"
-				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
+				"item"		"item_travel_boots"
 				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
@@ -102,8 +102,8 @@ Before Spirit Vessel"
 		{
 			"1"		"invoker_quas"
 			"2"		"invoker_wex"
-			"3"		"invoker_quas"
-			"4"		"invoker_wex"
+			"3"		"invoker_wex"
+			"4"		"invoker_quas"
 			"5"		"invoker_wex"
 			"6"		"invoker_quas"
 			"7"		"invoker_wex"

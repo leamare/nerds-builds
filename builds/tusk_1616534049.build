@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1DC20"
-	"TimePublished"		"0x0000000062A1DC20"
+	"TimeUpdated"		"0x0000000062B9C295"
+	"TimePublished"		"0x0000000062B9C295"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,8 +36,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_blink"
-				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -50,10 +50,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_desolator"
 				"item"		"item_octarine_core"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
-				"item"		"item_desolator"
 				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
 			}
@@ -96,7 +96,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"tusk_ice_shards"
-			"2"		"tusk_tag_team"
+			"2"		"tusk_snowball"
 			"3"		"tusk_ice_shards"
 			"4"		"tusk_snowball"
 			"5"		"tusk_ice_shards"
@@ -104,16 +104,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"tusk_ice_shards"
 			"8"		"tusk_snowball"
 			"9"		"tusk_snowball"
-			"10"		"tusk_snowball"
-			"11"		"special_bonus_unique_tusk_7"
+			"10"		"tusk_tag_team"
+			"11"		"tusk_tag_team"
 			"12"		"tusk_walrus_punch"
 			"13"		"tusk_tag_team"
 			"14"		"tusk_tag_team"
-			"15"		"special_bonus_unique_tusk_2"
-			"16"		"tusk_tag_team"
+			"15"		"special_bonus_unique_tusk_7"
+			"16"		"special_bonus_unique_tusk_2"
 			"18"		"tusk_walrus_punch"
 			"20"		"special_bonus_unique_tusk"
-			"25"		"special_bonus_unique_tusk_4"
+			"25"		"special_bonus_unique_tusk_6"
 		}
 		"AbilityTooltips"
 		{

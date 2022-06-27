@@ -7,12 +7,12 @@
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"85"
+	"GuideRevision"		"86"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1E08F"
-	"TimePublished"		"0x0000000062A1E08F"
+	"TimeUpdated"		"0x0000000062B9C232"
+	"TimePublished"		"0x0000000062B9C232"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,7 +50,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_moon_shard"
 				"item"		"item_assault"
 				"item"		"item_satanic"
-				"item"		"item_moon_shard"
 				"item"		"item_greater_crit"
 				"item"		"item_swift_blink"
 				"item"		"item_travel_boots"
@@ -59,11 +58,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_sange_and_yasha"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_bloodthorn"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_manta"
 				"item"		"item_butterfly"
 				"item"		"item_overwhelming_blink"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_mask_of_madness"
+				"item"		"item_bloodthorn"
+				"item"		"item_manta"
 			}
 			"Best Neutral Items"
 			{
@@ -88,8 +92,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ALTERNATIVE: Phase Boots"
 			"item_phase_boots"		"ALTERNATIVE: Phase Boots"
 			"item_blink"		"Before Silver Edge"
-			"item_echo_sabre"		"~12 min"
+			"item_echo_sabre"		"~12 min
+ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"item_silver_edge"		"~23-28 min"
+			"item_assault"		"ALTERNATIVE: Butterfly"
+			"item_butterfly"		"ALTERNATIVE: Assault Cuirass"
+			"item_hand_of_midas"		"ALTERNATIVES: Mask of Madness, Echo Sabre"
+			"item_mask_of_madness"		"ALTERNATIVES: Hand of Midas, Echo Sabre"
 		}
 	}
 	"AbilityBuild"

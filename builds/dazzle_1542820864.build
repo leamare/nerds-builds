@@ -9,12 +9,12 @@
 Early on you want to get a point into Shadow Wave to keep yourself alive on lane, but afterwards you're going to max Poison Touch and use it as harassing tool. With level 3 Poison Touch you're able to bully your enemy out of lane by autoattacking him (or just kill your opponent if he's not backing up), at level 7 with maxed poison touch you will be able to kill every creepwave pretty fast (or instakill it by using Shadow Wave on your creepwave). 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"81"
+	"GuideRevision"		"83"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1FBBF"
-	"TimePublished"		"0x0000000062A1FBBF"
+	"TimeUpdated"		"0x0000000062B9A0DC"
+	"TimePublished"		"0x0000000062B9A0DC"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,35 +29,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
+				"item"		"item_bottle"
 				"item"		"item_boots"
-				"item"		"item_magic_wand"
+				"item"		"item_null_talisman"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
+				"item"		"item_travel_boots"
 				"item"		"item_witch_blade"
-				"item"		"item_guardian_greaves"
-				"item"		"item_aghanims_shard"
-				"item"		"item_invis_sword"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_hand_of_midas"
 				"item"		"item_holy_locket"
-				"item"		"item_null_talisman"
 				"item"		"item_orchid"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_silver_edge"
+				"item"		"item_blink"
 				"item"		"item_sheepstick"
 				"item"		"item_hurricane_pike"
-				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_guardian_greaves"
 				"item"		"item_solar_crest"
 				"item"		"item_aeon_disk"
 				"item"		"item_satanic"
@@ -87,19 +88,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
 			"item_hand_of_midas"		"~6-14 min"
-			"item_hurricane_pike"		"Additional stats and attack range, but what&amp;apos;s more important - low cooldown force staff"
 			"item_assault"		"Additional improvement for all the armor and attack speed theme"
-			"item_greater_crit"		"For a hero who hits pretty hard getting a lucky crit may end a hero&amp;apos;s life immidiately"
-			"item_desolator"		"Continuing with all the negative armor theme. You don&amp;apos;t really need it since you already have more effective sources of both damage and negative armor, but it&amp;apos;s still fine snowballing/game ending item"
-			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&amp;apos;t bother getting it whenever you feel like you&amp;apos;re stunned or focused in fights"
+			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&amp;amp;amp;apos;t bother getting it whenever you feel like you&amp;amp;amp;apos;re stunned or focused in fights"
 			"item_shivas_guard"		"Mostly to stop enemies from running away, but Hex and Atos are generally better for that"
-			"item_aeon_disk"		"If you&amp;apos;re being focused way too much"
 			"item_bloodthorn"		"Additional control for fights and damage amplification"
 		}
 	}
@@ -129,17 +125,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&amp;apos;s duration will be refreshed with your every attack and it also stacks with itself. Combining with Bad Juju, you can use it as farming tool as well"
-			"dazzle_shallow_grave"		"You don&amp;apos;t really need it early on, but having a value point still won&amp;apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
-			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&amp;apos;s also your farming tool and wave clearing tool.
+			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&amp;amp;amp;apos;s duration will be refreshed with your every attack and it also stacks with itself. Combining with Bad Juju, you can use it as farming tool as well"
+			"dazzle_shallow_grave"		"You don&amp;amp;amp;apos;t really need it early on, but having a value point still won&amp;amp;amp;apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
+			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&amp;amp;amp;apos;s also your farming tool and wave clearing tool.
 
 It deals more damage with more units being healed by it. You can use it on lane against melee heroes (or ranged heroes who will walk across creepwave) and in fights you can combo it with your teammates or illusions/summons.
 
-Try to spam it every time it&amp;apos;s off cooldown. At level 12 you shouldn&amp;apos;t have much mana issues and this spell will make your all team unstoppable."
-			"special_bonus_unique_dazzle_2"		"You will be in the middle of a fight most of the time, so you don&amp;apos;t really need cast range, while additional heal/damage will give you way more value considering Shadow Wave spam"
+Try to spam it every time it&amp;amp;amp;apos;s off cooldown. At level 12 you shouldn&amp;amp;amp;apos;t have much mana issues and this spell will make your all team unstoppable."
+			"special_bonus_unique_dazzle_2"		"You will be in the middle of a fight most of the time, so you don&amp;amp;amp;apos;t really need cast range, while additional heal/damage will give you way more value considering Shadow Wave spam"
 			"special_bonus_unique_dazzle_3"		"Upgrading damage on an already strong DPS spell even further will make it hard to deal with at any stage, so why not?"
-			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&amp;apos;t be able to run away anymore."
-			"special_bonus_unique_dazzle_4"		"You don&amp;apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
+			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&amp;amp;amp;apos;t be able to run away anymore."
+			"special_bonus_unique_dazzle_4"		"You don&amp;amp;amp;apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
 		}
 	}
 }

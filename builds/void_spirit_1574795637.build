@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1DBD4"
-	"TimePublished"		"0x0000000062A1DBD4"
+	"TimeUpdated"		"0x0000000062B9C445"
+	"TimePublished"		"0x0000000062B9C445"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,7 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_witch_blade"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_kaya_and_sange"
+				"item"		"item_ethereal_blade"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -49,21 +49,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ethereal_blade"
 				"item"		"item_black_king_bar"
-				"item"		"item_dagon_5"
+				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_octarine_core"
+				"item"		"item_dagon_5"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_sphere"
 				"item"		"item_refresher"
 				"item"		"item_sheepstick"
+				"item"		"item_aeon_disk"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
-				"item"		"item_sphere"
 				"item"		"item_revenants_brooch"
 				"item"		"item_wind_waker"
 				"item"		"item_desolator"

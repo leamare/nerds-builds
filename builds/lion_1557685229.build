@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F5C2"
-	"TimePublished"		"0x0000000062A1F5C2"
+	"TimeUpdated"		"0x0000000062B9A497"
+	"TimePublished"		"0x0000000062B9A497"
 	"ItemBuild"
 	{
 		"Items"

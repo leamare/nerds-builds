@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x00000000910F481B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1DBDB"
-	"TimePublished"		"0x0000000062A1DBDB"
+	"TimeUpdated"		"0x0000000062B9C390"
+	"TimePublished"		"0x0000000062B9C390"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,10 +35,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_boots_of_bearing"
+				"item"		"item_ancient_janggo"
 				"item"		"item_vladmir"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -48,9 +47,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_wraith_pact"
 				"item"		"item_orchid"
 				"item"		"item_assault"
-				"item"		"item_wraith_pact"
 				"item"		"item_sheepstick"
 			}
 			"Situational"

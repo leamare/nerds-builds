@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"74"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1FBB9"
-	"TimePublished"		"0x0000000062A1FBB9"
+	"TimeUpdated"		"0x0000000062B9A0E7"
+	"TimePublished"		"0x0000000062B9A0E7"
 	"ItemBuild"
 	{
 		"Items"
@@ -47,6 +47,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hood_of_defiance"
 				"item"		"item_invis_sword"
 				"item"		"item_vanguard"
+				"item"		"item_soul_ring"
+				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
@@ -117,17 +119,17 @@ ALTERNATIVE: Hand of Midas"
 	{
 		"AbilityOrder"
 		{
-			"1"		"doom_bringer_devour"
-			"2"		"doom_bringer_scorched_earth"
+			"1"		"doom_bringer_scorched_earth"
+			"2"		"doom_bringer_devour"
 			"3"		"doom_bringer_scorched_earth"
-			"4"		"doom_bringer_devour"
+			"4"		"doom_bringer_infernal_blade"
 			"5"		"doom_bringer_scorched_earth"
 			"6"		"doom_bringer_doom"
 			"7"		"doom_bringer_scorched_earth"
 			"8"		"doom_bringer_devour"
 			"9"		"doom_bringer_devour"
 			"10"		"special_bonus_unique_doom_4"
-			"11"		"doom_bringer_infernal_blade"
+			"11"		"doom_bringer_devour"
 			"12"		"doom_bringer_doom"
 			"13"		"doom_bringer_infernal_blade"
 			"14"		"doom_bringer_infernal_blade"
@@ -142,11 +144,11 @@ ALTERNATIVE: Hand of Midas"
 			"doom_bringer_devour"		"Your main farming ability that allows you to kill big jungle camp in a couple of seconds. Because it provides you with a lot of extra gold (+250 gold for each creep at level 15!), Doom is always at top among any other offlaners in terms of farm. Moreover, HP regeneration from Devour helps you to sustain efficiently on offlane while going to big jungle camps. Ablities took from jungle creeps give Doom a lot of versatility and makes him really unique hero"
 			"doom_bringer_scorched_earth"		"The only mobility skill, that also provides a certain amount of AoE damage. Great for chasing down enemy heroes, but has quite a long cooldown and becomes quite inefficient while the game goes to late"
 			"doom_bringer_infernal_blade"		"Infernal Blade allows you to kill any hero relatively fast or force him to get out. With a very short cooldown of 4 seconds and damage dealt in percentage of max HP, it provides a lot of damage if Doom can cast it at least couple of times in teamfight"
-			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&amp;apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
+			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&amp;amp;amp;apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
 			"special_bonus_unique_doom_6"		"Makes your Scorched Earth more useful in a lategame and provides you with extra mobility. +30% movement speed is not a joke, while +20 damage makes almost no difference"
 			"special_bonus_unique_doom_2"		"Gives you even more versatility in terms of skills. You can get extra HP aura, lifesteal and HP regeneration aura, Frenzy and War Drums Aura, or even Splash Attack and Fireball in case you need some fast pushing tool"
-			"special_bonus_unique_doom_1"		"Easiest choice among all other talents, this just skyrockets your solo target DPS. Doom doesn&amp;apos;t need cleave to farm or deal damage in a teamfight, while with Infernal Blade he can just solo kill any hero with 3 swings of his sword. "
-			"special_bonus_unique_doom_5"		"Doom DPS talent is good for cases when you&amp;apos;re going for heavy caster build, going to pick up Aghs or just need to deal a lot of pure damage. It can also be good talent if your team don&amp;apos;t really need any kind of ancients aura"
+			"special_bonus_unique_doom_1"		"Easiest choice among all other talents, this just skyrockets your solo target DPS. Doom doesn&amp;amp;amp;apos;t need cleave to farm or deal damage in a teamfight, while with Infernal Blade he can just solo kill any hero with 3 swings of his sword. "
+			"special_bonus_unique_doom_5"		"Doom DPS talent is good for cases when you&amp;amp;amp;apos;re going for heavy caster build, going to pick up Aghs or just need to deal a lot of pure damage. It can also be good talent if your team don&amp;amp;amp;apos;t really need any kind of ancients aura"
 		}
 	}
 }

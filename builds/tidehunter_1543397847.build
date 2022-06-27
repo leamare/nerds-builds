@@ -9,12 +9,12 @@ Main issue that comes with his main strength is that Ravage Tide is useless when
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/
 It's based on Immortal rank Core Tidehunter matches"
-	"GuideRevision"		"78"
+	"GuideRevision"		"79"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1E194"
-	"TimePublished"		"0x0000000062A1E194"
+	"TimeUpdated"		"0x0000000062B9C173"
+	"TimePublished"		"0x0000000062B9C173"
 	"ItemBuild"
 	{
 		"Items"
@@ -118,11 +118,11 @@ It's based on Immortal rank Core Tidehunter matches"
 			"item_soul_ring"		"~5 min
 Soul Ring for mana sustain. This item alone is enough for you to keep your manapool up even without treads switching"
 			"item_phase_boots"		"~9 min
-You&amp;apos;re going to play around Anchor Smash, so getting early damage boost is already valuable enough, but additional tankiness makes it even better
+You&amp;amp;apos;re going to play around Anchor Smash, so getting early damage boost is already valuable enough, but additional tankiness makes it even better
 ALTERNATIVE: Arcane Boots"
-			"item_solar_crest"		"Additional armor boost, utility for your team, movement speed buff, but most importantly ability to reduce enemy armor by 12. With Solar Crest debuff you&amp;apos;ll be able to two-shot supports during midgame"
+			"item_solar_crest"		"Additional armor boost, utility for your team, movement speed buff, but most importantly ability to reduce enemy armor by 12. With Solar Crest debuff you&amp;amp;apos;ll be able to two-shot supports during midgame"
 			"item_blink"		"~18 min
-Main initiation/mobilty item. It may look weird that you&amp;apos;re not going to pick it up as your first item, but the thing is you don&amp;apos;t really need it as Tidehunter, while Solar Crest will do much more for your team"
+Main initiation/mobilty item. It may look weird that you&amp;amp;apos;re not going to pick it up as your first item, but the thing is you don&amp;amp;apos;t really need it as Tidehunter, while Solar Crest will do much more for your team"
 			"item_desolator"		"~19 min
 Additional damage buff and negative armor debuff against enemies"
 			"item_magic_wand"		"Additional MP/HP sustain against spell spammers"
@@ -135,8 +135,8 @@ Additional damage buff and negative armor debuff against enemies"
 			"item_lotus_orb"		"Great if you need armor and badly need the dispel for your team"
 			"item_heavens_halberd"		"Great addition to SnY and good item in general to deal with stuns and high attack damage cores"
 			"item_guardian_greaves"		"Great item if you have other heroes to deal damage and just want to snowball out of control and finish the game"
-			"item_shivas_guard"		"Armor and mana pool. Doesn&amp;apos;t really work with attack damage theme and you don&amp;apos;t really need manapool in this kind of build, but it can be helpful if you want to keep your enemies from running away"
-			"item_refresher"		"Great addition if you desperately need to use two ravages. Altho, with attack damage build you will have a lot of stuff to do while Ravage is on cooldown, it&amp;apos;s still a really strong kind of spell"
+			"item_shivas_guard"		"Armor and mana pool. Doesn&amp;amp;apos;t really work with attack damage theme and you don&amp;amp;apos;t really need manapool in this kind of build, but it can be helpful if you want to keep your enemies from running away"
+			"item_refresher"		"Great addition if you desperately need to use two ravages. Altho, with attack damage build you will have a lot of stuff to do while Ravage is on cooldown, it&amp;amp;apos;s still a really strong kind of spell"
 			"item_bloodthorn"		"More expensive damage/crit choice, that also provides a lot of mana and attack speed. May work as a lategame extension item in cases when you need some kind of cheap lockdown or transition into pushing core a little bit more"
 			"item_abyssal_blade"		"Additional cheap lockdown, works well if you have other attack speed items"
 			"item_sheepstick"		"Cheap lockdown + mana pool"
@@ -176,13 +176,13 @@ ALTERNATIVE: Phase Boots"
 		}
 		"AbilityTooltips"
 		{
-			"tidehunter_kraken_shell"		"Great surviveability tool and what essentially makes Tide able to use his items no matter what. Altho, it&amp;apos;s still not a priority on lane and is probably the last abilty to max"
-			"tidehunter_anchor_smash"		"Tide&amp;apos;s main tool for lane dominating and farm. Try to use it as close to enemy heroes on lane as possible and secure creeps. Later on think of it as your main damage tool, like one big AoE autoattack or physical damage nuke"
+			"tidehunter_kraken_shell"		"Great surviveability tool and what essentially makes Tide able to use his items no matter what. Altho, it&amp;amp;apos;s still not a priority on lane and is probably the last abilty to max"
+			"tidehunter_anchor_smash"		"Tide&amp;amp;apos;s main tool for lane dominating and farm. Try to use it as close to enemy heroes on lane as possible and secure creeps. Later on think of it as your main damage tool, like one big AoE autoattack or physical damage nuke"
 			"tidehunter_gush"		"Great chasing spell, works well with Anchor Smash. Not a priority in leveling up, but is definately good spell to have early on"
 			"special_bonus_unique_tidehunter_2"		"Great talent to have, works well with Having Gush as a damage tool"
 			"special_bonus_unique_tidehunter_3"		"Works fine against targets with high amounts of base damage (Terrorblade, PL)"
 			"special_bonus_unique_tidehunter"		"Works well with all the physical damage theme"
-			"tidehunter_ravage"		"One of the greatest teamfighting spells. While it&amp;apos;s still one of the best spells in the game, our main goal is to make Tide useful and strong even without it, so don&amp;apos;t focus on the Big Red Button too much."
+			"tidehunter_ravage"		"One of the greatest teamfighting spells. While it&amp;amp;apos;s still one of the best spells in the game, our main goal is to make Tide useful and strong even without it, so don&amp;amp;apos;t focus on the Big Red Button too much."
 		}
 	}
 }

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"55"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F464"
-	"TimePublished"		"0x0000000062A1F464"
+	"TimeUpdated"		"0x0000000062B9A5DD"
+	"TimePublished"		"0x0000000062B9A5DD"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,7 +45,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_wraith_pact"
-				"item"		"item_ultimate_scepter"
 			}
 			"Core - No Helm Build"
 			{
@@ -56,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_nullifier"
@@ -94,7 +94,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_helm_of_the_dominator"		"~8 min"
-			"item_boots"		"Before Vladmir&amp;apos;s Offering
+			"item_boots"		"Before Vladmir&amp;amp;apos;s Offering
 Usually you tend to play without Boots, especially in lane, until you finish Helm."
 			"item_helm_of_the_overlord"		"~14-16 min
 ALTERNATIVE: Wraith Pact"

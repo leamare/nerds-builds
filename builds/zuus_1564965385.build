@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1D690"
-	"TimePublished"		"0x0000000062A1D690"
+	"TimeUpdated"		"0x0000000062B9C583"
+	"TimePublished"		"0x0000000062B9C583"
 	"ItemBuild"
 	{
 		"Items"
@@ -89,7 +89,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_kaya"		"Before Aghanim&amp;apos;s Scepter"
+			"item_kaya"		"Before Aghanim&amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -113,7 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_350"
 			"16"		"zuus_lightning_bolt"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_4"
+			"20"		"special_bonus_unique_zeus_3"
 			"25"		"special_bonus_unique_zeus_5"
 		}
 		"AbilityTooltips"

@@ -3,15 +3,15 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.31c"
+	"GameplayVersion"		"7.31d"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000008BCA8526"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000628C2708"
-	"TimePublished"		"0x00000000628C2708"
+	"TimeUpdated"		"0x0000000062B9A043"
+	"TimePublished"		"0x0000000062B9A043"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,11 +29,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_phase_boots"
 				"item"		"item_ancient_janggo"
@@ -43,18 +45,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_wraith_pact"
 				"item"		"item_force_staff"
 				"item"		"item_solar_crest"
 				"item"		"item_heavens_halberd"
-				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_rod_of_atos"
 				"item"		"item_wind_waker"
@@ -66,8 +68,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_desolator"
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
-				"item"		"item_wraith_pact"
 				"item"		"item_travel_boots"
+				"item"		"item_guardian_greaves"
 			}
 			"Best Neutral Items"
 			{
@@ -115,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_bounty_hunter_2"
 			"16"		"bounty_hunter_wind_walk"
 			"18"		"bounty_hunter_track"
-			"20"		"special_bonus_unique_bounty_hunter"
+			"20"		"special_bonus_unique_bounty_hunter_8"
 			"25"		"special_bonus_unique_bounty_hunter_7"
 		}
 		"AbilityTooltips"

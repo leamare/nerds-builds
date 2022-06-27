@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000006CDAB50E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1F46D"
-	"TimePublished"		"0x0000000062A1F46D"
+	"TimeUpdated"		"0x0000000062B9A568"
+	"TimePublished"		"0x0000000062B9A568"
 	"ItemBuild"
 	{
 		"Items"
@@ -81,7 +81,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_helm_of_the_dominator"		"Very strong Luna item, but it&amp;apos;s not really suitable for Ion Cannon playstyle"
+			"item_helm_of_the_dominator"		"Very strong Luna item, but it&amp;amp;apos;s not really suitable for Ion Cannon playstyle"
 		}
 	}
 	"AbilityBuild"

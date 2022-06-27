@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1E446"
-	"TimePublished"		"0x0000000062A1E446"
+	"TimeUpdated"		"0x0000000062B9BA02"
+	"TimePublished"		"0x0000000062B9BA02"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_circlet"
-				"item"		"item_branches"
+				"item"		"item_mantle"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
@@ -48,9 +48,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_octarine_core"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_revenants_brooch"
 				"item"		"item_ethereal_blade"

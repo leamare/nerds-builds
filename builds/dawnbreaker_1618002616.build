@@ -7,12 +7,12 @@
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"21"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062A1FBCC"
-	"TimePublished"		"0x0000000062A1FBCC"
+	"TimeUpdated"		"0x0000000062B9A0BD"
+	"TimePublished"		"0x0000000062B9A0BD"
 	"ItemBuild"
 	{
 		"Items"
@@ -51,7 +51,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heavens_halberd"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_lotus_orb"
-				"item"		"item_pipe"
 			}
 			"Situational"
 			{
@@ -62,6 +61,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_force_staff"
 				"item"		"item_crimson_guard"
 				"item"		"item_wraith_pact"
+				"item"		"item_black_king_bar"
+				"item"		"item_basher"
+				"item"		"item_pipe"
 			}
 			"Best Neutral Items"
 			{
@@ -89,17 +91,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"dawnbreaker_fire_wreath"
-			"2"		"dawnbreaker_celestial_hammer"
+			"1"		"dawnbreaker_celestial_hammer"
+			"2"		"dawnbreaker_fire_wreath"
 			"3"		"dawnbreaker_celestial_hammer"
-			"4"		"dawnbreaker_luminosity"
+			"4"		"dawnbreaker_fire_wreath"
 			"5"		"dawnbreaker_celestial_hammer"
 			"6"		"dawnbreaker_solar_guardian"
-			"7"		"dawnbreaker_fire_wreath"
-			"8"		"dawnbreaker_celestial_hammer"
+			"7"		"dawnbreaker_celestial_hammer"
+			"8"		"dawnbreaker_fire_wreath"
 			"9"		"dawnbreaker_fire_wreath"
 			"10"		"special_bonus_unique_dawnbreaker_celestial_hammer_slow"
-			"11"		"dawnbreaker_fire_wreath"
+			"11"		"dawnbreaker_luminosity"
 			"12"		"dawnbreaker_solar_guardian"
 			"13"		"dawnbreaker_luminosity"
 			"14"		"dawnbreaker_luminosity"
