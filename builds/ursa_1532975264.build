@@ -3,17 +3,17 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9C305"
-	"TimePublished"		"0x0000000062B9C305"
+	"TimeUpdated"		"0x000000006309F5BA"
+	"TimePublished"		"0x000000006309F5BA"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,20 +45,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_power_treads"
 				"item"		"item_falcon_blade"
+				"item"		"item_bfury"
+				"item"		"item_mask_of_madness"
 			}
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_sange_and_yasha"
+				"item"		"item_swift_blink"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_sange_and_yasha"
 				"item"		"item_nullifier"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_butterfly"
@@ -101,7 +103,7 @@ WIth maximum attack speed from Overpower you will get almost guaranteed bash on 
 			"item_lifesteal"		"Good for fighting Roshan by yourself or manfighting high damage cores
 Before Diffusal Blade"
 			"item_magic_wand"		"A bit of additional early mana/HP sustain in fights"
-			"item_quelling_blade"		"WIth Fury Swipes you won&amp;amp;apos;t really need it most of the time, but it can be useful if you&amp;amp;apos;re playing agaist Nature&amp;amp;apos;s Prophet or didn&amp;amp;apos;t get used to Ursa&amp;amp;apos;s attack damage"
+			"item_quelling_blade"		"WIth Fury Swipes you won&amp;amp;amp;apos;t really need it most of the time, but it can be useful if you&apos;re playing agaist Nature&apos;s Prophet or didn&apos;t get used to Ursa&apos;s attack damage"
 			"item_black_king_bar"		"~25-28 min
 You want to get it in almost every scenario. It helps deal with stuns, slows and other things that can stop you from killing opponents."
 			"item_abyssal_blade"		"Natural upgrade to Skull Basher with active ability to get a guaranteed BKB-piercing stun. It also gives you a bit more tankiness"
@@ -117,6 +119,8 @@ ALTERNATIVE: Power Threads"
 			"item_orb_of_corrosion"		"Before Diffusal Blade"
 			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 			"item_falcon_blade"		"Before Diffusal Blade"
+			"item_bfury"		"Before Diffusal Blade"
+			"item_mask_of_madness"		"Before Blink Dagger"
 		}
 	}
 	"AbilityBuild"
@@ -132,16 +136,16 @@ ALTERNATIVE: Power Threads"
 			"7"		"ursa_fury_swipes"
 			"8"		"ursa_overpower"
 			"9"		"ursa_overpower"
-			"10"		"special_bonus_mp_regen_175"
-			"11"		"ursa_overpower"
+			"10"		"ursa_overpower"
+			"11"		"special_bonus_mp_regen_175"
 			"12"		"ursa_enrage"
 			"13"		"ursa_earthshock"
 			"14"		"ursa_earthshock"
-			"15"		"special_bonus_hp_350"
+			"15"		"special_bonus_unique_ursa_earthshock_furyswipes"
 			"16"		"ursa_earthshock"
 			"18"		"ursa_enrage"
 			"20"		"special_bonus_unique_ursa"
-			"25"		"special_bonus_unique_ursa_7"
+			"25"		"special_bonus_unique_ursa_enrage_radius"
 		}
 		"AbilityTooltips"
 		{

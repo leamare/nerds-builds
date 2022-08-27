@@ -3,16 +3,16 @@
 	"Hero"		"windrunner"
 	"Title"		"Nerds Windranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9C499"
-	"TimePublished"		"0x0000000062B9C499"
+	"TimeUpdated"		"0x000000006309EED7"
+	"TimePublished"		"0x000000006309EED7"
 	"ItemBuild"
 	{
 		"Items"
@@ -73,18 +73,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_keen_optic"
 				"item"		"item_trusty_shovel"
-				"item"		"item_arcane_ring"
-				"item"		"item_pupils_gift"
+				"item"		"item_mysterious_hat"
+				"item"		"item_seeds_of_serenity"
+				"item"		"item_occult_bracelet"
 				"item"		"item_misericorde"
+				"item"		"item_pupils_gift"
+				"item"		"item_dagger_of_ristul"
 				"item"		"item_grove_bow"
-				"item"		"item_quickening_charm"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_spider_legs"
-				"item"		"item_spell_prism"
-				"item"		"item_spy_gadget"
-				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
+				"item"		"item_paladin_sword"
+				"item"		"item_stormcrafter"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -116,7 +116,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"windrunner_shackleshot"
 			"18"		"windrunner_focusfire"
 			"20"		"special_bonus_unique_windranger_8"
-			"25"		"special_bonus_unique_windranger_7"
+			"25"		"special_bonus_unique_windranger_windrun_undispellable"
 		}
 		"AbilityTooltips"
 		{
