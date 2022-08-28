@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"86"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9C232"
-	"TimePublished"		"0x0000000062B9C232"
+	"TimeUpdated"		"0x00000000630A9A9F"
+	"TimePublished"		"0x00000000630A9A9F"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
-				"item"		"item_gauntlets"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -36,26 +36,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
 				"item"		"item_aghanims_shard"
-				"item"		"item_silver_edge"
+				"item"		"item_invis_sword"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bracer"
 				"item"		"item_phase_boots"
 				"item"		"item_blink"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
+				"item"		"item_silver_edge"
 				"item"		"item_moon_shard"
 				"item"		"item_assault"
 				"item"		"item_satanic"
-				"item"		"item_greater_crit"
 				"item"		"item_swift_blink"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_greater_crit"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
@@ -64,22 +66,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_mask_of_madness"
 				"item"		"item_bloodthorn"
 				"item"		"item_manta"
+				"item"		"item_lotus_orb"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
-				"item"		"item_keen_optic"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_quicksilver_amulet"
-				"item"		"item_the_leveller"
-				"item"		"item_misericorde"
+				"item"		"item_occult_bracelet"
+				"item"		"item_broom_handle"
+				"item"		"item_pogo_stick"
+				"item"		"item_grove_bow"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_nether_shawl"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_elven_tunic"
 				"item"		"item_quickening_charm"
-				"item"		"item_paladin_sword"
+				"item"		"item_havoc_hammer"
+				"item"		"item_penta_edged_sword"
 				"item"		"item_stormcrafter"
 			}
 			"https://builds.spectral.gg/"
@@ -91,14 +95,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"~7 min
 ALTERNATIVE: Phase Boots"
 			"item_phase_boots"		"ALTERNATIVE: Phase Boots"
-			"item_blink"		"Before Silver Edge"
+			"item_blink"		"Before Shadow Blade"
 			"item_echo_sabre"		"~12 min
 ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"item_silver_edge"		"~23-28 min"
 			"item_assault"		"ALTERNATIVE: Butterfly"
 			"item_butterfly"		"ALTERNATIVE: Assault Cuirass"
-			"item_hand_of_midas"		"ALTERNATIVES: Mask of Madness, Echo Sabre"
+			"item_hand_of_midas"		"~10 min
+ALTERNATIVES: Mask of Madness, Echo Sabre"
 			"item_mask_of_madness"		"ALTERNATIVES: Hand of Midas, Echo Sabre"
+			"item_ultimate_scepter"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"
@@ -119,7 +125,7 @@ ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"12"		"tiny_grow"
 			"13"		"tiny_toss"
 			"14"		"tiny_toss"
-			"15"		"special_bonus_status_resistance_10"
+			"15"		"special_bonus_unique_tiny"
 			"16"		"tiny_toss"
 			"18"		"tiny_grow"
 			"20"		"special_bonus_unique_tiny_7"
