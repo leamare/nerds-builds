@@ -3,16 +3,16 @@
 	"Hero"		"night_stalker"
 	"Title"		"Nerds Night Stalker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9A8FA"
-	"TimePublished"		"0x0000000062B9A8FA"
+	"TimeUpdated"		"0x0000000063155539"
+	"TimePublished"		"0x0000000063155539"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,6 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_enchanted_mango"
 				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 			}
 			"Early"
@@ -35,9 +36,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_echo_sabre"
-				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
@@ -57,23 +58,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_silver_edge"
 				"item"		"item_abyssal_blade"
+				"item"		"item_nullifier"
 				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_nullifier"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_spirit_vessel"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_heavens_halberd"
+				"item"		"item_spirit_vessel"
 				"item"		"item_satanic"
-				"item"		"item_mjollnir"
 				"item"		"item_lotus_orb"
-				"item"		"item_octarine_core"
-				"item"		"item_monkey_king_bar"
 			}
 			"Other Significant Items"
 			{
@@ -81,21 +79,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
 				"item"		"item_wraith_pact"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_mjollnir"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_broom_handle"
 				"item"		"item_unstable_wand"
-				"item"		"item_pogo_stick"
+				"item"		"item_possessed_mask"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_misericorde"
 				"item"		"item_dragon_scale"
-				"item"		"item_vambrace"
-				"item"		"item_quicksilver_amulet"
-				"item"		"item_elven_tunic"
-				"item"		"item_mind_breaker"
 				"item"		"item_paladin_sword"
-				"item"		"item_spell_prism"
+				"item"		"item_mind_breaker"
+				"item"		"item_titan_sliver"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_ninja_gear"
+				"item"		"item_havoc_hammer"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -106,13 +108,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ultimate_scepter"		"ALTERNATIVES: Hand of Midas, Echo Sabre, Armlet of Mordiggian"
 			"item_phase_boots"		"~7 min"
 			"item_echo_sabre"		"~14 min
-ALTERNATIVES: Hand of Midas, Aghanim&amp;amp;apos;s Scepter, Armlet of Mordiggian"
+ALTERNATIVES: Hand of Midas, Aghanim&amp;amp;amp;apos;s Scepter, Armlet of Mordiggian"
 			"item_black_king_bar"		"~21-25 min"
 			"item_blink"		"~22 min"
 			"item_soul_ring"		"Before Echo Sabre"
 			"item_orb_of_corrosion"		"Before Echo Sabre"
-			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;apos;s Scepter, Armlet of Mordiggian"
-			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;apos;s Scepter, Hand of Midas"
+			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;amp;apos;s Scepter, Armlet of Mordiggian"
+			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;amp;apos;s Scepter, Hand of Midas"
 			"item_urn_of_shadows"		"Before Echo Sabre"
 		}
 	}
@@ -134,7 +136,7 @@ ALTERNATIVES: Hand of Midas, Aghanim&amp;amp;apos;s Scepter, Armlet of Mordiggia
 			"12"		"night_stalker_darkness"
 			"13"		"night_stalker_crippling_fear"
 			"14"		"night_stalker_crippling_fear"
-			"15"		"special_bonus_unique_night_stalker_3"
+			"15"		"special_bonus_unique_night_stalker_hunter_status_resist"
 			"16"		"night_stalker_crippling_fear"
 			"18"		"night_stalker_darkness"
 			"20"		"special_bonus_strength_20"

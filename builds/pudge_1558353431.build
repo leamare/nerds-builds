@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9BA54"
-	"TimePublished"		"0x0000000062B9BA54"
+	"TimeUpdated"		"0x0000000063155209"
+	"TimePublished"		"0x0000000063155209"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,35 +21,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_ring_of_protection"
-				"item"		"item_quelling_blade"
-				"item"		"item_gauntlets"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_stick"
+				"item"		"item_vanguard"
 			}
 			"Core"
 			{
-				"item"		"item_hood_of_defiance"
 				"item"		"item_phase_boots"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_eternal_shroud"
-				"item"		"item_black_king_bar"
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
+				"item"		"item_hood_of_defiance"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
-				"item"		"item_vanguard"
 				"item"		"item_tranquil_boots"
 			}
 			"Lategame"
 			{
 				"item"		"item_aghanims_shard"
+				"item"		"item_eternal_shroud"
 				"item"		"item_shivas_guard"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_travel_boots"
@@ -57,7 +57,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_refresher"
-				"item"		"item_bloodstone"
 				"item"		"item_octarine_core"
 				"item"		"item_lotus_orb"
 				"item"		"item_ethereal_blade"
@@ -76,21 +75,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_blade_mail"
 				"item"		"item_spirit_vessel"
+				"item"		"item_bloodstone"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_broom_handle"
-				"item"		"item_chipped_vest"
-				"item"		"item_ocean_heart"
+				"item"		"item_occult_bracelet"
+				"item"		"item_mysterious_hat"
+				"item"		"item_nether_shawl"
 				"item"		"item_vambrace"
 				"item"		"item_dragon_scale"
-				"item"		"item_bullwhip"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_spider_legs"
-				"item"		"item_psychic_headband"
-				"item"		"item_flicker"
-				"item"		"item_timeless_relic"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_black_powder_bag"
 				"item"		"item_trickster_cloak"
+				"item"		"item_havoc_hammer"
+				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -131,7 +131,7 @@ ALTERNATIVE: Vanguard"
 			"16"		"pudge_meat_hook"
 			"18"		"pudge_dismember"
 			"20"		"special_bonus_unique_pudge_6"
-			"25"		"special_bonus_unique_pudge_1"
+			"25"		"special_bonus_unique_pudge_3"
 		}
 		"AbilityTooltips"
 		{
