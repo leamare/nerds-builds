@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9A355"
-	"TimePublished"		"0x0000000062B9A355"
+	"TimeUpdated"		"0x000000006316A1AC"
+	"TimePublished"		"0x000000006316A1AC"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_circlet"
-				"item"		"item_slippers"
 				"item"		"item_branches"
+				"item"		"item_magic_stick"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
@@ -70,27 +70,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_radiance"
 				"item"		"item_satanic"
 				"item"		"item_silver_edge"
 				"item"		"item_gungir"
+				"item"		"item_radiance"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_possessed_mask"
+				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
+				"item"		"item_lance_of_pursuit"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
 				"item"		"item_misericorde"
 				"item"		"item_mind_breaker"
 				"item"		"item_titan_sliver"
 				"item"		"item_elven_tunic"
-				"item"		"item_paladin_sword"
+				"item"		"item_ninja_gear"
 				"item"		"item_heavy_blade"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_the_leveller"
-				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,10 +112,10 @@ ALTERNATIVE: Sange and Yasha"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 			"item_diffusal_blade"		"Cheap early damage and slow, for playstyle based on manaburn and illusions
 ALTERNATIVES: Maelstrom, Battle Fury, Radiance"
-			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;apos;s Sphere, Black King Bar"
+			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;amp;apos;s Sphere, Black King Bar"
 			"item_sphere"		"ALTERNATIVES: Eye of Skadi, Black King Bar"
 			"item_black_king_bar"		"Against control heavy lineups
-ALTERNATIVES: Eye of Skadi, Linken&amp;amp;apos;s Sphere"
+ALTERNATIVES: Eye of Skadi, Linken&apos;s Sphere"
 			"item_ancient_janggo"		"Before Maelstrom"
 		}
 	}
@@ -143,7 +141,7 @@ ALTERNATIVES: Eye of Skadi, Linken&amp;amp;apos;s Sphere"
 			"16"		"juggernaut_blade_dance"
 			"18"		"juggernaut_omni_slash"
 			"20"		"special_bonus_unique_juggernaut_3"
-			"25"		"special_bonus_hp_475"
+			"25"		"special_bonus_unique_juggernaut_omnislash_duration"
 		}
 		"AbilityTooltips"
 		{
