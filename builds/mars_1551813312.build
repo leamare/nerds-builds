@@ -3,19 +3,19 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars (Support)"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32b"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
 
 Your main weakness early on will be low mana pool. There are a couple of ways to fix this problem, but aside from that all you need to do early on is just brawling. You may also farm inbetween fights to get some of your items since God's Rebuke with at least some mana sustain will be enough to start transitioning into core. And as soon as you get all your early items, all you need to do is just snowball and fight.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"78"
+	"GuideRevision"		"81"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9A6FB"
-	"TimePublished"		"0x0000000062B9A6FB"
+	"TimeUpdated"		"0x00000000631682AB"
+	"TimePublished"		"0x00000000631682AB"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,7 +24,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_flask"
-				"item"		"item_sobi_mask"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
 			}
@@ -32,7 +33,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
-				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
@@ -91,11 +91,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_broom_handle"
 				"item"		"item_pogo_stick"
 				"item"		"item_dragon_scale"
-				"item"		"item_essence_ring"
 				"item"		"item_bullwhip"
+				"item"		"item_vambrace"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_spider_legs"
 				"item"		"item_black_powder_bag"
+				"item"		"item_ogre_seal_totem"
 				"item"		"item_timeless_relic"
 				"item"		"item_penta_edged_sword"
 				"item"		"item_trickster_cloak"
@@ -112,16 +112,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_wind_lace"		"Cheap flat mobility bonus, to be upgraded into drum later"
 			"item_soul_ring"		"Main mana sustain item. Enables Mars as a farming hero between fights, but also allowes him to fight more often considering his manapool"
 			"item_magic_wand"		"Helps with manapool sustain during constant fights"
-			"item_vladmir"		"Buffs yout whole team, but also makes you way more tanky (because of lifesteal and God&amp;amp;apos;s Rebuke interaction)
-ALTERNATIVES: Eul&amp;amp;apos;s Scepter of Divinity, Drum of Endurance"
-			"item_medallion_of_courage"		"Additional armor, potential Solar Crest upgrade and damage amplification from God&amp;amp;apos;s Rebuke against one target"
-			"item_rod_of_atos"		"If you feel like you have a lot of money, you can go for Atos. It&amp;amp;apos;s great item for Mars stats wise (a lot of strength and massive manapool increase) and relatively cheap, so it&amp;amp;apos;s affordable even for a support Mars"
-			"item_desolator"		"Cheap and efficient damage/farm solution for Mars. Good for agressive games when you&amp;amp;apos;re way ahead"
+			"item_vladmir"		"Buffs your whole team, but also makes you way more tanky (because of lifesteal and God&apos;s Rebuke interaction)
+ALTERNATIVES: Eul&apos;s Scepter of Divinity, Drum of Endurance"
+			"item_medallion_of_courage"		"Additional armor, potential Solar Crest upgrade and damage amplification from God&apos;s Rebuke against one target"
+			"item_rod_of_atos"		"If you feel like you have a lot of money, you can go for Atos. It&apos;s great item for Mars stats wise (a lot of strength and massive manapool increase) and relatively cheap, so it&apos;s affordable even for a support Mars"
+			"item_desolator"		"Cheap and efficient damage/farm solution for Mars. Good for agressive games when you&apos;re way ahead"
 			"item_blade_mail"		"For cases when you tank a lot or as a desperation move"
-			"item_satanic"		"Status resistance, tankiness and instant heal from God&amp;amp;apos;s Rebuke"
+			"item_satanic"		"Status resistance, tankiness and instant heal from God&apos;s Rebuke"
 			"item_tranquil_boots"		"ALTERNATIVE: Phase Boots"
-			"item_ancient_janggo"		"ALTERNATIVES: Eul&amp;amp;apos;s Scepter of Divinity, Vladimir&amp;amp;apos;s Offering"
-			"item_cyclone"		"ALTERNATIVE: Drum of Endurance, Vladimir&amp;amp;apos;s Offering"
+			"item_ancient_janggo"		"ALTERNATIVES: Eul&amp;amp;amp;amp;apos;s Scepter of Divinity, Vladimir&amp;amp;amp;amp;apos;s Offering"
+			"item_cyclone"		"ALTERNATIVE: Drum of Endurance, Vladimir&apos;s Offering"
 			"item_phase_boots"		"ALTERNATIVE: Tranquil Boots"
 		}
 	}
@@ -138,7 +138,7 @@ ALTERNATIVES: Eul&amp;amp;apos;s Scepter of Divinity, Drum of Endurance"
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
-			"10"		"special_bonus_unique_mars_rebuke_slow"
+			"10"		"special_bonus_unique_mars_rebuke_radius"
 			"11"		"mars_gods_rebuke"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
@@ -151,7 +151,7 @@ ALTERNATIVES: Eul&amp;amp;apos;s Scepter of Divinity, Drum of Endurance"
 		}
 		"AbilityTooltips"
 		{
-			"mars_spear"		"Your both nuke and enemy repositioning spell. It&amp;amp;apos;s already a good spell by itself, but it is also what enables Mars as a support.
+			"mars_spear"		"Your both nuke and enemy repositioning spell. It&apos;s already a good spell by itself, but it is also what enables Mars as a support.
 
 Things to note:
 - If you fail to pin your target, it will be facing you afterwards
@@ -168,16 +168,14 @@ Tips:
 
 Tips:
 - Reduces only PHYSICAL ATTACK DAMAGE and attack damage like abilities (Monkey King&apos;s Q), but not from Swashbuckle
-- Block works as usual: doesn&amp;amp;apos;t stack, blocks after armor"
+- Block works as usual: doesn&apos;t stack, blocks after armor"
 			"mars_arena_of_blood"		"Your great teamfighting spell and synergy enabler for everything you have. Use it to catch your enemies and control their positioning to then later kill them with Spear+Rebuke
 
 Tips:
-- Doesn&amp;amp;apos;t pierce spell immutiny
+- Doesn&apos;t pierce spell immutiny
 - There may be multiple arenas
 - Mars and teammates can get in and out freely
-- It&apos;s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)
-- If you pin your enemy to the wall, it won&apos;t knock him back, but dea"
-			"special_bonus_unique_mars_spear_stun_duration"		"4.3 seconds stun is hard to deal with and it&amp;amp;apos;s pretty easy to land in most scenarios"
+- It&apos;s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)"
 			"special_bonus_unique_mars_arena_of_blood_hp_regen"		"It can be very strong and make you and your team hard to take down. It may work great in lategame scenarios or just while pushing enemy highground in general"
 		}
 	}
