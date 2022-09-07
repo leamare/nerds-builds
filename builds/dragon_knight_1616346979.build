@@ -3,17 +3,17 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Support Davion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.31d"
+	"GameplayVersion"		"7.32b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"17"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x0000000091100B19"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000062B9A0FF"
-	"TimePublished"		"0x0000000062B9A0FF"
+	"TimeUpdated"		"0x000000006317C320"
+	"TimePublished"		"0x000000006317C320"
 	"ItemBuild"
 	{
 		"Items"
@@ -61,16 +61,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_keen_optic"
+				"item"		"item_arcane_ring"
+				"item"		"item_possessed_mask"
+				"item"		"item_lance_of_pursuit"
 				"item"		"item_vambrace"
 				"item"		"item_bullwhip"
-				"item"		"item_timeless_relic"
+				"item"		"item_grove_bow"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_quickening_charm"
 				"item"		"item_flicker"
 				"item"		"item_spell_prism"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -93,7 +95,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"dragon_knight_breathe_fire"
 			"8"		"dragon_knight_breathe_fire"
 			"9"		"dragon_knight_dragon_tail"
-			"10"		"special_bonus_unique_dragon_knight_3"
+			"10"		"special_bonus_attack_damage_15"
 			"11"		"dragon_knight_dragon_tail"
 			"12"		"dragon_knight_elder_dragon_form"
 			"13"		"dragon_knight_dragon_tail"
@@ -101,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_hp_400"
 			"16"		"dragon_knight_dragon_blood"
 			"18"		"dragon_knight_elder_dragon_form"
-			"20"		"special_bonus_strength_20"
+			"20"		"special_bonus_unique_dragon_knight_9"
 			"25"		"special_bonus_unique_dragon_knight_8"
 		}
 		"AbilityTooltips"
