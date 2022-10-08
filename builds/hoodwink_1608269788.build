@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32b"
+	"GameplayVersion"		"7.32c"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x000000008A997745"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063179B42"
-	"TimePublished"		"0x0000000063179B42"
+	"TimeUpdated"		"0x0000000063406358"
+	"TimePublished"		"0x0000000063406358"
 	"ItemBuild"
 	{
 		"Items"
