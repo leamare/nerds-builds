@@ -3,16 +3,16 @@
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32b"
+	"GameplayVersion"		"7.32c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000631541B9"
-	"TimePublished"		"0x00000000631541B9"
+	"TimeUpdated"		"0x00000000634158C9"
+	"TimePublished"		"0x00000000634158C9"
 	"ItemBuild"
 	{
 		"Items"
@@ -92,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_bottle"		"ALTERNATIVE: Soul Ring"
 			"item_soul_ring"		"ALTERNATIVE: Bottle"
-			"item_echo_sabre"		"Before Aghanim&apos;s Scepter"
+			"item_echo_sabre"		"Before Aghanim&amp;apos;s Scepter"
 			"item_orb_of_corrosion"		"Before Blink Dagger"
 			"item_urn_of_shadows"		"Before Blink Dagger"
 		}

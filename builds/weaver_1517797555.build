@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32b"
+	"GameplayVersion"		"7.32c"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"90"
+	"GuideRevision"		"91"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000630FB81A"
-	"TimePublished"		"0x00000000630FB81A"
+	"TimeUpdated"		"0x000000006341595E"
+	"TimePublished"		"0x000000006341595E"
 	"ItemBuild"
 	{
 		"Items"
@@ -100,9 +100,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it&amp;amp;amp;amp;amp;apos;s pretty good to have early."
-			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don&amp;amp;amp;amp;amp;apos;t need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
-			"item_hand_of_midas"		"If you think that game is going to be super long, it&amp;amp;amp;amp;amp;apos;s probably best choice since you don&amp;amp;amp;amp;amp;apos;t have abilty to farm really fast."
+			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it&amp;amp;amp;amp;amp;amp;apos;s pretty good to have early."
+			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don&amp;amp;amp;amp;amp;amp;apos;t need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
+			"item_hand_of_midas"		"If you think that game is going to be super long, it&amp;amp;amp;amp;amp;amp;apos;s probably best choice since you don&amp;amp;amp;amp;amp;amp;apos;t have abilty to farm really fast."
 			"item_urn_of_shadows"		"Good for surviving in fights, outlving the opponents."
 			"item_hurricane_pike"		"Bonus attack range, stats and ability to save allies once again with forcestaff active. Pretty nice, huh?"
 			"item_assault"		"Pretty good on weaver because of our minusarmor playstyle."
@@ -137,8 +137,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"weaver_the_swarm"		"Our main harassing, fighting and farming tool."
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
-			"weaver_geminate_attack"		"If you don&amp;amp;amp;amp;amp;apos;t need shikuchi early, you can skill this one first. It&amp;amp;amp;amp;amp;apos;s pretty good for harassing enemy early."
-			"weaver_time_lapse"		"Don&amp;amp;amp;amp;amp;apos;t be afraid to use it. There&amp;amp;amp;amp;amp;apos;s no shame to use it when you think you need to. If there&amp;amp;amp;amp;amp;apos;s a signs of emergency - hit it to disengage and run out."
+			"weaver_geminate_attack"		"If you don&amp;amp;amp;amp;amp;amp;apos;t need shikuchi early, you can skill this one first. It&amp;amp;amp;amp;amp;amp;apos;s pretty good for harassing enemy early."
+			"weaver_time_lapse"		"Don&amp;amp;amp;amp;amp;amp;apos;t be afraid to use it. There&amp;amp;amp;amp;amp;amp;apos;s no shame to use it when you think you need to. If there&amp;amp;amp;amp;amp;amp;apos;s a signs of emergency - hit it to disengage and run out."
 		}
 	}
 }
