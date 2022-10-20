@@ -2,17 +2,17 @@
 {
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
 	"GameplayVersion"		"7.32c"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006340629A"
-	"TimePublished"		"0x000000006340629A"
+	"TimeUpdated"		"0x00000000635151EA"
+	"TimePublished"		"0x00000000635151EA"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,14 +28,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_bracer"
+				"item"		"item_phase_boots"
+				"item"		"item_magic_stick"
 				"item"		"item_soul_ring"
-				"item"		"item_boots"
-				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
 				"item"		"item_echo_sabre"
+				"item"		"item_desolator"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -47,11 +49,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_assault"
 				"item"		"item_black_king_bar"
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_basher"
-				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_abyssal_blade"
 			}
@@ -60,7 +62,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_holy_locket"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
-				"item"		"item_desolator"
 				"item"		"item_lotus_orb"
 				"item"		"item_crimson_guard"
 				"item"		"item_vladmir"
@@ -101,8 +102,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_phase_boots"		"ALTERNATIVE: Power Treads"
 			"item_falcon_blade"		"ALTERNATIVE: Soul Ring"
 			"item_soul_ring"		"ALTERNATIVE: Falcon Blade"
-			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&amp;apos;s Offering"
-			"item_desolator"		"ALTERNATIVES: Echo Sabre, Vladmir&amp;apos;s Offering"
+			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&amp;amp;apos;s Offering"
+			"item_desolator"		"ALTERNATIVES: Echo Sabre, Vladmir&amp;amp;apos;s Offering"
 		}
 	}
 	"AbilityBuild"
