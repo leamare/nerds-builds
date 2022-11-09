@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063406345"
-	"TimePublished"		"0x0000000063406345"
+	"TimeUpdated"		"0x00000000636BDEE3"
+	"TimePublished"		"0x00000000636BDEE3"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,38 +28,37 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_power_treads"
-				"item"		"item_mask_of_madness"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
 				"item"		"item_maelstrom"
 				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
 				"item"		"item_mjollnir"
 			}
 			"Core - tanky radiance"
 			{
-				"item"		"item_vanguard"
 				"item"		"item_power_treads"
+				"item"		"item_vanguard"
 				"item"		"item_radiance"
 			}
 			"Situational Early"
 			{
-				"item"		"item_echo_sabre"
 				"item"		"item_hand_of_midas"
 				"item"		"item_invis_sword"
 				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_skadi"
+				"item"		"item_monkey_king_bar"
 				"item"		"item_butterfly"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_satanic"
-				"item"		"item_aghanims_shard"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
@@ -78,6 +77,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_octarine_core"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_bloodthorn"
+				"item"		"item_echo_sabre"
 			}
 			"Best Neutral Items"
 			{
@@ -103,15 +103,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_hand_of_midas"		"May be skipped in favor of early maelstrom
 ALTERNATIVES: Mask of Madness, Echo Sabre"
 			"item_mask_of_madness"		"~8-12 min
-ALTERNATIVE: Hand of Midas, Echo Sabre"
+ALTERNATIVE: Hand of Midas, Echo Sabre, Vanguard"
 			"item_echo_sabre"		"ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"item_invis_sword"		"Before Black King Bar"
 			"item_diffusal_blade"		"ALTERNATIVES: Maelstrom, Battle Fury"
 			"item_maelstrom"		"~12-16 min
-ALTERNATIVES: Diffusal Blade, Battle Fury"
+ALTERNATIVES: Diffusal Blade, Battle Fury, Radiance"
 			"item_bfury"		"ALTERNATIVES: Maelstrom, Diffusal Blade"
 			"item_power_treads"		"~7 min"
 			"item_black_king_bar"		"~22-24 min"
+			"item_vanguard"		"ALTERNATIVE: Mask of Madness
+Before Power Treads"
+			"item_radiance"		"ALTERNATIVES: Maelstrom, Battle Fury"
 		}
 	}
 	"AbilityBuild"
