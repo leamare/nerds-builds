@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"obsidian_destroyer"
-	"Title"		"Nerds Overwhelming Designator"
+	"Title"		"Nerds Outrageous Doodler"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"19"
 	"AssociatedWorkshopItemID"		"0x00000000923B2A2B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006341579B"
-	"TimePublished"		"0x000000006341579B"
+	"TimeUpdated"		"0x0000000063937EB2"
+	"TimePublished"		"0x0000000063937EB2"
 	"ItemBuild"
 	{
 		"Items"

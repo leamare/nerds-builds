@@ -3,16 +3,16 @@
 	"Hero"		"tiny"
 	"Title"		"Nerds Tiny"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"89"
+	"GuideRevision"		"90"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000634158B7"
-	"TimePublished"		"0x00000000634158B7"
+	"TimeUpdated"		"0x0000000063938344"
+	"TimePublished"		"0x0000000063938344"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,19 +34,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_blink"
 				"item"		"item_echo_sabre"
-				"item"		"item_aghanims_shard"
-				"item"		"item_invis_sword"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bracer"
 				"item"		"item_phase_boots"
-				"item"		"item_blink"
 				"item"		"item_hand_of_midas"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
 				"item"		"item_moon_shard"
@@ -59,7 +60,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_greater_crit"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_butterfly"
 				"item"		"item_overwhelming_blink"
@@ -95,8 +95,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"~7 min
 ALTERNATIVE: Phase Boots"
 			"item_phase_boots"		"ALTERNATIVE: Phase Boots"
-			"item_blink"		"Before Shadow Blade"
-			"item_echo_sabre"		"~12 min
+			"item_blink"		"~12-15min"
+			"item_echo_sabre"		"~15-18 min
 ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"item_silver_edge"		"~23-28 min"
 			"item_assault"		"ALTERNATIVE: Butterfly"
@@ -104,7 +104,6 @@ ALTERNATIVES: Mask of Madness, Hand of Midas"
 			"item_hand_of_midas"		"~10 min
 ALTERNATIVES: Mask of Madness, Echo Sabre"
 			"item_mask_of_madness"		"ALTERNATIVES: Hand of Midas, Echo Sabre"
-			"item_ultimate_scepter"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"

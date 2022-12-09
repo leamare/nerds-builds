@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063415861"
-	"TimePublished"		"0x0000000063415861"
+	"TimeUpdated"		"0x0000000063938235"
+	"TimePublished"		"0x0000000063938235"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,7 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_force_staff"
-				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -53,20 +53,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_ethereal_blade"
+				"item"		"item_blink"
+				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
+				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
 				"item"		"item_spirit_vessel"
 				"item"		"item_ancient_janggo"
 				"item"		"item_lotus_orb"
 				"item"		"item_cyclone"
 				"item"		"item_aeon_disk"
-				"item"		"item_octarine_core"
 				"item"		"item_wraith_pact"
 			}
 			"Core Transition"

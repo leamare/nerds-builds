@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063415976"
-	"TimePublished"		"0x0000000063415976"
+	"TimeUpdated"		"0x00000000639387CE"
+	"TimePublished"		"0x00000000639387CE"
 	"ItemBuild"
 	{
 		"Items"
@@ -48,8 +48,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_travel_boots"
 				"item"		"item_ethereal_blade"
+				"item"		"item_travel_boots"
 				"item"		"item_blink"
 				"item"		"item_octarine_core"
 				"item"		"item_refresher"
@@ -90,7 +90,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_kaya"		"Before Aghanim&amp;amp;amp;amp;amp;amp;apos;s Scepter"
+			"item_kaya"		"Before Aghanim&amp;amp;amp;amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -106,7 +106,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"zuus_arc_lightning"
 			"8"		"zuus_heavenly_jump"
 			"9"		"zuus_heavenly_jump"
-			"10"		"special_bonus_unique_zeus_jump_cooldown"
+			"10"		"special_bonus_hp_250"
 			"11"		"zuus_lightning_bolt"
 			"12"		"zuus_thundergods_wrath"
 			"13"		"zuus_lightning_bolt"

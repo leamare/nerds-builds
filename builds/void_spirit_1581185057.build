@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063415955"
-	"TimePublished"		"0x0000000063415955"
+	"TimeUpdated"		"0x00000000639386C9"
+	"TimePublished"		"0x00000000639386C9"
 	"ItemBuild"
 	{
 		"Items"
@@ -105,8 +105,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"void_spirit_aether_remnant"
-			"2"		"void_spirit_resonant_pulse"
+			"1"		"void_spirit_resonant_pulse"
+			"2"		"void_spirit_aether_remnant"
 			"3"		"void_spirit_resonant_pulse"
 			"4"		"void_spirit_dissimilate"
 			"5"		"void_spirit_resonant_pulse"

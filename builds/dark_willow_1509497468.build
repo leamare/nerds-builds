@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"116"
+	"GuideRevision"		"117"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006340621F"
-	"TimePublished"		"0x000000006340621F"
+	"TimeUpdated"		"0x0000000063935C3C"
+	"TimePublished"		"0x0000000063935C3C"
 	"ItemBuild"
 	{
 		"Items"
@@ -57,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
 				"item"		"item_moon_shard"
 				"item"		"item_sheepstick"
 				"item"		"item_shivas_guard"
@@ -64,9 +65,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mask_of_madness"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
-				"item"		"item_octarine_core"
 				"item"		"item_ghost"
 				"item"		"item_rod_of_atos"
 				"item"		"item_spirit_vessel"
@@ -82,14 +83,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
-				"item"		"item_pogo_stick"
-				"item"		"item_lance_of_pursuit"
+				"item"		"item_occult_bracelet"
+				"item"		"item_mysterious_hat"
+				"item"		"item_nether_shawl"
 				"item"		"item_philosophers_stone"
 				"item"		"item_bullwhip"
-				"item"		"item_nether_shawl"
 				"item"		"item_ceremonial_robe"
-				"item"		"item_enchanted_quiver"
 				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
 				"item"		"item_spy_gadget"
 				"item"		"item_timeless_relic"
 				"item"		"item_stormcrafter"
@@ -100,7 +101,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_wind_lace"		"You&amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_wind_lace"		"You&amp;amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
@@ -136,7 +137,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityTooltips"
 		{
 			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
-			"dark_willow_cursed_crown"		"It&amp;apos;s incredibly strong ability, but we don&amp;apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
+			"dark_willow_cursed_crown"		"It&amp;amp;apos;s incredibly strong ability, but we don&amp;amp;apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
 		}
 	}
 }

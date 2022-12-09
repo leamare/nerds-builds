@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Support Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"25"
+	"GuideRevision"		"26"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063406224"
-	"TimePublished"		"0x0000000063406224"
+	"TimeUpdated"		"0x0000000063935DA3"
+	"TimePublished"		"0x0000000063935DA3"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,16 +24,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_enchanted_mango"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_magic_stick"
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
-				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_holy_locket"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
@@ -48,21 +49,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_heavens_halberd"
-				"item"		"item_boots_of_bearing"
+				"item"		"item_basher"
 				"item"		"item_lotus_orb"
 			}
 			"Situational"
 			{
 				"item"		"item_guardian_greaves"
 				"item"		"item_glimmer_cape"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
 				"item"		"item_force_staff"
 				"item"		"item_crimson_guard"
 				"item"		"item_wraith_pact"
-				"item"		"item_black_king_bar"
-				"item"		"item_basher"
 				"item"		"item_pipe"
 			}
 			"Best Neutral Items"

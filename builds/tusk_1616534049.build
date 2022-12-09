@@ -2,17 +2,17 @@
 {
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32c"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"25"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000634158C9"
-	"TimePublished"		"0x00000000634158C9"
+	"TimeUpdated"		"0x00000000639383BC"
+	"TimePublished"		"0x00000000639383BC"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,18 +31,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
+				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_desolator"
+				"item"		"item_black_king_bar"
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_falcon_blade"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_echo_sabre"
@@ -52,9 +54,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_aghanims_shard"
-				"item"		"item_octarine_core"
-				"item"		"item_desolator"
 				"item"		"item_assault"
+				"item"		"item_octarine_core"
 				"item"		"item_silver_edge"
 				"item"		"item_travel_boots"
 				"item"		"item_overwhelming_blink"
@@ -71,18 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
-				"item"		"item_occult_bracelet"
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_bullwhip"
+				"item"		"item_trusty_shovel"
+				"item"		"item_pogo_stick"
+				"item"		"item_broom_handle"
+				"item"		"item_dragon_scale"
+				"item"		"item_misericorde"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_black_powder_bag"
 				"item"		"item_quickening_charm"
-				"item"		"item_flicker"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_havoc_hammer"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -91,7 +92,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_bottle"		"ALTERNATIVE: Soul Ring"
-			"item_soul_ring"		"ALTERNATIVE: Bottle"
+			"item_soul_ring"		"ALTERNATIVE: Bottle
+SWAP: Phase Boots"
 			"item_echo_sabre"		"Before Aghanim&amp;apos;s Scepter"
 			"item_orb_of_corrosion"		"Before Blink Dagger"
 			"item_urn_of_shadows"		"Before Blink Dagger"

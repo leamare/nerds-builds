@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"void_spirit"
-	"Title"		"Void Spirit"
+	"Title"		"Nerds Core Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063415934"
-	"TimePublished"		"0x0000000063415934"
+	"TimeUpdated"		"0x00000000639386B3"
+	"TimePublished"		"0x00000000639386B3"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,8 +37,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"

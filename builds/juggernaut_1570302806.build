@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063406AB7"
-	"TimePublished"		"0x0000000063406AB7"
+	"TimeUpdated"		"0x0000000063936E32"
+	"TimePublished"		"0x0000000063936E32"
 	"ItemBuild"
 	{
 		"Items"
@@ -52,8 +52,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mjollnir"
 				"item"		"item_blink"
-				"item"		"item_skadi"
 				"item"		"item_basher"
+				"item"		"item_skadi"
 				"item"		"item_swift_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
@@ -77,11 +77,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_possessed_mask"
 				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
-				"item"		"item_lance_of_pursuit"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
+				"item"		"item_pupils_gift"
 				"item"		"item_misericorde"
 				"item"		"item_mind_breaker"
 				"item"		"item_titan_sliver"
@@ -112,10 +112,10 @@ ALTERNATIVE: Sange and Yasha"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 			"item_diffusal_blade"		"Cheap early damage and slow, for playstyle based on manaburn and illusions
 ALTERNATIVES: Maelstrom, Battle Fury, Radiance"
-			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;amp;amp;apos;s Sphere, Black King Bar"
+			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;amp;amp;amp;apos;s Sphere, Black King Bar"
 			"item_sphere"		"ALTERNATIVES: Eye of Skadi, Black King Bar"
 			"item_black_king_bar"		"Against control heavy lineups
-ALTERNATIVES: Eye of Skadi, Linken&amp;apos;s Sphere"
+ALTERNATIVES: Eye of Skadi, Linken&amp;amp;apos;s Sphere"
 			"item_ancient_janggo"		"Before Maelstrom"
 		}
 	}

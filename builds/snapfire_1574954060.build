@@ -2,17 +2,17 @@
 {
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32c"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063415869"
-	"TimePublished"		"0x0000000063415869"
+	"TimeUpdated"		"0x00000000639381EF"
+	"TimePublished"		"0x00000000639381EF"
 	"ItemBuild"
 	{
 		"Items"

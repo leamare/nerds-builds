@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000635151EA"
-	"TimePublished"		"0x00000000635151EA"
+	"TimeUpdated"		"0x0000000063935D66"
+	"TimePublished"		"0x0000000063935D66"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,30 +29,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bracer"
-				"item"		"item_phase_boots"
-				"item"		"item_magic_stick"
+				"item"		"item_boots"
 				"item"		"item_soul_ring"
+				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_echo_sabre"
 				"item"		"item_desolator"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_echo_sabre"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_falcon_blade"
 				"item"		"item_armlet"
 			}
 			"Lategame"
 			{
-				"item"		"item_assault"
-				"item"		"item_black_king_bar"
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
 				"item"		"item_basher"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_abyssal_blade"
@@ -79,18 +79,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_unstable_wand"
-				"item"		"item_pogo_stick"
+				"item"		"item_arcane_ring"
+				"item"		"item_occult_bracelet"
+				"item"		"item_possessed_mask"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_bullwhip"
 				"item"		"item_misericorde"
-				"item"		"item_vambrace"
-				"item"		"item_mind_breaker"
-				"item"		"item_quickening_charm"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_black_powder_bag"
 				"item"		"item_paladin_sword"
 				"item"		"item_havoc_hammer"
-				"item"		"item_penta_edged_sword"
 				"item"		"item_trickster_cloak"
+				"item"		"item_penta_edged_sword"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -98,12 +98,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_power_treads"		"ALTERNATIVE: Phase Boots"
-			"item_phase_boots"		"ALTERNATIVE: Power Treads"
 			"item_falcon_blade"		"ALTERNATIVE: Soul Ring"
 			"item_soul_ring"		"ALTERNATIVE: Falcon Blade"
-			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&amp;amp;apos;s Offering"
-			"item_desolator"		"ALTERNATIVES: Echo Sabre, Vladmir&amp;amp;apos;s Offering"
+			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&apos;s Offering"
+			"item_desolator"		"ALTERNATIVES: Echo Sabre, Vladmir&apos;s Offering"
 		}
 	}
 	"AbilityBuild"

@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063406BC4"
-	"TimePublished"		"0x0000000063406BC4"
+	"TimeUpdated"		"0x00000000639379B1"
+	"TimePublished"		"0x00000000639379B1"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,6 +34,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_helm_of_the_overlord"
+				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
 			}
 			"Situational Early"
@@ -41,7 +42,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_ancient_janggo"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_wraith_pact"
 			}
 			"Core - No Helm Build"
 			{
@@ -54,8 +54,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_abyssal_blade"
 				"item"		"item_boots_of_bearing"
+				"item"		"item_abyssal_blade"
 				"item"		"item_nullifier"
 				"item"		"item_satanic"
 			}
@@ -69,21 +69,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodthorn"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_silver_edge"
+				"item"		"item_wraith_pact"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
-				"item"		"item_seeds_of_serenity"
+				"item"		"item_lance_of_pursuit"
 				"item"		"item_possessed_mask"
-				"item"		"item_vambrace"
-				"item"		"item_bullwhip"
+				"item"		"item_seeds_of_serenity"
 				"item"		"item_dragon_scale"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_titan_sliver"
+				"item"		"item_black_powder_bag"
 				"item"		"item_elven_tunic"
-				"item"		"item_mind_breaker"
-				"item"		"item_havoc_hammer"
+				"item"		"item_ascetic_cap"
 				"item"		"item_spell_prism"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_heavy_blade"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -92,7 +93,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_helm_of_the_dominator"		"~8 min"
-			"item_boots"		"Before Vladmir&amp;apos;s Offering
+			"item_boots"		"Before Vladmir&amp;amp;apos;s Offering
 Usually you tend to play without Boots, especially in lane, until you finish Helm."
 			"item_helm_of_the_overlord"		"~14-16 min
 ALTERNATIVE: Wraith Pact"
@@ -126,7 +127,7 @@ Before Assault Cuirass"
 			"16"		"lycan_howl"
 			"18"		"lycan_shapeshift"
 			"20"		"special_bonus_unique_lycan_1"
-			"25"		"special_bonus_unique_lycan_2"
+			"25"		"special_bonus_unique_lycan_5"
 		}
 		"AbilityTooltips"
 		{

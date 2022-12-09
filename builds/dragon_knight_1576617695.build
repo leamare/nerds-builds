@@ -3,16 +3,16 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Dragon Knight"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32c"
+	"GameplayVersion"		"7.32d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000634062DC"
-	"TimePublished"		"0x00000000634062DC"
+	"TimeUpdated"		"0x0000000063935F55"
+	"TimePublished"		"0x0000000063935F55"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,7 +28,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_falcon_blade"
+				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 				"item"		"item_boots"
 			}
@@ -41,16 +41,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_falcon_blade"
 				"item"		"item_hand_of_midas"
-				"item"		"item_soul_ring"
 				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_heavens_halberd"
+				"item"		"item_silver_edge"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
-				"item"		"item_silver_edge"
+				"item"		"item_heavens_halberd"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
@@ -65,18 +65,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
 				"item"		"item_possessed_mask"
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_grove_bow"
-				"item"		"item_misericorde"
+				"item"		"item_occult_bracelet"
+				"item"		"item_pogo_stick"
+				"item"		"item_specialists_array"
+				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
 				"item"		"item_titan_sliver"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_mind_breaker"
 				"item"		"item_havoc_hammer"
-				"item"		"item_trickster_cloak"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_ascetic_cap"
+				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -101,12 +101,12 @@ Before Power Treads"
 			"2"		"dragon_knight_dragon_blood"
 			"3"		"dragon_knight_dragon_blood"
 			"4"		"dragon_knight_breathe_fire"
-			"5"		"dragon_knight_dragon_blood"
+			"5"		"dragon_knight_breathe_fire"
 			"6"		"dragon_knight_elder_dragon_form"
-			"7"		"dragon_knight_dragon_blood"
+			"7"		"dragon_knight_breathe_fire"
 			"8"		"dragon_knight_breathe_fire"
-			"9"		"dragon_knight_breathe_fire"
-			"10"		"dragon_knight_breathe_fire"
+			"9"		"dragon_knight_dragon_blood"
+			"10"		"dragon_knight_dragon_blood"
 			"11"		"special_bonus_attack_damage_15"
 			"12"		"dragon_knight_elder_dragon_form"
 			"13"		"dragon_knight_dragon_tail"
