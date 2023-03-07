@@ -1,0 +1,127 @@
+"guidedata"
+{
+	"Hero"		"muerta"
+	"Title"		"Nerds Core Muerta"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.32e"
+	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000640753FC"
+	"TimePublished"		"0x00000000640753FC"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"Starting"
+			{
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_tango"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_bottle"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_maelstrom"
+			}
+			"Situational Early"
+			{
+				"item"		"item_witch_blade"
+				"item"		"item_dragon_lance"
+				"item"		"item_blink"
+				"item"		"item_invis_sword"
+				"item"		"item_hand_of_midas"
+			}
+			"Lategame"
+			{
+				"item"		"item_sphere"
+				"item"		"item_bloodstone"
+				"item"		"item_greater_crit"
+				"item"		"item_skadi"
+				"item"		"item_sheepstick"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_revenants_brooch"
+				"item"		"item_silver_edge"
+				"item"		"item_hurricane_pike"
+				"item"		"item_ethereal_blade"
+				"item"		"item_gungir"
+				"item"		"item_mjollnir"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_satanic"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_refresher"
+				"item"		"item_octarine_core"
+				"item"		"item_bloodthorn"
+				"item"		"item_shivas_guard"
+				"item"		"item_overwhelming_blink"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_possessed_mask"
+				"item"		"item_occult_bracelet"
+				"item"		"item_vambrace"
+				"item"		"item_grove_bow"
+				"item"		"item_pupils_gift"
+				"item"		"item_paladin_sword"
+				"item"		"item_psychic_headband"
+				"item"		"item_elven_tunic"
+				"item"		"item_spell_prism"
+				"item"		"item_flicker"
+				"item"		"item_trickster_cloak"
+			}
+			"https://builds.spectral.gg/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"muerta_dead_shot"
+			"2"		"muerta_gunslinger"
+			"3"		"muerta_dead_shot"
+			"4"		"muerta_the_calling"
+			"5"		"muerta_dead_shot"
+			"6"		"muerta_pierce_the_veil"
+			"7"		"muerta_dead_shot"
+			"8"		"muerta_the_calling"
+			"9"		"muerta_the_calling"
+			"10"		"special_bonus_unique_muerta_dead_shot_damage"
+			"11"		"muerta_the_calling"
+			"12"		"muerta_pierce_the_veil"
+			"13"		"muerta_gunslinger"
+			"14"		"muerta_gunslinger"
+			"15"		"special_bonus_attack_damage_25"
+			"16"		"muerta_gunslinger"
+			"18"		"muerta_pierce_the_veil"
+			"20"		"special_bonus_unique_muerta_the_calling_num_revenants"
+			"25"		"special_bonus_magic_resistance_25"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
