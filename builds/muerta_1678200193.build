@@ -7,12 +7,12 @@
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"3"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640753FC"
-	"TimePublished"		"0x00000000640753FC"
+	"TimeUpdated"		"0x0000000064090FBD"
+	"TimePublished"		"0x0000000064090FBD"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,32 +33,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_maelstrom"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_dragon_lance"
 			}
 			"Situational Early"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_dragon_lance"
 				"item"		"item_blink"
 				"item"		"item_invis_sword"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
-				"item"		"item_sphere"
-				"item"		"item_bloodstone"
 				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_sphere"
 				"item"		"item_skadi"
 				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_revenants_brooch"
 				"item"		"item_silver_edge"
-				"item"		"item_hurricane_pike"
+				"item"		"item_revenants_brooch"
+				"item"		"item_bloodstone"
 				"item"		"item_ethereal_blade"
 				"item"		"item_gungir"
 				"item"		"item_mjollnir"
