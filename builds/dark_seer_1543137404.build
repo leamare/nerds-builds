@@ -3,18 +3,18 @@
 	"Hero"		"dark_seer"
 	"Title"		"Nerds Dark Seer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"Dark Seer in an intelligence utility core hero who excells at teamfighting and resetting fights, as well as surviving in a tough circumstances.
 
 Historically his best lane is offlane. He is tanky enough to survive with his starting stats, his Ion Shell allowes him to pressure enemy lane and safely farm jungle and even if enemy will be able to catch him, Dark Seer is most likely to get away with Surge. He usually buys all the utility-tank items, but his most important item is Helm of the Dominator that enables his farm and gives him a possibility to combo Vacuum with a neutral's ability (usually Centaur's stun).
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x000000005DEDA629"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063935BB1"
-	"TimePublished"		"0x0000000063935BB1"
+	"TimeUpdated"		"0x00000000640A0E66"
+	"TimePublished"		"0x00000000640A0E66"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,9 +35,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
 				"item"		"item_blink"
-				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -49,17 +49,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
+				"item"		"item_black_king_bar"
 				"item"		"item_lotus_orb"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
 				"item"		"item_refresher"
-				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
-				"item"		"item_guardian_greaves"
-				"item"		"item_pipe"
 				"item"		"item_crimson_guard"
 				"item"		"item_eternal_shroud"
 				"item"		"item_aeon_disk"
@@ -96,32 +96,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_soul_ring"		"Considering Dark Seer&amp;amp;apos;s HP regen, with Soul Ring you will be able to cast Ion Shells on lane pretty much for free"
+			"item_soul_ring"		"Considering Dark Seer&apos;s HP regen, with Soul Ring you will be able to cast Ion Shells on lane pretty much for free"
 			"item_arcane_boots"		"Additional mana sustain for farming and to ensure you will have enough mana for everything"
-			"item_helm_of_the_dominator"		"Dark Seer&amp;amp;apos;s main farming/fighting item. Your best creep to dominate is Centaur. It&amp;amp;apos;s recommended to setup your Tabbing, Select All Units and control groups hotkeys.
+			"item_helm_of_the_dominator"		"Dark Seer&apos;s main farming/fighting item. Your best creep to dominate is Centaur. It&apos;s recommended to setup your Tabbing, Select All Units and control groups hotkeys.
 
 Can be skipped in fast games to get faster Greaves.
 
 Uses:
-1) Combo Vacuum with Centaur&amp;amp;apos;s stun or Ursa&amp;amp;apos;s Clap
+1) Combo Vacuum with Centaur&apos;s stun or Ursa&apos;s Clap
 2) Ion Shell dominated creep and farm enemy jungle while farming the lane
 3) Ion Shell dominated creep and constantly pull creepwaves from enemy tier 3"
 			"item_blink"		"Initiation item to perform all your sick combos"
 			"item_vanguard"		"Usually good against high attack speed cores, mainly physical damage lineup or summons. Best examples are Visage, Windranger, Troll, Luna"
-			"item_force_staff"		"Against slows or lockdowns, like Riki, Slark. Even if you&amp;amp;apos;re not afraid of them, you can use if to help your teammates"
+			"item_force_staff"		"Against slows or lockdowns, like Riki, Slark. Even if you&apos;re not afraid of them, you can use if to help your teammates"
 			"item_blade_mail"		"Dark Seer is naturally pretty tanky, so if you feel like enemies are focusing you a lot, or you just need a bit more armor, you can get it"
 			"item_crimson_guard"		"Natural upgrade for Vanguard and great item overall: helps your team, gives you HP and armor"
 			"item_guardian_greaves"		"One of the best and core items for Dark Seer. You can get it relatively fast, it gives you overall good stats for your hero and makes your team stronger which is all you may want.
 
 You can rush Greaves to get lower cooldown and fight more often, as well as keep your team ready to fight all the time"
-			"item_ultimate_scepter"		"If your teamfights go well, enemy has some good illusions and you feel like you&amp;amp;apos;re pretty good with your Wall of Replica usage, you can get Aghs to amplify your teamfights impact."
+			"item_ultimate_scepter"		"If your teamfights go well, enemy has some good illusions and you feel like you&apos;re pretty good with your Wall of Replica usage, you can get Aghs to amplify your teamfights impact."
 			"item_pipe"		"Natural Hood upgrade, works well against magic heavy lineups"
 			"item_sheepstick"		"The best utility item you can buy for any intelligence utility hero. Additional reliable lockdown and overall awesome stats"
-			"item_shivas_guard"		"Works well against attack speed heavy lineups and even better against low attack speed ones. Usually it&amp;amp;apos;s more of a luxury item that you pick up to increase your teamfight impact when you don&amp;amp;apos;t really need anything else"
+			"item_shivas_guard"		"Works well against attack speed heavy lineups and even better against low attack speed ones. Usually it&apos;s more of a luxury item that you pick up to increase your teamfight impact when you don&apos;t really need anything else"
 			"item_lotus_orb"		"Great pickup against enemy silences or other not-that-kind type of debuffs that can interrupt you during fights or get your teammate killed"
-			"item_sphere"		"You don&amp;amp;apos;t really need it, but it can be OK against Doom"
-			"item_radiance"		"May be fine for snowballing and showing enemies who&amp;amp;apos;s the daddy here"
-			"item_assault"		"May be good as an utility/armor item, but it&amp;amp;apos;s not great in a sence that Dark Seer doesn&amp;amp;apos;t really need all these bonuses and he acts more like a backline caster"
+			"item_sphere"		"You don&apos;t really need it, but it can be OK against Doom"
+			"item_radiance"		"May be fine for snowballing and showing enemies who&apos;s the daddy here"
+			"item_assault"		"May be good as an utility/armor item, but it&apos;s not great in a sence that Dark Seer doesn&apos;t really need all these bonuses and he acts more like a backline caster"
 			"item_cyclone"		"Works well as cheap lockdown/purge/save, especially good against heroes like Kunkka or Juggernaut"
 		}
 	}
@@ -152,7 +152,6 @@ You can rush Greaves to get lower cooldown and fight more often, as well as keep
 		"AbilityTooltips"
 		{
 			"special_bonus_unique_dark_seer_3"		"Turns you into fight-resetter since you can make your whole team surged and retreat without losing anyone to reposition and regroup"
-			"special_bonus_unique_dark_seer_4"		"It&amp;amp;amp;amp;amp;apos;s not that good in a sence that people are already either avoiding the wall or just dying to it. Getting another wall won&amp;amp;amp;amp;amp;apos;t make a difference most of the time"
 		}
 	}
 }
