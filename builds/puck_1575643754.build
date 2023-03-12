@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 
 Initially based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063937EF6"
-	"TimePublished"		"0x0000000063937EF6"
+	"TimeUpdated"		"0x00000000640A04DA"
+	"TimePublished"		"0x00000000640A04DA"
 	"ItemBuild"
 	{
 		"Items"
@@ -94,10 +94,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_keen_optic"		"Provides us a little bit of mana regen and cast range that we benefit a lot from, as all of our spells are AoE"
-			"item_ocean_heart"		"Provides just enough attributes and regen to sustain the lane or any rotations or even jungle farming"
 			"item_trusty_shovel"		"Gives us a bit of health, free salves and tp scrolls. bounty runes if you lucky. Good neutral item for any support"
-			"item_arcane_ring"		"Smaller version of Arcane boots for us and our team, also gives 3 armour and 8 intelligence. Better then nothing"
 			"item_pupils_gift"		"+13 secondary stats which is +260 HP and +2 armour for us. Efficient just as 2 bracers are"
 			"item_philosophers_stone"		"Good item for any support. Place it in courier"
 			"item_nether_shawl"		"Best t2 item for us. Spell damage and magic resist"

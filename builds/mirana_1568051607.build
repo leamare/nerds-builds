@@ -3,16 +3,16 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063937C41"
-	"TimePublished"		"0x0000000063937C41"
+	"TimeUpdated"		"0x00000000640A14BC"
+	"TimePublished"		"0x00000000640A14BC"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,28 +22,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_circlet"
 				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_clarity"
-				"item"		"item_flask"
 				"item"		"item_faerie_fire"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_boots"
+				"item"		"item_magic_stick"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
-				"item"		"item_spirit_vessel"
-				"item"		"item_cyclone"
+				"item"		"item_guardian_greaves"
+				"item"		"item_force_staff"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_ring_of_basilius"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_tranquil_boots"
 				"item"		"item_hand_of_midas"
-				"item"		"item_arcane_boots"
 				"item"		"item_bottle"
 				"item"		"item_ghost"
 			}
@@ -51,19 +52,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
-				"item"		"item_travel_boots"
-				"item"		"item_blink"
+				"item"		"item_lotus_orb"
 				"item"		"item_sheepstick"
+				"item"		"item_hurricane_pike"
+				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_cyclone"
+				"item"		"item_spirit_vessel"
 				"item"		"item_wraith_pact"
-				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
-				"item"		"item_force_staff"
 				"item"		"item_solar_crest"
 				"item"		"item_pipe"
 				"item"		"item_wind_waker"
+				"item"		"item_blink"
 			}
 			"Other Significant Items"
 			{

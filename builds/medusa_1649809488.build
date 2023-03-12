@@ -1,16 +1,16 @@
 "guidedata"
 {
 	"Hero"		"medusa"
-	"Title"		"Experimental Manadusa"
+	"Title"		"Nerds Medusa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		""
-	"GuideRevision"		"8"
+	"GuideRevision"		"12"
 	"AssociatedWorkshopItemID"		"0x00000000A8043F97"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063937BF9"
-	"TimePublished"		"0x0000000063937BF9"
+	"TimeUpdated"		"0x00000000640A1436"
+	"TimePublished"		"0x00000000640A1436"
 	"ItemBuild"
 	{
 		"Items"
@@ -19,43 +19,49 @@
 			{
 				"item"		"item_tango"
 				"item"		"item_slippers"
-				"item"		"item_slippers"
 				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
-				"item"		"item_wraith_band"
-				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
+				"item"		"item_falcon_blade"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mask_of_madness"
-				"item"		"item_maelstrom"
-				"item"		"item_bloodstone"
+				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_yasha"
 				"item"		"item_blink"
+				"item"		"item_maelstrom"
+				"item"		"item_mask_of_madness"
 			}
 			"Lategame"
 			{
 				"item"		"item_aghanims_shard"
-				"item"		"item_mjollnir"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_satanic"
-				"item"		"item_butterfly"
+				"item"		"item_hurricane_pike"
 				"item"		"item_greater_crit"
 				"item"		"item_swift_blink"
+				"item"		"item_satanic"
+				"item"		"item_butterfly"
 			}
 			"Situational"
 			{
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_rapier"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_bloodstone"
+				"item"		"item_eternal_shroud"
+				"item"		"item_yasha_and_kaya"
 			}
 			"Best Neutral Items"
 			{
@@ -95,14 +101,14 @@
 			"9"		"medusa_split_shot"
 			"10"		"medusa_mana_shield"
 			"11"		"medusa_stone_gaze"
-			"12"		"special_bonus_unique_medusa_6"
+			"12"		"special_bonus_unique_medusa_7"
 			"13"		"medusa_mana_shield"
 			"14"		"medusa_mana_shield"
 			"15"		"special_bonus_unique_medusa_2"
 			"16"		"medusa_stone_gaze"
 			"18"		"medusa_stone_gaze"
 			"20"		"special_bonus_unique_medusa"
-			"25"		"special_bonus_intelligence_75"
+			"25"		"special_bonus_unique_medusa_4"
 		}
 		"AbilityTooltips"
 		{
