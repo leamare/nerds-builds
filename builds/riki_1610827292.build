@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Support Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 Initially based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"24"
+	"GuideRevision"		"27"
 	"AssociatedWorkshopItemID"		"0x00000000910FA549"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063938011"
-	"TimePublished"		"0x0000000063938011"
+	"TimeUpdated"		"0x00000000640A16BE"
+	"TimePublished"		"0x00000000640A16BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,23 +20,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
-				"item"		"item_ward_sentry"
+				"item"		"item_boots"
 			}
 			"Early"
 			{
 				"item"		"item_orb_of_venom"
-				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
 				"item"		"item_aghanims_shard"
+				"item"		"item_aether_lens"
 				"item"		"item_meteor_hammer"
-				"item"		"item_basher"
 			}
 			"Situational Early"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"88"
+	"GuideRevision"		"90"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063938141"
-	"TimePublished"		"0x0000000063938141"
+	"TimeUpdated"		"0x00000000640A04DB"
+	"TimePublished"		"0x00000000640A04DB"
 	"ItemBuild"
 	{
 		"Items"
@@ -103,12 +103,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 Bonus damage from int or tankiness and attack speed. These early stats from threads are pretty strong in terms of boosting our farming speed and fighting capablities."
 			"item_sheepstick"		"Instant lockdown, mana regen, a little bit of tankiness and massive int increase. Basically best item for Silencer in late game"
 			"item_hurricane_pike"		"At this point we will have Force Staff already, so upgrading it to pike will not be that expensive, while also providing a lot of good stats and attack range: those things Silencer has problems with"
-			"item_refresher"		"Need double global? Well, why not. There&amp;amp;amp;apos;re no other reasons to get it tho: it doesn&amp;amp;amp;amp;amp;amp;apos;t give us anything else we actually need"
-			"item_assault"		"Safer version of Moon Shard: huge attack speed boost and armor increase, works well with Silencer&amp;amp;amp;apos;s agressive playstyle"
-			"item_black_king_bar"		"The item we don&amp;amp;amp;apos;t really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
+			"item_refresher"		"Need double global? Well, why not. There&apos;re no other reasons to get it tho: it doesn&apos;t give us anything else we actually need"
+			"item_assault"		"Safer version of Moon Shard: huge attack speed boost and armor increase, works well with Silencer&apos;s agressive playstyle"
+			"item_black_king_bar"		"The item we don&apos;t really want to get, but it works well with our agressive playstyle and may serve as ultimate save item"
 			"item_shivas_guard"		"With our agressive plays, pretty often bought item: massive int and armor increase, works as huge boost to our durability"
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
-			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it&amp;amp;amp;apos;s goo only when you need raw hp increase and damage"
+			"item_skadi"		"Massive stats boost, works well with agressive playstyle, altho, it&apos;s goo only when you need raw hp increase and damage"
 			"item_hand_of_midas"		"Before Witch Blade"
 			"item_witch_blade"		"~20 min
 ALTERNATIVE: Rod of Atos"
@@ -144,7 +144,7 @@ ALTERNATIVE: Witch Blade"
 		"AbilityTooltips"
 		{
 			"silencer_curse_of_the_silent"		"Our main killing tool (slow). Better slow early = more kill potential"
-			"silencer_glaives_of_wisdom"		"good to have early in lane to harass opponent. Doesn&amp;amp;amp;amp;amp;amp;apos;t really good for maxing out early on since other spells will increase our damage much more"
+			"silencer_glaives_of_wisdom"		"good to have early in lane to harass opponent. Doesn&apos;t really good for maxing out early on since other spells will increase our damage much more"
 			"silencer_last_word"		"Additonal lockdown, nuke and, the most valuable, vision over target"
 		}
 	}

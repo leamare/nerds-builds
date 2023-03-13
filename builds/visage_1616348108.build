@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Support Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"26"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x00000000910F481B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063938634"
-	"TimePublished"		"0x0000000063938634"
+	"TimeUpdated"		"0x00000000640A19BF"
+	"TimePublished"		"0x00000000640A19BF"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,8 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
-				"item"		"item_flask"
+				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_clarity"
 			}
@@ -31,23 +30,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
-				"item"		"item_tranquil_boots"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
+				"item"		"item_solar_crest"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_blight_stone"
+				"item"		"item_ancient_janggo"
 				"item"		"item_ghost"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
+				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_assault"
 				"item"		"item_orchid"
@@ -56,11 +55,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_rod_of_atos"
-				"item"		"item_gungir"
+				"item"		"item_guardian_greaves"
 				"item"		"item_lotus_orb"
 				"item"		"item_veil_of_discord"
-				"item"		"item_guardian_greaves"
-				"item"		"item_wraith_pact"
 				"item"		"item_helm_of_the_overlord"
 				"item"		"item_glimmer_cape"
 			}

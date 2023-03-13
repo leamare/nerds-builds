@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"78"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000063938248"
-	"TimePublished"		"0x0000000063938248"
+	"TimeUpdated"		"0x00000000640A04DC"
+	"TimePublished"		"0x00000000640A04DC"
 	"ItemBuild"
 	{
 		"Items"
@@ -52,6 +52,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_heart"
 				"item"		"item_assault"
 			}
+			"Situational"
+			{
+				"item"		"item_ghost"
+				"item"		"item_diffusal_blade"
+				"item"		"item_sheepstick"
+			}
 			"Utility"
 			{
 				"item"		"item_solar_crest"
@@ -61,12 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
-			}
-			"Situational"
-			{
-				"item"		"item_ghost"
-				"item"		"item_diffusal_blade"
-				"item"		"item_sheepstick"
 			}
 			"Other Significant Items"
 			{

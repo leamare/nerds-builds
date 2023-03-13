@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Core Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32d"
+	"GameplayVersion"		"7.32e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"69"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x000000007289281A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000639386B3"
-	"TimePublished"		"0x00000000639386B3"
+	"TimeUpdated"		"0x00000000640A1A28"
+	"TimePublished"		"0x00000000640A1A28"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_witch_blade"
-				"item"		"item_ethereal_blade"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
@@ -46,23 +46,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_orchid"
 				"item"		"item_cyclone"
+				"item"		"item_ethereal_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
 				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_aeon_disk"
 				"item"		"item_sheepstick"
 				"item"		"item_dagon_5"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_sphere"
 				"item"		"item_refresher"
-				"item"		"item_aeon_disk"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 				"item"		"item_revenants_brooch"
@@ -95,6 +95,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_witch_blade"		"ALTERNATIVE: Orchid Malevolance"
 			"item_orchid"		"ALTERNATIVE: Witch Blade"
+			"item_ethereal_blade"		"ALTERNATIVES: Kaya and Sange"
+			"item_kaya_and_sange"		"ALTERNATIVES: Ethereal Blade"
 		}
 	}
 	"AbilityBuild"
