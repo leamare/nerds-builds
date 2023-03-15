@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000006CDA7DD2"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D7"
-	"TimePublished"		"0x00000000640A04D7"
+	"TimeUpdated"		"0x00000000640F1A08"
+	"TimePublished"		"0x00000000640F1A08"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_meteor_hammer"
 				"item"		"item_spirit_vessel"
 				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
