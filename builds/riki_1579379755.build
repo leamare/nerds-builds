@@ -7,12 +7,12 @@
 	"Overview"		"
 Based on games played during DreamLeague Leipzig Major and consequent Immortal Rank matches
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x000000007592C165"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DB"
-	"TimePublished"		"0x00000000640A04DB"
+	"TimeUpdated"		"0x00000000640CA0F5"
+	"TimePublished"		"0x00000000640CA0F5"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,34 +21,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_slippers"
 				"item"		"item_branches"
-				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_wraith_band"
-				"item"		"item_power_treads"
+				"item"		"item_meteor_hammer"
 				"item"		"item_magic_wand"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
-				"item"		"item_manta"
 				"item"		"item_aghanims_shard"
-				"item"		"item_black_king_bar"
+				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_bfury"
 				"item"		"item_mage_slayer"
 				"item"		"item_maelstrom"
+				"item"		"item_wraith_band"
 			}
 			"Lategame"
 			{
-				"item"		"item_basher"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+				"item"		"item_basher"
 				"item"		"item_greater_crit"
 				"item"		"item_nullifier"
 				"item"		"item_abyssal_blade"
@@ -58,6 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_bfury"
 				"item"		"item_skadi"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_satanic"
