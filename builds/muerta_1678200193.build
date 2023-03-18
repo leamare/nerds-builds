@@ -7,12 +7,12 @@
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"14"
+	"GuideRevision"		"15"
 	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064107F77"
-	"TimePublished"		"0x0000000064107F77"
+	"TimeUpdated"		"0x000000006415ACD3"
+	"TimePublished"		"0x000000006415ACD3"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_mantle"
-				"item"		"item_mantle"
+				"item"		"item_circlet"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
@@ -29,7 +30,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
 				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
+				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
@@ -126,7 +127,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"muerta_pierce_the_veil"
 			"13"		"muerta_the_calling"
 			"14"		"muerta_the_calling"
-			"15"		"special_bonus_attack_damage_25"
+			"15"		"special_bonus_attack_damage_35"
 			"16"		"muerta_the_calling"
 			"18"		"muerta_pierce_the_veil"
 			"20"		"special_bonus_unique_muerta_dead_shot_charges"
