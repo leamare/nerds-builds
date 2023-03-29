@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x0000000073B5405B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D2"
-	"TimePublished"		"0x00000000640A04D2"
+	"TimeUpdated"		"0x000000006422DD66"
+	"TimePublished"		"0x000000006422DD66"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 				"item"		"item_ring_of_protection"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_flask"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -34,8 +34,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_blink"
 				"item"		"item_blade_mail"
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
@@ -44,6 +46,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_invis_sword"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_meteor_hammer"
 			}
 			"Utility"
 			{
@@ -54,9 +57,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_heart"
@@ -81,9 +84,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_lance_of_pursuit"
+				"item"		"item_occult_bracelet"
 				"item"		"item_pogo_stick"
-				"item"		"item_arcane_ring"
+				"item"		"item_broom_handle"
 				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
 				"item"		"item_vambrace"
@@ -91,8 +94,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cloak_of_flames"
 				"item"		"item_quickening_charm"
 				"item"		"item_ascetic_cap"
-				"item"		"item_havoc_hammer"
-				"item"		"item_ninja_gear"
+				"item"		"item_stormcrafter"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{

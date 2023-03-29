@@ -8,12 +8,12 @@
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x0000000091101944"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A0B69"
-	"TimePublished"		"0x00000000640A0B69"
+	"TimeUpdated"		"0x000000006422DC30"
+	"TimePublished"		"0x000000006422DC30"
 	"ItemBuild"
 	{
 		"Items"
@@ -114,7 +114,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_antimage_manavoid_aoe"
 			"16"		"antimage_mana_break"
 			"18"		"antimage_mana_void"
-			"20"		"special_bonus_unique_antimage_3"
+			"20"		"special_bonus_unique_antimage_6"
 			"25"		"special_bonus_unique_antimage_2"
 		}
 		"AbilityTooltips"

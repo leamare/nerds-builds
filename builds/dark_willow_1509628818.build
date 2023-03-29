@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"134"
+	"GuideRevision"		"138"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D4"
-	"TimePublished"		"0x00000000640A04D4"
+	"TimeUpdated"		"0x000000006422E44E"
+	"TimePublished"		"0x000000006422E44E"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,54 +20,54 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
+				"item"		"item_tango"
+				"item"		"item_mantle"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_flask"
 				"item"		"item_faerie_fire"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
 				"item"		"item_magic_wand"
 				"item"		"item_null_talisman"
+				"item"		"item_veil_of_discord"
 				"item"		"item_tranquil_boots"
 			}
 			"Core"
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_blink"
-				"item"		"item_cyclone"
 				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_meteor_hammer"
+				"item"		"item_cyclone"
 				"item"		"item_witch_blade"
-				"item"		"item_soul_ring"
-				"item"		"item_force_staff"
+				"item"		"item_mask_of_madness"
 			}
 			"Utility"
 			{
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_ethereal_blade"
-				"item"		"item_solar_crest"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
 				"item"		"item_boots_of_bearing"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_wind_waker"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_wind_waker"
 				"item"		"item_sphere"
 				"item"		"item_invis_sword"
 				"item"		"item_black_king_bar"
@@ -107,6 +107,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
 			"item_tranquil_boots"		"ALTERNATIVE: Power Treads"
+			"item_mask_of_madness"		"After Aghanim&apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -121,11 +122,11 @@ ALTERNATIVE: Tranquil Boots"
 			"6"		"dark_willow_bedlam"
 			"7"		"dark_willow_shadow_realm"
 			"8"		"dark_willow_bramble_maze"
-			"9"		"dark_willow_bramble_maze"
+			"9"		"dark_willow_cursed_crown"
 			"10"		"special_bonus_unique_dark_willow_5"
 			"11"		"dark_willow_bramble_maze"
 			"12"		"dark_willow_bedlam"
-			"13"		"dark_willow_cursed_crown"
+			"13"		"dark_willow_bramble_maze"
 			"14"		"dark_willow_cursed_crown"
 			"15"		"special_bonus_unique_dark_willow_4"
 			"16"		"dark_willow_cursed_crown"

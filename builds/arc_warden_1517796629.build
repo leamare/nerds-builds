@@ -10,12 +10,12 @@ This strategy works well against ranged push strats, low mobility heroes. It als
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"101"
+	"GuideRevision"		"104"
 	"AssociatedWorkshopItemID"		"0x00000000308507DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D2"
-	"TimePublished"		"0x00000000640A04D2"
+	"TimeUpdated"		"0x000000006422DC31"
+	"TimePublished"		"0x000000006422DC31"
 	"ItemBuild"
 	{
 		"Items"
@@ -57,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_gungir"
 				"item"		"item_hurricane_pike"
 				"item"		"item_sheepstick"
+				"item"		"item_boots_of_bearing"
 			}
 			"Situational"
 			{
@@ -65,7 +66,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_guardian_greaves"
 				"item"		"item_ethereal_blade"
-				"item"		"item_silver_edge"
 			}
 			"Utility"
 			{
@@ -77,22 +77,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core Transition"
 			{
-				"item"		"item_diffusal_blade"
 				"item"		"item_mage_slayer"
 				"item"		"item_travel_boots"
-				"item"		"item_mjollnir"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_bloodthorn"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
 				"item"		"item_pogo_stick"
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_unstable_wand"
+				"item"		"item_bullwhip"
 				"item"		"item_grove_bow"
-				"item"		"item_dagger_of_ristul"
+				"item"		"item_dragon_scale"
 				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
 				"item"		"item_ogre_seal_totem"
 				"item"		"item_spy_gadget"
 				"item"		"item_spell_prism"
@@ -115,15 +115,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_hand_of_midas"		"You won&apos;t get much time and space to farm, so most of your money will come from assists and structures, so your midas will be probably late (somewhere between min 16-30), but it&apos;s fine: aside from drums and tranquils we don&apos;t need that much, while midas will just allow us to buy expensive stuff"
 			"item_pipe"		"Since 6.88 (I believe) pipes stack, so you can get it against high-magic damage lineups (tinker, zeus) and just cover up your team with magic shield twice"
 			"item_sheepstick"		"It&apos;s very expensive for position 4/5 support, but in very long game scenario we will be able to transition into core and we will get a lot of money, so we can afford sheepstick and, well, double hex in fights is very strong."
-			"item_bloodthorn"		"Ultimate damage solution, mostly because you will have two of bloodthorns and lightnings so you will benefit from attack speed and crits a lot."
 			"item_force_staff"		"Some utility to save allies, some mobility, pike upgrade. Pretty nice to have in both agressive and defensive situations: you can save your allies with it, save yourself, reach enemies and, well, you will have not one, but two force staffs."
 			"item_hurricane_pike"		"Since we want to have Force staff anyways, getting Pike is just a matter of time: it provides a lot of stats, as well as a little bit of damage. Quite good to have on a support."
 			"item_assault"		"Same issue as vladmir&apos;s offering, same reason to get as deso: if nobody goes for it, you may get it"
 			"item_sphere"		"Another way of saving your ally (double linkens)"
 			"item_lotus_orb"		"Purging negative effects from allies with doubled speed is quite nice, altho it has low cooldown anyway so somebody else can get it instead"
 			"item_silver_edge"		"Break, -50% damage debuff, all of that can&apos;t be dispelled. It provides us invis and some pickoff ability, but think of it more like about utility item: it boosts our stats and damage a little bit, but also gives us ability to turn enemy core into useless hero for a while with this damage reduction"
-			"item_mjollnir"		"Natural upgrade to your maelstrom, increases damage output for a very good price"
-			"item_diffusal_blade"		"Cheap damage source for every agility hero, mana burn and twice effective slow (with your double)"
 			"item_ethereal_blade"		"Good against high phys damage lineups (and when enemy doesn&apos;t have diffusal blade or other purge)"
 			"item_arcane_boots"		"Another one good pickup. Can be disassebled, can be used on double and original, pretty good choice. Tranquils are usually better because of health regen and armor, which is AW&apos;s problems early, but if your team has mana issues, you can pick up arcanes, even as second boot"
 			"item_ancient_janggo"		"Gives us a little bit of stats and solves our mana regen issues, so we can spam our spells. And not obly that: you can summon tempest double and use Drum while not spending any charges, basically having endless drums in every fight."

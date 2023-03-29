@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"100"
+	"GuideRevision"		"102"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D4"
-	"TimePublished"		"0x00000000640A04D4"
+	"TimeUpdated"		"0x000000006422E2C6"
+	"TimePublished"		"0x000000006422E2C6"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
+				"item"		"item_magic_stick"
 				"item"		"item_mantle"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -29,16 +29,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_null_talisman"
+				"item"		"item_magic_wand"
 				"item"		"item_null_talisman"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_witch_blade"
+				"item"		"item_hand_of_midas"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
-				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
@@ -46,15 +45,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ancient_janggo"
 				"item"		"item_soul_ring"
 				"item"		"item_mask_of_madness"
+				"item"		"item_witch_blade"
+				"item"		"item_cyclone"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_travel_boots"
+				"item"		"item_sheepstick"
 				"item"		"item_hurricane_pike"
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
-				"item"		"item_sheepstick"
-				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_overwhelming_blink"
 			}
