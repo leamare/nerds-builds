@@ -9,12 +9,12 @@
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"97"
+	"GuideRevision"		"99"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D3"
-	"TimePublished"		"0x00000000640A04D3"
+	"TimeUpdated"		"0x000000006422DE5D"
+	"TimePublished"		"0x000000006422DE5D"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,6 +30,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_ring_of_basilius"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_boots"
 				"item"		"item_vladmir"
@@ -47,6 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
+				"item"		"item_arcane_boots"
 			}
 			"Lategame"
 			{
@@ -83,17 +85,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_unstable_wand"
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_occult_bracelet"
+				"item"		"item_trusty_shovel"
+				"item"		"item_mysterious_hat"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
+				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
 				"item"		"item_quickening_charm"
 				"item"		"item_ogre_seal_totem"
-				"item"		"item_black_powder_bag"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_spell_prism"
-				"item"		"item_havoc_hammer"
-				"item"		"item_ascetic_cap"
+				"item"		"item_flicker"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -132,7 +134,7 @@ Armor and damage boost for our summons. It works well with all the auras theme f
 			"7"		"beastmaster_wild_axes"
 			"8"		"beastmaster_call_of_the_wild_boar"
 			"9"		"beastmaster_call_of_the_wild_boar"
-			"10"		"special_bonus_attack_damage_30"
+			"10"		"special_bonus_unique_beastmaster_9"
 			"11"		"beastmaster_call_of_the_wild_boar"
 			"12"		"beastmaster_primal_roar"
 			"13"		"beastmaster_inner_beast"
@@ -141,7 +143,7 @@ Armor and damage boost for our summons. It works well with all the auras theme f
 			"16"		"beastmaster_inner_beast"
 			"18"		"beastmaster_primal_roar"
 			"20"		"special_bonus_unique_beastmaster_6"
-			"25"		"special_bonus_unique_beastmaster_wild_axe_cooldown"
+			"25"		"special_bonus_unique_beastmaster_7"
 		}
 		"AbilityTooltips"
 		{
