@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"42"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D5"
-	"TimePublished"		"0x00000000640A04D5"
+	"TimeUpdated"		"0x00000000642EC8FB"
+	"TimePublished"		"0x00000000642EC8FB"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,16 +21,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 				"item"		"item_boots"
+				"item"		"item_meteor_hammer"
 			}
 			"Core"
 			{
@@ -42,20 +42,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_falcon_blade"
+				"item"		"item_soul_ring"
 				"item"		"item_hand_of_midas"
 				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_silver_edge"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_manta"
 				"item"		"item_assault"
+				"item"		"item_octarine_core"
 				"item"		"item_heavens_halberd"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
 				"item"		"item_travel_boots"
+				"item"		"item_silver_edge"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_greater_crit"
 				"item"		"item_satanic"
@@ -65,18 +68,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_arcane_ring"
+				"item"		"item_unstable_wand"
 				"item"		"item_possessed_mask"
-				"item"		"item_occult_bracelet"
-				"item"		"item_pogo_stick"
-				"item"		"item_specialists_array"
-				"item"		"item_bullwhip"
+				"item"		"item_grove_bow"
 				"item"		"item_dragon_scale"
+				"item"		"item_vambrace"
+				"item"		"item_elven_tunic"
 				"item"		"item_titan_sliver"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_quickening_charm"
+				"item"		"item_trickster_cloak"
 				"item"		"item_havoc_hammer"
-				"item"		"item_ascetic_cap"
-				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,7 +117,7 @@ Before Power Treads"
 			"15"		"special_bonus_hp_400"
 			"16"		"dragon_knight_dragon_tail"
 			"18"		"dragon_knight_elder_dragon_form"
-			"20"		"special_bonus_unique_dragon_knight_9"
+			"20"		"special_bonus_unique_dragon_knight_7"
 			"25"		"special_bonus_unique_dragon_knight_8"
 		}
 		"AbilityTooltips"

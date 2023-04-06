@@ -7,12 +7,12 @@
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"92"
+	"GuideRevision"		"94"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A120F"
-	"TimePublished"		"0x00000000640A120F"
+	"TimeUpdated"		"0x00000000642EFB0E"
+	"TimePublished"		"0x00000000642EFB0E"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,15 +22,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_gauntlets"
 				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_bracer"
 				"item"		"item_bracer"
 				"item"		"item_helm_of_iron_will"
-				"item"		"item_boots"
 			}
 			"Core"
 			{
@@ -41,15 +41,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
 				"item"		"item_dragon_lance"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_travel_boots"
+				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
 				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"

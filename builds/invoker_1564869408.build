@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x000000006CDA7DD2"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640F1A08"
-	"TimePublished"		"0x00000000640F1A08"
+	"TimeUpdated"		"0x00000000642EFB6F"
+	"TimePublished"		"0x00000000642EFB6F"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,7 +35,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
 				"item"		"item_spirit_vessel"
 				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
@@ -45,6 +44,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hand_of_midas"
 				"item"		"item_tranquil_boots"
 				"item"		"item_cyclone"
+				"item"		"item_meteor_hammer"
 			}
 			"Lategame"
 			{
@@ -95,6 +95,7 @@ For a more greedy playstyle
 Before Spirit Vessel"
 			"item_travel_boots"		"ORDER SWAP: Blink Dagger"
 			"item_blink"		"ORDER SWAP: Boots of Travel"
+			"item_meteor_hammer"		"~3-7"
 		}
 	}
 	"AbilityBuild"
@@ -110,7 +111,7 @@ Before Spirit Vessel"
 			"7"		"invoker_wex"
 			"8"		"invoker_quas"
 			"9"		"invoker_exort"
-			"10"		"special_bonus_unique_invoker_10"
+			"10"		"special_bonus_unique_invoker_3"
 			"11"		"invoker_wex"
 			"12"		"invoker_quas"
 			"13"		"invoker_wex"

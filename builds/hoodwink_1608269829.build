@@ -8,12 +8,12 @@
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D7"
-	"TimePublished"		"0x00000000640A04D7"
+	"TimeUpdated"		"0x00000000642EFA2D"
+	"TimePublished"		"0x00000000642EFA2D"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_blight_stone"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
 			}
@@ -43,7 +44,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_urn_of_shadows"
 				"item"		"item_ghost"
 				"item"		"item_glimmer_cape"
-				"item"		"item_rod_of_atos"
 			}
 			"Lategame"
 			{
@@ -63,7 +63,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_sheepstick"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_greater_crit"
+				"item"		"item_rod_of_atos"
 			}
 			"Best Neutral Items"
 			{

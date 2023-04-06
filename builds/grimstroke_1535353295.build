@@ -8,12 +8,12 @@
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"90"
+	"GuideRevision"		"91"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D6"
-	"TimePublished"		"0x00000000640A04D6"
+	"TimeUpdated"		"0x000000006422DC34"
+	"TimePublished"		"0x000000006422DC34"
 	"ItemBuild"
 	{
 		"Items"

@@ -9,12 +9,12 @@
 Early on you want to get a point into Shadow Wave to keep yourself alive on lane, but afterwards you're going to max Poison Touch and use it as harassing tool. With level 3 Poison Touch you're able to bully your enemy out of lane by autoattacking him (or just kill your opponent if he's not backing up), at level 7 with maxed poison touch you will be able to kill every creepwave pretty fast (or instakill it by using Shadow Wave on your creepwave). 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"92"
+	"GuideRevision"		"94"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A0F64"
-	"TimePublished"		"0x00000000640A0F64"
+	"TimeUpdated"		"0x00000000642EC6DA"
+	"TimePublished"		"0x00000000642EC6DA"
 	"ItemBuild"
 	{
 		"Items"
@@ -43,35 +43,31 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_null_talisman"
-				"item"		"item_travel_boots"
-				"item"		"item_orchid"
 				"item"		"item_witch_blade"
+				"item"		"item_null_talisman"
+				"item"		"item_orchid"
+				"item"		"item_invis_sword"
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
-				"item"		"item_black_king_bar"
+				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_shivas_guard"
 				"item"		"item_silver_edge"
-				"item"		"item_blink"
+				"item"		"item_bloodthorn"
+				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
-				"item"		"item_skadi"
-				"item"		"item_overwhelming_blink"
+				"item"		"item_shivas_guard"
+				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
 				"item"		"item_hurricane_pike"
 				"item"		"item_guardian_greaves"
-				"item"		"item_kaya_and_sange"
-				"item"		"item_solar_crest"
-				"item"		"item_aeon_disk"
 				"item"		"item_satanic"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_bloodthorn"
-				"item"		"item_greater_crit"
 				"item"		"item_desolator"
+				"item"		"item_greater_crit"
+				"item"		"item_skadi"
 			}
 			"Utility"
 			{
@@ -79,6 +75,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_glimmer_cape"
 				"item"		"item_holy_locket"
+				"item"		"item_solar_crest"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_overwhelming_blink"
+				"item"		"item_aeon_disk"
+				"item"		"item_kaya_and_sange"
 			}
 			"Best Neutral Items"
 			{
@@ -101,7 +104,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~6-14 min"
+			"item_hand_of_midas"		"~9-11 min"
 			"item_assault"		"Additional improvement for all the armor and attack speed theme"
 			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&apos;t bother getting it whenever you feel like you&apos;re stunned or focused in fights"
 			"item_shivas_guard"		"Mostly to stop enemies from running away, but Hex and Atos are generally better for that"
@@ -112,8 +115,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"dazzle_shadow_wave"
-			"2"		"dazzle_poison_touch"
+			"1"		"dazzle_poison_touch"
+			"2"		"dazzle_shadow_wave"
 			"3"		"dazzle_poison_touch"
 			"4"		"dazzle_shadow_wave"
 			"5"		"dazzle_poison_touch"

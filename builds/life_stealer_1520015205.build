@@ -8,12 +8,12 @@
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"93"
+	"GuideRevision"		"97"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D7"
-	"TimePublished"		"0x00000000640A04D7"
+	"TimeUpdated"		"0x00000000642F086F"
+	"TimePublished"		"0x00000000642F086F"
 	"ItemBuild"
 	{
 		"Items"
@@ -50,7 +50,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
-				"item"		"item_aghanims_shard"
 				"item"		"item_nullifier"
 				"item"		"item_greater_crit"
 				"item"		"item_travel_boots"
@@ -60,6 +59,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_mjollnir"
+				"item"		"item_black_king_bar"
+				"item"		"item_manta"
+				"item"		"item_radiance"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_satanic"
@@ -72,8 +74,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_radiance"
-				"item"		"item_manta"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_swift_blink"
 				"item"		"item_heart"
@@ -142,15 +142,15 @@ Before Assault Cuirass"
 			"7"		"life_stealer_ghoul_frenzy"
 			"8"		"life_stealer_ghoul_frenzy"
 			"9"		"life_stealer_feast"
-			"10"		"special_bonus_unique_lifestealer_infest_damage"
+			"10"		"special_bonus_unique_lifestealer_2"
 			"11"		"life_stealer_feast"
 			"12"		"life_stealer_infest"
 			"13"		"life_stealer_rage"
 			"14"		"life_stealer_rage"
-			"15"		"special_bonus_attack_damage_25"
+			"15"		"special_bonus_hp_325"
 			"16"		"life_stealer_rage"
 			"18"		"life_stealer_infest"
-			"20"		"special_bonus_unique_lifestealer_infest_target_bonus"
+			"20"		"special_bonus_unique_lifestealer_6"
 			"25"		"special_bonus_unique_lifestealer"
 		}
 		"AbilityTooltips"

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"55"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A129A"
-	"TimePublished"		"0x00000000640A129A"
+	"TimeUpdated"		"0x00000000642EFC4E"
+	"TimePublished"		"0x00000000642EFC4E"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_circlet"
+				"item"		"item_slippers"
 				"item"		"item_branches"
-				"item"		"item_magic_stick"
+				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
@@ -40,9 +41,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_radiance"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_falcon_blade"
 				"item"		"item_power_treads"
+				"item"		"item_radiance"
 				"item"		"item_mask_of_madness"
 				"item"		"item_ancient_janggo"
 				"item"		"item_diffusal_blade"
@@ -124,9 +126,9 @@ ALTERNATIVES: Eye of Skadi, Linken&apos;s Sphere"
 		"AbilityOrder"
 		{
 			"1"		"juggernaut_blade_fury"
-			"2"		"juggernaut_blade_dance"
+			"2"		"juggernaut_healing_ward"
 			"3"		"juggernaut_blade_fury"
-			"4"		"juggernaut_healing_ward"
+			"4"		"juggernaut_blade_dance"
 			"5"		"juggernaut_blade_fury"
 			"6"		"juggernaut_omni_slash"
 			"7"		"juggernaut_blade_fury"

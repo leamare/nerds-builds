@@ -7,12 +7,12 @@
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"33"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D4"
-	"TimePublished"		"0x00000000640A04D4"
+	"TimeUpdated"		"0x00000000642EC264"
+	"TimePublished"		"0x00000000642EC264"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_gauntlets"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -37,23 +38,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_echo_sabre"
 				"item"		"item_desolator"
-				"item"		"item_aghanims_shard"
+			}
+			"Core - Greaves"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_mekansm"
+				"item"		"item_hood_of_defiance"
+				"item"		"item_guardian_greaves"
 			}
 			"Situational Early"
 			{
-				"item"		"item_echo_sabre"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_falcon_blade"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_armlet"
 			}
 			"Lategame"
 			{
-				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
+				"item"		"item_blink"
+				"item"		"item_basher"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
-				"item"		"item_basher"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_abyssal_blade"
 			}
@@ -68,14 +76,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_silver_edge"
-				"item"		"item_greater_crit"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_greater_crit"
 				"item"		"item_heart"
 				"item"		"item_bloodthorn"
 				"item"		"item_satanic"
 				"item"		"item_guardian_greaves"
 				"item"		"item_wraith_pact"
+				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
@@ -115,15 +123,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"5"		"dawnbreaker_celestial_hammer"
 			"6"		"dawnbreaker_solar_guardian"
 			"7"		"dawnbreaker_celestial_hammer"
-			"8"		"dawnbreaker_fire_wreath"
-			"9"		"dawnbreaker_fire_wreath"
-			"10"		"dawnbreaker_fire_wreath"
+			"8"		"dawnbreaker_luminosity"
+			"9"		"dawnbreaker_luminosity"
+			"10"		"dawnbreaker_luminosity"
 			"11"		"special_bonus_unique_dawnbreaker_fire_wreath_swipe"
 			"12"		"dawnbreaker_solar_guardian"
-			"13"		"dawnbreaker_luminosity"
-			"14"		"dawnbreaker_luminosity"
+			"13"		"dawnbreaker_fire_wreath"
+			"14"		"dawnbreaker_fire_wreath"
 			"15"		"special_bonus_unique_dawnbreaker_luminosity_crit"
-			"16"		"dawnbreaker_luminosity"
+			"16"		"dawnbreaker_fire_wreath"
 			"18"		"dawnbreaker_solar_guardian"
 			"20"		"special_bonus_unique_dawnbreaker_luminosity_attack_count"
 			"25"		"special_bonus_unique_dawnbreaker_fire_wreath_charges"
