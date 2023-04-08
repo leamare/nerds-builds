@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x00000000923B2A2B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A161F"
-	"TimePublished"		"0x00000000640A161F"
+	"TimeUpdated"		"0x0000000064302F90"
+	"TimePublished"		"0x0000000064302F90"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,12 +25,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_tranquil_boots"
+				"item"		"item_arcane_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_energy_booster"
+				"item"		"item_meteor_hammer"
 			}
 			"Core"
 			{
+				"item"		"item_tranquil_boots"
 				"item"		"item_aether_lens"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"

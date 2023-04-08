@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"43"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DE"
-	"TimePublished"		"0x00000000640A04DE"
+	"TimeUpdated"		"0x000000006430471D"
+	"TimePublished"		"0x000000006430471D"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,12 +35,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_cyclone"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_kaya"
 			}
 			"Situational Early"
 			{
+				"item"		"item_meteor_hammer"
 				"item"		"item_power_treads"
 				"item"		"item_bottle"
 				"item"		"item_witch_blade"
@@ -58,16 +58,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
-				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
-				"item"		"item_dagon_5"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
-				"item"		"item_kaya_and_sange"
+				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
 				"item"		"item_sphere"
@@ -76,6 +76,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodthorn"
 				"item"		"item_desolator"
 				"item"		"item_abyssal_blade"
+				"item"		"item_dagon_5"
 			}
 			"Best Neutral Items"
 			{
@@ -99,6 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_phase_boots"		"ALTERNATIVE: Power Treads"
 			"item_power_treads"		"ALTERNATIVE: Phase Boots"
+			"item_meteor_hammer"		"~6-10 min"
 		}
 	}
 	"AbilityBuild"
@@ -122,7 +124,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_void_spirit_dissimilate_outerring"
 			"16"		"void_spirit_aether_remnant"
 			"18"		"void_spirit_astral_step"
-			"20"		"special_bonus_unique_void_spirit_4"
+			"20"		"special_bonus_unique_void_spirit_1"
 			"25"		"special_bonus_unique_void_spirit_3"
 		}
 		"AbilityTooltips"

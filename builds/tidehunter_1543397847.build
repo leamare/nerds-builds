@@ -9,12 +9,12 @@ Main issue that comes with his main strength is that Ravage Tide is useless when
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/
 It's based on Immortal rank Core Tidehunter matches"
-	"GuideRevision"		"87"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DD"
-	"TimePublished"		"0x00000000640A04DD"
+	"TimeUpdated"		"0x0000000064303E1A"
+	"TimePublished"		"0x0000000064303E1A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,21 +22,22 @@ It's based on Immortal rank Core Tidehunter matches"
 			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_pipe"
+				"item"		"item_aghanims_shard"
 			}
 			"Core - Carry/mid"
 			{
@@ -48,7 +49,9 @@ It's based on Immortal rank Core Tidehunter matches"
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_arcane_boots"
+				"item"		"item_meteor_hammer"
+				"item"		"item_radiance"
+				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_vladmir"
@@ -76,8 +79,8 @@ It's based on Immortal rank Core Tidehunter matches"
 			}
 			"Utility"
 			{
-				"item"		"item_wraith_pact"
 				"item"		"item_guardian_greaves"
+				"item"		"item_wraith_pact"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 			}
@@ -148,6 +151,7 @@ Good pickup if you want to spam Gush from distance or have some kind of AoE phys
 ALTERNATIVE: Phase Boots"
 			"item_hood_of_defiance"		"Before Blink Dagger"
 			"item_echo_sabre"		"~15 min"
+			"item_radiance"		"~7-16 min"
 		}
 	}
 	"AbilityBuild"
@@ -163,7 +167,7 @@ ALTERNATIVE: Phase Boots"
 			"7"		"tidehunter_anchor_smash"
 			"8"		"tidehunter_kraken_shell"
 			"9"		"tidehunter_kraken_shell"
-			"10"		"special_bonus_unique_tidehunter_5"
+			"10"		"special_bonus_unique_tidehunter_9"
 			"11"		"tidehunter_gush"
 			"12"		"tidehunter_ravage"
 			"13"		"tidehunter_gush"

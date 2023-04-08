@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DA"
-	"TimePublished"		"0x00000000640A04DA"
+	"TimeUpdated"		"0x00000000643032A3"
+	"TimePublished"		"0x00000000643032A3"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,8 +20,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
-				"item"		"item_slippers"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
@@ -48,11 +48,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_heart"
+				"item"		"item_abyssal_blade"
+				"item"		"item_bloodthorn"
 				"item"		"item_octarine_core"
 				"item"		"item_butterfly"
-				"item"		"item_abyssal_blade"
 				"item"		"item_skadi"
-				"item"		"item_bloodthorn"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
@@ -71,8 +71,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_possessed_mask"
 				"item"		"item_broom_handle"
-				"item"		"item_occult_bracelet"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_unstable_wand"
+				"item"		"item_vambrace"
 				"item"		"item_misericorde"
 				"item"		"item_pupils_gift"
 				"item"		"item_elven_tunic"

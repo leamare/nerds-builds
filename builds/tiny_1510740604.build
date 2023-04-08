@@ -7,12 +7,12 @@
 	"Overview"		"Tiny is a strength core with high magic damage burst combo, as well as powerful farmer and pusher. His agility gain, starting stats and ultimate make attack speed and armor very important for him, while making his strong parts, damage, HP and ability to deal more damage to structures, even more powerful.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"93"
+	"GuideRevision"		"95"
 	"AssociatedWorkshopItemID"		"0x00000000479F1950"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A1872"
-	"TimePublished"		"0x00000000640A1872"
+	"TimeUpdated"		"0x0000000064303F66"
+	"TimePublished"		"0x0000000064303F66"
 	"ItemBuild"
 	{
 		"Items"
@@ -47,9 +47,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 				"item"		"item_moon_shard"
 				"item"		"item_assault"
 				"item"		"item_satanic"

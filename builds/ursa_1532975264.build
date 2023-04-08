@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"83"
+	"GuideRevision"		"85"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DE"
-	"TimePublished"		"0x00000000640A04DE"
+	"TimeUpdated"		"0x0000000064304350"
+	"TimePublished"		"0x0000000064304350"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_bfury"
 				"item"		"item_blink"
-				"item"		"item_basher"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -47,12 +47,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_falcon_blade"
 				"item"		"item_mask_of_madness"
 				"item"		"item_diffusal_blade"
+				"item"		"item_radiance"
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_abyssal_blade"
+				"item"		"item_basher"
 				"item"		"item_aghanims_shard"
+				"item"		"item_abyssal_blade"
 				"item"		"item_swift_blink"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
@@ -73,18 +74,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
+				"item"		"item_occult_bracelet"
+				"item"		"item_unstable_wand"
 				"item"		"item_broom_handle"
-				"item"		"item_chipped_vest"
-				"item"		"item_bullwhip"
+				"item"		"item_misericorde"
 				"item"		"item_vambrace"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_spider_legs"
-				"item"		"item_paladin_sword"
+				"item"		"item_mind_breaker"
 				"item"		"item_titan_sliver"
+				"item"		"item_paladin_sword"
 				"item"		"item_penta_edged_sword"
 				"item"		"item_heavy_blade"
+				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -115,12 +116,15 @@ You want to get it in almost every scenario. It helps deal with stuns, slows and
 			"item_desolator"		"Additional damage boost, works well for killing structures"
 			"item_phase_boots"		"~7 min
 ALTERNATIVE: Power Threads"
-			"item_diffusal_blade"		"~14 min"
+			"item_diffusal_blade"		"~14 min
+ALTERNATIVES: Battle Fury, Radiance"
 			"item_orb_of_corrosion"		"Before Diffusal Blade"
 			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 			"item_falcon_blade"		"Before Diffusal Blade"
-			"item_bfury"		"~13-15 min"
+			"item_bfury"		"~13-15 min
+ALTERNATIVES: Radiance, Diffusal Blade"
 			"item_mask_of_madness"		"Before Blink Dagger"
+			"item_radiance"		"ALTERNATIVES: Battle Fury, Diffusal Blade"
 		}
 	}
 	"AbilityBuild"

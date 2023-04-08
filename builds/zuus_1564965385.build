@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DF"
-	"TimePublished"		"0x00000000640A04DF"
+	"TimeUpdated"		"0x0000000064304A6D"
+	"TimePublished"		"0x0000000064304A6D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,35 +20,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
-				"item"		"item_mantle"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_kaya"
 			}
 			"Core"
 			{
-				"item"		"item_kaya"
+				"item"		"item_ethereal_blade"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aether_lens"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blink"
 				"item"		"item_cyclone"
 				"item"		"item_tranquil_boots"
+				"item"		"item_null_talisman"
 			}
 			"Lategame"
 			{
-				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_blink"
 				"item"		"item_octarine_core"
@@ -58,14 +58,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_kaya_and_sange"
 				"item"		"item_aeon_disk"
 				"item"		"item_force_staff"
 				"item"		"item_ghost"
 				"item"		"item_black_king_bar"
 				"item"		"item_veil_of_discord"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_wind_waker"
 				"item"		"item_arcane_blink"
 			}
@@ -91,6 +90,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_kaya"		"Before Aghanim&apos;s Scepter"
+			"item_ethereal_blade"		"ALTERNATIVES: Sange and Kaya"
+			"item_kaya_and_sange"		"ALTERNATIVES: Ethereal Blade"
 		}
 	}
 	"AbilityBuild"
@@ -100,19 +101,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"zuus_arc_lightning"
 			"2"		"zuus_heavenly_jump"
 			"3"		"zuus_arc_lightning"
-			"4"		"zuus_heavenly_jump"
+			"4"		"zuus_lightning_bolt"
 			"5"		"zuus_arc_lightning"
 			"6"		"zuus_thundergods_wrath"
 			"7"		"zuus_arc_lightning"
-			"8"		"zuus_heavenly_jump"
-			"9"		"zuus_heavenly_jump"
+			"8"		"zuus_lightning_bolt"
+			"9"		"zuus_lightning_bolt"
 			"10"		"special_bonus_hp_250"
 			"11"		"zuus_lightning_bolt"
 			"12"		"zuus_thundergods_wrath"
-			"13"		"zuus_lightning_bolt"
-			"14"		"zuus_lightning_bolt"
+			"13"		"zuus_heavenly_jump"
+			"14"		"zuus_heavenly_jump"
 			"15"		"special_bonus_unique_zeus_jump_postjump_movespeed"
-			"16"		"zuus_lightning_bolt"
+			"16"		"zuus_heavenly_jump"
 			"18"		"zuus_thundergods_wrath"
 			"20"		"special_bonus_unique_zeus_3"
 			"25"		"special_bonus_unique_zeus_5"

@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"87"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DD"
-	"TimePublished"		"0x00000000640A04DD"
+	"TimeUpdated"		"0x000000006430404C"
+	"TimePublished"		"0x000000006430404C"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,30 +21,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_wind_lace"
 				"item"		"item_flask"
-				"item"		"item_orb_of_venom"
-				"item"		"item_enchanted_mango"
-				"item"		"item_clarity"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
-				"item"		"item_ring_of_basilius"
 			}
 			"Core"
 			{
-				"item"		"item_holy_locket"
-				"item"		"item_aghanims_shard"
+				"item"		"item_arcane_boots"
 				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_meteor_hammer"
 				"item"		"item_tranquil_boots"
+				"item"		"item_holy_locket"
 			}
 			"Utility"
 			{
@@ -55,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_sheepstick"
@@ -74,16 +75,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
 				"item"		"item_seeds_of_serenity"
 				"item"		"item_trusty_shovel"
+				"item"		"item_pogo_stick"
 				"item"		"item_philosophers_stone"
 				"item"		"item_bullwhip"
 				"item"		"item_ceremonial_robe"
+				"item"		"item_black_powder_bag"
 				"item"		"item_ogre_seal_totem"
-				"item"		"item_spell_prism"
+				"item"		"item_ascetic_cap"
+				"item"		"item_stormcrafter"
 				"item"		"item_havoc_hammer"
-				"item"		"item_flicker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -127,22 +129,22 @@ ALTERNATIVE: Meteor Hammer"
 	{
 		"AbilityOrder"
 		{
-			"1"		"treant_natures_grasp"
-			"2"		"treant_leech_seed"
+			"1"		"treant_leech_seed"
+			"2"		"treant_natures_grasp"
 			"3"		"treant_leech_seed"
-			"4"		"treant_natures_grasp"
-			"5"		"treant_leech_seed"
+			"4"		"treant_living_armor"
+			"5"		"treant_living_armor"
 			"6"		"treant_overgrowth"
-			"7"		"treant_leech_seed"
-			"8"		"treant_natures_grasp"
+			"7"		"treant_living_armor"
+			"8"		"treant_living_armor"
 			"9"		"treant_natures_grasp"
 			"10"		"special_bonus_unique_treant_8"
-			"11"		"treant_living_armor"
+			"11"		"treant_natures_grasp"
 			"12"		"treant_overgrowth"
-			"13"		"treant_living_armor"
-			"14"		"treant_living_armor"
+			"13"		"treant_natures_grasp"
+			"14"		"treant_leech_seed"
 			"15"		"special_bonus_unique_treant_9"
-			"16"		"treant_living_armor"
+			"16"		"treant_leech_seed"
 			"18"		"treant_overgrowth"
 			"20"		"special_bonus_unique_treant_13"
 			"25"		"special_bonus_unique_treant_7"

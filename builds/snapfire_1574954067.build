@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DC"
-	"TimePublished"		"0x00000000640A04DC"
+	"TimeUpdated"		"0x0000000064303BCD"
+	"TimePublished"		"0x0000000064303BCD"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,12 +20,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
 				"item"		"item_enchanted_mango"
 				"item"		"item_faerie_fire"
-				"item"		"item_flask"
-				"item"		"item_magic_stick"
 			}
 			"Early"
 			{
@@ -33,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_mekansm"
 				"item"		"item_aghanims_shard"
 				"item"		"item_force_staff"
 				"item"		"item_ultimate_scepter"
@@ -42,29 +45,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
-				"item"		"item_glimmer_cape"
 			}
 			"Utility"
 			{
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 				"item"		"item_lotus_orb"
-				"item"		"item_mekansm"
+				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
-				"item"		"item_blink"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
-				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
+				"item"		"item_blink"
+				"item"		"item_ethereal_blade"
 				"item"		"item_spirit_vessel"
 				"item"		"item_ancient_janggo"
-				"item"		"item_lotus_orb"
 				"item"		"item_cyclone"
 				"item"		"item_aeon_disk"
 				"item"		"item_wraith_pact"

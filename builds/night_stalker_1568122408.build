@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"56"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DA"
-	"TimePublished"		"0x00000000640A04DA"
+	"TimeUpdated"		"0x0000000064302EA4"
+	"TimePublished"		"0x0000000064302EA4"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,16 +21,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_enchanted_mango"
 				"item"		"item_gauntlets"
 				"item"		"item_circlet"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_bracer"
-				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
 			}
 			"Core"
@@ -42,12 +42,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_orb_of_corrosion"
-				"item"		"item_armlet"
-				"item"		"item_urn_of_shadows"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_radiance"
 				"item"		"item_hand_of_midas"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_armlet"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_soul_ring"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_wraith_band"
 			}
 			"Utility"
 			{
@@ -108,7 +110,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ultimate_scepter"		"ALTERNATIVES: Hand of Midas, Echo Sabre, Armlet of Mordiggian"
 			"item_phase_boots"		"~7 min"
 			"item_echo_sabre"		"~14 min
-ALTERNATIVES: Hand of Midas, Aghanim&apos;s Scepter, Armlet of Mordiggian"
+ALTERNATIVES: Radiance, Hand of Midas, Aghanim&apos;s Scepter, Armlet of Mordiggian"
 			"item_black_king_bar"		"~21-25 min"
 			"item_blink"		"~22 min"
 			"item_soul_ring"		"Before Echo Sabre"
@@ -136,7 +138,7 @@ ALTERNATIVES: Hand of Midas, Aghanim&apos;s Scepter, Armlet of Mordiggian"
 			"12"		"night_stalker_darkness"
 			"13"		"night_stalker_crippling_fear"
 			"14"		"night_stalker_crippling_fear"
-			"15"		"special_bonus_unique_night_stalker_hunter_status_resist"
+			"15"		"special_bonus_unique_night_stalker_3"
 			"16"		"night_stalker_crippling_fear"
 			"18"		"night_stalker_darkness"
 			"20"		"special_bonus_strength_20"

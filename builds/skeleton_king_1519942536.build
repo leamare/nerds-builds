@@ -10,12 +10,12 @@ This build is untraditional and may require additional understanding of hero's l
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"92"
+	"GuideRevision"		"93"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DC"
-	"TimePublished"		"0x00000000640A04DC"
+	"TimeUpdated"		"0x000000006422DC39"
+	"TimePublished"		"0x000000006422DC39"
 	"ItemBuild"
 	{
 		"Items"

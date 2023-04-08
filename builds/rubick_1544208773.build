@@ -9,12 +9,12 @@
 Good usage of Rubick's skillset allowes him to dominate the lane by using Fade Bolt at proper timing. Use your early advantage to start roaming around the map and setup some kills with Telekinesis, while also securing them with Fade Bolt. Surviving in fights is your main priority, so you want to stay as far as possible. After you reach level 15 and get Blink Dagger things will be much easier. Altho, main thing you need to consider - you're not the main damage dealer without proper enemy spells. You're utility core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000005FEC5FAA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DB"
-	"TimePublished"		"0x00000000640A04DB"
+	"TimeUpdated"		"0x0000000064303819"
+	"TimePublished"		"0x0000000064303819"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -52,8 +52,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
 				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
 				"item"		"item_dagon_5"
@@ -129,7 +129,7 @@ Use disassembled Arcane Boots to build Lens"
 			"7"		"rubick_fade_bolt"
 			"8"		"rubick_arcane_supremacy"
 			"9"		"rubick_arcane_supremacy"
-			"10"		"special_bonus_unique_rubick_8"
+			"10"		"special_bonus_unique_rubick_2"
 			"11"		"rubick_arcane_supremacy"
 			"12"		"rubick_telekinesis"
 			"13"		"rubick_spell_steal"

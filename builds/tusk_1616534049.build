@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DD"
-	"TimePublished"		"0x00000000640A04DD"
+	"TimeUpdated"		"0x00000000643040E6"
+	"TimePublished"		"0x00000000643040E6"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_gauntlets"
-				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
@@ -35,9 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_desolator"
-				"item"		"item_black_king_bar"
 				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
@@ -46,13 +43,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_soul_ring"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_desolator"
 				"item"		"item_echo_sabre"
 				"item"		"item_invis_sword"
 				"item"		"item_armlet"
-				"item"		"item_aghanims_shard"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
@@ -78,17 +76,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_trusty_shovel"
+				"item"		"item_unstable_wand"
 				"item"		"item_pogo_stick"
-				"item"		"item_broom_handle"
+				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
-				"item"		"item_misericorde"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_black_powder_bag"
-				"item"		"item_quickening_charm"
+				"item"		"item_pupils_gift"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_havoc_hammer"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_black_powder_bag"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_ninja_gear"
 				"item"		"item_flicker"
+				"item"		"item_ascetic_cap"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -103,6 +101,8 @@ SWAP: Phase Boots"
 			"item_orb_of_corrosion"		"ALTERNATIVE: Falcon Blade, Soul Ring"
 			"item_urn_of_shadows"		"Before Blink Dagger"
 			"item_falcon_blade"		"ALTERNATIVE: Orb of Corrosion, Soul Ring"
+			"item_desolator"		"~20 min
+Before Aghanim&apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -127,7 +127,7 @@ SWAP: Phase Boots"
 			"16"		"special_bonus_unique_tusk_2"
 			"18"		"tusk_walrus_punch"
 			"20"		"special_bonus_unique_tusk"
-			"25"		"special_bonus_unique_tusk_6"
+			"25"		"special_bonus_unique_tusk_4"
 		}
 		"AbilityTooltips"
 		{

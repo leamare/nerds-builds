@@ -7,12 +7,12 @@
 	"Overview"		"Undying is a Strength Utility hero. He excells at dominating in the early game and teamfights, as well as healing allies. Offlane Undying focuses on winning the lane and forcing enemies out of it to rush Meteor Hammer and farm efficiently to get use of early dominance, and to get the early tier 1 towers as well. Later into the game the build is focusing on being tanky and snowballing through fights, while providing auras to the team. Lategame Undying with Aghs Decay upgrade is the finishing touch, amping the hero's power level.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x00000000894DCC50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DD"
-	"TimePublished"		"0x00000000640A04DD"
+	"TimeUpdated"		"0x0000000064304263"
+	"TimePublished"		"0x0000000064304263"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_enchanted_mango"
-				"item"		"item_gauntlets"
-				"item"		"item_branches"
-				"item"		"item_branches"
 			}
 			"Early"
 			{

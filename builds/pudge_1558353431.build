@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DA"
-	"TimePublished"		"0x00000000640A04DA"
+	"TimeUpdated"		"0x0000000064303388"
+	"TimePublished"		"0x0000000064303388"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,6 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_ring_of_protection"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
@@ -37,7 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -48,7 +48,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_eternal_shroud"
 				"item"		"item_black_king_bar"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_aghanims_shard"
 				"item"		"item_shivas_guard"
 				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
@@ -57,10 +60,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_eternal_shroud"
 				"item"		"item_octarine_core"
 				"item"		"item_lotus_orb"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_force_staff"
 				"item"		"item_heavens_halberd"
 				"item"		"item_crimson_guard"

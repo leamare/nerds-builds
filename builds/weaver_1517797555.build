@@ -8,12 +8,12 @@
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"94"
+	"GuideRevision"		"96"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DF"
-	"TimePublished"		"0x00000000640A04DF"
+	"TimeUpdated"		"0x0000000064304815"
+	"TimePublished"		"0x0000000064304815"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,8 +38,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
 				"item"		"item_aether_lens"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{

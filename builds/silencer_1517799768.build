@@ -7,12 +7,12 @@
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"90"
+	"GuideRevision"		"92"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DB"
-	"TimePublished"		"0x00000000640A04DB"
+	"TimeUpdated"		"0x0000000064303A8F"
+	"TimePublished"		"0x0000000064303A8F"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,9 +36,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_dragon_lance"
 				"item"		"item_witch_blade"
 				"item"		"item_force_staff"
+				"item"		"item_dragon_lance"
 			}
 			"Situational Early"
 			{
@@ -49,8 +49,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_revenants_brooch"
@@ -131,14 +131,14 @@ ALTERNATIVE: Witch Blade"
 			"8"		"silencer_global_silence"
 			"9"		"silencer_last_word"
 			"10"		"silencer_last_word"
-			"11"		"special_bonus_unique_silencer"
+			"11"		"special_bonus_attack_speed_20"
 			"12"		"silencer_glaives_of_wisdom"
 			"13"		"silencer_glaives_of_wisdom"
 			"14"		"silencer_glaives_of_wisdom"
 			"15"		"special_bonus_unique_silencer_7"
 			"16"		"silencer_global_silence"
 			"18"		"silencer_global_silence"
-			"20"		"special_bonus_unique_silencer_arcane_curse_undispellable"
+			"20"		"special_bonus_unique_silencer_3"
 			"25"		"special_bonus_unique_silencer_glaives_bounces"
 		}
 		"AbilityTooltips"

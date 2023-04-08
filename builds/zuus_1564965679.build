@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04DF"
-	"TimePublished"		"0x00000000640A04DF"
+	"TimeUpdated"		"0x0000000064304ABE"
+	"TimePublished"		"0x0000000064304ABE"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,36 +20,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_ward_sentry"
-				"item"		"item_ward_observer"
-				"item"		"item_clarity"
 				"item"		"item_magic_stick"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
+				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_null_talisman"
 				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_aghanims_shard"
+				"item"		"item_force_staff"
 				"item"		"item_aether_lens"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_kaya"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_stick"
 				"item"		"item_soul_ring"
 				"item"		"item_glimmer_cape"
 				"item"		"item_tranquil_boots"
+				"item"		"item_ghost"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
@@ -58,11 +57,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ghost"
-				"item"		"item_force_staff"
 				"item"		"item_cyclone"
 				"item"		"item_veil_of_discord"
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
 				"item"		"item_lotus_orb"
