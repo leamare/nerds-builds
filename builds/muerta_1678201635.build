@@ -7,12 +7,12 @@
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"8"
+	"GuideRevision"		"10"
 	"AssociatedWorkshopItemID"		"0x00000000AF73CDDB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006415ACAD"
-	"TimePublished"		"0x000000006415ACAD"
+	"TimeUpdated"		"0x0000000064302976"
+	"TimePublished"		"0x0000000064302976"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,7 +33,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_aether_lens"
-				"item"		"item_veil_of_discord"
 				"item"		"item_tranquil_boots"
 			}
 			"Situational Early"
@@ -52,6 +51,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_veil_of_discord"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sphere"
 				"item"		"item_rod_of_atos"
@@ -109,7 +109,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"muerta_gunslinger"
 			"18"		"muerta_pierce_the_veil"
 			"20"		"special_bonus_unique_muerta_dead_shot_charges"
-			"25"		"special_bonus_magic_resistance_25"
+			"25"		"special_bonus_unique_muerta_the_calling_num_revenants"
 		}
 		"AbilityTooltips"
 		{

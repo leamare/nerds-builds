@@ -7,12 +7,12 @@
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"15"
+	"GuideRevision"		"17"
 	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006415ACD3"
-	"TimePublished"		"0x000000006415ACD3"
+	"TimeUpdated"		"0x0000000064302962"
+	"TimePublished"		"0x0000000064302962"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,48 +20,52 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting"
 			{
 				"item"		"item_tango"
-				"item"		"item_mantle"
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_boots"
-				"item"		"item_null_talisman"
 				"item"		"item_wraith_band"
+				"item"		"item_falcon_blade"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mask_of_madness"
+				"item"		"item_maelstrom"
+				"item"		"item_dragon_lance"
 				"item"		"item_black_king_bar"
-				"item"		"item_lesser_crit"
+			}
+			"Core - Moonshard"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_force_staff"
+				"item"		"item_moon_shard"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_falcon_blade"
-				"item"		"item_dragon_lance"
+				"item"		"item_mask_of_madness"
+				"item"		"item_witch_blade"
+				"item"		"item_mage_slayer"
 				"item"		"item_invis_sword"
 				"item"		"item_ethereal_blade"
-				"item"		"item_witch_blade"
-				"item"		"item_maelstrom"
 				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_greater_crit"
 				"item"		"item_hurricane_pike"
+				"item"		"item_greater_crit"
 				"item"		"item_satanic"
 				"item"		"item_bloodthorn"
-				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_yasha_and_kaya"
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
 				"item"		"item_silver_edge"
@@ -75,6 +79,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Other Significant Items"
 			{
 				"item"		"item_hand_of_midas"
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
@@ -107,6 +112,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ethereal_blade"		"ALTERNATIVES: Yasha and Kaya"
 			"item_silver_edge"		"ALTERNATIVE: Daedalus"
 			"item_greater_crit"		"ALTERNATIVE: Silver Edge"
+			"item_mask_of_madness"		"ALTERNATIVES: Moon Shard, Maelstrom, Witch Blade, Mage Slayer"
+			"item_maelstrom"		"ALTERNATIVES: Witch Blade, Mask of Madness, Mage Slayer"
+			"item_witch_blade"		"ALTERNATIVES: Maelstrom, Mask of Madness, Mage Slayer"
+			"item_mage_slayer"		"Alternatives: Mask of Madness, Maelstrom, Witch Blade"
 		}
 	}
 	"AbilityBuild"
@@ -131,7 +140,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"muerta_the_calling"
 			"18"		"muerta_pierce_the_veil"
 			"20"		"special_bonus_unique_muerta_dead_shot_charges"
-			"25"		"special_bonus_magic_resistance_25"
+			"25"		"special_bonus_unique_muerta_the_calling_num_revenants"
 		}
 		"AbilityTooltips"
 		{
