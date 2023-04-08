@@ -9,12 +9,12 @@
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"79"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D8"
-	"TimePublished"		"0x00000000640A04D8"
+	"TimeUpdated"		"0x00000000643022CB"
+	"TimePublished"		"0x00000000643022CB"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,29 +23,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_phase_boots"
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_meteor_hammer"
 			}
 			"Core"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_blink"
-				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
 				"item"		"item_bottle"
 				"item"		"item_cyclone"
 				"item"		"item_armlet"
+				"item"		"item_soul_ring"
 			}
 			"Utility"
 			{
@@ -57,19 +58,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
+				"item"		"item_travel_boots"
 				"item"		"item_refresher"
+				"item"		"item_sheepstick"
 				"item"		"item_satanic"
 				"item"		"item_assault"
 				"item"		"item_greater_crit"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_guardian_greaves"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
 				"item"		"item_heart"
 				"item"		"item_moon_shard"
+				"item"		"item_ultimate_scepter"
 			}
 			"Other Significant Items"
 			{
@@ -80,18 +85,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
+				"item"		"item_arcane_ring"
+				"item"		"item_trusty_shovel"
 				"item"		"item_lance_of_pursuit"
-				"item"		"item_occult_bracelet"
-				"item"		"item_dragon_scale"
-				"item"		"item_vambrace"
 				"item"		"item_bullwhip"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_paladin_sword"
-				"item"		"item_titan_sliver"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_pupils_gift"
+				"item"		"item_dragon_scale"
+				"item"		"item_black_powder_bag"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_quickening_charm"
 				"item"		"item_trickster_cloak"
-				"item"		"item_havoc_hammer"
+				"item"		"item_spell_prism"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -131,12 +136,12 @@ Before Blink Dagger"
 			"7"		"mars_spear"
 			"8"		"mars_gods_rebuke"
 			"9"		"mars_gods_rebuke"
-			"10"		"special_bonus_unique_mars_bulwark_redirect_chance"
+			"10"		"special_bonus_unique_mars_rebuke_radius"
 			"11"		"mars_bulwark"
 			"12"		"mars_arena_of_blood"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
-			"15"		"special_bonus_unique_mars_rebuke_cooldown"
+			"15"		"special_bonus_unique_mars_spear_bonus_damage"
 			"16"		"mars_bulwark"
 			"18"		"mars_arena_of_blood"
 			"20"		"special_bonus_unique_mars_spear_stun_duration"

@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x0000000093D102DA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D3"
-	"TimePublished"		"0x00000000640A04D3"
+	"TimeUpdated"		"0x000000006422DC32"
+	"TimePublished"		"0x000000006422DC32"
 	"ItemBuild"
 	{
 		"Items"

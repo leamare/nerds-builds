@@ -9,12 +9,12 @@
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"85"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A0CD7"
-	"TimePublished"		"0x00000000640A0CD7"
+	"TimeUpdated"		"0x000000006422E03E"
+	"TimePublished"		"0x000000006422E03E"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,7 +39,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
-				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
@@ -47,35 +46,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_falcon_blade"
-				"item"		"item_orchid"
 				"item"		"item_mage_slayer"
-				"item"		"item_desolator"
+				"item"		"item_orchid"
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
+				"item"		"item_bloodthorn"
 				"item"		"item_sheepstick"
+				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
+				"item"		"item_blink"
 				"item"		"item_abyssal_blade"
 				"item"		"item_heavens_halberd"
-				"item"		"item_ethereal_blade"
-				"item"		"item_gungir"
 				"item"		"item_nullifier"
-				"item"		"item_spirit_vessel"
 				"item"		"item_satanic"
+				"item"		"item_desolator"
 			}
 			"Utility"
 			{
 				"item"		"item_solar_crest"
+				"item"		"item_lotus_orb"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
+				"item"		"item_spirit_vessel"
 			}
 			"Other Significant Items"
 			{
@@ -84,7 +83,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_manta"
 				"item"		"item_skadi"
 				"item"		"item_dagon_5"
+				"item"		"item_ethereal_blade"
 				"item"		"item_swift_blink"
+				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
@@ -143,7 +144,7 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"15"		"special_bonus_unique_bounty_hunter_9"
 			"16"		"bounty_hunter_wind_walk"
 			"18"		"bounty_hunter_track"
-			"20"		"special_bonus_unique_bounty_hunter"
+			"20"		"special_bonus_unique_bounty_hunter_8"
 			"25"		"special_bonus_unique_bounty_hunter_7"
 		}
 		"AbilityTooltips"

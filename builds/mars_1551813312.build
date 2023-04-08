@@ -1,7 +1,7 @@
 "guidedata"
 {
 	"Hero"		"mars"
-	"Title"		"Nerds Mars (Support)"
+	"Title"		"Nerds Support Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
 	"GameplayVersion"		"7.32e"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
@@ -10,12 +10,12 @@ Your main weakness early on will be low mana pool. There are a couple of ways to
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"86"
+	"GuideRevision"		"88"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D9"
-	"TimePublished"		"0x00000000640A04D9"
+	"TimeUpdated"		"0x0000000064302343"
+	"TimePublished"		"0x0000000064302343"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,12 +33,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_wind_lace"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
-				"item"		"item_magic_wand"
+				"item"		"item_aether_lens"
 				"item"		"item_cyclone"
 			}
 			"Situational Early"
@@ -63,21 +64,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
-				"item"		"item_abyssal_blade"
+				"item"		"item_octarine_core"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_heart"
+				"item"		"item_black_king_bar"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
 				"item"		"item_heavens_halberd"
 				"item"		"item_spirit_vessel"
-				"item"		"item_black_king_bar"
 				"item"		"item_desolator"
 				"item"		"item_satanic"
 				"item"		"item_blade_mail"
 				"item"		"item_refresher"
 				"item"		"item_travel_boots"
+				"item"		"item_heart"
+				"item"		"item_abyssal_blade"
 			}
 			"Other Significant Items"
 			{

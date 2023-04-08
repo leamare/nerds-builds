@@ -5,12 +5,12 @@
 	"Role"		"#DOTA_HeroGuide_Role_Core"
 	"GameplayVersion"		"7.32e"
 	"Overview"		""
-	"GuideRevision"		"12"
+	"GuideRevision"		"14"
 	"AssociatedWorkshopItemID"		"0x00000000A8043F97"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A1436"
-	"TimePublished"		"0x00000000640A1436"
+	"TimeUpdated"		"0x000000006430245F"
+	"TimePublished"		"0x000000006430245F"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,37 +22,42 @@
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_wraith_band"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_falcon_blade"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_manta"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
+				"item"		"item_falcon_blade"
 				"item"		"item_blink"
-				"item"		"item_maelstrom"
+				"item"		"item_dragon_lance"
 				"item"		"item_mask_of_madness"
+				"item"		"item_maelstrom"
 			}
 			"Lategame"
 			{
+				"item"		"item_greater_crit"
+				"item"		"item_butterfly"
 				"item"		"item_aghanims_shard"
 				"item"		"item_hurricane_pike"
-				"item"		"item_greater_crit"
 				"item"		"item_swift_blink"
 				"item"		"item_satanic"
-				"item"		"item_butterfly"
 			}
 			"Situational"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_silver_edge"
+				"item"		"item_black_king_bar"
 				"item"		"item_mjollnir"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_rapier"
@@ -84,6 +89,7 @@
 		}
 		"ItemTooltips"
 		{
+			"item_dragon_lance"		"Before Manta Style"
 		}
 	}
 	"AbilityBuild"
@@ -101,7 +107,7 @@
 			"9"		"medusa_split_shot"
 			"10"		"medusa_mana_shield"
 			"11"		"medusa_stone_gaze"
-			"12"		"special_bonus_unique_medusa_7"
+			"12"		"special_bonus_unique_medusa_6"
 			"13"		"medusa_mana_shield"
 			"14"		"medusa_mana_shield"
 			"15"		"special_bonus_unique_medusa_2"

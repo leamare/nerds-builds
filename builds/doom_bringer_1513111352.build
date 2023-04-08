@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"84"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A0F8C"
-	"TimePublished"		"0x00000000640A0F8C"
+	"TimeUpdated"		"0x00000000642EC809"
+	"TimePublished"		"0x00000000642EC809"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,25 +25,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_magic_stick"
-				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_wraith_band"
+				"item"		"item_boots"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_hand_of_midas"
-				"item"		"item_blink"
 				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_arcane_boots"
+				"item"		"item_meteor_hammer"
 				"item"		"item_ancient_janggo"
 				"item"		"item_hood_of_defiance"
 				"item"		"item_invis_sword"
@@ -53,6 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
 				"item"		"item_ultimate_scepter"
@@ -80,18 +84,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_occult_bracelet"
+				"item"		"item_mysterious_hat"
 				"item"		"item_pogo_stick"
+				"item"		"item_seeds_of_serenity"
 				"item"		"item_dragon_scale"
 				"item"		"item_bullwhip"
 				"item"		"item_vambrace"
-				"item"		"item_ceremonial_robe"
 				"item"		"item_quickening_charm"
+				"item"		"item_ogre_seal_totem"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_spell_prism"
-				"item"		"item_havoc_hammer"
 				"item"		"item_ninja_gear"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -108,10 +112,12 @@ ALTERNATIVE: Hand of Midas"
 			"item_invis_sword"		"Before Black King Bar"
 			"item_spirit_vessel"		"Another item for a more active playstyle, focused more around magic damage
 ALTERNATIVE: Hand of Midas"
-			"item_black_king_bar"		"~23-25 min"
+			"item_black_king_bar"		"~23-25 min
+Swap: Blink Dagger"
 			"item_blink"		"~13-17 min"
 			"item_phase_boots"		"ALTERNATIVE: Arcane Boots"
 			"item_arcane_boots"		"ALTERNATIVE: Phase Boots"
+			"item_meteor_hammer"		"Before Hand of Midas"
 		}
 	}
 	"AbilityBuild"
@@ -121,14 +127,14 @@ ALTERNATIVE: Hand of Midas"
 			"1"		"doom_bringer_scorched_earth"
 			"2"		"doom_bringer_devour"
 			"3"		"doom_bringer_scorched_earth"
-			"4"		"doom_bringer_devour"
+			"4"		"doom_bringer_infernal_blade"
 			"5"		"doom_bringer_scorched_earth"
 			"6"		"doom_bringer_doom"
 			"7"		"doom_bringer_scorched_earth"
 			"8"		"doom_bringer_devour"
 			"9"		"doom_bringer_devour"
-			"10"		"special_bonus_unique_doom_4"
-			"11"		"doom_bringer_infernal_blade"
+			"10"		"doom_bringer_devour"
+			"11"		"special_bonus_unique_doom_4"
 			"12"		"doom_bringer_doom"
 			"13"		"doom_bringer_infernal_blade"
 			"14"		"doom_bringer_infernal_blade"
@@ -136,7 +142,7 @@ ALTERNATIVE: Hand of Midas"
 			"16"		"doom_bringer_infernal_blade"
 			"18"		"doom_bringer_doom"
 			"20"		"special_bonus_unique_doom_10"
-			"25"		"special_bonus_unique_doom_11"
+			"25"		"special_bonus_unique_doom_1"
 		}
 		"AbilityTooltips"
 		{

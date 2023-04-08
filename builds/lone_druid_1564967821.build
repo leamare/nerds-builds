@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D8"
-	"TimePublished"		"0x00000000640A04D8"
+	"TimeUpdated"		"0x0000000064301756"
+	"TimePublished"		"0x0000000064301756"
 	"ItemBuild"
 	{
 		"Items"
@@ -125,7 +125,7 @@ ALTERNATIVES: Radiance, Mjolnir"
 			"16"		"lone_druid_savage_roar"
 			"18"		"lone_druid_true_form"
 			"20"		"special_bonus_unique_lone_druid_8"
-			"25"		"special_bonus_unique_lone_druid_10"
+			"25"		"special_bonus_unique_lone_druid_7"
 		}
 		"AbilityTooltips"
 		{

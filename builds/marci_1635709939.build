@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"16"
+	"GuideRevision"		"18"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D8"
-	"TimePublished"		"0x00000000640A04D8"
+	"TimeUpdated"		"0x000000006430210C"
+	"TimePublished"		"0x000000006430210C"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,14 +21,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_gauntlets"
-				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
 			}
 			"Core"
@@ -42,8 +42,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bracer"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_soul_ring"
+				"item"		"item_falcon_blade"
 				"item"		"item_armlet"
+				"item"		"item_soul_ring"
 				"item"		"item_bottle"
 				"item"		"item_orchid"
 			}
@@ -74,15 +75,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_pogo_stick"
+				"item"		"item_lance_of_pursuit"
+				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
-				"item"		"item_trusty_shovel"
-				"item"		"item_misericorde"
+				"item"		"item_vambrace"
 				"item"		"item_dragon_scale"
-				"item"		"item_bullwhip"
-				"item"		"item_paladin_sword"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_black_powder_bag"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_titan_sliver"
+				"item"		"item_elven_tunic"
 				"item"		"item_havoc_hammer"
 				"item"		"item_heavy_blade"
 				"item"		"item_penta_edged_sword"
@@ -93,7 +94,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_armlet"		"~10-13 min
+			"item_armlet"		"~7-13 min
 Before Skull Basher"
 			"item_phase_boots"		"~8-11 min"
 			"item_orb_of_corrosion"		"Before Black King Bar"
@@ -105,8 +106,8 @@ Before Skull Basher"
 	{
 		"AbilityOrder"
 		{
-			"1"		"marci_companion_run"
-			"2"		"marci_grapple"
+			"1"		"marci_grapple"
+			"2"		"marci_companion_run"
 			"3"		"marci_guardian"
 			"4"		"marci_guardian"
 			"5"		"marci_guardian"
@@ -119,7 +120,7 @@ Before Skull Basher"
 			"12"		"marci_unleash"
 			"13"		"marci_grapple"
 			"14"		"marci_grapple"
-			"15"		"special_bonus_unique_marci_lunge_cooldown"
+			"15"		"special_bonus_unique_marci_guardian_lifesteal"
 			"16"		"marci_grapple"
 			"18"		"marci_unleash"
 			"20"		"special_bonus_unique_marci_unleash_speed"

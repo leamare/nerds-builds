@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000640A04D8"
-	"TimePublished"		"0x00000000640A04D8"
+	"TimeUpdated"		"0x00000000643002BE"
+	"TimePublished"		"0x00000000643002BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,9 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_mantle"
-				"item"		"item_circlet"
-				"item"		"item_mantle"
+				"item"		"item_crown"
 				"item"		"item_branches"
 			}
 			"Early"
@@ -34,26 +32,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_invis_sword"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_travel_boots"
+				"item"		"item_kaya"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blink"
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_meteor_hammer"
+				"item"		"item_tranquil_boots"
 				"item"		"item_force_staff"
 				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
 				"item"		"item_ethereal_blade"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_kaya_and_sange"
+				"item"		"item_invis_sword"
 				"item"		"item_aeon_disk"
 				"item"		"item_sphere"
 				"item"		"item_black_king_bar"
@@ -62,7 +63,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_refresher"
 				"item"		"item_bloodstone"
 				"item"		"item_wind_waker"
-				"item"		"item_silver_edge"
 			}
 			"Best Neutral Items"
 			{
@@ -109,7 +109,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"lion_voodoo"
 			"18"		"lion_finger_of_death"
 			"20"		"special_bonus_unique_lion_8"
-			"25"		"special_bonus_unique_lion_manadrain_damage"
+			"25"		"special_bonus_unique_lion_4"
 		}
 		"AbilityTooltips"
 		{
