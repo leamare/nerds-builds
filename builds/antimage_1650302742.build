@@ -3,16 +3,16 @@
 	"Hero"		"antimage"
 	"Title"		"Nerds Offlane Antimage"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"21"
 	"AssociatedWorkshopItemID"		"0x00000000A6ADE441"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC30"
-	"TimePublished"		"0x000000006422DC30"
+	"TimeUpdated"		"0x0000000064550A91"
+	"TimePublished"		"0x0000000064550A91"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_circlet"
-				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_vanguard"
-				"item"		"item_power_treads"
 				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
 			}
 			"Situational Early"
@@ -44,35 +44,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wraith_band"
 				"item"		"item_infused_raindrop"
 				"item"		"item_orb_of_corrosion"
+				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{
 				"item"		"item_manta"
 				"item"		"item_abyssal_blade"
 				"item"		"item_skadi"
-				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_disperser"
+				"item"		"item_assault"
 			}
 			"Situational"
 			{
+				"item"		"item_harpoon"
 				"item"		"item_bfury"
 				"item"		"item_black_king_bar"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_assault"
+				"item"		"item_butterfly"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_occult_bracelet"
 				"item"		"item_unstable_wand"
-				"item"		"item_possessed_mask"
 				"item"		"item_broom_handle"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_dragon_scale"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_vambrace"
-				"item"		"item_mind_breaker"
 				"item"		"item_paladin_sword"
 				"item"		"item_elven_tunic"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_titan_sliver"
 				"item"		"item_trickster_cloak"
 				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -80,8 +83,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_bfury"		"ALTERNATIVE: Diffusal Blade"
-			"item_diffusal_blade"		"ALTERNATIVE: Battle Fury"
+			"item_bfury"		"ALTERNATIVE: Diffusal Blade, Echo Sabre"
+			"item_diffusal_blade"		"ALTERNATIVE: Battle Fury, Echo Sabre"
+			"item_echo_sabre"		"ALTERNATIVE: Diffusal Blade, Battle Fury"
 		}
 	}
 	"AbilityBuild"

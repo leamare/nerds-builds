@@ -65,8 +65,8 @@
     "fillInStartingItems": false
   },
   "authored_dawnbreaker_2451876525": {
-    "role": ["1.3", "1.2"],
-    "fillInSkillBuilds": false,
+    "role": ["1.3", "1.1", "1.2"],
+    "fillInSkillBuilds": true,
     "fillInStartingItems": false
   },
   "authored_dazzle_1572131797": {
@@ -395,7 +395,7 @@
     "fillInStartingItems": false
   },
   "authored_muerta_2943594120": {
-    "role": ["1.2", "1.3", "1.1"],
+    "role": ["1.2", "1.1", "1.3"],
     "fillInSkillBuilds": false,
     "fillInStartingItems": false
   },

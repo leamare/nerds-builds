@@ -3,18 +3,18 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"85"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422E03E"
-	"TimePublished"		"0x000000006422E03E"
+	"TimeUpdated"		"0x0000000064579DD7"
+	"TimePublished"		"0x0000000064579DD7"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,21 +22,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
-				"item"		"item_slippers"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
+				"item"		"item_vanguard"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_vanguard"
-				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 			}
@@ -44,14 +44,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_wind_lace"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_hood_of_defiance"
 				"item"		"item_falcon_blade"
 				"item"		"item_mage_slayer"
 				"item"		"item_orchid"
+				"item"		"item_ancient_janggo"
+				"item"		"item_pipe"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
+				"item"		"item_aghanims_shard"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
@@ -61,51 +63,50 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
+				"item"		"item_crimson_guard"
+				"item"		"item_desolator"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_bloodthorn"
 				"item"		"item_abyssal_blade"
 				"item"		"item_heavens_halberd"
 				"item"		"item_nullifier"
 				"item"		"item_satanic"
-				"item"		"item_desolator"
 			}
 			"Utility"
 			{
 				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
-				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
 				"item"		"item_spirit_vessel"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_wraith_pact"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_manta"
 				"item"		"item_skadi"
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
 				"item"		"item_swift_blink"
-				"item"		"item_gungir"
+				"item"		"item_harpoon"
+				"item"		"item_wind_waker"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
-				"item"		"item_mysterious_hat"
 				"item"		"item_occult_bracelet"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_eye_of_the_vizier"
-				"item"		"item_nether_shawl"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_faded_broach"
+				"item"		"item_broom_handle"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_pupils_gift"
+				"item"		"item_bullwhip"
 				"item"		"item_psychic_headband"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_titan_sliver"
+				"item"		"item_dandelion_amulet"
 				"item"		"item_spell_prism"
-				"item"		"item_spell_prism"
-				"item"		"item_ninja_gear"
+				"item"		"item_spy_gadget"
+				"item"		"item_ascetic_cap"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"

@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Core Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"117"
+	"GuideRevision"		"120"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC31"
-	"TimePublished"		"0x000000006422DC31"
+	"TimeUpdated"		"0x000000006456FB9D"
+	"TimePublished"		"0x000000006456FB9D"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,8 +23,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
-				"item"		"item_crown"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
@@ -45,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_soul_ring"
 				"item"		"item_phase_boots"
 				"item"		"item_ghost"
-				"item"		"item_force_staff"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -54,15 +57,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
-				"item"		"item_shivas_guard"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_force_staff"
 				"item"		"item_sphere"
 				"item"		"item_aeon_disk"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
+				"item"		"item_shivas_guard"
 			}
 			"Utility"
 			{
@@ -72,34 +76,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
 				"item"		"item_glimmer_cape"
-				"item"		"item_wraith_pact"
 			}
 			"Other Significant Items"
 			{
 				"item"		"item_assault"
 				"item"		"item_spirit_vessel"
-				"item"		"item_hand_of_midas"
 				"item"		"item_bloodstone"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
 				"item"		"item_mysterious_hat"
+				"item"		"item_faded_broach"
 				"item"		"item_arcane_ring"
 				"item"		"item_grove_bow"
-				"item"		"item_dagger_of_ristul"
+				"item"		"item_pupils_gift"
 				"item"		"item_bullwhip"
 				"item"		"item_quickening_charm"
-				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_spell_prism"
-				"item"		"item_stormcrafter"
 				"item"		"item_timeless_relic"
+				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -116,7 +116,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_glimmer_cape"		"Good item to save allies (or yourself) from being focused"
 			"item_shivas_guard"		"For a hybrid core way when you need armor"
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
-			"item_octarine_core"		"Nice addition for a hybrid core (getting use of Mjolnir cooldown reduction, mjolnir procs and reduced cooldown on Q and E)"
 			"item_soul_ring"		"Another mana solution, may replace Bracer, but it&apos;s more expensive as well"
 			"item_spirit_vessel"		"You don&apos;t really need it yourself, but it&apos;s usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
 		}
@@ -134,15 +133,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"bane_brain_sap"
 			"8"		"bane_nightmare"
 			"9"		"bane_nightmare"
-			"10"		"special_bonus_unique_bane_10"
+			"10"		"special_bonus_unique_bane_8"
 			"11"		"bane_enfeeble"
 			"12"		"bane_fiends_grip"
 			"13"		"bane_enfeeble"
 			"14"		"bane_enfeeble"
-			"15"		"special_bonus_unique_bane_8"
+			"15"		"special_bonus_unique_bane_10"
 			"16"		"bane_enfeeble"
 			"18"		"bane_fiends_grip"
-			"20"		"special_bonus_unique_bane_5"
+			"20"		"special_bonus_movement_speed_30"
 			"25"		"special_bonus_unique_bane_2"
 		}
 		"AbilityTooltips"

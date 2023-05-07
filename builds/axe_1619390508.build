@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Carry Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"33"
 	"AssociatedWorkshopItemID"		"0x00000000931E893C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DD94"
-	"TimePublished"		"0x000000006422DD94"
+	"TimeUpdated"		"0x000000006456FAA1"
+	"TimePublished"		"0x000000006456FAA1"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,14 +23,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_gauntlets"
+				"item"		"item_branches"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
 				"item"		"item_vanguard"
 				"item"		"item_blade_mail"
+				"item"		"item_magic_stick"
 				"item"		"item_boots"
 			}
 			"Core"
@@ -73,18 +73,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
 				"item"		"item_pogo_stick"
 				"item"		"item_occult_bracelet"
+				"item"		"item_arcane_ring"
 				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
 				"item"		"item_vambrace"
+				"item"		"item_dandelion_amulet"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_ogre_seal_totem"
-				"item"		"item_titan_sliver"
-				"item"		"item_ascetic_cap"
+				"item"		"item_spell_prism"
 				"item"		"item_havoc_hammer"
-				"item"		"item_ninja_gear"
+				"item"		"item_martyrs_plate"
 			}
 			"https://builds.spectral.gg/"
 			{

@@ -3,17 +3,17 @@
 	"Hero"		"ember_spirit"
 	"Title"		"Nerds Support Ember"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"27"
+	"GuideRevision"		"28"
 	"AssociatedWorkshopItemID"		"0x00000000911000DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC34"
-	"TimePublished"		"0x000000006422DC34"
+	"TimeUpdated"		"0x000000006457C1CF"
+	"TimePublished"		"0x000000006457C1CF"
 	"ItemBuild"
 	{
 		"Items"
@@ -51,12 +51,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_spirit_vessel"
+				"item"		"item_phylactery"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
 				"item"		"item_broom_handle"
 				"item"		"item_mysterious_hat"
+				"item"		"item_arcane_ring"
 				"item"		"item_dragon_scale"
 				"item"		"item_bullwhip"
 				"item"		"item_pupils_gift"
@@ -65,7 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cloak_of_flames"
 				"item"		"item_timeless_relic"
 				"item"		"item_stormcrafter"
-				"item"		"item_timeless_relic"
+				"item"		"item_spell_prism"
 			}
 			"https://builds.spectral.gg/"
 			{

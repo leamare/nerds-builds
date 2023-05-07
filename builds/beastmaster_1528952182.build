@@ -3,18 +3,18 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
 
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"99"
+	"GuideRevision"		"101"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DE5D"
-	"TimePublished"		"0x000000006422DE5D"
+	"TimeUpdated"		"0x000000006456FCAE"
+	"TimePublished"		"0x000000006456FCAE"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,6 +30,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_helm_of_the_dominator"
 				"item"		"item_boots"
@@ -38,17 +39,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_helm_of_the_overlord"
-				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_phase_boots"
+				"item"		"item_vanguard"
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
-				"item"		"item_arcane_boots"
 			}
 			"Lategame"
 			{
@@ -66,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_solar_crest"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
-				"item"		"item_ultimate_scepter"
 			}
 			"Utility"
 			{
@@ -84,23 +84,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_trusty_shovel"
-				"item"		"item_mysterious_hat"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_bullwhip"
+				"item"		"item_occult_bracelet"
+				"item"		"item_arcane_ring"
+				"item"		"item_faded_broach"
+				"item"		"item_vampire_fangs"
 				"item"		"item_dragon_scale"
-				"item"		"item_quickening_charm"
+				"item"		"item_vambrace"
+				"item"		"item_paladin_sword"
 				"item"		"item_ogre_seal_totem"
-				"item"		"item_cloak_of_flames"
+				"item"		"item_psychic_headband"
 				"item"		"item_spell_prism"
-				"item"		"item_flicker"
 				"item"		"item_timeless_relic"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"

@@ -3,16 +3,16 @@
 	"Hero"		"crystal_maiden"
 	"Title"		"Nerds Core Crystal Maiden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"30"
 	"AssociatedWorkshopItemID"		"0x00000000923BDA3C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC32"
-	"TimePublished"		"0x000000006422DC32"
+	"TimeUpdated"		"0x000000006457A6DB"
+	"TimePublished"		"0x000000006457A6DB"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,6 +31,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bottle"
 				"item"		"item_boots"
 				"item"		"item_null_talisman"
+				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 				"item"		"item_infused_raindrop"
 			}
@@ -55,6 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_gungir"
+				"item"		"item_travel_boots_2"
 				"item"		"item_assault"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
@@ -83,11 +85,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mysterious_hat"
 				"item"		"item_arcane_ring"
+				"item"		"item_faded_broach"
 				"item"		"item_grove_bow"
+				"item"		"item_dragon_scale"
+				"item"		"item_vambrace"
 				"item"		"item_enchanted_quiver"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_timeless_relic"
+				"item"		"item_dandelion_amulet"
+				"item"		"item_psychic_headband"
 				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
 				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
@@ -123,7 +129,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_crystal_maiden_5"
 			"16"		"crystal_maiden_frostbite"
 			"18"		"crystal_maiden_freezing_field"
-			"20"		"special_bonus_attack_speed_200"
+			"20"		"special_bonus_attack_speed_225"
 			"25"		"special_bonus_unique_crystal_maiden_2"
 		}
 		"AbilityTooltips"

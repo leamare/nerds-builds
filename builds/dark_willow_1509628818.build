@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"138"
+	"GuideRevision"		"140"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422E44E"
-	"TimePublished"		"0x000000006422E44E"
+	"TimeUpdated"		"0x000000006457B12F"
+	"TimePublished"		"0x000000006457B12F"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,12 +20,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Starting Items / Offlane"
 			{
 				"item"		"item_tango"
-				"item"		"item_tango"
-				"item"		"item_mantle"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
-				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
@@ -38,16 +37,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ancient_janggo"
 				"item"		"item_blink"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_meteor_hammer"
-				"item"		"item_cyclone"
 				"item"		"item_witch_blade"
-				"item"		"item_mask_of_madness"
+				"item"		"item_cyclone"
 			}
 			"Utility"
 			{
@@ -60,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots_of_bearing"
 				"item"		"item_hurricane_pike"
+				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
@@ -67,6 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mask_of_madness"
 				"item"		"item_wind_waker"
 				"item"		"item_sphere"
 				"item"		"item_invis_sword"
@@ -122,11 +122,11 @@ ALTERNATIVE: Tranquil Boots"
 			"6"		"dark_willow_bedlam"
 			"7"		"dark_willow_shadow_realm"
 			"8"		"dark_willow_bramble_maze"
-			"9"		"dark_willow_cursed_crown"
+			"9"		"dark_willow_bramble_maze"
 			"10"		"special_bonus_unique_dark_willow_5"
 			"11"		"dark_willow_bramble_maze"
 			"12"		"dark_willow_bedlam"
-			"13"		"dark_willow_bramble_maze"
+			"13"		"dark_willow_cursed_crown"
 			"14"		"dark_willow_cursed_crown"
 			"15"		"special_bonus_unique_dark_willow_4"
 			"16"		"dark_willow_cursed_crown"

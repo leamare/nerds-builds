@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000642EFA2D"
-	"TimePublished"		"0x00000000642EFA2D"
+	"TimeUpdated"		"0x000000006457D7DD"
+	"TimePublished"		"0x000000006457D7DD"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,10 +23,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_blight_stone"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
+				"item"		"item_blood_grenade"
 			}
 			"Early"
 			{
@@ -36,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_aether_lens"
+				"item"		"item_blink"
 				"item"		"item_tranquil_boots"
 				"item"		"item_aghanims_shard"
 			}
@@ -48,37 +48,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_ethereal_blade"
-				"item"		"item_blink"
-				"item"		"item_travel_boots"
-				"item"		"item_octarine_core"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_octarine_core"
 				"item"		"item_gungir"
 			}
 			"Situational"
 			{
 				"item"		"item_force_staff"
-				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
+				"item"		"item_travel_boots"
+				"item"		"item_solar_crest"
 				"item"		"item_aeon_disk"
 				"item"		"item_cyclone"
 				"item"		"item_sheepstick"
-				"item"		"item_boots_of_bearing"
 				"item"		"item_rod_of_atos"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_lance_of_pursuit"
+				"item"		"item_arcane_ring"
+				"item"		"item_faded_broach"
+				"item"		"item_mysterious_hat"
+				"item"		"item_bullwhip"
 				"item"		"item_pupils_gift"
 				"item"		"item_grove_bow"
-				"item"		"item_philosophers_stone"
+				"item"		"item_quickening_charm"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_psychic_headband"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_spy_gadget"
+				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
-				"item"		"item_stormcrafter"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"faceless_void"
 	"Title"		"Nerds Core Void"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000642EF758"
-	"TimePublished"		"0x00000000642EF758"
+	"TimeUpdated"		"0x000000006457D35F"
+	"TimePublished"		"0x000000006457D35F"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,14 +30,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
+				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_mask_of_madness"
 				"item"		"item_maelstrom"
-				"item"		"item_black_king_bar"
-				"item"		"item_mjollnir"
 			}
 			"Core - tanky radiance"
 			{
@@ -53,13 +52,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
+				"item"		"item_mjollnir"
 				"item"		"item_aghanims_shard"
 				"item"		"item_skadi"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_butterfly"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
-				"item"		"item_satanic"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
@@ -72,27 +72,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_nullifier"
 				"item"		"item_travel_boots"
 				"item"		"item_assault"
-				"item"		"item_echo_sabre"
+				"item"		"item_satanic"
 			}
 			"Other Significant Items"
 			{
 				"item"		"item_octarine_core"
 				"item"		"item_bloodthorn"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_echo_sabre"
+				"item"		"item_disperser"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
 				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
+				"item"		"item_unstable_wand"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
-				"item"		"item_misericorde"
-				"item"		"item_pupils_gift"
-				"item"		"item_paladin_sword"
 				"item"		"item_titan_sliver"
+				"item"		"item_elven_tunic"
+				"item"		"item_vindicators_axe"
 				"item"		"item_mind_breaker"
 				"item"		"item_ninja_gear"
-				"item"		"item_heavy_blade"
 				"item"		"item_penta_edged_sword"
 			}
 			"https://builds.spectral.gg/"

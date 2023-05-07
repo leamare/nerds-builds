@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Axe"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000073B5405B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DD66"
-	"TimePublished"		"0x000000006422DD66"
+	"TimeUpdated"		"0x000000006456F909"
+	"TimePublished"		"0x000000006456F909"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,8 +28,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
 				"item"		"item_vanguard"
+				"item"		"item_magic_stick"
 				"item"		"item_boots"
 			}
 			"Core"
@@ -37,8 +37,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_blink"
 				"item"		"item_blade_mail"
-				"item"		"item_aghanims_shard"
-				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -58,21 +56,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_kaya_and_sange"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
 				"item"		"item_octarine_core"
+				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_heart"
 				"item"		"item_refresher"
 			}
 			"Situational"
 			{
-				"item"		"item_spirit_vessel"
-				"item"		"item_vladmir"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_silver_edge"
 				"item"		"item_abyssal_blade"
 				"item"		"item_assault"
 				"item"		"item_shivas_guard"
+				"item"		"item_heart"
 				"item"		"item_moon_shard"
 			}
 			"Other Significant Items"
@@ -81,21 +79,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_cyclone"
+				"item"		"item_spirit_vessel"
+				"item"		"item_vladmir"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
+				"item"		"item_arcane_ring"
+				"item"		"item_faded_broach"
 				"item"		"item_pogo_stick"
-				"item"		"item_broom_handle"
 				"item"		"item_bullwhip"
-				"item"		"item_dragon_scale"
 				"item"		"item_vambrace"
+				"item"		"item_dragon_scale"
+				"item"		"item_dandelion_amulet"
 				"item"		"item_ogre_seal_totem"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_quickening_charm"
-				"item"		"item_ascetic_cap"
-				"item"		"item_stormcrafter"
-				"item"		"item_timeless_relic"
+				"item"		"item_spell_prism"
+				"item"		"item_martyrs_plate"
+				"item"		"item_havoc_hammer"
 			}
 			"https://builds.spectral.gg/"
 			{
