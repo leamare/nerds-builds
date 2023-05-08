@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Support Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x000000006CDA8C4A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064301844"
-	"TimePublished"		"0x0000000064301844"
+	"TimeUpdated"		"0x000000006458E23E"
+	"TimePublished"		"0x000000006458E23E"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,22 +23,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_faerie_fire"
+				"item"		"item_magic_stick"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_wraith_band"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_phylactery"
 				"item"		"item_tranquil_boots"
-				"item"		"item_ancient_janggo"
-				"item"		"item_aether_lens"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -49,7 +48,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"
@@ -64,7 +62,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_blink"
 				"item"		"item_pipe"
-				"item"		"item_wraith_pact"
 			}
 			"Utility"
 			{
@@ -83,7 +80,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_ring"
 				"item"		"item_mysterious_hat"
-				"item"		"item_pogo_stick"
+				"item"		"item_faded_broach"
 				"item"		"item_grove_bow"
 				"item"		"item_vambrace"
 				"item"		"item_ring_of_aquila"

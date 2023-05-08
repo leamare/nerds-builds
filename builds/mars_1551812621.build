@@ -3,18 +3,18 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He also has two spammable spells that in combination with his great stats turn him into a great laner and farmer. The only thing he lacks in terms of that is mana sustain and the only thing he's missing overall is some kind of defense from magic. He is almost impossible to damage with attack damage early on, while also having great pickoff capabilities, burst damage and teamfight potential.
 
 There are two places you can go as Mars to be effective: offlane and midlane. In both cases your goal is simple: bully your enemy out of lane, get mana sustain item and snowball out of control. There are three items that you may buy and each of them will make you a strong fighter and brawler: Rod of Atos (great stats, mana pool and kill setup), Vladmir's Offering (additional sustain) or Desolator (agressive farming item). After buying any of these three all you need to do is just constantly fight with your team and crush your enemies until the Ancient falls.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"79"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x0000000063C985FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000643022CB"
-	"TimePublished"		"0x00000000643022CB"
+	"TimeUpdated"		"0x0000000064590286"
+	"TimePublished"		"0x0000000064590286"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,17 +26,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_gauntlets"
-				"item"		"item_faerie_fire"
+				"item"		"item_gauntlets"
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_soul_ring"
 				"item"		"item_boots"
-				"item"		"item_meteor_hammer"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_phase_boots"
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
@@ -44,9 +43,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_cyclone"
+				"item"		"item_bracer"
 				"item"		"item_armlet"
-				"item"		"item_soul_ring"
+				"item"		"item_arcane_boots"
+				"item"		"item_meteor_hammer"
 			}
 			"Utility"
 			{
@@ -70,6 +70,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_guardian_greaves"
+				"item"		"item_cyclone"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
 				"item"		"item_heart"
@@ -85,42 +86,43 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_trusty_shovel"
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_bullwhip"
-				"item"		"item_pupils_gift"
+				"item"		"item_occult_bracelet"
+				"item"		"item_faded_broach"
+				"item"		"item_pogo_stick"
 				"item"		"item_dragon_scale"
-				"item"		"item_black_powder_bag"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_bullwhip"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_quickening_charm"
+				"item"		"item_dandelion_amulet"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_trickster_cloak"
-				"item"		"item_spell_prism"
+				"item"		"item_martyrs_plate"
 				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
 			"item_bottle"		"Early mana sustain on lane. It also helps you get power runes potential which is neat for Mars"
 			"item_phase_boots"		"~8 min
-Mobility, armor and damage. All three are good for you because of your tanky nature and scalable spells"
+Mobility, armor and damage. All three are good for you because of your tanky nature and scalable spells
+ALTERNATIVE: Arcane Boots"
 			"item_black_king_bar"		"Usually BKB is a situational item, but Mars is weak against magic and he gets a lot of value from BKB anyway, so it may be a great item to pickup"
 			"item_soul_ring"		"Another way to sustain your mana"
-			"item_vladmir"		"Great item for a tanky utility core, works great if your team don&apos;t have it"
+			"item_vladmir"		"Great item for a tanky utility core, works great if your team don&amp;apos;t have it"
 			"item_blink"		"Good initiation item for initiation and running people down"
 			"item_assault"		"As a strength core hero Mars loves attack speed and armor, both are provided by AC"
-			"item_satanic"		"Almost instant heal in combination with God&apos;s Rebuke, additional tankiness/damage and status resistance"
+			"item_satanic"		"Almost instant heal in combination with God&amp;apos;s Rebuke, additional tankiness/damage and status resistance"
 			"item_heart"		"More of a defensive alternative to Satanic"
-			"item_desolator"		"Greatly amplifies your damage output from God&apos;s Rebuke, mostly works as offensive and farming item
+			"item_desolator"		"Greatly amplifies your damage output from God&amp;apos;s Rebuke, mostly works as offensive and farming item
 ORDER SWAP: Blink Dagger"
 			"item_cyclone"		"For a more utility focused build
 Before Blink Dagger"
 			"item_armlet"		"Before Blink Dagger"
+			"item_arcane_boots"		"ALTERNATIVE: Phase Boots"
+			"item_meteor_hammer"		"Before Phase Boots"
 		}
 	}
 	"AbilityBuild"
@@ -129,8 +131,8 @@ Before Blink Dagger"
 		{
 			"1"		"mars_gods_rebuke"
 			"2"		"mars_spear"
-			"3"		"mars_spear"
-			"4"		"mars_gods_rebuke"
+			"3"		"mars_bulwark"
+			"4"		"mars_spear"
 			"5"		"mars_spear"
 			"6"		"mars_arena_of_blood"
 			"7"		"mars_spear"
@@ -142,38 +144,37 @@ Before Blink Dagger"
 			"13"		"mars_bulwark"
 			"14"		"mars_bulwark"
 			"15"		"special_bonus_unique_mars_spear_bonus_damage"
-			"16"		"mars_bulwark"
 			"18"		"mars_arena_of_blood"
 			"20"		"special_bonus_unique_mars_spear_stun_duration"
 			"25"		"special_bonus_unique_mars_arena_of_blood_hp_regen"
 		}
 		"AbilityTooltips"
 		{
-			"mars_spear"		"It&apos;s your main damage tool on lane and positioning tool, similar to Toss. Try to mess with enemy, throwing them to your tower, creeps or from creepwaves to deny experience.
+			"mars_spear"		"It&amp;apos;s your main damage tool on lane and positioning tool, similar to Toss. Try to mess with enemy, throwing them to your tower, creeps or from creepwaves to deny experience.
 
 Things to note:
 - If you fail to pin your target, it will be facing you afterwards
 - It allowes you to see invisible units and ives vision
-- Only gets targets to the front, it won&apos;t catch a hero standing right near your model"
+- Only gets targets to the front, it won&amp;apos;t catch a hero standing right near your model"
 			"mars_gods_rebuke"		"Great skill to have early on to secure lasthits and harass your opponnt on a low cooldown
 
 Tips:
 - It can interrupt forced movement, including your own spear
-- You can proc all attack modifiers, but cooldown based ones (bash, maelstrom) won&apos;t proc more than once
+- You can proc all attack modifiers, but cooldown based ones (bash, maelstrom) won&amp;apos;t proc more than once
 - It attacks targets from left to right, so with basher the most right target has higher chance to be bashed
 - Damage pierces BKB"
-			"mars_bulwark"		"It&apos;s a good spell for early brawling while trading hits, but at the same time it gets only better with levels and items, later into the game, while your other spells are much more profitable early on
+			"mars_bulwark"		"It&amp;apos;s a good spell for early brawling while trading hits, but at the same time it gets only better with levels and items, later into the game, while your other spells are much more profitable early on
 
 Tips:
-- Reduces only PHYSICAL ATTACK DAMAGE and attack damage like abilities (Monkey King&apos;s Q), but not from Swashbuckle
-- Block works as usual: doesn&apos;t stack, blocks after armor"
+- Reduces only PHYSICAL ATTACK DAMAGE and attack damage like abilities (Monkey King&amp;apos;s Q), but not from Swashbuckle
+- Block works as usual: doesn&amp;apos;t stack, blocks after armor"
 			"mars_arena_of_blood"		"Your great teamfighting spell and synergy enabler for everything you have. Use it to catch your enemies and control their positioning to then later kill them with Spear+Rebuke
 
 Tips:
-- Doesn&apos;t pierce spell immutiny
+- Doesn&amp;apos;t pierce spell immutiny
 - There may be multiple arenas
 - Mars and teammates can get in and out freely
-- It&apos;s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)"
+- It&amp;apos;s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)"
 			"special_bonus_unique_mars_arena_of_blood_hp_regen"		"It can be very strong and make you and your team hard to take down. It may work great in lategame scenarios or just while pushing enemy highground in general"
 		}
 	}

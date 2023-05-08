@@ -3,16 +3,16 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Utility LS"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"54"
+	"GuideRevision"		"55"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000642F08A2"
-	"TimePublished"		"0x00000000642F08A2"
+	"TimeUpdated"		"0x0000000064585100"
+	"TimePublished"		"0x0000000064585100"
 	"ItemBuild"
 	{
 		"Items"
@@ -46,7 +46,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_assault"
 				"item"		"item_radiance"
@@ -59,17 +58,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_arcane_ring"
 				"item"		"item_broom_handle"
-				"item"		"item_bullwhip"
+				"item"		"item_duelist_gloves"
+				"item"		"item_occult_bracelet"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_vambrace"
 				"item"		"item_dragon_scale"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_titan_sliver"
 				"item"		"item_paladin_sword"
-				"item"		"item_the_leveller"
-				"item"		"item_spy_gadget"
+				"item"		"item_elven_tunic"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_mind_breaker"
 				"item"		"item_stormcrafter"
 			}
 			"https://builds.spectral.gg/"
@@ -78,10 +77,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_orb_of_corrosion"		"Before Vladmir&apos;s Offering"
-			"item_blade_mail"		"Before Aghanim&apos;s Scepter"
-			"item_medallion_of_courage"		"Before Aghanim&apos;s Shard"
-			"item_phase_boots"		"Before Vladimir&apos;s Offering"
+			"item_orb_of_corrosion"		"Before Vladmir&amp;apos;s Offering"
+			"item_blade_mail"		"Before Aghanim&amp;apos;s Scepter"
+			"item_medallion_of_courage"		"Before Aghanim&amp;apos;s Shard"
+			"item_phase_boots"		"Before Vladimir&amp;apos;s Offering"
 		}
 	}
 	"AbilityBuild"

@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Lifestealer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Lifestealer is a strength core hero who is extremely good against high HP targets. His skillset allowes him to outlive opponents in fights and be durable, while Feast gives him damage based on enemy HP.
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"97"
+	"GuideRevision"		"98"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000642F086F"
-	"TimePublished"		"0x00000000642F086F"
+	"TimeUpdated"		"0x00000000645852B4"
+	"TimePublished"		"0x00000000645852B4"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,28 +21,33 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_branches"
+				"item"		"item_branches"
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_orb_of_venom"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
 				"item"		"item_armlet"
 				"item"		"item_desolator"
-				"item"		"item_aghanims_shard"
+				"item"		"item_basher"
+			}
+			"Core - Radiance"
+			{
+				"item"		"item_radiance"
+				"item"		"item_manta"
 				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
+				"item"		"item_bracer"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_power_treads"
 				"item"		"item_hand_of_midas"
 				"item"		"item_blink"
 			}
@@ -50,26 +55,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
 				"item"		"item_nullifier"
-				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
 				"item"		"item_travel_boots"
 				"item"		"item_swift_blink"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_manta"
+				"item"		"item_greater_crit"
 				"item"		"item_mjollnir"
 				"item"		"item_black_king_bar"
-				"item"		"item_manta"
-				"item"		"item_radiance"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_satanic"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_silver_edge"
 				"item"		"item_heavens_halberd"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_bloodthorn"
 				"item"		"item_sphere"
 			}
 			"Other Significant Items"
@@ -77,26 +81,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ultimate_scepter"
 				"item"		"item_swift_blink"
 				"item"		"item_heart"
+				"item"		"item_bloodthorn"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_broom_handle"
-				"item"		"item_dragon_scale"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_vambrace"
-				"item"		"item_mind_breaker"
-				"item"		"item_titan_sliver"
-				"item"		"item_elven_tunic"
-				"item"		"item_penta_edged_sword"
-				"item"		"item_heavy_blade"
-				"item"		"item_havoc_hammer"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -108,14 +99,14 @@ Before Assault Cuirass"
 			"item_armlet"		"~11-14 min
 ORDER SWAP: Phase Boots"
 			"item_phase_boots"		"~6-9 min
-ORDER SWAP: Armlet of Mordiggian
-ALTERNATIVE: Power Treads"
+ORDER SWAP: Armlet of Mordiggian"
 			"item_orb_of_corrosion"		"Before Armlet of Mordiggian"
 			"item_hand_of_midas"		"~6-10 min
 Before Armlet of Mordiggian"
 			"item_desolator"		"~18-21 min
 ALTERNATIVES: Radiance, Mjolnir"
-			"item_radiance"		"ALTERNATIVES: Desolator, Mjolnir"
+			"item_radiance"		"~12-15 min
+ALTERNATIVES: Desolator, Mjolnir"
 			"item_sphere"		"Additional defensive slot against lineups heavy on targeted control
 Before Assault Cuirass"
 			"item_heavens_halberd"		"Alternative to Sange and Yasha
@@ -126,7 +117,6 @@ Before Assault Cuirass"
 Before Assault Cuirass"
 			"item_basher"		"~23-25 min"
 			"item_assault"		"~30 min"
-			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 		}
 	}
 	"AbilityBuild"
@@ -135,19 +125,19 @@ Before Assault Cuirass"
 		{
 			"1"		"life_stealer_feast"
 			"2"		"life_stealer_ghoul_frenzy"
-			"3"		"life_stealer_feast"
+			"3"		"life_stealer_ghoul_frenzy"
 			"4"		"life_stealer_rage"
 			"5"		"life_stealer_ghoul_frenzy"
 			"6"		"life_stealer_infest"
 			"7"		"life_stealer_ghoul_frenzy"
-			"8"		"life_stealer_ghoul_frenzy"
+			"8"		"life_stealer_feast"
 			"9"		"life_stealer_feast"
 			"10"		"special_bonus_unique_lifestealer_2"
 			"11"		"life_stealer_feast"
 			"12"		"life_stealer_infest"
 			"13"		"life_stealer_rage"
 			"14"		"life_stealer_rage"
-			"15"		"special_bonus_hp_325"
+			"15"		"special_bonus_attack_damage_25"
 			"16"		"life_stealer_rage"
 			"18"		"life_stealer_infest"
 			"20"		"special_bonus_unique_lifestealer_6"

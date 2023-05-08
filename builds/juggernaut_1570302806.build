@@ -3,16 +3,16 @@
 	"Hero"		"juggernaut"
 	"Title"		"Nerds Juggernaut"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000642EFC4E"
-	"TimePublished"		"0x00000000642EFC4E"
+	"TimeUpdated"		"0x0000000064584F13"
+	"TimePublished"		"0x0000000064584F13"
 	"ItemBuild"
 	{
 		"Items"
@@ -69,6 +69,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_nullifier"
 				"item"		"item_travel_boots"
+				"item"		"item_disperser"
 			}
 			"Other Significant Items"
 			{
@@ -79,18 +80,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
 				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
 				"item"		"item_ring_of_aquila"
 				"item"		"item_pupils_gift"
-				"item"		"item_misericorde"
-				"item"		"item_mind_breaker"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_titan_sliver"
 				"item"		"item_elven_tunic"
+				"item"		"item_paladin_sword"
 				"item"		"item_ninja_gear"
-				"item"		"item_heavy_blade"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,10 +115,10 @@ ALTERNATIVE: Sange and Yasha"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 			"item_diffusal_blade"		"Cheap early damage and slow, for playstyle based on manaburn and illusions
 ALTERNATIVES: Maelstrom, Battle Fury, Radiance"
-			"item_skadi"		"ALTERNATIVES: Linken&apos;s Sphere, Black King Bar"
+			"item_skadi"		"ALTERNATIVES: Linken&amp;apos;s Sphere, Black King Bar"
 			"item_sphere"		"ALTERNATIVES: Eye of Skadi, Black King Bar"
 			"item_black_king_bar"		"Against control heavy lineups
-ALTERNATIVES: Eye of Skadi, Linken&apos;s Sphere"
+ALTERNATIVES: Eye of Skadi, Linken&amp;apos;s Sphere"
 			"item_ancient_janggo"		"Before Maelstrom"
 		}
 	}
@@ -126,9 +127,9 @@ ALTERNATIVES: Eye of Skadi, Linken&apos;s Sphere"
 		"AbilityOrder"
 		{
 			"1"		"juggernaut_blade_fury"
-			"2"		"juggernaut_healing_ward"
+			"2"		"juggernaut_blade_dance"
 			"3"		"juggernaut_blade_fury"
-			"4"		"juggernaut_blade_dance"
+			"4"		"juggernaut_healing_ward"
 			"5"		"juggernaut_blade_fury"
 			"6"		"juggernaut_omni_slash"
 			"7"		"juggernaut_blade_fury"

@@ -3,16 +3,16 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064303321"
-	"TimePublished"		"0x0000000064303321"
+	"TimeUpdated"		"0x0000000064598794"
+	"TimePublished"		"0x0000000064598794"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -30,25 +30,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
+				"item"		"item_magic_wand"
 				"item"		"item_boots"
-				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
 				"item"		"item_witch_blade"
+				"item"		"item_power_treads"
 				"item"		"item_blink"
 				"item"		"item_kaya_and_sange"
-				"item"		"item_travel_boots"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_cyclone"
 				"item"		"item_force_staff"
 				"item"		"item_sphere"
 			}
 			"Lategame"
 			{
+				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
@@ -80,14 +80,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mysterious_hat"
 				"item"		"item_vambrace"
 				"item"		"item_grove_bow"
-				"item"		"item_nether_shawl"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_quickening_charm"
+				"item"		"item_pupils_gift"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_psychic_headband"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
-				"item"		"item_stormcrafter"
 			}
 			"https://builds.spectral.gg/"
 			{

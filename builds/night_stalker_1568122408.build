@@ -3,16 +3,16 @@
 	"Hero"		"night_stalker"
 	"Title"		"Nerds Night Stalker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064302EA4"
-	"TimePublished"		"0x0000000064302EA4"
+	"TimeUpdated"		"0x000000006459837F"
+	"TimePublished"		"0x000000006459837F"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
 			}
@@ -42,36 +41,39 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_radiance"
-				"item"		"item_hand_of_midas"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_armlet"
+				"item"		"item_bracer"
+				"item"		"item_bottle"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_soul_ring"
+				"item"		"item_armlet"
+				"item"		"item_hand_of_midas"
+				"item"		"item_vanguard"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_wraith_band"
+				"item"		"item_invis_sword"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_radiance"
 			}
 			"Utility"
 			{
 				"item"		"item_pipe"
 				"item"		"item_vladmir"
 				"item"		"item_crimson_guard"
-				"item"		"item_lotus_orb"
+				"item"		"item_spirit_vessel"
 			}
 			"Lategame"
 			{
+				"item"		"item_harpoon"
 				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_silver_edge"
-				"item"		"item_nullifier"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_silver_edge"
+				"item"		"item_nullifier"
 				"item"		"item_heavens_halberd"
-				"item"		"item_spirit_vessel"
 				"item"		"item_satanic"
 				"item"		"item_lotus_orb"
 			}
@@ -80,7 +82,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_sheepstick"
 				"item"		"item_silver_edge"
-				"item"		"item_wraith_pact"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_octarine_core"
@@ -88,18 +89,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
-				"item"		"item_unstable_wand"
-				"item"		"item_possessed_mask"
-				"item"		"item_dagger_of_ristul"
-				"item"		"item_misericorde"
+				"item"		"item_duelist_gloves"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_dragon_scale"
-				"item"		"item_paladin_sword"
-				"item"		"item_mind_breaker"
+				"item"		"item_vambrace"
 				"item"		"item_titan_sliver"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_vindicators_axe"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_havoc_hammer"
-				"item"		"item_heavy_blade"
+				"item"		"item_mind_breaker"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -110,13 +111,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ultimate_scepter"		"ALTERNATIVES: Hand of Midas, Echo Sabre, Armlet of Mordiggian"
 			"item_phase_boots"		"~7 min"
 			"item_echo_sabre"		"~14 min
-ALTERNATIVES: Radiance, Hand of Midas, Aghanim&apos;s Scepter, Armlet of Mordiggian"
+ALTERNATIVES: Radiance, Hand of Midas, Aghanim&amp;apos;s Scepter, Armlet of Mordiggian"
 			"item_black_king_bar"		"~21-25 min"
 			"item_blink"		"~22 min"
 			"item_soul_ring"		"Before Echo Sabre"
 			"item_orb_of_corrosion"		"Before Echo Sabre"
-			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&apos;s Scepter, Armlet of Mordiggian"
-			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&apos;s Scepter, Hand of Midas"
+			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;apos;s Scepter, Armlet of Mordiggian"
+			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;apos;s Scepter, Hand of Midas"
 			"item_urn_of_shadows"		"Before Echo Sabre"
 		}
 	}

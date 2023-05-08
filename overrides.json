@@ -187,6 +187,11 @@
     "fillInSkillBuilds": false,
     "fillInStartingItems": false
   },
+  "authored_marci_2642510548": {
+    "role": ["1.3", "1.2", "1.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
   "authored_mars_1674151420": {
     "role": ["1.3", "1.2"],
     "fillInSkillBuilds": false,

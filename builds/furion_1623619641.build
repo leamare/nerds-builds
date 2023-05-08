@@ -3,16 +3,16 @@
 	"Hero"		"furion"
 	"Title"		"Nerds Core Prophet"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x0000000095FA7753"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC34"
-	"TimePublished"		"0x00000000640A04D6"
+	"TimeUpdated"		"0x00000000645961BF"
+	"TimePublished"		"0x00000000645961BF"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,6 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_blight_stone"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -47,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_mjollnir"
+				"item"		"item_gungir"
 				"item"		"item_silver_edge"
 				"item"		"item_assault"
 				"item"		"item_satanic"
@@ -56,8 +57,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mjollnir"
+				"item"		"item_hurricane_pike"
 				"item"		"item_aghanims_shard"
-				"item"		"item_gungir"
 				"item"		"item_skadi"
 				"item"		"item_sphere"
 				"item"		"item_greater_crit"
@@ -70,24 +72,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Other Significant Items"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_wraith_pact"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_shivas_guard"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
-				"item"		"item_trusty_shovel"
-				"item"		"item_lance_of_pursuit"
+				"item"		"item_arcane_ring"
+				"item"		"item_duelist_gloves"
+				"item"		"item_occult_bracelet"
 				"item"		"item_grove_bow"
-				"item"		"item_misericorde"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_specialists_array"
-				"item"		"item_mind_breaker"
+				"item"		"item_paladin_sword"
 				"item"		"item_titan_sliver"
 				"item"		"item_elven_tunic"
+				"item"		"item_mind_breaker"
 				"item"		"item_trickster_cloak"
-				"item"		"item_spell_prism"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -119,7 +120,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"furion_wrath_of_nature"
 			"13"		"furion_sprout"
 			"14"		"furion_sprout"
-			"15"		"special_bonus_attack_speed_25"
+			"15"		"special_bonus_unique_furion_teleportation_max_stacks"
 			"16"		"furion_sprout"
 			"18"		"furion_wrath_of_nature"
 			"20"		"special_bonus_unique_furion_7"

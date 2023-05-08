@@ -3,16 +3,16 @@
 	"Hero"		"marci"
 	"Title"		"Nerds Core Marci"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"18"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006430210C"
-	"TimePublished"		"0x000000006430210C"
+	"TimeUpdated"		"0x00000000645905EF"
+	"TimePublished"		"0x00000000645905EF"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,6 +24,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
 			}
 			"Early"
 			{
@@ -36,23 +38,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_basher"
-				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_bottle"
+				"item"		"item_armlet"
 				"item"		"item_bracer"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_falcon_blade"
-				"item"		"item_armlet"
 				"item"		"item_soul_ring"
-				"item"		"item_bottle"
 				"item"		"item_orchid"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
+				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_abyssal_blade"
 				"item"		"item_greater_crit"
+				"item"		"item_abyssal_blade"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_assault"
@@ -65,28 +69,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_lotus_orb"
 				"item"		"item_nullifier"
+				"item"		"item_disperser"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_wraith_pact"
 				"item"		"item_desolator"
 				"item"		"item_silver_edge"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_bfury"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_lance_of_pursuit"
-				"item"		"item_occult_bracelet"
 				"item"		"item_broom_handle"
-				"item"		"item_vambrace"
+				"item"		"item_unstable_wand"
+				"item"		"item_ring_of_aquila"
 				"item"		"item_dragon_scale"
-				"item"		"item_dagger_of_ristul"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_titan_sliver"
+				"item"		"item_paladin_sword"
 				"item"		"item_elven_tunic"
-				"item"		"item_havoc_hammer"
-				"item"		"item_heavy_blade"
 				"item"		"item_penta_edged_sword"
+				"item"		"item_trickster_cloak"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -98,8 +103,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 Before Skull Basher"
 			"item_phase_boots"		"~8-11 min"
 			"item_orb_of_corrosion"		"Before Black King Bar"
-			"item_soul_ring"		"Before Black King Bar"
 			"item_orchid"		"Before Skull Basher"
+			"item_soul_ring"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"

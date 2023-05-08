@@ -3,16 +3,16 @@
 	"Hero"		"magnataur"
 	"Title"		"Nerds Magnus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000072F84470"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC36"
-	"TimePublished"		"0x000000006422DC36"
+	"TimeUpdated"		"0x000000006458E427"
+	"TimePublished"		"0x000000006458E427"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_ring_of_protection"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -37,8 +37,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_echo_sabre"
 				"item"		"item_blink"
+				"item"		"item_harpoon"
 				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -49,40 +49,40 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
-				"item"		"item_refresher"
-				"item"		"item_assault"
 				"item"		"item_silver_edge"
+				"item"		"item_aghanims_shard"
+				"item"		"item_assault"
 				"item"		"item_satanic"
+				"item"		"item_refresher"
 				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_octarine_core"
 				"item"		"item_heavens_halberd"
 				"item"		"item_greater_crit"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_bloodthorn"
 				"item"		"item_lotus_orb"
-				"item"		"item_wraith_pact"
 				"item"		"item_heart"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_possessed_mask"
-				"item"		"item_broom_handle"
+				"item"		"item_faded_broach"
 				"item"		"item_pogo_stick"
+				"item"		"item_occult_bracelet"
 				"item"		"item_pupils_gift"
 				"item"		"item_bullwhip"
-				"item"		"item_vambrace"
-				"item"		"item_black_powder_bag"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_spy_gadget"
-				"item"		"item_havoc_hammer"
-				"item"		"item_stormcrafter"
+				"item"		"item_dragon_scale"
+				"item"		"item_titan_sliver"
+				"item"		"item_quickening_charm"
+				"item"		"item_psychic_headband"
+				"item"		"item_spell_prism"
+				"item"		"item_ninja_gear"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -120,7 +120,7 @@ ORDER SWAP: Echo Sabre"
 			"16"		"magnataur_skewer"
 			"18"		"magnataur_reverse_polarity"
 			"20"		"special_bonus_unique_magnus_3"
-			"25"		"special_bonus_unique_magnus_5"
+			"25"		"special_bonus_unique_magnus_2"
 		}
 		"AbilityTooltips"
 		{

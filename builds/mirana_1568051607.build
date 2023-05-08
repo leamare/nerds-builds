@@ -3,16 +3,16 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"53"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000643025A1"
-	"TimePublished"		"0x00000000643025A1"
+	"TimeUpdated"		"0x000000006459213A"
+	"TimePublished"		"0x000000006459213A"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,8 +23,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_clarity"
+				"item"		"item_blood_grenade"
 				"item"		"item_faerie_fire"
+				"item"		"item_clarity"
 				"item"		"item_ward_sentry"
 			}
 			"Early"
@@ -37,6 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_guardian_greaves"
 				"item"		"item_force_staff"
+				"item"		"item_aghanims_shard"
 				"item"		"item_cyclone"
 			}
 			"Situational Early"
@@ -50,7 +52,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
 				"item"		"item_lotus_orb"
@@ -61,7 +62,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_wraith_pact"
 				"item"		"item_aeon_disk"
 				"item"		"item_solar_crest"
 				"item"		"item_pipe"
@@ -73,24 +73,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_dagon_5"
 				"item"		"item_rod_of_atos"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_guardian_greaves"
 				"item"		"item_glimmer_cape"
 				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_unstable_wand"
-				"item"		"item_arcane_ring"
 				"item"		"item_trusty_shovel"
+				"item"		"item_occult_bracelet"
 				"item"		"item_ring_of_aquila"
+				"item"		"item_pupils_gift"
 				"item"		"item_bullwhip"
-				"item"		"item_dragon_scale"
 				"item"		"item_ogre_seal_totem"
-				"item"		"item_black_powder_bag"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_dandelion_amulet"
+				"item"		"item_psychic_headband"
 				"item"		"item_spell_prism"
-				"item"		"item_ascetic_cap"
 				"item"		"item_timeless_relic"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
