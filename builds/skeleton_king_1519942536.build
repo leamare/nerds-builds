@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"93"
+	"GuideRevision"		"95"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006422DC39"
-	"TimePublished"		"0x000000006422DC39"
+	"TimeUpdated"		"0x00000000645AFC42"
+	"TimePublished"		"0x00000000645AFC42"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,21 +27,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_magic_stick"
+				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
 				"item"		"item_soul_ring"
-				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
+				"item"		"item_pavise"
 				"item"		"item_blink"
-				"item"		"item_holy_locket"
 			}
 			"Situational Early"
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
+				"item"		"item_holy_locket"
 			}
 			"Utility"
 			{
@@ -62,6 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_harpoon"
 				"item"		"item_ghost"
 				"item"		"item_meteor_hammer"
 				"item"		"item_blade_mail"
@@ -79,36 +82,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_broom_handle"
-				"item"		"item_unstable_wand"
-				"item"		"item_keen_optic"
-				"item"		"item_bullwhip"
-				"item"		"item_dragon_scale"
+				"item"		"item_occult_bracelet"
+				"item"		"item_duelist_gloves"
 				"item"		"item_ring_of_aquila"
-				"item"		"item_quickening_charm"
-				"item"		"item_black_powder_bag"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_vambrace"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_elven_tunic"
 				"item"		"item_psychic_headband"
-				"item"		"item_spell_prism"
-				"item"		"item_flicker"
+				"item"		"item_mind_breaker"
+				"item"		"item_penta_edged_sword"
 				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
 		{
-			"item_soul_ring"		"One of WK&apos;s main problems is mana. With Soul Ring it mostly gets solved."
+			"item_soul_ring"		"One of WK&amp;apos;s main problems is mana. With Soul Ring it mostly gets solved."
 			"item_ancient_janggo"		"Cheap stats, mana regen and movement speed - all that position 4 WK might need."
-			"item_blink"		"Even while it&apos;s position 4 WK, you still need to get Blink Dagger to initiate. You lack mobility in general and it helps to keep up, but ability to escape after ult most of the time or initiate with almost instant stun is too valuable."
-			"item_blade_mail"		"You&apos;re naturally pretty tanky and have two lives, so Blade Mail seems like a good purchase."
+			"item_blink"		"Even while it&amp;apos;s position 4 WK, you still need to get Blink Dagger to initiate. You lack mobility in general and it helps to keep up, but ability to escape after ult most of the time or initiate with almost instant stun is too valuable."
+			"item_blade_mail"		"You&amp;apos;re naturally pretty tanky and have two lives, so Blade Mail seems like a good purchase."
 			"item_meteor_hammer"		"Good for finishing early"
 			"item_solar_crest"		"Amplifies damage from skeletons, gives cheap armor and miss chance."
 			"item_ultimate_scepter"		"One of the most underrated aspects of WK. It helps to make huge impact in fights even after somebody died. Especially good with burst initiation."
 			"item_spirit_vessel"		"Natural upgrade for Urn and one of the strongest support items"
 			"item_quelling_blade"		"Useful for early farming"
 			"item_assault"		"Buff for both your armor and attack speed. Works well with summons and great aura to have."
-			"item_shivas_guard"		"Alternatively, if your team already have AC, you can get Shiva&apos;s instead. It&apos;s not as good for your hero, but it&apos;s still great item to have"
+			"item_shivas_guard"		"Alternatively, if your team already have AC, you can get Shiva&amp;apos;s instead. It&amp;apos;s not as good for your hero, but it&amp;apos;s still great item to have"
 			"item_crimson_guard"		"Works well againt summons"
 			"item_pipe"		"Works well against a lot of magic damage"
 			"item_ghost"		"Against high physical damage"
@@ -118,22 +120,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"skeleton_king_mortal_strike"
-			"2"		"skeleton_king_hellfire_blast"
-			"3"		"skeleton_king_mortal_strike"
+			"1"		"skeleton_king_hellfire_blast"
+			"2"		"skeleton_king_mortal_strike"
+			"3"		"skeleton_king_hellfire_blast"
 			"4"		"skeleton_king_vampiric_aura"
 			"5"		"skeleton_king_hellfire_blast"
 			"6"		"skeleton_king_reincarnation"
 			"7"		"skeleton_king_hellfire_blast"
 			"8"		"skeleton_king_vampiric_aura"
-			"9"		"skeleton_king_hellfire_blast"
+			"9"		"skeleton_king_vampiric_aura"
 			"10"		"skeleton_king_vampiric_aura"
-			"11"		"skeleton_king_vampiric_aura"
+			"11"		"skeleton_king_mortal_strike"
 			"12"		"skeleton_king_reincarnation"
 			"13"		"skeleton_king_mortal_strike"
 			"14"		"skeleton_king_mortal_strike"
 			"15"		"special_bonus_unique_wraith_king_vampiric_skeleton_duration"
-			"16"		"special_bonus_unique_wraith_king_6"
+			"16"		"special_bonus_unique_wraith_king_11"
 			"18"		"skeleton_king_reincarnation"
 			"20"		"special_bonus_unique_wraith_king_5"
 			"25"		"special_bonus_unique_wraith_king_4"
@@ -142,7 +144,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"skeleton_king_mortal_strike"		"Great ability for zoning enemies early, as well as farm jungle inbetween ganks. Crits are good for trading hits and farming jungle early, skeletons are great for zoning opponents and farming jugle early on. Note that you can also use wards to guide your skeletons around."
 			"skeleton_king_hellfire_blast"		"Good skill to learn at level 1 for a kill potential. Otherwise get it on level 2 and keep it level 1 for a while."
-			"skeleton_king_reincarnation"		"Signature skill that makes a decent tank out of us. You can skip it early on if you don&apos;t want to waste it without a purpose."
+			"skeleton_king_reincarnation"		"Signature skill that makes a decent tank out of us. You can skip it early on if you don&amp;apos;t want to waste it without a purpose."
 		}
 	}
 }

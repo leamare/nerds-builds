@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064304ABE"
-	"TimePublished"		"0x0000000064304ABE"
+	"TimeUpdated"		"0x00000000645AFD41"
+	"TimePublished"		"0x00000000645AFD41"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,12 +32,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_wind_lace"
+				"item"		"item_phylactery"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_force_staff"
-				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
@@ -48,7 +50,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
@@ -57,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aether_lens"
 				"item"		"item_cyclone"
 				"item"		"item_veil_of_discord"
 				"item"		"item_kaya_and_sange"
@@ -70,10 +72,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_arcane_ring"
 				"item"		"item_pogo_stick"
-				"item"		"item_trusty_shovel"
+				"item"		"item_faded_broach"
 				"item"		"item_philosophers_stone"
+				"item"		"item_grove_bow"
 				"item"		"item_bullwhip"
-				"item"		"item_nether_shawl"
 				"item"		"item_psychic_headband"
 				"item"		"item_quickening_charm"
 				"item"		"item_ceremonial_robe"
@@ -110,7 +112,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_zeus_jump_postjump_movespeed"
 			"16"		"zuus_heavenly_jump"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_3"
+			"20"		"special_bonus_unique_zeus_2"
 			"25"		"special_bonus_unique_zeus_5"
 		}
 		"AbilityTooltips"

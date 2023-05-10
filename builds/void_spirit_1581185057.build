@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006430471D"
-	"TimePublished"		"0x000000006430471D"
+	"TimeUpdated"		"0x00000000645AF7FD"
+	"TimePublished"		"0x00000000645AF7FD"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,30 +22,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
 				"item"		"item_circlet"
-				"item"		"item_mantle"
+				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_phase_boots"
+				"item"		"item_power_treads"
 				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
-				"item"		"item_cyclone"
+				"item"		"item_echo_sabre"
 				"item"		"item_aghanims_shard"
-				"item"		"item_kaya"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_power_treads"
 				"item"		"item_bottle"
 				"item"		"item_witch_blade"
 				"item"		"item_orchid"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_phase_boots"
+				"item"		"item_meteor_hammer"
+				"item"		"item_cyclone"
+				"item"		"item_desolator"
 			}
 			"Utility"
 			{
@@ -58,39 +60,39 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
+				"item"		"item_harpoon"
 				"item"		"item_ethereal_blade"
 				"item"		"item_octarine_core"
-				"item"		"item_kaya_and_sange"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
-				"item"		"item_black_king_bar"
 				"item"		"item_sphere"
 				"item"		"item_ghost"
 				"item"		"item_nullifier"
 				"item"		"item_bloodthorn"
-				"item"		"item_desolator"
 				"item"		"item_abyssal_blade"
 				"item"		"item_dagon_5"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
+				"item"		"item_occult_bracelet"
 				"item"		"item_arcane_ring"
-				"item"		"item_nether_shawl"
-				"item"		"item_vambrace"
+				"item"		"item_unstable_wand"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_grove_bow"
+				"item"		"item_vambrace"
+				"item"		"item_titan_sliver"
 				"item"		"item_quickening_charm"
 				"item"		"item_enchanted_quiver"
-				"item"		"item_ceremonial_robe"
 				"item"		"item_spell_prism"
-				"item"		"item_timeless_relic"
-				"item"		"item_stormcrafter"
+				"item"		"item_penta_edged_sword"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -125,7 +127,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"void_spirit_aether_remnant"
 			"18"		"void_spirit_astral_step"
 			"20"		"special_bonus_unique_void_spirit_1"
-			"25"		"special_bonus_unique_void_spirit_3"
+			"25"		"special_bonus_unique_void_spirit_8"
 		}
 		"AbilityTooltips"
 		{

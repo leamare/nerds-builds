@@ -3,29 +3,29 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x00000000728CF9EE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000643047C3"
-	"TimePublished"		"0x00000000643047C3"
+	"TimeUpdated"		"0x00000000645AF87D"
+	"TimePublished"		"0x00000000645AF87D"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_wind_lace"
 				"item"		"item_tango"
-				"item"		"item_flask"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
+				"item"		"item_ring_of_protection"
+				"item"		"item_blood_grenade"
 			}
 			"Early"
 			{
@@ -34,8 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_cyclone"
+				"item"		"item_pavise"
+				"item"		"item_solar_crest"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -43,14 +43,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_veil_of_discord"
 				"item"		"item_tranquil_boots"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_cyclone"
 			}
 			"Utility"
 			{
 				"item"		"item_glimmer_cape"
-				"item"		"item_solar_crest"
 				"item"		"item_force_staff"
 				"item"		"item_vladmir"
+				"item"		"item_urn_of_shadows"
 			}
 			"Lategame"
 			{
@@ -62,26 +62,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_dagon_5"
+				"item"		"item_spirit_vessel"
 				"item"		"item_bloodstone"
 				"item"		"item_octarine_core"
-				"item"		"item_spirit_vessel"
 				"item"		"item_lotus_orb"
+				"item"		"item_dagon_5"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
-				"item"		"item_trusty_shovel"
+				"item"		"item_occult_bracelet"
 				"item"		"item_arcane_ring"
-				"item"		"item_essence_ring"
+				"item"		"item_unstable_wand"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_pupils_gift"
 				"item"		"item_vambrace"
-				"item"		"item_grove_bow"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_enchanted_quiver"
+				"item"		"item_titan_sliver"
 				"item"		"item_quickening_charm"
-				"item"		"item_stormcrafter"
+				"item"		"item_enchanted_quiver"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{

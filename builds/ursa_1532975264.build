@@ -3,17 +3,17 @@
 	"Hero"		"ursa"
 	"Title"		"Nerds Ursa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"Ursa is a tanky agility hero who is extremely good at killing solo targets and dealing high amounts of damage. His ultimate (especially with Aghanim's Scepter) allowes him take less damage and outlive or purge stuns, while Overpower and Fury Swipes allow him to deal high amount of damage in a short period of time. This also helps him to fight Roshan pretty early, have almost guaranteed bash with Skull Basher and dominate early to mid game. His two main weaknesses are mobility and structures: if Ursa is slowed or held in place, he can't do much at all and fighting towers is just hard for him, considering his tooltip.
 
 This build is based on Immortal rank Ursa matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"85"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x0000000057BD9FBD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064304350"
-	"TimePublished"		"0x0000000064304350"
+	"TimeUpdated"		"0x00000000645AF303"
+	"TimePublished"		"0x00000000645AF303"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,10 +21,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_orb_of_venom"
 			}
 			"Early"
 			{
@@ -61,6 +62,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_disperser"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_nullifier"
 				"item"		"item_ultimate_scepter"
@@ -77,20 +79,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_occult_bracelet"
 				"item"		"item_unstable_wand"
 				"item"		"item_broom_handle"
-				"item"		"item_misericorde"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_pupils_gift"
 				"item"		"item_vambrace"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_mind_breaker"
 				"item"		"item_titan_sliver"
+				"item"		"item_elven_tunic"
 				"item"		"item_paladin_sword"
 				"item"		"item_penta_edged_sword"
-				"item"		"item_heavy_blade"
+				"item"		"item_mind_breaker"
 				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -104,7 +104,7 @@ WIth maximum attack speed from Overpower you will get almost guaranteed bash on 
 			"item_lifesteal"		"Good for fighting Roshan by yourself or manfighting high damage cores
 Before Diffusal Blade"
 			"item_magic_wand"		"A bit of additional early mana/HP sustain in fights"
-			"item_quelling_blade"		"WIth Fury Swipes you won&apos;t really need it most of the time, but it can be useful if you&apos;re playing agaist Nature&apos;s Prophet or didn&apos;t get used to Ursa&apos;s attack damage"
+			"item_quelling_blade"		"WIth Fury Swipes you won&amp;apos;t really need it most of the time, but it can be useful if you&amp;apos;re playing agaist Nature&amp;apos;s Prophet or didn&amp;apos;t get used to Ursa&amp;apos;s attack damage"
 			"item_black_king_bar"		"~25-28 min
 You want to get it in almost every scenario. It helps deal with stuns, slows and other things that can stop you from killing opponents."
 			"item_abyssal_blade"		"Natural upgrade to Skull Basher with active ability to get a guaranteed BKB-piercing stun. It also gives you a bit more tankiness"
@@ -140,8 +140,8 @@ ALTERNATIVES: Radiance, Diffusal Blade"
 			"7"		"ursa_fury_swipes"
 			"8"		"ursa_overpower"
 			"9"		"ursa_overpower"
-			"10"		"ursa_overpower"
-			"11"		"special_bonus_mp_regen_175"
+			"10"		"special_bonus_unique_ursa_4"
+			"11"		"ursa_overpower"
 			"12"		"ursa_enrage"
 			"13"		"ursa_earthshock"
 			"14"		"ursa_earthshock"
@@ -149,7 +149,7 @@ ALTERNATIVES: Radiance, Diffusal Blade"
 			"16"		"ursa_earthshock"
 			"18"		"ursa_enrage"
 			"20"		"special_bonus_unique_ursa"
-			"25"		"special_bonus_unique_ursa_enrage_radius"
+			"25"		"special_bonus_unique_ursa_7"
 		}
 		"AbilityTooltips"
 		{

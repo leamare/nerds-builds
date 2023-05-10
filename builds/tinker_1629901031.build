@@ -3,15 +3,15 @@
 	"Hero"		"tinker"
 	"Title"		"Nerds Support Tinker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x000000009A0E0712"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064303EEE"
-	"TimePublished"		"0x0000000064303EEE"
+	"TimeUpdated"		"0x00000000645AEE20"
+	"TimePublished"		"0x00000000645AEE20"
 	"ItemBuild"
 	{
 		"Items"
@@ -19,15 +19,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
-				"item"		"item_clarity"
-				"item"		"item_clarity"
-				"item"		"item_flask"
-				"item"		"item_ward_observer"
-				"item"		"item_ward_sentry"
+				"item"		"item_boots"
 			}
 			"Early"
 			{
+				"item"		"item_ward_sentry"
+				"item"		"item_blood_grenade"
+				"item"		"item_enchanted_mango"
 				"item"		"item_infused_raindrop"
 				"item"		"item_soul_ring"
 				"item"		"item_bottle"
@@ -35,18 +33,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_arcane_boots"
+				"item"		"item_aether_lens"
 			}
 			"Situational Early"
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_ghost"
-				"item"		"item_aether_lens"
-				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
+				"item"		"item_force_staff"
 				"item"		"item_sheepstick"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_lotus_orb"
 				"item"		"item_shivas_guard"
 			}
@@ -68,7 +67,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pogo_stick"
 				"item"		"item_philosophers_stone"
 				"item"		"item_vambrace"
-				"item"		"item_nether_shawl"
 				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
 				"item"		"item_timeless_relic"

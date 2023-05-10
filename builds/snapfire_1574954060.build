@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.32e"
+	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"65"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064303C66"
-	"TimePublished"		"0x0000000064303C66"
+	"TimeUpdated"		"0x00000000645AE8F4"
+	"TimePublished"		"0x00000000645AE8F4"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,7 +23,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
@@ -34,34 +34,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_guardian_greaves"
-				"item"		"item_aghanims_shard"
-				"item"		"item_blink"
+				"item"		"item_travel_boots"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
 				"item"		"item_bottle"
-				"item"		"item_cyclone"
-				"item"		"item_power_treads"
+				"item"		"item_soul_ring"
+				"item"		"item_wraith_band"
 				"item"		"item_blight_stone"
+				"item"		"item_cyclone"
+				"item"		"item_arcane_boots"
+				"item"		"item_power_treads"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
 				"item"		"item_greater_crit"
-				"item"		"item_assault"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
-				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
-				"item"		"item_travel_boots"
+				"item"		"item_guardian_greaves"
+				"item"		"item_octarine_core"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_maelstrom"
 				"item"		"item_silver_edge"
@@ -84,18 +86,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_mysterious_hat"
 				"item"		"item_arcane_ring"
-				"item"		"item_unstable_wand"
-				"item"		"item_seeds_of_serenity"
+				"item"		"item_pogo_stick"
+				"item"		"item_vambrace"
 				"item"		"item_bullwhip"
-				"item"		"item_nether_shawl"
 				"item"		"item_grove_bow"
 				"item"		"item_quickening_charm"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_flicker"
+				"item"		"item_psychic_headband"
+				"item"		"item_dandelion_amulet"
+				"item"		"item_spell_prism"
 				"item"		"item_trickster_cloak"
-				"item"		"item_stormcrafter"
+				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -103,8 +105,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_power_treads"		"ALTERNATIVE: Boots of Travel"
-			"item_travel_boots"		"ALTERNATIVE: Power Treads"
+			"item_power_treads"		"ALTERNATIVE: Boots of Travel, Arcane Boots"
+			"item_travel_boots"		"ALTERNATIVE: Power Treads, Arcane Boots"
+			"item_arcane_boots"		"ALTERNATIVE: Power Treads, Boots of Travel"
 		}
 	}
 	"AbilityBuild"
