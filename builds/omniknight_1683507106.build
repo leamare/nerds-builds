@@ -1,0 +1,129 @@
+"guidedata"
+{
+	"Hero"		"omniknight"
+	"Title"		"Nerds Core Omniknight"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.33b"
+	"Overview"		"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"4"
+	"AssociatedWorkshopItemID"		"0x00000000B1450743"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000645BC1A2"
+	"TimePublished"		"0x00000000645BC1A2"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_bracer"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_echo_sabre"
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+			}
+			"Situational Early"
+			{
+				"item"		"item_bottle"
+				"item"		"item_hand_of_midas"
+				"item"		"item_soul_ring"
+			}
+			"Lategame"
+			{
+				"item"		"item_harpoon"
+				"item"		"item_black_king_bar"
+				"item"		"item_abyssal_blade"
+				"item"		"item_assault"
+				"item"		"item_travel_boots"
+			}
+			"Situational"
+			{
+				"item"		"item_overwhelming_blink"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_heavens_halberd"
+				"item"		"item_sphere"
+				"item"		"item_heart"
+			}
+			"Utility"
+			{
+				"item"		"item_solar_crest"
+				"item"		"item_crimson_guard"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_lotus_orb"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_manta"
+				"item"		"item_radiance"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_broom_handle"
+				"item"		"item_pogo_stick"
+				"item"		"item_bullwhip"
+				"item"		"item_vambrace"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_quickening_charm"
+				"item"		"item_titan_sliver"
+				"item"		"item_defiant_shell"
+				"item"		"item_spell_prism"
+				"item"		"item_havoc_hammer"
+				"item"		"item_penta_edged_sword"
+			}
+			"https://builds.spectral.gg/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"omniknight_hammer_of_purity"
+			"2"		"omniknight_purification"
+			"3"		"omniknight_purification"
+			"4"		"omniknight_hammer_of_purity"
+			"5"		"omniknight_purification"
+			"6"		"omniknight_hammer_of_purity"
+			"7"		"omniknight_purification"
+			"8"		"omniknight_hammer_of_purity"
+			"9"		"omniknight_martyr"
+			"10"		"special_bonus_attack_base_damage_50"
+			"11"		"omniknight_guardian_angel"
+			"12"		"omniknight_guardian_angel"
+			"13"		"omniknight_martyr"
+			"14"		"omniknight_martyr"
+			"15"		"special_bonus_unique_omniknight_6"
+			"16"		"omniknight_martyr"
+			"18"		"omniknight_guardian_angel"
+			"20"		"special_bonus_unique_omniknight_3"
+			"25"		"special_bonus_unique_omniknight_4"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

@@ -1,0 +1,124 @@
+"guidedata"
+{
+	"Hero"		"naga_siren"
+	"Title"		"Nerds Naga"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.33b"
+	"Overview"		"
+
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"3"
+	"AssociatedWorkshopItemID"		"0x00000000B14523EE"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000645BC58B"
+	"TimePublished"		"0x00000000645BC58B"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_quelling_blade"
+			}
+			"Early"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_manta"
+				"item"		"item_diffusal_blade"
+			}
+			"Situational Early"
+			{
+				"item"		"item_orchid"
+				"item"		"item_radiance"
+				"item"		"item_mage_slayer"
+				"item"		"item_hand_of_midas"
+			}
+			"Lategame"
+			{
+				"item"		"item_heart"
+				"item"		"item_disperser"
+				"item"		"item_butterfly"
+				"item"		"item_bloodthorn"
+				"item"		"item_skadi"
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+			}
+			"Situational"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_sheepstick"
+				"item"		"item_aghanims_shard"
+				"item"		"item_silver_edge"
+				"item"		"item_swift_blink"
+				"item"		"item_nullifier"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_monkey_king_bar"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
+				"item"		"item_occult_bracelet"
+				"item"		"item_vambrace"
+				"item"		"item_ring_of_aquila"
+				"item"		"item_pupils_gift"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_elven_tunic"
+				"item"		"item_titan_sliver"
+				"item"		"item_ninja_gear"
+				"item"		"item_trickster_cloak"
+				"item"		"item_penta_edged_sword"
+			}
+			"https://builds.spectral.gg/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"naga_siren_mirror_image"
+			"2"		"naga_siren_rip_tide"
+			"3"		"naga_siren_ensnare"
+			"4"		"naga_siren_mirror_image"
+			"5"		"naga_siren_mirror_image"
+			"6"		"naga_siren_rip_tide"
+			"7"		"naga_siren_mirror_image"
+			"8"		"naga_siren_rip_tide"
+			"9"		"naga_siren_rip_tide"
+			"10"		"special_bonus_unique_naga_siren_2"
+			"11"		"naga_siren_song_of_the_siren"
+			"12"		"naga_siren_song_of_the_siren"
+			"13"		"naga_siren_ensnare"
+			"14"		"naga_siren_ensnare"
+			"15"		"special_bonus_unique_naga_siren_4"
+			"16"		"naga_siren_ensnare"
+			"18"		"naga_siren_song_of_the_siren"
+			"20"		"special_bonus_unique_naga_siren"
+			"25"		"special_bonus_unique_naga_siren_6"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}
