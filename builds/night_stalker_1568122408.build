@@ -6,13 +6,13 @@
 	"GameplayVersion"		"7.33b"
 	"Overview"		"
 
-The build is part of Nerd's Hero Build Project. Other builds and additional information: https://leamare.github.io/nerds-builds/"
-	"GuideRevision"		"57"
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006459837F"
-	"TimePublished"		"0x000000006459837F"
+	"TimeUpdated"		"0x00000000645ED905"
+	"TimePublished"		"0x00000000645ED905"
 	"ItemBuild"
 	{
 		"Items"
@@ -111,13 +111,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_ultimate_scepter"		"ALTERNATIVES: Hand of Midas, Echo Sabre, Armlet of Mordiggian"
 			"item_phase_boots"		"~7 min"
 			"item_echo_sabre"		"~14 min
-ALTERNATIVES: Radiance, Hand of Midas, Aghanim&amp;apos;s Scepter, Armlet of Mordiggian"
+ALTERNATIVES: Radiance, Hand of Midas, Aghanim&amp;amp;apos;s Scepter, Armlet of Mordiggian"
 			"item_black_king_bar"		"~21-25 min"
 			"item_blink"		"~22 min"
 			"item_soul_ring"		"Before Echo Sabre"
 			"item_orb_of_corrosion"		"Before Echo Sabre"
-			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;apos;s Scepter, Armlet of Mordiggian"
-			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;apos;s Scepter, Hand of Midas"
+			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;apos;s Scepter, Armlet of Mordiggian"
+			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;apos;s Scepter, Hand of Midas"
 			"item_urn_of_shadows"		"Before Echo Sabre"
 		}
 	}
