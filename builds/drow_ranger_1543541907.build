@@ -3,17 +3,17 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.33b"
+	"GameplayVersion"		"7.33c"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"79"
+	"GuideRevision"		"81"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064550A95"
-	"TimePublished"		"0x00000000642EEA45"
+	"TimeUpdated"		"0x0000000064616ED4"
+	"TimePublished"		"0x0000000064616ED4"
 	"ItemBuild"
 	{
 		"Items"
@@ -92,8 +92,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"https://builds.spectral.gg/"
 			{
-				"item"		"item_tome_of_knowledge"
-				"item"		"item_tome_of_knowledge"
 			}
 		}
 		"ItemTooltips"
@@ -103,7 +101,7 @@ If you want to go all-in for farming and can get it relatively early, it may be 
 			"item_power_treads"		"~7 min
 Even while Drow wants attack speed more than damage, getting additional agility for such a cheap price is way too valuable for her"
 			"item_wraith_band"		"Stack as much of Wraith Bands as you possibly can, saving a slot for boots and blink. This will allow you to keep on moving during early game"
-			"item_blink"		"Main mobility and farming tool. Get it if you're going to play agressively around pickoffs"
+			"item_blink"		"Main mobility and farming tool. Get it if you&apos;re going to play agressively around pickoffs"
 			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more
 ALTERNATIVE: Sange and Yasha"
 			"item_hurricane_pike"		"Both mobility and surviveability item, that will also help with keeping distance"
@@ -112,7 +110,7 @@ ALTERNATIVE: Sange and Yasha"
 			"item_butterfly"		"More of an offensive choice if you want to boost your damage significantly"
 			"item_greater_crit"		"Most offensive choice, mostly purchased as sixth slot"
 			"item_satanic"		"Tankiness, dispel and lifesteal that will make you pretty much unkillable"
-			"item_sheepstick"		"Considering level 25 talent, it's good purchase if your team lacks control"
+			"item_sheepstick"		"Considering level 25 talent, it&apos;s good purchase if your team lacks control"
 			"item_dragon_lance"		"~11-13 min"
 			"item_yasha"		"~16 min"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
