@@ -6,12 +6,12 @@
 	"GameplayVersion"		"7.33c"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"9"
+	"GuideRevision"		"11"
 	"AssociatedWorkshopItemID"		"0x00000000B1450A8E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064616ED8"
-	"TimePublished"		"0x0000000064616ED8"
+	"TimeUpdated"		"0x00000000646D789B"
+	"TimePublished"		"0x00000000646D789B"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,8 +33,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
+				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
@@ -49,18 +48,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_octarine_core"
-				"item"		"item_travel_boots_2"
+				"item"		"item_dagon_5"
+				"item"		"item_aghanims_shard"
 				"item"		"item_manta"
-				"item"		"item_skadi"
+				"item"		"item_sheepstick"
+				"item"		"item_travel_boots_2"
 			}
 			"Situational"
 			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_greater_crit"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_sheepstick"
 				"item"		"item_sphere"
 				"item"		"item_vladmir"
+				"item"		"item_skadi"
+				"item"		"item_octarine_core"
 			}
 			"Other Significant Items"
 			{
@@ -113,8 +116,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"medusa_split_shot"
 			"17"		"medusa_split_shot"
 			"18"		"medusa_stone_gaze"
-			"20"		"special_bonus_unique_medusa_3"
-			"25"		"special_bonus_unique_medusa_4"
+			"20"		"special_bonus_unique_medusa"
+			"25"		"special_bonus_unique_medusa_6"
 		}
 		"AbilityTooltips"
 		{
