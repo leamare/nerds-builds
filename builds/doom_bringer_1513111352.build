@@ -11,12 +11,12 @@ Doom becomes extremely important when it faces some heroes with very strong ulti
 Thanks to @Nitemoy for all the descriptions.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"88"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x00000000626359E3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064616ED3"
-	"TimePublished"		"0x0000000064616ED3"
+	"TimeUpdated"		"0x000000006487D45E"
+	"TimePublished"		"0x000000006487D45E"
 	"ItemBuild"
 	{
 		"Items"
@@ -134,7 +134,7 @@ Swap: Blink Dagger"
 			"12"		"doom_bringer_doom"
 			"13"		"doom_bringer_infernal_blade"
 			"14"		"doom_bringer_infernal_blade"
-			"15"		"special_bonus_unique_doom_6"
+			"15"		"special_bonus_unique_doom_2"
 			"16"		"doom_bringer_infernal_blade"
 			"18"		"doom_bringer_doom"
 			"20"		"special_bonus_unique_doom_10"
@@ -145,7 +145,7 @@ Swap: Blink Dagger"
 			"doom_bringer_devour"		"Your main farming ability that allows you to kill big jungle camp in a couple of seconds. Because it provides you with a lot of extra gold (+250 gold for each creep at level 15!), Doom is always at top among any other offlaners in terms of farm. Moreover, HP regeneration from Devour helps you to sustain efficiently on offlane while going to big jungle camps. Ablities took from jungle creeps give Doom a lot of versatility and makes him really unique hero"
 			"doom_bringer_scorched_earth"		"The only mobility skill, that also provides a certain amount of AoE damage. Great for chasing down enemy heroes, but has quite a long cooldown and becomes quite inefficient while the game goes to late"
 			"doom_bringer_infernal_blade"		"Infernal Blade allows you to kill any hero relatively fast or force him to get out. With a very short cooldown of 4 seconds and damage dealt in percentage of max HP, it provides a lot of damage if Doom can cast it at least couple of times in teamfight"
-			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
+			"doom_bringer_doom"		"Best spell to remove any hero from a teamfight or reliably kill a hero in 1v1 fight.  The only downside is an extremly long cooldown, so it&amp;apos;s really worth not to waste this spell on first seen enemy hero in teamfight"
 		}
 	}
 }
