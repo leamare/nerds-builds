@@ -3,18 +3,18 @@
 	"Hero"		"bloodseeker"
 	"Title"		"Nerds Utility Bloodseeker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33c"
+	"GameplayVersion"		"7.33d"
 	"Overview"		"Bloodseeker is an agility core hero, who can be played as an utility core (or a support). Bloodseekers excells at early game fights, as well as disrupting enemy positioning and immobilizing them. He's also good at crearing jungle and creep waves. His passive ability Thirst makes im very durable early on, thanks to the heal. Bloodrite, on the other hand, allowes the hero to secure ranged creeps and fight for bounty runes effectively. Bloodrage, the signature spell, allows Bloodseeker to make any strong core hero on his team even more powerful, infusing them with a massive spell amplification and attack speed buff.
 
 Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000646198D6"
-	"TimePublished"		"0x00000000646198D6"
+	"TimeUpdated"		"0x00000000649EA1F9"
+	"TimePublished"		"0x00000000649EA1F9"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,7 +31,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_vanguard"
 				"item"		"item_magic_wand"
 				"item"		"item_wraith_band"
 			}
@@ -44,7 +43,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_vanguard"
 				"item"		"item_vladmir"
 				"item"		"item_diffusal_blade"
 				"item"		"item_echo_sabre"
@@ -117,7 +116,7 @@ ORDER SWAP: Maelstrom"
 			"7"		"bloodseeker_thirst"
 			"8"		"bloodseeker_bloodrage"
 			"9"		"bloodseeker_bloodrage"
-			"10"		"special_bonus_unique_bloodseeker_6"
+			"10"		"special_bonus_unique_bloodseeker_5"
 			"11"		"bloodseeker_bloodrage"
 			"12"		"bloodseeker_rupture"
 			"13"		"bloodseeker_blood_bath"
@@ -125,14 +124,14 @@ ORDER SWAP: Maelstrom"
 			"15"		"special_bonus_unique_bloodseeker_7"
 			"16"		"bloodseeker_blood_bath"
 			"18"		"bloodseeker_rupture"
-			"20"		"special_bonus_spell_lifesteal_15"
+			"20"		"special_bonus_unique_bloodseeker_3"
 			"25"		"special_bonus_unique_bloodseeker_rupture_charges"
 		}
 		"AbilityTooltips"
 		{
 			"bloodseeker_blood_bath"		"Ideally you want to max it and use it to secure ranged creeps on lane, as well as bounty runes."
-			"bloodseeker_bloodrage"		"Your bread and butter as a support/utility Bloodseeker. You don&apos;t need it early on, but when you get it, it gives your core an equivalent of a Hyperstone"
-			"bloodseeker_thirst"		"Your early game surviveability. You don&apos;t even need to be good at last hitting, all you need to survive - to be around the creeps, and optionally you can be as annoying as possible"
+			"bloodseeker_bloodrage"		"Your bread and butter as a support/utility Bloodseeker. You don&amp;apos;t need it early on, but when you get it, it gives your core an equivalent of a Hyperstone"
+			"bloodseeker_thirst"		"Your early game surviveability. You don&amp;apos;t even need to be good at last hitting, all you need to survive - to be around the creeps, and optionally you can be as annoying as possible"
 		}
 	}
 }

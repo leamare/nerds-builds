@@ -3,16 +3,16 @@
 	"Hero"		"broodmother"
 	"Title"		"Nerds Offlane Brood"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33c"
+	"GameplayVersion"		"7.33d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064616ED2"
-	"TimePublished"		"0x0000000064616ED2"
+	"TimeUpdated"		"0x00000000649EA35A"
+	"TimePublished"		"0x00000000649EA35A"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,33 +20,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_branches"
+				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_circlet"
-				"item"		"item_gauntlets"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
 				"item"		"item_soul_ring"
+				"item"		"item_bracer"
 				"item"		"item_boots"
-				"item"		"item_wraith_band"
 			}
 			"Core"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_echo_sabre"
+				"item"		"item_black_king_bar"
+			}
+			"Core - Utility"
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_mekansm"
 				"item"		"item_pipe"
 			}
-			"Core - Damage"
-			{
-				"item"		"item_power_treads"
-				"item"		"item_orchid"
-				"item"		"item_black_king_bar"
-			}
 			"Situational Early"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_orchid"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_diffusal_blade"
 				"item"		"item_basher"
@@ -54,9 +55,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_harpoon"
 				"item"		"item_aghanims_shard"
-				"item"		"item_guardian_greaves"
-				"item"		"item_heavens_halberd"
+				"item"		"item_manta"
 				"item"		"item_sheepstick"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
@@ -64,11 +65,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_nullifier"
+				"item"		"item_heavens_halberd"
 				"item"		"item_black_king_bar"
 				"item"		"item_bloodthorn"
 				"item"		"item_solar_crest"
 				"item"		"item_sange_and_yasha"
-				"item"		"item_harpoon"
 			}
 			"Other Significant Items"
 			{
@@ -112,17 +115,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"5"		"broodmother_spin_web"
 			"6"		"broodmother_spawn_spiderlings"
 			"7"		"broodmother_spin_web"
-			"8"		"broodmother_silken_bola"
-			"9"		"broodmother_silken_bola"
+			"8"		"broodmother_insatiable_hunger"
+			"9"		"broodmother_insatiable_hunger"
 			"10"		"broodmother_insatiable_hunger"
 			"11"		"special_bonus_unique_broodmother_6"
 			"12"		"broodmother_spawn_spiderlings"
-			"13"		"broodmother_insatiable_hunger"
-			"14"		"broodmother_insatiable_hunger"
+			"13"		"broodmother_silken_bola"
 			"15"		"special_bonus_unique_broodmother_5"
 			"16"		"broodmother_silken_bola"
+			"17"		"broodmother_silken_bola"
 			"18"		"broodmother_spawn_spiderlings"
-			"20"		"special_bonus_unique_broodmother_2"
+			"20"		"special_bonus_attack_speed_35"
 			"25"		"special_bonus_unique_broodmother_4"
 		}
 		"AbilityTooltips"

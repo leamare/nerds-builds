@@ -3,16 +3,16 @@
 	"Hero"		"antimage"
 	"Title"		"Nerds Offlane Antimage"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33c"
+	"GameplayVersion"		"7.33d"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x00000000A6ADE441"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064616ECF"
-	"TimePublished"		"0x0000000064616ECF"
+	"TimeUpdated"		"0x00000000649E9FED"
+	"TimePublished"		"0x00000000649E9FED"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,22 +37,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_vanguard"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
-				"item"		"item_diffusal_blade"
+				"item"		"item_echo_sabre"
 			}
 			"Situational Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_infused_raindrop"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_echo_sabre"
+				"item"		"item_diffusal_blade"
 			}
 			"Lategame"
 			{
 				"item"		"item_manta"
+				"item"		"item_harpoon"
 				"item"		"item_abyssal_blade"
 				"item"		"item_skadi"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_disperser"
 				"item"		"item_assault"
 			}
 			"Situational"
@@ -61,6 +61,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bfury"
 				"item"		"item_black_king_bar"
 				"item"		"item_butterfly"
+				"item"		"item_disperser"
 			}
 			"Best Neutral Items"
 			{

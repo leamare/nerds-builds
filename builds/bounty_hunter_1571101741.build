@@ -3,15 +3,15 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.33c"
+	"GameplayVersion"		"7.33d"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x000000008BCA8526"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064616ED1"
-	"TimePublished"		"0x0000000064616ED1"
+	"TimeUpdated"		"0x00000000649EA277"
+	"TimePublished"		"0x00000000649EA277"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,11 +33,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_phylactery"
-				"item"		"item_ancient_janggo"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_phylactery"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_medallion_of_courage"
@@ -48,8 +49,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_boots_of_bearing"
-				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 			}
@@ -104,8 +103,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"bounty_hunter_jinada"
-			"2"		"bounty_hunter_wind_walk"
+			"1"		"bounty_hunter_wind_walk"
+			"2"		"bounty_hunter_jinada"
 			"3"		"bounty_hunter_jinada"
 			"4"		"bounty_hunter_shuriken_toss"
 			"5"		"bounty_hunter_jinada"
