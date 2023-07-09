@@ -7,12 +7,12 @@
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"139"
+	"GuideRevision"		"141"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000649EA687"
-	"TimePublished"		"0x00000000649EA687"
+	"TimeUpdated"		"0x0000000064A40EDA"
+	"TimePublished"		"0x0000000064A40EDA"
 	"ItemBuild"
 	{
 		"Items"
@@ -117,20 +117,20 @@ ALTERNATIVE: Power Treads"
 			"item_bloodthorn"		"Attack speed, mana regen, +80 attack damage, true strike, crit, One of the best offensive choices for any int hero."
 			"item_cyclone"		"Another one mobility alternative, but without stats. It gives us Cyclone, which is useful while chasing someone or purging silences, and mana regen. But, again, it doesn&amp;apos;t give us stats."
 			"item_force_staff"		"Since we are going to make pike anyway, this item is good to pick up first too: it increses our mana pool, damage and gives us escape. "
-			"item_hurricane_pike"		"Good upgrade for Dragon Lance since it gives us more damage, attack speed, armor and mobility. But it&amp;apos;s still bad item to rush: better pick it up after something for stats."
+			"item_hurricane_pike"		"Good upgrade for Dragon Lance since it gives us more damage, attack speed, armor and mobility. But it&amp;amp;amp;apos;s still bad item to rush: better pick it up after something for stats."
 			"item_assault"		"We need armor and attackspeed, so AC is good for us. We will probably stay behind, but it still gives us alot of armor and attack speed."
 			"item_black_king_bar"		"Another anti-magic item, alternative to Pipe for cases when enemies have a lot of stuns or silences."
 			"item_shivas_guard"		"Another one good late game item. If you really need armor and/or doesn&amp;apos;t need disable, this one is probably good alternative to Sheepstick."
 			"item_sphere"		"Good defensive replacement for Silver Edge or RoA against lineups with strong targeted spells."
 			"item_dragon_lance"		"~17-19 min
-Must-have item for Enchantress: stats are extremely useful for her since she haven&amp;apos;t much HP and armor, and also depends on attackspeed and positioning in fights."
-			"item_silver_edge"		"Invisibility is nice, but the main thing why we want this item is stats. Silver Edge gives a lot of damage, attack speed, HP and mana, also gives us mobility (and fast repositioning in fights) and ability to make enemy&amp;apos;s damage output 50% lower. The item is also extremely useful against LC and WD."
+Must-have item for Enchantress: stats are extremely useful for her since she haven&amp;amp;amp;apos;t much HP and armor, and also depends on attackspeed and positioning in fights."
+			"item_silver_edge"		"Invisibility is nice, but the main thing why we want this item is stats. Silver Edge gives a lot of damage and attack speed, also gives us mobility (and fast repositioning in fights) and break"
 			"item_skadi"		"Another one stat-heavy item, but it gives us nice attack damage and slow. Since 6.86 it works with impetus, so it&amp;apos;s good choice if you need damage and want HP."
 			"item_power_treads"		"~9-13 min
 ALTERNATIVE: Phase Boots"
 			"item_falcon_blade"		"Before Dragon Lance"
 			"item_ultimate_scepter"		"~21-23 min"
-			"item_witch_blade"		"Before Aghanim&amp;apos;s Scepter"
+			"item_witch_blade"		"Before Aghanim&amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -160,9 +160,9 @@ ALTERNATIVE: Phase Boots"
 		"AbilityTooltips"
 		{
 			"enchantress_untouchable"		"Our first skill to max out. It gives us a lot in early game and helps with dominating on lane."
-			"enchantress_enchant"		"Good for slowing enemies and, of course, for early farm and ganking. We want this to have ASAP to be able to farm jungle, but we don&amp;apos;t need more than 1 point early on."
-			"enchantress_natures_attendants"		"Our main escape early. It has not really big radius and heals slowly, so we will use it only for ourself most of the time. You can learn this on lvl1 if there&amp;apos;s risk of dying. Try to use it before fighting: it will help you tank shit and get out."
-			"enchantress_impetus"		"Our main damage source. Can be used to dominate a lane, kill those who&amp;apos;s trying to run away, kill couriers, defend from a distance."
+			"enchantress_enchant"		"Good for slowing enemies and, of course, for early farm and ganking. We want this to have ASAP to be able to farm jungle, but we don&amp;amp;amp;apos;t need more than 1 point early on."
+			"enchantress_natures_attendants"		"Our main escape early. It has not really big radius and heals slowly, so we will use it only for ourself most of the time. You can learn this on lvl1 if there&amp;amp;amp;apos;s risk of dying. Try to use it before fighting: it will help you tank shit and get out."
+			"enchantress_impetus"		"Our main damage source. Can be used to dominate a lane, kill those who&amp;amp;amp;apos;s trying to run away, kill couriers, defend from a distance."
 			"special_bonus_unique_enchantress_2"		"Having 8 more spirits is super nice to have if you have problems with surviving in fights while not being bursted. Altho, with urn and your built in movement speed it should be easier to survive, while +50 dmg helps while pushing structures and worth more."
 		}
 	}
