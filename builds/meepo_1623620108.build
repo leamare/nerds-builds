@@ -3,7 +3,7 @@
 	"Hero"		"meepo"
 	"Title"		"Experimental Support Meepo"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.33d"
+	"GameplayVersion"		"7.33e"
 	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
 
 The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
@@ -18,12 +18,12 @@ This build is experimental and is very hard to execute. Proceed on your own risk
 This guide was requested by lamallama
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"29"
+	"GuideRevision"		"31"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000649EAE06"
-	"TimePublished"		"0x00000000649EAE06"
+	"TimeUpdated"		"0x0000000064BA4E99"
+	"TimePublished"		"0x0000000064BA4E99"
 	"ItemBuild"
 	{
 		"Items"
@@ -64,6 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_diffusal_blade"
+				"item"		"item_rod_of_atos"
 				"item"		"item_spirit_vessel"
 				"item"		"item_glimmer_cape"
 				"item"		"item_solar_crest"

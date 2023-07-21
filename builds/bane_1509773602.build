@@ -3,19 +3,19 @@
 	"Hero"		"bane"
 	"Title"		"Nerds Core Bane"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33d"
+	"GameplayVersion"		"7.33e"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"123"
+	"GuideRevision"		"125"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000649EA1AC"
-	"TimePublished"		"0x00000000649EA1AC"
+	"TimeUpdated"		"0x0000000064BA4993"
+	"TimePublished"		"0x0000000064BA4993"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,7 +38,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phylactery"
-				"item"		"item_octarine_core"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
 			}
@@ -46,7 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_phase_boots"
-				"item"		"item_ghost"
+				"item"		"item_aether_lens"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
@@ -60,14 +59,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_aether_lens"
+				"item"		"item_ghost"
+				"item"		"item_octarine_core"
 				"item"		"item_force_staff"
 				"item"		"item_sphere"
 				"item"		"item_aeon_disk"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_shivas_guard"
-				"item"		"item_meteor_hammer"
 			}
 			"Utility"
 			{
@@ -83,6 +82,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_spirit_vessel"
 				"item"		"item_bloodstone"
+				"item"		"item_meteor_hammer"
 			}
 			"Best Neutral Items"
 			{
@@ -105,11 +105,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_phase_boots"		"Additional movement speed and armor are pretty much all Bane needs seems he doesn&amp;apos;t need attack speed and stats more than he already has"
-			"item_hand_of_midas"		"Good for cases when you won your lane early on, but can&amp;apos;t finish the game early. Bane struggles with farming after laning stage, so it may be a helpful pickup"
+			"item_phase_boots"		"Additional movement speed and armor are pretty much all Bane needs seems he doesn&amp;amp;apos;t need attack speed and stats more than he already has"
+			"item_hand_of_midas"		"Good for cases when you won your lane early on, but can&amp;amp;apos;t finish the game early. Bane struggles with farming after laning stage, so it may be a helpful pickup"
 			"item_solar_crest"		"Natural upgrade to Medallion and useful buff for your team"
 			"item_sheepstick"		"Reliable disable and mana sustain"
-			"item_guardian_greaves"		"Strong regen aura and useful item to have in general. Good pickup if you&amp;apos;re playing more of an utility core and there&amp;apos;s no better Greaves carrier on your team"
+			"item_guardian_greaves"		"Strong regen aura and useful item to have in general. Good pickup if you&amp;amp;apos;re playing more of an utility core and there&amp;amp;apos;s no better Greaves carrier on your team"
 			"item_force_staff"		"Good thing to have against slows and similar stuff in its nature (X-Mark)"
 			"item_lotus_orb"		"Against silences and purgable slows"
 			"item_heavens_halberd"		"Against high attack damage cores"
@@ -117,8 +117,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_glimmer_cape"		"Good item to save allies (or yourself) from being focused"
 			"item_shivas_guard"		"For a hybrid core way when you need armor"
 			"item_sphere"		"Against strong single target disables (e.g. Doom)"
-			"item_soul_ring"		"Another mana solution, may replace Bracer, but it&amp;apos;s more expensive as well"
-			"item_spirit_vessel"		"You don&amp;apos;t really need it yourself, but it&amp;apos;s usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
+			"item_soul_ring"		"Another mana solution, may replace Bracer, but it&amp;amp;apos;s more expensive as well"
+			"item_spirit_vessel"		"You don&amp;amp;apos;t really need it yourself, but it&amp;amp;apos;s usually a strong team oriented item. You may consider dropping Solar Crest in favor of Spirit Vessel "
 		}
 	}
 	"AbilityBuild"
@@ -147,8 +147,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"bane_fiends_grip"		"One of the strongest disables in the game. You can use it to setup kills with your team early on, but later into the game it may be better to either initiate with it or hold it off since you&amp;apos;re most likely to play as a tanky frontlaner which increases your chances of being interrupted mid-ult"
-			"bane_nightmare"		"You can use it to both harass opponents early on and setup kills. It can also be used for it&amp;apos;s 1sec invulnerability after cast which can save you or your allies (or your enemies) from a projectile or a spell (like X-Mark)"
+			"bane_fiends_grip"		"One of the strongest disables in the game. You can use it to setup kills with your team early on, but later into the game it may be better to either initiate with it or hold it off since you&amp;amp;apos;re most likely to play as a tanky frontlaner which increases your chances of being interrupted mid-ult"
+			"bane_nightmare"		"You can use it to both harass opponents early on and setup kills. It can also be used for it&amp;amp;apos;s 1sec invulnerability after cast which can save you or your allies (or your enemies) from a projectile or a spell (like X-Mark)"
 		}
 	}
 }
