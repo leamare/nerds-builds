@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"147"
+	"GuideRevision"		"149"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA44F3"
-	"TimePublished"		"0x0000000064BA44F3"
+	"TimeUpdated"		"0x0000000064D75E83"
+	"TimePublished"		"0x0000000064D75E83"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,17 +24,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_crown"
+				"item"		"item_urn_of_shadows"
 				"item"		"item_boots"
+				"item"		"item_crown"
 			}
 			"Core"
 			{
-				"item"		"item_rod_of_atos"
+				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
@@ -46,6 +47,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_witch_blade"
 				"item"		"item_cyclone"
 				"item"		"item_ancient_janggo"
+				"item"		"item_rod_of_atos"
 			}
 			"Utility"
 			{
@@ -56,7 +58,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_gungir"
 				"item"		"item_blink"
 				"item"		"item_travel_boots"
 				"item"		"item_aghanims_shard"
@@ -68,6 +69,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mjollnir"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_mask_of_madness"
 				"item"		"item_wind_waker"
@@ -80,11 +82,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
+				"item"		"item_gungir"
 				"item"		"item_shivas_guard"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodthorn"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
@@ -110,7 +112,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
 			"item_tranquil_boots"		"ALTERNATIVE: Power Treads"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"

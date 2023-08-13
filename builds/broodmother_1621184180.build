@@ -3,16 +3,16 @@
 	"Hero"		"broodmother"
 	"Title"		"Nerds Offlane Brood"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"36"
+	"GuideRevision"		"37"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA44D5"
-	"TimePublished"		"0x0000000064BA44D5"
+	"TimeUpdated"		"0x0000000064D75DD0"
+	"TimePublished"		"0x0000000064D75DD0"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,7 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_echo_sabre"
-				"item"		"item_black_king_bar"
+				"item"		"item_manta"
 			}
 			"Core - Utility"
 			{
@@ -57,7 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_harpoon"
 				"item"		"item_aghanims_shard"
-				"item"		"item_manta"
+				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
@@ -65,6 +65,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_butterfly"
 				"item"		"item_guardian_greaves"
 				"item"		"item_nullifier"
 				"item"		"item_heavens_halberd"
@@ -76,7 +77,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Other Significant Items"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_butterfly"
 				"item"		"item_silver_edge"
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"

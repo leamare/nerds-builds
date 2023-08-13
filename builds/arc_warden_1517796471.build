@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Caster Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"107"
+	"GuideRevision"		"108"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA4452"
-	"TimePublished"		"0x0000000064BA4452"
+	"TimeUpdated"		"0x0000000064D75C40"
+	"TimePublished"		"0x0000000064D75C40"
 	"ItemBuild"
 	{
 		"Items"
@@ -92,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_blink"		"Pretty good item for long-range initiation, works pretty nice with tempest double (blink on hero, tempest double, blink on double, flux)"
 			"item_bottle"		"Not really good item for Arc in general since consumables nerf, but it fits pretty well ganking theme of this build"
-			"item_hand_of_midas"		"Our main farming tool, obviously. We don&amp;amp;apos;t really want to skip it since we will get a lot of benefit from it."
+			"item_hand_of_midas"		"Our main farming tool, obviously. We don&amp;amp;amp;apos;t really want to skip it since we will get a lot of benefit from it."
 			"item_sheepstick"		"Dagon-Shotgun combo is pretty straight forward, but later into the game we will lack on controlling stuff and will start losing momentum eventually, so Sheepstick will make us not only much more useful for our team, but also increase our kill potential."
 			"item_orchid"		"Orchid can be good solution early because of 30% additional damage, while also improving our physical damage output"
 			"item_bloodthorn"		"Natural upgrade to Orchid and one of the best lategame slots for Arc Warden in general"
@@ -100,7 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"...and even more tankiness. In combo with Octarine makes us pretty scary and hard to kill hero."
 			"item_sphere"		"More offensive save item: for cases when we need some sort of save, but not too much, so we can stay in fight"
 			"item_lotus_orb"		"Useful utility item for our team, may be a good item to get if nobody in your team already got it."
-			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it&amp;amp;apos;s counterpart as getting-out tool"
+			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it&amp;amp;amp;apos;s counterpart as getting-out tool"
 			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage
 ALTERNATIVE: Gleipnir"
 			"item_gungir"		"ALTERNATIVE: Mjolnir"
@@ -132,7 +132,7 @@ ALTERNATIVE: Gleipnir"
 		}
 		"AbilityTooltips"
 		{
-			"arc_warden_magnetic_field"		"Even while we don&amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
+			"arc_warden_magnetic_field"		"Even while we don&amp;amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
 			"arc_warden_spark_wraith"		"Scouting tool to avoid ganks, lasthit secure tool and, of cource, RQQEE combo allowes us to kill anybody early"
 		}
 	}

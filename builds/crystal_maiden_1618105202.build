@@ -3,16 +3,16 @@
 	"Hero"		"crystal_maiden"
 	"Title"		"Nerds Core Crystal Maiden"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x00000000923BDA3C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA44E3"
-	"TimePublished"		"0x0000000064BA44E3"
+	"TimeUpdated"		"0x0000000064D75E04"
+	"TimePublished"		"0x0000000064D75E04"
 	"ItemBuild"
 	{
 		"Items"
@@ -40,6 +40,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -55,15 +56,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_gungir"
 				"item"		"item_travel_boots_2"
 				"item"		"item_assault"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_revenants_brooch"
 			}
 			"Situational"
 			{
+				"item"		"item_mjollnir"
+				"item"		"item_gungir"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
