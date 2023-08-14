@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Support Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as core and support with ability to transition into core later on because of his Stolen Intelligence as well as Glaives of Wisdom which allowes him to deal massive amounts of damage. And, of course, the hero provides a lot of silences, including Global one.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"93"
+	"GuideRevision"		"94"
 	"AssociatedWorkshopItemID"		"0x0000000035FDC7D3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA4796"
-	"TimePublished"		"0x0000000064BA4796"
+	"TimeUpdated"		"0x0000000064D76C1A"
+	"TimePublished"		"0x0000000064D76C1A"
 	"ItemBuild"
 	{
 		"Items"
@@ -104,17 +104,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_wind_lace"		"SIlencer needs mobility and wind lace gives enough movement speed for early stage"
-			"item_magic_wand"		"Cheap stats and ability to replenish your hp/mana. Since Silencer&amp;amp;amp;apos;s HP regen is quite low and his mana pool (comparing to his skills) isn&amp;amp;amp;apos;t really big at early stages, it will be quite useful."
-			"item_ghost"		"Works well against high-phys-dmg cores. You&amp;amp;amp;apos;re not really tanky against that so it should be purchased ASAP."
+			"item_magic_wand"		"Cheap stats and ability to replenish your hp/mana. Since Silencer&amp;amp;amp;amp;apos;s HP regen is quite low and his mana pool (comparing to his skills) isn&amp;amp;amp;amp;apos;t really big at early stages, it will be quite useful."
+			"item_ghost"		"Works well against high-phys-dmg cores. You&amp;amp;amp;amp;apos;re not really tanky against that so it should be purchased ASAP."
 			"item_sheepstick"		"Shitload of damage, some HP and powerful control"
-			"item_cyclone"		"Another one choice against high-phys-damage cores, as well as silences, slows and other shitty debuffs. Also gives quite nice mana regen boost, but isn&amp;amp;amp;apos;t really good Silencer item after all to be purchased every time."
+			"item_cyclone"		"Another one choice against high-phys-damage cores, as well as silences, slows and other shitty debuffs. Also gives quite nice mana regen boost, but isn&amp;amp;amp;amp;apos;t really good Silencer item after all to be purchased every time."
 			"item_force_staff"		"Number one item for any Silencer: increases hp regen, mobility and damage output, builds into hurricane pike, another must-have item for Silencer."
 			"item_hurricane_pike"		"Pretty much the only item we need. Force staff is overall good item for Silencer, it allowes to save allies, while Pike upgrade also makes Silener much tankier and makes him much more useful as damage dealer"
 			"item_assault"		"Useful aura, armor boost and attack speed boost. Increases our damage output and tankiness"
 			"item_black_king_bar"		"Quite obvious: high control lineups to be able to deal damage."
-			"item_skadi"		"Stat-heavy item, slow. Good in cases when you don&amp;amp;amp;apos;t need control or MKB, but need stats and damage"
+			"item_skadi"		"Stat-heavy item, slow. Good in cases when you don&amp;amp;amp;amp;apos;t need control or MKB, but need stats and damage"
 			"item_rod_of_atos"		"Works fine against elusive heroes, gives quite good damage and health boost, as well as some kind of control and all that for a low price."
-			"item_tranquil_boots"		"Silencer&amp;amp;amp;apos;s base HP regen is quite low, so it will be quite useful inbetween ganks. And another important note: tranqs increase your mobility even more. For core it will be better to get phase or threads, but for support Silencer tranquils are the best choice.
+			"item_tranquil_boots"		"Silencer&amp;amp;amp;amp;apos;s base HP regen is quite low, so it will be quite useful inbetween ganks. And another important note: tranqs increase your mobility even more. For core it will be better to get phase or threads, but for support Silencer tranquils are the best choice.
 ALTERNATIVE: Power Treads"
 			"item_glimmer_cape"		"Pretty useful in early stages, especially against high magic damage lineups. Later on can be disassebled if needed and rebuild into Pipe+Silver Edge"
 			"item_power_treads"		"ALTERNATIVE: Tranquil Boots"
@@ -146,8 +146,8 @@ ALTERNATIVE: Power Treads"
 		}
 		"AbilityTooltips"
 		{
-			"silencer_curse_of_the_silent"		"Main thing we need in ganks is slow. More powerful slow = more chances to kill. Because of that Arcane Curse becomes our main skill to max out. Another thing about it: it&amp;amp;amp;apos;s actually ridiculous how much damage you can deal with it in fights, so you shouldn&amp;amp;amp;apos;t underestimate it."
-			"silencer_glaives_of_wisdom"		"While it&amp;amp;amp;apos;s our damage dealing tool, we won&amp;amp;amp;apos;t need it any time soon: Q or E after upgrade will deal much more damage, while also will allow us to actually kill people. Casting W manually on enemy while laning will allow us to harass opponents without creep aggro, so it&amp;amp;amp;apos;s worth using skill point early"
+			"silencer_curse_of_the_silent"		"Main thing we need in ganks is slow. More powerful slow = more chances to kill. Because of that Arcane Curse becomes our main skill to max out. Another thing about it: it&amp;amp;amp;amp;apos;s actually ridiculous how much damage you can deal with it in fights, so you shouldn&amp;amp;amp;amp;apos;t underestimate it."
+			"silencer_glaives_of_wisdom"		"While it&amp;amp;amp;amp;apos;s our damage dealing tool, we won&amp;amp;amp;amp;apos;t need it any time soon: Q or E after upgrade will deal much more damage, while also will allow us to actually kill people. Casting W manually on enemy while laning will allow us to harass opponents without creep aggro, so it&amp;amp;amp;amp;apos;s worth using skill point early"
 			"silencer_last_word"		"Nuke, silence and vision on target in ganks.Pretty good to get it maxed out after curse (or sometimes even instead of it)"
 		}
 	}

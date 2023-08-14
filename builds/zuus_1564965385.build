@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"71"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA48F7"
-	"TimePublished"		"0x0000000064BA48F7"
+	"TimeUpdated"		"0x0000000064D771A3"
+	"TimePublished"		"0x0000000064D771A3"
 	"ItemBuild"
 	{
 		"Items"
@@ -89,7 +89,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_kaya"		"Before Aghanim&amp;amp;apos;s Scepter"
+			"item_kaya"		"Before Aghanim&amp;amp;amp;amp;apos;s Scepter"
 			"item_ethereal_blade"		"ALTERNATIVES: Sange and Kaya"
 			"item_kaya_and_sange"		"ALTERNATIVES: Ethereal Blade"
 		}
