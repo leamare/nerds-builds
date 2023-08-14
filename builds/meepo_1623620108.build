@@ -3,7 +3,7 @@
 	"Hero"		"meepo"
 	"Title"		"Experimental Support Meepo"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
 
 The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
@@ -18,12 +18,12 @@ This build is experimental and is very hard to execute. Proceed on your own risk
 This guide was requested by lamallama
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"31"
+	"GuideRevision"		"32"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA4E99"
-	"TimePublished"		"0x0000000064BA4E99"
+	"TimeUpdated"		"0x0000000064D7688D"
+	"TimePublished"		"0x0000000064D7688D"
 	"ItemBuild"
 	{
 		"Items"
@@ -98,22 +98,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"meepo_earthbind"
+			"1"		"meepo_ransack"
 			"2"		"meepo_poof"
-			"3"		"meepo_poof"
+			"3"		"meepo_earthbind"
+			"4"		"meepo_divided_we_stand"
 			"5"		"meepo_poof"
-			"6"		"meepo_earthbind"
+			"6"		"meepo_poof"
 			"7"		"meepo_poof"
 			"8"		"meepo_ransack"
-			"9"		"meepo_earthbind"
-			"10"		"special_bonus_strength_6"
+			"9"		"meepo_ransack"
+			"10"		"special_bonus_unique_meepo_2"
+			"11"		"meepo_divided_we_stand"
 			"12"		"meepo_earthbind"
 			"13"		"meepo_ransack"
-			"14"		"meepo_ransack"
-			"15"		"special_bonus_unique_meepo_4"
-			"16"		"meepo_ransack"
+			"14"		"meepo_earthbind"
+			"15"		"special_bonus_evasion_15"
+			"16"		"meepo_earthbind"
 			"18"		"meepo_divided_we_stand"
-			"20"		"special_bonus_unique_meepo_3"
+			"20"		"special_bonus_unique_meepo_4"
 			"25"		"special_bonus_unique_meepo_5"
 		}
 		"AbilityTooltips"

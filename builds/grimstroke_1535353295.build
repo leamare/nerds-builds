@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"99"
+	"GuideRevision"		"100"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA4574"
-	"TimePublished"		"0x0000000064BA4574"
+	"TimeUpdated"		"0x0000000064D76202"
+	"TimePublished"		"0x0000000064D76202"
 	"ItemBuild"
 	{
 		"Items"
@@ -97,20 +97,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_travel_boots"		"Next pickup to get once you have everything else. At this point you should already have GPM talent and all other items. With BoTs we can start splitpushing and jumping around the map to constantly force fights. Additionally, it will give us massive boost to movement speed"
-			"item_cyclone"		"Setup for Phantom&amp;amp;apos;s embrace, additional escape, linken&amp;amp;apos;s breaker. Way to deal with silences and stuff like Kunkka&amp;amp;apos;s X mark"
-			"item_null_talisman"		"Even tho you don&amp;amp;apos;t want to get it as starting item, one additional Null Talisman for laning is always a good idea since it will help you establish your lane dominance."
-			"item_bottle"		"It&amp;amp;apos;s necessary for us to be able to constantly spam our spells on lane and play agressively. With Ink Swell on and a rune ward you can secure enough runes to have charges at any time"
+			"item_cyclone"		"Setup for Phantom&amp;amp;amp;apos;s embrace, additional escape, linken&amp;amp;amp;apos;s breaker. Way to deal with silences and stuff like Kunkka&amp;amp;amp;apos;s X mark"
+			"item_null_talisman"		"Even tho you don&amp;amp;amp;apos;t want to get it as starting item, one additional Null Talisman for laning is always a good idea since it will help you establish your lane dominance."
+			"item_bottle"		"It&amp;amp;amp;apos;s necessary for us to be able to constantly spam our spells on lane and play agressively. With Ink Swell on and a rune ward you can secure enough runes to have charges at any time"
 			"item_boots"		"Additional movement speed, ideally before level 4-5, so you can start pressuring opponent with Ink Swell"
 			"item_force_staff"		"Against slows and melee heroes (Ursa, Riki, Monkey King...)"
 			"item_blink"		"Good fo situations when you need to initiate (no initiator) or close the gap instantly to use spells (against Weaver or Storm).
 
-It doesn&amp;amp;apos;t really work in combination with Ink Swell: stun duration scales from time the target spent in AoE. The only way to combo it is to use it and instantly blink to enemy."
-			"item_sheepstick"		"Double hex, mana regen, good stats. Can be used to setup Phantom&amp;amp;apos;s Embrace as well"
+It doesn&amp;amp;amp;apos;t really work in combination with Ink Swell: stun duration scales from time the target spent in AoE. The only way to combo it is to use it and instantly blink to enemy."
+			"item_sheepstick"		"Double hex, mana regen, good stats. Can be used to setup Phantom&amp;amp;amp;apos;s Embrace as well"
 			"item_shivas_guard"		"Good replacement for Veil: additional int (spell amplification), aura, mana pool and huge armor boost."
-			"item_bloodthorn"		"Another agressive choice. If you&amp;amp;apos;re sure you don&amp;amp;apos;t need hex and you&amp;amp;apos;re going to transition into physical damage core to be more effective at pushing - go for it."
-			"item_sphere"		"Great choice for Grimstroke. Doesn&amp;amp;apos;t let enemy hold you from casting or running around with Ink Swell, gives additional mana and HP regen, as well as massive stats boost"
+			"item_bloodthorn"		"Another agressive choice. If you&amp;amp;amp;apos;re sure you don&amp;amp;amp;apos;t need hex and you&amp;amp;amp;apos;re going to transition into physical damage core to be more effective at pushing - go for it."
+			"item_sphere"		"Great choice for Grimstroke. Doesn&amp;amp;amp;apos;t let enemy hold you from casting or running around with Ink Swell, gives additional mana and HP regen, as well as massive stats boost"
 			"item_aeon_disk"		"Save/tankiness item against nullifier combos or burst initiators (Clinkz, Storm Spirit, Earthshaker...)"
-			"item_assault"		"Alternative to Shiva&amp;amp;apos;s. You don&amp;amp;apos;t really need mana pool anyway at this point, so you can pick it up and start transitioning into hybrid carry"
+			"item_assault"		"Alternative to Shiva&amp;amp;amp;apos;s. You don&amp;amp;amp;apos;t really need mana pool anyway at this point, so you can pick it up and start transitioning into hybrid carry"
 			"item_black_king_bar"		"When its hard to fight and enemy has too much magic. Stuns, silences, you name it"
 			"item_dagon_5"		"Going all-in for magic damage for double dagon combo"
 			"item_ethereal_blade"		"Addition for double dagon combo + high damage from stat gain + ok-ish choice for transitioning into hybrid core. Can be used as upgrade to Ghost Scepter"
@@ -142,13 +142,13 @@ It doesn&amp;amp;apos;t really work in combination with Ink Swell: stun duration
 		}
 		"AbilityTooltips"
 		{
-			"grimstroke_dark_artistry"		"Your main farming spell, as well as tool for dominating your lane. Try to catch your opponent at lasthit attempt and harass him with this spell, using it through creepwave. Early on you don&amp;amp;apos;t want to hit ranged creep with it unless it&amp;amp;apos;s at half HP, but after level 3 it&amp;amp;apos;s your tool to secure ranged creep every wave."
-			"grimstroke_ink_creature"		"The spell is pretty useful in teamfights and deals a lot of damage after full duration, but in most cases during laning stage your opponent will be able to kill the phantom, so it&amp;amp;apos;s not reliable to use as a harassing tool.  Try to use it as vision tool instead and hold your opponent while catching up with Ink Swell."
-			"grimstroke_spirit_walk"		"It&amp;amp;apos;s your main teamfighting/escaping tool. Use it to secure runes, run in and out of fights, catch up to opponents, save your allies or just run somewhere faster. Early on your goal will be like this: get level 4-5, harass opponent with stroke of fate and once he gets too close, use phantom embrace and instantly start diving towards enemy with ink swell on. It will either force enemy to attack-move (and you will catch up to him and stun) or run away with phantom"
-			"special_bonus_unique_grimstroke_3"		"Even while we&amp;amp;apos;re double downing on Stroke of Fate, the only scenario for this talent is base defending (which means you&amp;amp;apos;re losing)"
-			"special_bonus_unique_grimstroke_4"		"This talent enables Phantom&amp;amp;apos;s Embrace, making it actually hard to kill during fight. With this talent it actually becomes reliable silence."
+			"grimstroke_dark_artistry"		"Your main farming spell, as well as tool for dominating your lane. Try to catch your opponent at lasthit attempt and harass him with this spell, using it through creepwave. Early on you don&amp;amp;amp;apos;t want to hit ranged creep with it unless it&amp;amp;amp;apos;s at half HP, but after level 3 it&amp;amp;amp;apos;s your tool to secure ranged creep every wave."
+			"grimstroke_ink_creature"		"The spell is pretty useful in teamfights and deals a lot of damage after full duration, but in most cases during laning stage your opponent will be able to kill the phantom, so it&amp;amp;amp;apos;s not reliable to use as a harassing tool.  Try to use it as vision tool instead and hold your opponent while catching up with Ink Swell."
+			"grimstroke_spirit_walk"		"It&amp;amp;amp;apos;s your main teamfighting/escaping tool. Use it to secure runes, run in and out of fights, catch up to opponents, save your allies or just run somewhere faster. Early on your goal will be like this: get level 4-5, harass opponent with stroke of fate and once he gets too close, use phantom embrace and instantly start diving towards enemy with ink swell on. It will either force enemy to attack-move (and you will catch up to him and stun) or run away with phantom"
+			"special_bonus_unique_grimstroke_3"		"Even while we&amp;amp;amp;apos;re double downing on Stroke of Fate, the only scenario for this talent is base defending (which means you&amp;amp;amp;apos;re losing)"
+			"special_bonus_unique_grimstroke_4"		"This talent enables Phantom&amp;amp;amp;apos;s Embrace, making it actually hard to kill during fight. With this talent it actually becomes reliable silence."
 			"special_bonus_unique_grimstroke_2"		"This talent completes our spam-nuke nature , amplifying our damage output even more. With this talent Stroke of Fate relably oneshots regular creepwave."
-			"special_bonus_unique_grimstroke_1"		"It may be good for combos with tanky bruicers and heroes like Phoenix, but for core Grimstroke it&amp;amp;apos;s not really the way to go."
+			"special_bonus_unique_grimstroke_1"		"It may be good for combos with tanky bruicers and heroes like Phoenix, but for core Grimstroke it&amp;amp;amp;apos;s not really the way to go."
 		}
 	}
 }

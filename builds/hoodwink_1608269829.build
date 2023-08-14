@@ -3,17 +3,17 @@
 	"Hero"		"hoodwink"
 	"Title"		"Nerds Support Hoodwink"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.33e"
+	"GameplayVersion"		"7.34"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064BA457D"
-	"TimePublished"		"0x0000000064BA457D"
+	"TimeUpdated"		"0x0000000064D7652D"
+	"TimePublished"		"0x0000000064D7652D"
 	"ItemBuild"
 	{
 		"Items"
@@ -109,7 +109,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_hoodwink_bushwhack_damage"
 			"16"		"hoodwink_scurry"
 			"18"		"hoodwink_sharpshooter"
-			"20"		"special_bonus_unique_hoodwink_sharpshooter_speed"
+			"20"		"attribute_bonus"
 			"25"		"special_bonus_unique_hoodwink_bushwhack_radius"
 		}
 		"AbilityTooltips"
