@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D77196"
-	"TimePublished"		"0x0000000064D77196"
+	"TimeUpdated"		"0x0000000064FB6283"
+	"TimePublished"		"0x0000000064FB6283"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,11 +22,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_magic_stick"
 				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
 				"item"		"item_enchanted_mango"
 				"item"		"item_enchanted_mango"
+				"item"		"item_blood_grenade"
 			}
 			"Early"
 			{
@@ -37,8 +37,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_aether_lens"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
+				"item"		"item_ethereal_blade"
 				"item"		"item_force_staff"
 			}
 			"Situational Early"
@@ -50,7 +51,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
 				"item"		"item_refresher"
@@ -67,6 +67,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blink"
 				"item"		"item_wind_waker"
 				"item"		"item_aeon_disk"
+				"item"		"item_aghanims_shard"
 			}
 			"Best Neutral Items"
 			{
@@ -113,7 +114,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"zuus_heavenly_jump"
 			"18"		"zuus_thundergods_wrath"
 			"20"		"special_bonus_unique_zeus_2"
-			"25"		"special_bonus_unique_zeus_5"
+			"25"		"special_bonus_unique_zeus_4"
 		}
 		"AbilityTooltips"
 		{

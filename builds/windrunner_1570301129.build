@@ -3,16 +3,16 @@
 	"Hero"		"windrunner"
 	"Title"		"Nerds Windranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D7716E"
-	"TimePublished"		"0x0000000064D7716E"
+	"TimeUpdated"		"0x0000000064FB6479"
+	"TimePublished"		"0x0000000064FB6479"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,7 +38,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_maelstrom"
-				"item"		"item_dragon_lance"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -49,18 +50,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_sphere"
-				"item"		"item_black_king_bar"
 				"item"		"item_blink"
-				"item"		"item_hurricane_pike"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_skadi"
+				"item"		"item_sphere"
 				"item"		"item_greater_crit"
 				"item"		"item_travel_boots"
+				"item"		"item_skadi"
 			}
 			"Situational"
 			{
+				"item"		"item_hurricane_pike"
 				"item"		"item_phase_boots"
 				"item"		"item_manta"
 				"item"		"item_disperser"
@@ -71,7 +70,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_skadi"
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
 				"item"		"item_silver_edge"
@@ -102,12 +100,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_maelstrom"		"~12-17 min"
+			"item_maelstrom"		"~12-17 min
+ALTERNATIVES: Diffusal Blade"
 			"item_gungir"		"~19-25 min"
 			"item_black_king_bar"		"~20-27 min"
 			"item_blink"		"~25 min"
 			"item_power_treads"		"ALTERNATIVE: Phase Boots"
 			"item_phase_boots"		"ALTERNATIVE: Power Treads"
+			"item_diffusal_blade"		"ALTERNATIVES: Maelstrom"
 		}
 	}
 	"AbilityBuild"
@@ -124,15 +124,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"windrunner_windrun"
 			"9"		"windrunner_windrun"
 			"10"		"windrunner_windrun"
-			"11"		"special_bonus_unique_windranger"
+			"11"		"special_bonus_unique_windranger_9"
 			"12"		"windrunner_focusfire"
 			"13"		"windrunner_shackleshot"
 			"14"		"windrunner_shackleshot"
-			"15"		"special_bonus_unique_windranger_3"
+			"15"		"special_bonus_unique_windranger_4"
 			"16"		"windrunner_shackleshot"
 			"18"		"windrunner_focusfire"
 			"20"		"special_bonus_unique_windranger_8"
-			"25"		"special_bonus_unique_windranger_windrun_undispellable"
+			"25"		"special_bonus_unique_windranger_2"
 		}
 		"AbilityTooltips"
 		{

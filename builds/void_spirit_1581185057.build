@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Utility Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D77132"
-	"TimePublished"		"0x0000000064D77132"
+	"TimeUpdated"		"0x0000000064FB6640"
+	"TimePublished"		"0x0000000064FB6640"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,17 +37,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_echo_sabre"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_manta"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_witch_blade"
 				"item"		"item_orchid"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_phase_boots"
-				"item"		"item_meteor_hammer"
 				"item"		"item_cyclone"
-				"item"		"item_desolator"
 			}
 			"Utility"
 			{
@@ -68,13 +65,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_kaya_and_sange"
 				"item"		"item_octarine_core"
-				"item"		"item_ghost"
-				"item"		"item_nullifier"
-				"item"		"item_bloodthorn"
-				"item"		"item_abyssal_blade"
 				"item"		"item_shivas_guard"
+				"item"		"item_abyssal_blade"
+				"item"		"item_nullifier"
+			}
+			"Other Significant Items"
+			{
+				"item"		"item_bloodthorn"
+				"item"		"item_ghost"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_desolator"
 			}
 			"Best Neutral Items"
 			{
@@ -99,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_phase_boots"		"ALTERNATIVE: Power Treads"
 			"item_power_treads"		"ALTERNATIVE: Phase Boots"
-			"item_meteor_hammer"		"~6-10 min"
 		}
 	}
 	"AbilityBuild"

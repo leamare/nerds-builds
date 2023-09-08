@@ -3,16 +3,16 @@
 	"Hero"		"visage"
 	"Title"		"Nerds Support Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"42"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x00000000910F481B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D770FE"
-	"TimePublished"		"0x0000000064D770FE"
+	"TimeUpdated"		"0x0000000064FB674D"
+	"TimePublished"		"0x0000000064FB674D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,25 +20,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
+				"item"		"item_blood_grenade"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_boots"
-				"item"		"item_magic_stick"
-				"item"		"item_bracer"
+				"item"		"item_medallion_of_courage"
 			}
 			"Core"
 			{
+				"item"		"item_solar_crest"
 				"item"		"item_ancient_janggo"
-				"item"		"item_vladmir"
-				"item"		"item_pipe"
+				"item"		"item_tranquil_boots"
 			}
 			"Situational Early"
 			{
@@ -58,6 +58,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_vladmir"
+				"item"		"item_pipe"
 				"item"		"item_rod_of_atos"
 				"item"		"item_guardian_greaves"
 				"item"		"item_lotus_orb"
@@ -101,12 +103,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"visage_grave_chill"
 			"8"		"visage_gravekeepers_cloak"
 			"9"		"visage_gravekeepers_cloak"
-			"10"		"special_bonus_unique_visage_7"
+			"10"		"special_bonus_unique_visage_8"
 			"11"		"visage_soul_assumption"
 			"12"		"visage_summon_familiars"
 			"13"		"visage_soul_assumption"
 			"14"		"visage_soul_assumption"
-			"15"		"special_bonus_unique_visage_3"
+			"15"		"special_bonus_unique_visage_grave_chill_duration"
 			"16"		"visage_gravekeepers_cloak"
 			"18"		"visage_summon_familiars"
 			"20"		"special_bonus_unique_visage_1"
