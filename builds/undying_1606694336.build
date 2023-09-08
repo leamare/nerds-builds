@@ -3,17 +3,17 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Undying"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"Undying is an utility strength hero, who excells at healing allies and making teamfights chaotic. Undying slowly steals enemy's strength, slowly decaying them to the ground, forcing to react and tanking massive amounts of damage.
 
 This build is based on Immortal rank Undying matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x00000000894E0851"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D770D0"
-	"TimePublished"		"0x0000000064D770D0"
+	"TimeUpdated"		"0x0000000064FB6910"
+	"TimePublished"		"0x0000000064FB6910"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,14 +30,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_pavise"
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_stick"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_magic_wand"
-				"item"		"item_ancient_janggo"
+				"item"		"item_guardian_greaves"
+				"item"		"item_pipe"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -56,27 +56,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_boots_of_bearing"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_lotus_orb"
 			}
 			"Situational"
 			{
-				"item"		"item_guardian_greaves"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_holy_locket"
-				"item"		"item_blade_mail"
 				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
-				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 				"item"		"item_aeon_disk"
 				"item"		"item_sheepstick"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_meteor_hammer"
 				"item"		"item_ethereal_blade"
+				"item"		"item_blade_mail"
 			}
 			"Best Neutral Items"
 			{
@@ -99,10 +95,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_guardian_greaves"		"Strong aura, mana solution, armor and dispel. Works grea"
 			"item_arcane_boots"		"Good early mana solution. Can be disassembled later to make Locket, too"
 			"item_blade_mail"		"Armor solution, that also allowes you to farm and deal with focus in teamfights"
-			"item_meteor_hammer"		"Great farming solution, you won&amp;amp;amp;apos;t really need it as a support"
 			"item_holy_locket"		"An insanely powerful Undying item. Gives you great stats and makes Soul Rip much stronger"
 			"item_soul_ring"		"A nice item for early mana sustain and armor"
 			"item_shivas_guard"		"Massive armor boost, regen reduction aura, additional mana and the slow to go with your ult"
@@ -137,9 +131,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"undying_decay"		"The early to mid game domination spell. You don&amp;amp;amp;apos;t really want to upgrade it early on, since its duration doesn&amp;amp;amp;apos;t change, while mana cost is increasing."
+			"undying_decay"		"The early to mid game domination spell. You don&apos;t really want to upgrade it early on, since its duration doesn&apos;t change, while mana cost is increasing."
 			"undying_soul_rip"		"Early nuke/heal. Try to use it on lane as much as possible after you get enemy low enough with Decay. Keep in mind - your heal is directly tied to the number of units around. You can also use it to heal Tombstone OR to get more units around."
-			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;amp;amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
+			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&apos;t have meteor/bm yet), as well as deals with enemy running away.
 You can also use it on highgrounds / ward spots to make it harder to destroy for your enemies."
 			"undying_flesh_golem"		"The amount of Strength is directly tied to your own strength, so you want to steal as much with Decay as possible. It also makes you a bit faster, so you want to use it in teamfights to (a) tank more and survive and (b) chase enemies down and focus them with your team."
 		}

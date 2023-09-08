@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 Based on games played during DreamLeague Leipzig Major and consequent Immortal Rank matches
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x000000007592C165"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D76BEF"
-	"TimePublished"		"0x0000000064D76BEF"
+	"TimeUpdated"		"0x0000000064FB6E26"
+	"TimePublished"		"0x0000000064FB6E26"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,30 +36,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
-				"item"		"item_aghanims_shard"
 				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_mage_slayer"
-				"item"		"item_maelstrom"
-				"item"		"item_wraith_band"
+				"item"		"item_bfury"
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 				"item"		"item_greater_crit"
+				"item"		"item_abyssal_blade"
 				"item"		"item_disperser"
 				"item"		"item_black_king_bar"
-				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
 				"item"		"item_octarine_core"
-				"item"		"item_bfury"
 				"item"		"item_nullifier"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_skadi"
@@ -92,7 +90,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_diffusal_blade"		"~12-16 min
 ALTERNATIVE: Battle Fury"
-			"item_bfury"		"ALTERNATIVE: Diffusal Blade"
+			"item_bfury"		"Before Diffusal Blade"
 			"item_power_treads"		"~9 min"
 			"item_orb_of_corrosion"		"Before Power Treads"
 			"item_manta"		"~24 min"
@@ -111,7 +109,7 @@ ALTERNATIVE: Battle Fury"
 			"7"		"riki_blink_strike"
 			"8"		"riki_tricks_of_the_trade"
 			"9"		"riki_tricks_of_the_trade"
-			"10"		"special_bonus_unique_riki_8"
+			"10"		"special_bonus_unique_riki_7"
 			"11"		"riki_tricks_of_the_trade"
 			"12"		"riki_backstab"
 			"13"		"riki_smoke_screen"
