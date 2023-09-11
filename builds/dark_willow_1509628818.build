@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"149"
+	"GuideRevision"		"151"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D75E83"
-	"TimePublished"		"0x0000000064D75E83"
+	"TimeUpdated"		"0x0000000064FBA6B4"
+	"TimePublished"		"0x0000000064FBA6B4"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,13 +41,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_bracer"
 				"item"		"item_tranquil_boots"
+				"item"		"item_bracer"
+				"item"		"item_hand_of_midas"
 				"item"		"item_meteor_hammer"
 				"item"		"item_witch_blade"
 				"item"		"item_cyclone"
 				"item"		"item_ancient_janggo"
-				"item"		"item_rod_of_atos"
 			}
 			"Utility"
 			{
@@ -112,7 +112,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
 			"item_tranquil_boots"		"ALTERNATIVE: Power Treads"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&apos;s Scepter"
 		}
 	}
 	"AbilityBuild"

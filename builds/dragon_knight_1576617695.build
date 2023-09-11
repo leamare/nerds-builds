@@ -3,15 +3,15 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Dragon Knight"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.33c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D75F05"
+	"TimeUpdated"		"0x0000000064FB57CA"
 	"TimePublished"		"0x0000000064D75F05"
 	"ItemBuild"
 	{

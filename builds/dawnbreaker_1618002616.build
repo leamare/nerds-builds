@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Support Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D75EA9"
-	"TimePublished"		"0x0000000064D75EA9"
+	"TimeUpdated"		"0x0000000064FBA63E"
+	"TimePublished"		"0x0000000064FBA63E"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,23 +20,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_blood_grenade"
-				"item"		"item_flask"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
+				"item"		"item_magic_stick"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_magic_stick"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_holy_locket"
 				"item"		"item_mekansm"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -47,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_guardian_greaves"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_holy_locket"
 				"item"		"item_aghanims_shard"
 				"item"		"item_pipe"
 				"item"		"item_blink"

@@ -3,18 +3,18 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34"
+	"GameplayVersion"		"7.34b"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"92"
+	"GuideRevision"		"94"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064D75DAA"
-	"TimePublished"		"0x0000000064D75DAA"
+	"TimeUpdated"		"0x0000000064FBA868"
+	"TimePublished"		"0x0000000064FBA868"
 	"ItemBuild"
 	{
 		"Items"
@@ -112,8 +112,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_sange_and_yasha"		"Another snowballing item and another flat movement speed bonus. It makes you strong at both defense and offense"
-			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&amp;amp;amp;apos;t be able to catch up to you"
-			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&amp;amp;amp;apos;s active component drastically increases your damage output
+			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&apos;t be able to catch up to you"
+			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&apos;s active component drastically increases your damage output
 
 You can also use it on friendly catapult or another core on your team to push faster"
 			"item_desolator"		"Nice agressive addition to amplify your damage output"
@@ -121,7 +121,7 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"item_crimson_guard"		"Good tankiness and utility item overall, good solution against physical damage"
 			"item_vanguard"		"Good early tankiness solution. Can be upgraded into Crimson Guard (utility way) which is pretty good item for your team overall"
 			"item_heavens_halberd"		"Good tankiness solution, works well against high damage enemy cores"
-			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&amp;amp;amp;apos;s damage output it won&amp;amp;amp;apos;t be a problem anyway"
+			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&apos;s damage output it won&apos;t be a problem anyway"
 		}
 	}
 	"AbilityBuild"
