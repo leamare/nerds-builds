@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34c"
+	"GameplayVersion"		"7.34d"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"134"
+	"GuideRevision"		"137"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064FC4396"
-	"TimePublished"		"0x0000000064FC4396"
+	"TimeUpdated"		"0x0000000065264AF7"
+	"TimePublished"		"0x0000000065264AF7"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,7 +24,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_blood_grenade"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
 			}
@@ -107,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_wind_lace"		"You&amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_wind_lace"		"You&amp;amp;amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."
@@ -143,7 +144,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityTooltips"
 		{
 			"dark_willow_shadow_realm"		"Our surviveability and zoning tool. Charge it until exclamation mark appears and attack enemies."
-			"dark_willow_cursed_crown"		"It&amp;apos;s incredibly strong ability, but we don&amp;apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
+			"dark_willow_cursed_crown"		"It&amp;amp;amp;apos;s incredibly strong ability, but we don&amp;amp;amp;apos;t really need to max it early on: value point is enough. You main combo should be E+Q+charge W and attack with Bedlam."
 		}
 	}
 }
