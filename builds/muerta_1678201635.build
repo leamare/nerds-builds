@@ -3,16 +3,16 @@
 	"Hero"		"muerta"
 	"Title"		"Nerds Support Muerta"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34c"
+	"GameplayVersion"		"7.34d"
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"20"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000AF73CDDB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064FC41E8"
-	"TimePublished"		"0x0000000064FC41E8"
+	"TimeUpdated"		"0x00000000652A32A6"
+	"TimePublished"		"0x00000000652A32A6"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,30 +34,33 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_aether_lens"
+				"item"		"item_spirit_vessel"
 				"item"		"item_tranquil_boots"
+				"item"		"item_force_staff"
 			}
 			"Situational Early"
 			{
 				"item"		"item_cyclone"
+				"item"		"item_rod_of_atos"
 				"item"		"item_ghost"
-				"item"		"item_force_staff"
 				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_hurricane_pike"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_octarine_core"
+				"item"		"item_blink"
 				"item"		"item_sheepstick"
 				"item"		"item_greater_crit"
 			}
 			"Situational"
 			{
 				"item"		"item_veil_of_discord"
+				"item"		"item_octarine_core"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sphere"
-				"item"		"item_rod_of_atos"
 				"item"		"item_wind_waker"
-				"item"		"item_hurricane_pike"
 			}
 			"Other Significant Items"
 			{
@@ -110,7 +113,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"muerta_gunslinger"
 			"18"		"muerta_pierce_the_veil"
 			"20"		"special_bonus_unique_muerta_dead_shot_charges"
-			"25"		"special_bonus_unique_muerta_the_calling_num_revenants"
+			"25"		"special_bonus_magic_resistance_25"
 		}
 		"AbilityTooltips"
 		{
