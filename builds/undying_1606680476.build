@@ -3,16 +3,16 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Core Undying"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34c"
+	"GameplayVersion"		"7.34d"
 	"Overview"		"Undying is a Strength Utility hero. He excells at dominating in the early game and teamfights, as well as healing allies. Offlane Undying focuses on winning the lane and forcing enemies out of it to rush Meteor Hammer and farm efficiently to get use of early dominance, and to get the early tier 1 towers as well. Later into the game the build is focusing on being tanky and snowballing through fights, while providing auras to the team. Lategame Undying with Aghs Decay upgrade is the finishing touch, amping the hero's power level.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x00000000894DCC50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000064FC40C4"
-	"TimePublished"		"0x0000000064FC40C4"
+	"TimeUpdated"		"0x0000000065265506"
+	"TimePublished"		"0x0000000065265506"
 	"ItemBuild"
 	{
 		"Items"
@@ -103,7 +103,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_wind_lace"		"Additional mobility to keep up with enemy heroes"
 			"item_meteor_hammer"		"The main problems you will face is keeping up in farm as the game goes and dealing with objectives. Meteor Hammer allowes you to farm efficiently and take towers, which in turn allowes you to use your early game dominance and stay relatively strong throughout the game.
 ALTERNATIVE: Echo Sabre"
-			"item_guardian_greaves"		"You want to make Greaves ASAP after Meteor - healing, mana sustain, armor, dispel. The only cases you&amp;apos;d like to skip it are (a) when you&amp;apos;re going for Hocket instead or (b) somebody else wants to make Greaves too and it will be better on the hero (e.g. Dazzle)"
+			"item_guardian_greaves"		"You want to make Greaves ASAP after Meteor - healing, mana sustain, armor, dispel. The only cases you&amp;amp;apos;d like to skip it are (a) when you&amp;amp;apos;re going for Hocket instead or (b) somebody else wants to make Greaves too and it will be better on the hero (e.g. Dazzle)"
 			"item_holy_locket"		"An insanely powerful Undying item. Gives you great stats and makes Soul Rip much stronger"
 			"item_rod_of_atos"		"A nice early item if you lack any kind of control on your team"
 			"item_soul_ring"		"A nice item for early mana sustain, but usually Arcane Boots will be enough"
@@ -111,7 +111,7 @@ ALTERNATIVE: Echo Sabre"
 			"item_shivas_guard"		"Massive armor boost, regen reduction aura, additional mana and the slow to go with your ult"
 			"item_octarine_core"		"Additional increase in power for Decay and Soul Rip - cooldown reduction, additional health (and spell lifesteal comes in handy, too)"
 			"item_pipe"		"Casual Pipe for your team, good against magic heavy lineups"
-			"item_lotus_orb"		"Good armor solution to get against roots/silences/other debuffs to help your team (or yourself if greaves is not enough). Usually would replace Shiva&amp;apos;s (may also replace Greaves)"
+			"item_lotus_orb"		"Good armor solution to get against roots/silences/other debuffs to help your team (or yourself if greaves is not enough). Usually would replace Shiva&amp;amp;apos;s (may also replace Greaves)"
 			"item_heavens_halberd"		"Casual Halberd to help your team, Sange to increase your self healing"
 			"item_arcane_boots"		"A good mana sustain item. Can be upgraded into Greaves later or disassembled into Holy Locket
 ALTERNATIVE: Phase Boots"
@@ -146,9 +146,9 @@ ALTERNATIVE: Phase Boots"
 		}
 		"AbilityTooltips"
 		{
-			"undying_decay"		"The early to mid game domination spell. You don&amp;apos;t really want to upgrade it early on, since its duration doesn&amp;apos;t change, while mana cost is increasing."
+			"undying_decay"		"The early to mid game domination spell. You don&amp;amp;apos;t really want to upgrade it early on, since its duration doesn&amp;amp;apos;t change, while mana cost is increasing."
 			"undying_soul_rip"		"Early nuke/heal. Try to use it on lane as much as possible after you get enemy low enough with Decay. Keep in mind - your heal is directly tied to the number of units around. You can also use it to heal Tombstone OR to get more units around."
-			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
+			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
 You can also use it on highgrounds / ward spots to make it harder to destroy for your enemies. It also gives a lot of vision, which might come handy while attacking or pushing."
 			"undying_flesh_golem"		"The amount of Strength is directly tied to your own strength, so you want to steal as much with Decay as possible. It also makes you a bit faster, so you want to use it in teamfights to (a) tank more and survive and (b) chase enemies down and focus them with your team."
 		}
