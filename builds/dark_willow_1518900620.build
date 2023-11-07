@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"119"
+	"GuideRevision"		"120"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065264AF1"
-	"TimePublished"		"0x0000000065264AF1"
+	"TimeUpdated"		"0x00000000654917D7"
+	"TimePublished"		"0x00000000654917D7"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,49 +28,44 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bottle"
 				"item"		"item_magic_wand"
-				"item"		"item_boots"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_power_treads"
+				"item"		"item_wraith_band"
 			}
 			"Core"
 			{
-				"item"		"item_spirit_vessel"
 				"item"		"item_hand_of_midas"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_null_talisman"
-				"item"		"item_ancient_janggo"
+				"item"		"item_bottle"
+				"item"		"item_bracer"
 				"item"		"item_mask_of_madness"
 				"item"		"item_cyclone"
 				"item"		"item_force_staff"
-				"item"		"item_rod_of_atos"
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
 				"item"		"item_travel_boots"
-				"item"		"item_moon_shard"
-				"item"		"item_blink"
-				"item"		"item_mjollnir"
-				"item"		"item_sheepstick"
-				"item"		"item_aghanims_shard"
+				"item"		"item_wind_waker"
 				"item"		"item_hurricane_pike"
-				"item"		"item_swift_blink"
+				"item"		"item_moon_shard"
+				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
 				"item"		"item_monkey_king_bar"
-				"item"		"item_wind_waker"
-				"item"		"item_octarine_core"
+				"item"		"item_mjollnir"
 				"item"		"item_satanic"
+				"item"		"item_swift_blink"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 				"item"		"item_revenants_brooch"
 				"item"		"item_sphere"
+				"item"		"item_aghanims_shard"
 			}
 			"Other Significant Items"
 			{
@@ -81,6 +76,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_aeon_disk"
+				"item"		"item_rod_of_atos"
 			}
 			"Best Neutral Items"
 			{
@@ -104,17 +100,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_hand_of_midas"		"~14-18 min"
-			"item_rod_of_atos"		"~10-12 min"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"dark_willow_shadow_realm"
-			"2"		"dark_willow_bramble_maze"
-			"3"		"dark_willow_shadow_realm"
-			"4"		"dark_willow_bramble_maze"
+			"1"		"dark_willow_bramble_maze"
+			"2"		"dark_willow_shadow_realm"
+			"3"		"dark_willow_bramble_maze"
+			"4"		"dark_willow_shadow_realm"
 			"5"		"dark_willow_bramble_maze"
 			"6"		"dark_willow_bedlam"
 			"7"		"dark_willow_bramble_maze"
