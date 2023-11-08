@@ -7,12 +7,12 @@
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"153"
+	"GuideRevision"		"155"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065264AEB"
-	"TimePublished"		"0x0000000065264AEB"
+	"TimeUpdated"		"0x00000000654918BB"
+	"TimePublished"		"0x00000000654918BB"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,9 +29,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_boots"
-				"item"		"item_crown"
+				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
@@ -40,11 +40,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
-				"item"		"item_tranquil_boots"
 				"item"		"item_bracer"
-				"item"		"item_hand_of_midas"
-				"item"		"item_meteor_hammer"
 				"item"		"item_witch_blade"
 				"item"		"item_cyclone"
 				"item"		"item_ancient_janggo"
@@ -58,24 +54,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_hurricane_pike"
 				"item"		"item_travel_boots"
 				"item"		"item_aghanims_shard"
-				"item"		"item_hurricane_pike"
-				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_blink"
 				"item"		"item_mjollnir"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_mask_of_madness"
 				"item"		"item_wind_waker"
 				"item"		"item_sphere"
 				"item"		"item_invis_sword"
-				"item"		"item_black_king_bar"
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
 				"item"		"item_nullifier"
@@ -112,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
 			"item_tranquil_boots"		"ALTERNATIVE: Power Treads"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
