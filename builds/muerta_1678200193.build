@@ -7,67 +7,58 @@
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"28"
+	"GuideRevision"		"29"
 	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000652651FA"
-	"TimePublished"		"0x00000000652651FA"
+	"TimeUpdated"		"0x000000006556D52E"
+	"TimePublished"		"0x000000006556D52E"
 	"ItemBuild"
 	{
 		"Items"
 		{
-			"Starting"
+			"Starting Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_circlet"
+				"item"		"item_magic_wand"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_wraith_band"
-				"item"		"item_falcon_blade"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mask_of_madness"
 				"item"		"item_maelstrom"
 				"item"		"item_dragon_lance"
 			}
-			"Core - Moonshard"
-			{
-				"item"		"item_power_treads"
-				"item"		"item_force_staff"
-				"item"		"item_moon_shard"
-				"item"		"item_black_king_bar"
-			}
 			"Situational Early"
 			{
-				"item"		"item_bottle"
+				"item"		"item_falcon_blade"
+				"item"		"item_wraith_band"
+				"item"		"item_null_talisman"
+				"item"		"item_mask_of_madness"
 				"item"		"item_witch_blade"
 				"item"		"item_mage_slayer"
 				"item"		"item_invis_sword"
-				"item"		"item_ethereal_blade"
-				"item"		"item_blink"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
 				"item"		"item_mjollnir"
 				"item"		"item_aghanims_shard"
-				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
+				"item"		"item_hurricane_pike"
 				"item"		"item_silver_edge"
+				"item"		"item_swift_blink"
 				"item"		"item_satanic"
-				"item"		"item_bloodthorn"
 				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
+				"item"		"item_blink"
 				"item"		"item_sheepstick"
 				"item"		"item_greater_crit"
 				"item"		"item_monkey_king_bar"
@@ -79,7 +70,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_yasha_and_kaya"
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"
@@ -88,6 +78,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodstone"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_boots_of_bearing"
+				"item"		"item_ethereal_blade"
 			}
 			"Best Neutral Items"
 			{
