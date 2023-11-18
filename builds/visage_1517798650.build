@@ -7,12 +7,12 @@
 	"Overview"		"Visage is summons-based intelligence hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"157"
+	"GuideRevision"		"158"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065265532"
-	"TimePublished"		"0x0000000065265532"
+	"TimeUpdated"		"0x000000006556D3D4"
+	"TimePublished"		"0x000000006556D3D4"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,26 +30,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_wand"
 				"item"		"item_medallion_of_courage"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_boots"
 				"item"		"item_solar_crest"
 				"item"		"item_ancient_janggo"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
+				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
-				"item"		"item_phylactery"
-				"item"		"item_orchid"
 				"item"		"item_tranquil_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_bracer"
+				"item"		"item_orchid"
+				"item"		"item_phylactery"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_assault"
 				"item"		"item_sheepstick"
 				"item"		"item_bloodthorn"
 				"item"		"item_refresher"
@@ -106,15 +107,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_pipe"		"Awesome for saving birds vs high magic damage aoe lineups"
 			"item_sheepstick"		"Another useful choice, mostly for cases when you need lockdown against BKB carrier or another disable for team."
 			"item_bloodthorn"		"Perfect offensive item: crit, silence, attackspeed. a lot of damage."
-			"item_hurricane_pike"		"Another defensive choice. Good stats, attack range, mobility. Altho, most of the time you won&amp;amp;apos;t need it."
-			"item_ultimate_scepter"		"With new lvl 25 talent it&amp;amp;apos;s not as required as it used to be, but it still very good item for both offensive (additional familliar as damage) and defensive (additional stun and stats) purposes"
+			"item_hurricane_pike"		"Another defensive choice. Good stats, attack range, mobility. Altho, most of the time you won&amp;amp;amp;apos;t need it."
+			"item_ultimate_scepter"		"With new lvl 25 talent it&amp;amp;amp;apos;s not as required as it used to be, but it still very good item for both offensive (additional familliar as damage) and defensive (additional stun and stats) purposes"
 			"item_assault"		"Our general tool (after medallion-aghs) to amplify tankiness, tower damage, help our team with aura and just kill things faster."
-			"item_shivas_guard"		"If you arenot going to pick up AC, it&amp;amp;apos;s probably another choice for you. Altho, while we want to get AC tight after aghs, shiva&amp;amp;apos;s will be our very last slot to get."
-			"item_lotus_orb"		"And another one glimmer cape alternative, but this one is more like team-oriented and used only for it&amp;amp;apos;s purging part."
+			"item_shivas_guard"		"If you arenot going to pick up AC, it&amp;amp;amp;apos;s probably another choice for you. Altho, while we want to get AC tight after aghs, shiva&amp;amp;amp;apos;s will be our very last slot to get."
+			"item_lotus_orb"		"And another one glimmer cape alternative, but this one is more like team-oriented and used only for it&amp;amp;amp;apos;s purging part."
 			"item_desolator"		"Offensive choice. No lockdown, but increases our -armor potential and damage vs towers. I pick it up mostly in cases when the game is already won."
 			"item_solar_crest"		"Use it on summoned catapult or familliar while pushing to instantly melt towers."
 			"item_rod_of_atos"		"Cheap alternative for Bloodthorn or Sheepstick. Pretty cheap, gives Visage additional lockdown and tankiness"
-			"item_glimmer_cape"		"Often you will be focused, so you won&amp;amp;apos;t survive and graekeeper&amp;amp;apos;s cloak won&amp;amp;apos;t help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
+			"item_glimmer_cape"		"Often you will be focused, so you won&amp;amp;amp;apos;t survive and graekeeper&amp;amp;amp;apos;s cloak won&amp;amp;amp;apos;t help you. Glimmer Cape is actually pretty good at saving teammates or yourself, so it can be pretty good choice sometimes."
 			"item_silver_edge"		"Against Tidehunter, Bristleback, Antimage aghs or if you need some kind of repositioning item"
 			"item_aeon_disk"		"Against burst initiators and long disables (Faceless Void, Axe, Magnus)"
 			"item_guardian_greaves"		"Powerful aura and a lot of sustain. Usually you tend to not upgrade your boots as Visage for a long time, and Greaves work well with all this playstyle"
@@ -127,9 +128,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"visage_grave_chill"
-			"2"		"visage_gravekeepers_cloak"
-			"3"		"visage_grave_chill"
-			"4"		"visage_soul_assumption"
+			"2"		"visage_soul_assumption"
+			"3"		"visage_gravekeepers_cloak"
+			"4"		"visage_grave_chill"
 			"5"		"visage_grave_chill"
 			"6"		"visage_summon_familiars"
 			"7"		"visage_grave_chill"
@@ -148,13 +149,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"visage_grave_chill"		"Our main kill-potential spell. It&amp;amp;apos;s not only a slow, but also an attack speed buff for us and our familliars. It&amp;amp;apos;s also a good way to escape ganks."
-			"visage_soul_assumption"		"Our another killing/finishing up spell. It&amp;amp;apos;s generally not a good idea to not skill this, but for a core Visage it won&amp;amp;apos;t be a problem to get a bunch of levels. Early on it won&amp;amp;apos;t be that useful with higher levels, so it&amp;amp;apos;s better to leave as level 1 skill until later point."
-			"visage_gravekeepers_cloak"		"Max Gravekeeper&amp;amp;apos;s Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
-			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he&amp;amp;apos;s almost completely useless. Don&amp;amp;apos;t be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you&amp;amp;apos;re close to aghs or lvl 12/18."
-			"special_bonus_unique_visage_3"		"It&amp;amp;apos;s good when you&amp;amp;apos;re dominating and won&amp;amp;apos;t be able to get that much benefit from XP talent."
+			"visage_grave_chill"		"Our main kill-potential spell. It&amp;amp;amp;apos;s not only a slow, but also an attack speed buff for us and our familliars. It&amp;amp;amp;apos;s also a good way to escape ganks."
+			"visage_soul_assumption"		"Our another killing/finishing up spell. It&amp;amp;amp;apos;s generally not a good idea to not skill this, but for a core Visage it won&amp;amp;amp;apos;t be a problem to get a bunch of levels. Early on it won&amp;amp;amp;apos;t be that useful with higher levels, so it&amp;amp;amp;apos;s better to leave as level 1 skill until later point."
+			"visage_gravekeepers_cloak"		"Max Gravekeeper&amp;amp;amp;apos;s Cloak as early as possible. This will allow our familliars to live longer in fights, which looks much more important."
+			"visage_summon_familiars"		"Visage is not actually a hero and without familliars he&amp;amp;amp;apos;s almost completely useless. Don&amp;amp;amp;apos;t be afraid to lose your bird if you will get something for it. More important is will you have resummon after you lose your familliars. And, ofc, avoid resummoning if you&amp;amp;amp;apos;re close to aghs or lvl 12/18."
+			"special_bonus_unique_visage_3"		"It&amp;amp;amp;apos;s good when you&amp;amp;amp;apos;re dominating and won&amp;amp;amp;apos;t be able to get that much benefit from XP talent."
 			"special_bonus_unique_visage_5"		"Good in cases when you have aghs slot and play more like a tank than damage dealer."
-			"special_bonus_unique_visage_6"		"Better in almost every case. 4 familliars with aghs or &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;free slot&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; to buy something instead of aghs. In both cases this talent helps much more than cloak upgrade."
+			"special_bonus_unique_visage_6"		"Better in almost every case. 4 familliars with aghs or &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot;free slot&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;quot; to buy something instead of aghs. In both cases this talent helps much more than cloak upgrade."
 		}
 	}
 }
