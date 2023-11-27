@@ -3,17 +3,17 @@
 	"Hero"		"leshrac"
 	"Title"		"Nerds Leshrac"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34d"
+	"GameplayVersion"		"7.34e"
 	"Overview"		"Leshrac is an intelligence hero who can be played at every position and transition into powerful core at the end of the game. The hero farms extremely fast, has lockdown and the only things he needs are mana regen and surviveability, so he can deal more damage and outlive opponents. His Diabolic Edict ability allowes him to become a powerful core hero and essentially be able to almost singlehandedly end the game at later stages.
 
 This build is focused around Core Leshrac on Middle lane. There aren't much differences between Mid and Safelane in that regards, and overall gameplay for a hero remains the same for all positions, but there are some key differences in itemisation and items reasoning between Core, Offlane and Support Leshrac.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"98"
+	"GuideRevision"		"99"
 	"AssociatedWorkshopItemID"		"0x000000005381E6FF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065264BDD"
+	"TimeUpdated"		"0x000000006560E594"
 	"TimePublished"		"0x0000000065264BDD"
 	"ItemBuild"
 	{
@@ -95,28 +95,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_cyclone"		"~11-14 min
 Mana regen, mobility and Split Earth setup"
 			"item_aeon_disk"		"Ultimate save item. Not only it gives more HP and mana, it also saves you from dying to burst damage, allowing to reposition and turn around fights.
-ALTERNATIVES: Heart of Tarrasque, Shiva&amp;amp;apos;s Guard, Octarine Core"
+ALTERNATIVES: Heart of Tarrasque, Shiva's Guard, Octarine Core"
 			"item_shivas_guard"		"Huge manapool (and damage) increase, while also adding up surviveabilty and increasing lockdown power.
 ALTERNATIVES: Aeon Disk, Heart of Tarrasque, Octarine Core"
 			"item_magic_wand"		"Emergency button to get extra HP and Mana during early fights."
 			"item_null_talisman"		"Better early game stat item for a mana dependant int hero. If you want to play more agressively, you can get 2nd one."
 			"item_force_staff"		"Emergency situation save item. Just in case you need to run away from slows or ground-changing lockdowns."
-			"item_octarine_core"		"ALTERNATIVES: Aeon Disk, Shiva&amp;amp;apos;s Guard, Heart of Tarrasque"
+			"item_octarine_core"		"ALTERNATIVES: Aeon Disk, Shiva's Guard, Heart of Tarrasque"
 			"item_travel_boots"		"Additional mobiliity and map control.  After disassembling Arcane boots early on you will have brown boots anyway, why not upgrade them to BoTs?"
 			"item_heart"		"When just need to get way more HP
-ALTERNATIVES: Aeon Disk, Shiva&amp;amp;apos;s Guard, Octarine Core"
+ALTERNATIVES: Aeon Disk, Shiva's Guard, Octarine Core"
 			"item_lotus_orb"		"Good if you need some kind of purge ability and armor.
-Replaces Shiva&amp;amp;apos;s Guard or Aeon Disk
-ALTERNATIVES: Eternal Shroud, Black King Bar, Linken&amp;amp;apos;s Sphere"
+Replaces Shiva's Guard or Aeon Disk
+ALTERNATIVES: Eternal Shroud, Black King Bar, Linken's Sphere"
 			"item_silver_edge"		"Playing cheeky or playing against tanky cores with strong passives (Bristleback, Spectre)
-ALTERNATIVES: Eul&amp;amp;apos;s Scepter, Blink Dagger"
+ALTERNATIVES: Eul's Scepter, Blink Dagger"
 			"item_blink"		"May work as initiation/mobilty item. Replaces boots slot later on, Euls or any of lategame items"
 			"item_black_king_bar"		"~23-27 min
 You need it almost every game relatively early, so it may be considered a core item, can be replaced with an early Bloodstone
-ALTERNATIVES: Eternal Shroud, Lotus Orb, Linken&amp;amp;apos;s Sphere"
+ALTERNATIVES: Eternal Shroud, Lotus Orb, Linken's Sphere"
 			"item_kaya_and_sange"		"~25-28 min"
 			"item_eternal_shroud"		"~15-20 min
-ALTERNATIVES: Black King Bar, Lotus Orb, Linken&amp;amp;apos;s Sphere"
+ALTERNATIVES: Black King Bar, Lotus Orb, Linken's Sphere"
 			"item_sphere"		"ALTERNATIVES: Eternal Shroud, Lotus Orb, Black King Bar"
 		}
 	}
@@ -149,9 +149,9 @@ ALTERNATIVES: Black King Bar, Lotus Orb, Linken&amp;amp;apos;s Sphere"
 			"leshrac_split_earth"		"Level 1 ability may be tough to choose. Split Earth may give you a kill potential during early skirmishes, as well as higher damage potential to harass opponent."
 			"leshrac_lightning_storm"		"Altho, You want to max Lightning Storm first to win your lane and secure Split Earth hits."
 			"leshrac_diabolic_edict"		"Your main push potential. This skill essentially turns you into proper carry who  can end the game by himself, as well as pickoff potential.
-Natural combo: Storm - Eul - Split Earth - Edict and chase enemy down until he&amp;amp;apos;s dead"
-			"leshrac_pulse_nova"		"Strong farming and teamfight spell, but it&amp;amp;apos;s too expensive until the point when you get bloodstone."
-			"special_bonus_unique_leshrac_3"		"Even while you&amp;amp;apos;d like to double down on surviveability, Pulse Nova damage talent significantly improves your damage output for the same manacost."
+Natural combo: Storm - Eul - Split Earth - Edict and chase enemy down until he's dead"
+			"leshrac_pulse_nova"		"Strong farming and teamfight spell, but it's too expensive until the point when you get bloodstone."
+			"special_bonus_unique_leshrac_3"		"Even while you'd like to double down on surviveability, Pulse Nova damage talent significantly improves your damage output for the same manacost."
 			"special_bonus_unique_leshrac_1"		"More than two times longer edict which means more than two times more damage. More edict damage means better push, which is exactly what we want."
 			"special_bonus_unique_leshrac_2"		"You can get this talent instead, if you have enough damage to push on your team, but need additional slow."
 		}

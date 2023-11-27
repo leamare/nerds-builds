@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Experimental Offlane Warden"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34d"
+	"GameplayVersion"		"7.34e"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"84"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000652646E4"
-	"TimePublished"		"0x00000000652646E4"
+	"TimeUpdated"		"0x000000006564B073"
+	"TimePublished"		"0x000000006564B073"
 	"ItemBuild"
 	{
 		"Items"

@@ -3,16 +3,16 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34d"
+	"GameplayVersion"		"7.34e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"104"
+	"GuideRevision"		"106"
 	"AssociatedWorkshopItemID"		"0x00000000509B1CCA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065264D7A"
-	"TimePublished"		"0x0000000065264D7A"
+	"TimeUpdated"		"0x000000006564AC47"
+	"TimePublished"		"0x000000006564AC47"
 	"ItemBuild"
 	{
 		"Items"
@@ -89,15 +89,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_aether_lens"		"Even while you don&amp;amp;apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
-			"item_blink"		"The most important Lion item. If you aren&amp;amp;apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
+			"item_aether_lens"		"Even while you don&apos;t really need much mana, this addition to your mana pool is pretty useful, while also providing significant range increase."
+			"item_blink"		"The most important Lion item. If you aren&apos;t going for a full utility, you can delay it, but mobility is still essential for your initiation."
 			"item_tranquil_boots"		"Mobility + HP regen"
 			"item_solar_crest"		"Natural medallion upgrade. Good against autoattacking cores."
 			"item_shivas_guard"		"Additional armor, mana pool, attack speed slow"
 			"item_ethereal_blade"		"Potential save against physical damage"
 			"item_lotus_orb"		"Additional armor and ability to purge debuffs from allies"
 			"item_ghost"		"Potential self-save against physical damage"
-			"item_ultimate_scepter"		"It&amp;amp;apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&amp;amp;apos;t really focused on this aspect of Lion."
+			"item_ultimate_scepter"		"It&apos;s good for utility build due to its stats, cooldown reduction and damage increase. Altho, we aren&apos;t really focused on this aspect of Lion."
 		}
 	}
 	"AbilityBuild"

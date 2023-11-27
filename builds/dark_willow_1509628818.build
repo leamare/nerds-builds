@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34d"
+	"GameplayVersion"		"7.34e"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"155"
+	"GuideRevision"		"157"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000654918BB"
-	"TimePublished"		"0x00000000654918BB"
+	"TimeUpdated"		"0x000000006564AFB2"
+	"TimePublished"		"0x000000006564AFB2"
 	"ItemBuild"
 	{
 		"Items"
@@ -107,8 +107,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
-			"item_tranquil_boots"		"ALTERNATIVE: Power Treads"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
