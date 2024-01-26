@@ -3,17 +3,17 @@
 	"Hero"		"antimage"
 	"Title"		"Nerds Support Antimage"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x0000000091101944"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564B0B7"
-	"TimePublished"		"0x000000006564B0B7"
+	"TimeUpdated"		"0x0000000065ADF147"
+	"TimePublished"		"0x0000000065ADF147"
 	"ItemBuild"
 	{
 		"Items"
@@ -70,6 +70,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_royal_jelly"
+				"item"		"item_safety_bubble"
+				"item"		"item_duelist_gloves"
+				"item"		"item_dragon_scale"
+				"item"		"item_pupils_gift"
+				"item"		"item_vambrace"
+				"item"		"item_paladin_sword"
+				"item"		"item_elven_tunic"
+				"item"		"item_vindicators_axe"
+				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
+				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{

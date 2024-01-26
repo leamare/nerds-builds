@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Experimental Offlane Warden"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"84"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564B073"
-	"TimePublished"		"0x000000006564B073"
+	"TimeUpdated"		"0x0000000065B1C585"
+	"TimePublished"		"0x0000000065B1C585"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,30 +37,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_phylactery"
-				"item"		"item_power_treads"
+				"item"		"item_hand_of_midas"
 				"item"		"item_maelstrom"
+				"item"		"item_travel_boots"
 				"item"		"item_gungir"
 			}
 			"Situational Early"
 			{
 				"item"		"item_force_staff"
-				"item"		"item_hand_of_midas"
-				"item"		"item_meteor_hammer"
 				"item"		"item_blade_mail"
+				"item"		"item_power_treads"
+				"item"		"item_phylactery"
 			}
 			"Lategame"
 			{
 				"item"		"item_aghanims_shard"
-				"item"		"item_boots_of_bearing"
+				"item"		"item_bloodthorn"
 				"item"		"item_sheepstick"
-				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
+				"item"		"item_angels_demise"
 				"item"		"item_blink"
 				"item"		"item_travel_boots"
-				"item"		"item_bloodthorn"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 				"item"		"item_skadi"
@@ -73,6 +72,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_solar_crest"
 				"item"		"item_shivas_guard"
+				"item"		"item_boots_of_bearing"
 			}
 			"Other Significant Items"
 			{
@@ -82,21 +82,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_moon_shard"
 				"item"		"item_swift_blink"
 				"item"		"item_greater_crit"
+				"item"		"item_octarine_core"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
+				"item"		"item_royal_jelly"
 				"item"		"item_arcane_ring"
-				"item"		"item_occult_bracelet"
+				"item"		"item_unstable_wand"
 				"item"		"item_grove_bow"
 				"item"		"item_specialists_array"
-				"item"		"item_ring_of_aquila"
 				"item"		"item_vambrace"
-				"item"		"item_quickening_charm"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_psychic_headband"
-				"item"		"item_timeless_relic"
-				"item"		"item_heavy_blade"
+				"item"		"item_vindicators_axe"
+				"item"		"item_nemesis_curse"
+				"item"		"item_elven_tunic"
+				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
+				"item"		"item_avianas_feather"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -105,7 +106,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_maelstrom"		"~13-17 min"
-			"item_meteor_hammer"		"ALTERNATIVE: Hand of Midas"
 			"item_power_treads"		"~15 min
 ALTERNATIVE: Boots of Travel"
 			"item_travel_boots"		"ALTERNATIVE: Power Treads"

@@ -16,7 +16,7 @@
 
     "priority": 3
   },
-  "abaddon_1576617440.build": {
+  "authored_abaddon_1941258158": {
     "role": ["1.1", "1.2", "1.3"]
   },
   "authored_axe_1941305305": {
@@ -45,6 +45,9 @@
   },
   "authored_bristleback_2479948506": {
     "role": ["1.3", "1.2", "1.1"]
+  },
+  "authored_bane_1190692799": {
+    "role": ["1.2", "1.3"]
   },
   "authored_crystal_maiden_2453396028": {
     "role": ["1.2", "1.3"],

@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Axe"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"63"
 	"AssociatedWorkshopItemID"		"0x0000000073B5405B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564B04F"
-	"TimePublished"		"0x000000006564B04F"
+	"TimeUpdated"		"0x0000000065B1C728"
+	"TimePublished"		"0x0000000065B1C728"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,16 +35,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_chainmail"
 				"item"		"item_blink"
 				"item"		"item_blade_mail"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
 				"item"		"item_invis_sword"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_meteor_hammer"
+				"item"		"item_phylactery"
+				"item"		"item_veil_of_discord"
 			}
 			"Utility"
 			{
@@ -58,6 +59,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_travel_boots"
 				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
@@ -65,17 +67,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_silver_edge"
+				"item"		"item_shivas_guard"
+				"item"		"item_angels_demise"
 				"item"		"item_abyssal_blade"
 				"item"		"item_assault"
-				"item"		"item_shivas_guard"
 				"item"		"item_heart"
 				"item"		"item_moon_shard"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_manta"
+				"item"		"item_bloodstone"
 				"item"		"item_mjollnir"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_cyclone"
@@ -84,18 +86,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_safety_bubble"
 				"item"		"item_arcane_ring"
-				"item"		"item_faded_broach"
-				"item"		"item_pogo_stick"
+				"item"		"item_occult_bracelet"
 				"item"		"item_bullwhip"
 				"item"		"item_vambrace"
 				"item"		"item_dragon_scale"
-				"item"		"item_dandelion_amulet"
-				"item"		"item_ogre_seal_totem"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_spell_prism"
-				"item"		"item_martyrs_plate"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_craggy_coat"
 				"item"		"item_havoc_hammer"
+				"item"		"item_timeless_relic"
+				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -127,7 +129,7 @@ ALTERNATIVE: Urn of Shadows"
 			"7"		"axe_counter_helix"
 			"8"		"axe_berserkers_call"
 			"9"		"axe_berserkers_call"
-			"10"		"special_bonus_unique_axe_8"
+			"10"		"special_bonus_unique_axe_culling_blade_speed_duration"
 			"11"		"axe_berserkers_call"
 			"12"		"axe_culling_blade"
 			"13"		"axe_battle_hunger"
@@ -136,7 +138,7 @@ ALTERNATIVE: Urn of Shadows"
 			"16"		"axe_battle_hunger"
 			"18"		"axe_culling_blade"
 			"20"		"special_bonus_unique_axe_5"
-			"25"		"special_bonus_unique_axe_2"
+			"25"		"special_bonus_unique_axe"
 		}
 		"AbilityTooltips"
 		{
