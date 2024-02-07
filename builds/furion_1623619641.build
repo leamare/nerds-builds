@@ -3,28 +3,26 @@
 	"Hero"		"furion"
 	"Title"		"Nerds Core Prophet"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x0000000095FA7753"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AB79"
-	"TimePublished"		"0x000000006564AB79"
+	"TimeUpdated"		"0x0000000065C3FF8C"
+	"TimePublished"		"0x0000000065C3FF8C"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_tango"
-				"item"		"item_blight_stone"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_slippers"
 			}
 			"Early"
 			{
@@ -36,7 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_orchid"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_gungir"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -47,17 +46,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_black_king_bar"
+				"item"		"item_bloodthorn"
+				"item"		"item_satanic"
 				"item"		"item_assault"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_silver_edge"
-				"item"		"item_satanic"
-				"item"		"item_bloodthorn"
 				"item"		"item_monkey_king_bar"
 			}
 			"Situational"
 			{
-				"item"		"item_gungir"
 				"item"		"item_heavens_halberd"
 				"item"		"item_sheepstick"
 				"item"		"item_mjollnir"
@@ -77,14 +75,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
+				"item"		"item_safety_bubble"
 				"item"		"item_duelist_gloves"
 				"item"		"item_occult_bracelet"
 				"item"		"item_grove_bow"
-				"item"		"item_orb_of_destruction"
 				"item"		"item_specialists_array"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_paladin_sword"
-				"item"		"item_titan_sliver"
+				"item"		"item_enchanted_quiver"
 				"item"		"item_elven_tunic"
 				"item"		"item_mind_breaker"
 				"item"		"item_trickster_cloak"
@@ -106,25 +104,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"furion_force_of_nature"
-			"2"		"furion_teleportation"
-			"3"		"furion_force_of_nature"
-			"4"		"furion_sprout"
+			"1"		"furion_teleportation"
+			"2"		"furion_sprout"
+			"3"		"furion_teleportation"
+			"4"		"furion_force_of_nature"
 			"5"		"furion_force_of_nature"
 			"6"		"furion_wrath_of_nature"
 			"7"		"furion_force_of_nature"
-			"8"		"furion_teleportation"
-			"9"		"furion_teleportation"
-			"10"		"furion_teleportation"
-			"11"		"special_bonus_unique_furion_5"
+			"8"		"furion_force_of_nature"
+			"9"		"furion_sprout"
+			"10"		"furion_sprout"
+			"11"		"special_bonus_unique_furion_6"
 			"12"		"furion_wrath_of_nature"
 			"13"		"furion_sprout"
-			"14"		"furion_sprout"
+			"14"		"furion_teleportation"
 			"15"		"special_bonus_unique_furion_teleportation_max_stacks"
-			"16"		"furion_sprout"
 			"18"		"furion_wrath_of_nature"
-			"20"		"special_bonus_unique_furion_7"
-			"25"		"special_bonus_unique_furion_3"
+			"20"		"special_bonus_unique_furion_4"
+			"25"		"special_bonus_unique_furion"
 		}
 		"AbilityTooltips"
 		{

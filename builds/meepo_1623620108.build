@@ -3,7 +3,7 @@
 	"Hero"		"meepo"
 	"Title"		"Experimental Support Meepo"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
 
 The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
@@ -18,12 +18,12 @@ This build is experimental and is very hard to execute. Proceed on your own risk
 This guide was requested by lamallama
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"38"
+	"GuideRevision"		"39"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564ABAD"
-	"TimePublished"		"0x000000006564ABAD"
+	"TimeUpdated"		"0x0000000065C3F1A9"
+	"TimePublished"		"0x0000000065C3F1A9"
 	"ItemBuild"
 	{
 		"Items"
@@ -72,17 +72,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_seeds_of_serenity"
+				"item"		"item_unstable_wand"
 				"item"		"item_arcane_ring"
-				"item"		"item_trusty_shovel"
-				"item"		"item_bullwhip"
-				"item"		"item_eye_of_the_vizier"
+				"item"		"item_occult_bracelet"
+				"item"		"item_specialists_array"
 				"item"		"item_pupils_gift"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_quickening_charm"
+				"item"		"item_vambrace"
 				"item"		"item_ogre_seal_totem"
+				"item"		"item_defiant_shell"
+				"item"		"item_elven_tunic"
+				"item"		"item_ninja_gear"
 				"item"		"item_spy_gadget"
-				"item"		"item_spell_prism"
 				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"

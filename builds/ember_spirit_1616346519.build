@@ -3,17 +3,17 @@
 	"Hero"		"ember_spirit"
 	"Title"		"Nerds Support Ember"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x00000000911000DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AD59"
-	"TimePublished"		"0x000000006564AD59"
+	"TimeUpdated"		"0x0000000065C3CFBA"
+	"TimePublished"		"0x0000000065C3CFBA"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,8 +32,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_arcane_boots"
+				"item"		"item_mage_slayer"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
@@ -44,29 +45,30 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_spirit_vessel"
 				"item"		"item_phylactery"
+				"item"		"item_meteor_hammer"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
-				"item"		"item_mysterious_hat"
+				"item"		"item_occult_bracelet"
 				"item"		"item_arcane_ring"
+				"item"		"item_lance_of_pursuit"
 				"item"		"item_dragon_scale"
-				"item"		"item_bullwhip"
 				"item"		"item_pupils_gift"
-				"item"		"item_elven_tunic"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_grove_bow"
 				"item"		"item_cloak_of_flames"
+				"item"		"item_nemesis_curse"
+				"item"		"item_elven_tunic"
 				"item"		"item_timeless_relic"
-				"item"		"item_stormcrafter"
-				"item"		"item_spell_prism"
+				"item"		"item_trickster_cloak"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
