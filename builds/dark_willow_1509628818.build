@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"157"
+	"GuideRevision"		"158"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AFB2"
-	"TimePublished"		"0x000000006564AFB2"
+	"TimeUpdated"		"0x0000000065C2EC31"
+	"TimePublished"		"0x0000000065C2EC31"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,22 +28,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
-				"item"		"item_urn_of_shadows"
-				"item"		"item_hand_of_midas"
+				"item"		"item_mage_slayer"
 			}
 			"Core"
 			{
-				"item"		"item_spirit_vessel"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bracer"
-				"item"		"item_witch_blade"
 				"item"		"item_cyclone"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_hand_of_midas"
 				"item"		"item_ancient_janggo"
+				"item"		"item_witch_blade"
+				"item"		"item_bracer"
 			}
 			"Utility"
 			{
@@ -55,10 +58,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_octarine_core"
 				"item"		"item_hurricane_pike"
 				"item"		"item_travel_boots"
-				"item"		"item_aghanims_shard"
 				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 				"item"		"item_overwhelming_blink"
@@ -67,7 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_blink"
 				"item"		"item_mjollnir"
-				"item"		"item_boots_of_bearing"
 				"item"		"item_mask_of_madness"
 				"item"		"item_wind_waker"
 				"item"		"item_sphere"
@@ -75,6 +75,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_aeon_disk"
 				"item"		"item_nullifier"
+				"item"		"item_octarine_core"
 			}
 			"Other Significant Items"
 			{
@@ -83,21 +84,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodthorn"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_spirit_vessel"
+				"item"		"item_boots_of_bearing"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_safety_bubble"
 				"item"		"item_mysterious_hat"
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_trusty_shovel"
+				"item"		"item_faded_broach"
 				"item"		"item_grove_bow"
 				"item"		"item_specialists_array"
 				"item"		"item_pupils_gift"
 				"item"		"item_enchanted_quiver"
-				"item"		"item_black_powder_bag"
-				"item"		"item_quickening_charm"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_psychic_headband"
 				"item"		"item_spy_gadget"
-				"item"		"item_spell_prism"
-				"item"		"item_timeless_relic"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -107,24 +110,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
-			"item_mask_of_madness"		"After Aghanim&apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"dark_willow_shadow_realm"
-			"2"		"dark_willow_bramble_maze"
-			"3"		"dark_willow_shadow_realm"
-			"4"		"dark_willow_cursed_crown"
-			"5"		"dark_willow_shadow_realm"
+			"1"		"dark_willow_bramble_maze"
+			"2"		"dark_willow_shadow_realm"
+			"3"		"dark_willow_bramble_maze"
+			"4"		"dark_willow_shadow_realm"
+			"5"		"dark_willow_bramble_maze"
 			"6"		"dark_willow_bedlam"
-			"7"		"dark_willow_shadow_realm"
-			"8"		"dark_willow_bramble_maze"
-			"9"		"dark_willow_bramble_maze"
+			"7"		"dark_willow_bramble_maze"
+			"8"		"dark_willow_shadow_realm"
+			"9"		"dark_willow_shadow_realm"
 			"10"		"special_bonus_unique_dark_willow_5"
-			"11"		"dark_willow_bramble_maze"
+			"11"		"dark_willow_cursed_crown"
 			"12"		"dark_willow_bedlam"
 			"13"		"dark_willow_cursed_crown"
 			"14"		"dark_willow_cursed_crown"

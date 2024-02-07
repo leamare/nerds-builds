@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"chen"
-	"Title"		"Nerds Core Chen"
+	"Title"		"Experimental Core Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"108"
+	"GuideRevision"		"110"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AFC7"
-	"TimePublished"		"0x000000006564AFC7"
+	"TimeUpdated"		"0x0000000065C2EB74"
+	"TimePublished"		"0x0000000065C2EB74"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,13 +37,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_manta"
+				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
-				"item"		"item_medallion_of_courage"
 				"item"		"item_diffusal_blade"
+				"item"		"item_vladmir"
 			}
 			"Utility"
 			{
@@ -56,6 +57,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_bloodthorn"
 				"item"		"item_skadi"
 				"item"		"item_greater_crit"
 				"item"		"item_assault"
@@ -64,9 +66,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mage_slayer"
 				"item"		"item_silver_edge"
 				"item"		"item_heavens_halberd"
-				"item"		"item_bloodthorn"
 				"item"		"item_sheepstick"
 				"item"		"item_disperser"
 			}
@@ -86,18 +88,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_duelist_gloves"
+				"item"		"item_seeds_of_serenity"
+				"item"		"item_arcane_ring"
 				"item"		"item_occult_bracelet"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
 				"item"		"item_pupils_gift"
-				"item"		"item_elven_tunic"
-				"item"		"item_titan_sliver"
-				"item"		"item_defiant_shell"
-				"item"		"item_penta_edged_sword"
+				"item"		"item_specialists_array"
+				"item"		"item_vambrace"
+				"item"		"item_craggy_coat"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_dandelion_amulet"
+				"item"		"item_trickster_cloak"
 				"item"		"item_spy_gadget"
-				"item"		"item_mind_breaker"
+				"item"		"item_ascetic_cap"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -105,7 +107,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"
@@ -115,22 +117,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"chen_penitence"
 			"2"		"chen_divine_favor"
 			"3"		"chen_penitence"
-			"4"		"chen_divine_favor"
-			"5"		"chen_penitence"
+			"4"		"chen_holy_persuasion"
+			"5"		"chen_holy_persuasion"
 			"6"		"chen_hand_of_god"
 			"7"		"chen_penitence"
+			"8"		"chen_divine_favor"
+			"9"		"chen_penitence"
 			"10"		"special_bonus_unique_chen_11"
+			"11"		"chen_holy_persuasion"
 			"12"		"chen_hand_of_god"
+			"13"		"chen_holy_persuasion"
+			"14"		"chen_divine_favor"
 			"15"		"special_bonus_unique_chen_8"
+			"16"		"chen_divine_favor"
 			"18"		"chen_hand_of_god"
 			"20"		"special_bonus_unique_chen_7"
-			"24"		"chen_divine_favor"
 			"25"		"special_bonus_unique_chen_12"
-			"26"		"chen_divine_favor"
-			"27"		"chen_holy_persuasion"
-			"28"		"chen_holy_persuasion"
-			"29"		"chen_holy_persuasion"
-			"30"		"chen_holy_persuasion"
 		}
 		"AbilityTooltips"
 		{
