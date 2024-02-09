@@ -3,16 +3,16 @@
 	"Hero"		"obsidian_destroyer"
 	"Title"		"Nerds Outworld Devourer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 The build is based on stats of Immortal level pubs, games of pro players and 2Bdoto's position 4 OD build.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"69"
 	"AssociatedWorkshopItemID"		"0x000000007065E1E0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AB35"
-	"TimePublished"		"0x000000006564AB35"
+	"TimeUpdated"		"0x0000000065C40376"
+	"TimePublished"		"0x0000000065C40376"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,36 +27,34 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_meteor_hammer"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_null_talisman"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
 				"item"		"item_witch_blade"
 				"item"		"item_hurricane_pike"
-				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_force_staff"
-				"item"		"item_dragon_lance"
 				"item"		"item_hand_of_midas"
-				"item"		"item_null_talisman"
 				"item"		"item_ghost"
+				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
+				"item"		"item_blink"
 				"item"		"item_black_king_bar"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_devastator"
 				"item"		"item_aghanims_shard"
 				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
-				"item"		"item_octarine_core"
 				"item"		"item_travel_boots"
 				"item"		"item_refresher"
-				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
@@ -72,21 +70,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_overwhelming_blink"
 				"item"		"item_silver_edge"
 				"item"		"item_yasha_and_kaya"
+				"item"		"item_swift_blink"
+				"item"		"item_octarine_core"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_safety_bubble"
 				"item"		"item_faded_broach"
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_pogo_stick"
-				"item"		"item_vambrace"
+				"item"		"item_mysterious_hat"
 				"item"		"item_grove_bow"
+				"item"		"item_specialists_array"
 				"item"		"item_pupils_gift"
-				"item"		"item_elven_tunic"
-				"item"		"item_psychic_headband"
 				"item"		"item_enchanted_quiver"
+				"item"		"item_vindicators_axe"
+				"item"		"item_psychic_headband"
 				"item"		"item_ninja_gear"
-				"item"		"item_trickster_cloak"
 				"item"		"item_timeless_relic"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -119,7 +119,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_movement_speed_30"
 			"16"		"obsidian_destroyer_equilibrium"
 			"18"		"obsidian_destroyer_sanity_eclipse"
-			"20"		"special_bonus_strength_20"
+			"20"		"special_bonus_spell_lifesteal_20"
 			"25"		"special_bonus_unique_outworld_devourer"
 		}
 		"AbilityTooltips"

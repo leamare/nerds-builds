@@ -3,16 +3,16 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"66"
+	"GuideRevision"		"67"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564ABA5"
-	"TimePublished"		"0x000000006564ABA5"
+	"TimeUpdated"		"0x0000000065C3F798"
+	"TimePublished"		"0x0000000065C3F798"
 	"ItemBuild"
 	{
 		"Items"
@@ -43,11 +43,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_tranquil_boots"
-				"item"		"item_hand_of_midas"
-				"item"		"item_bottle"
 				"item"		"item_ghost"
 				"item"		"item_rod_of_atos"
 			}
@@ -55,6 +52,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_ethereal_blade"
+				"item"		"item_gungir"
 				"item"		"item_lotus_orb"
 				"item"		"item_sheepstick"
 				"item"		"item_hurricane_pike"
@@ -68,6 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_wind_waker"
 				"item"		"item_blink"
+				"item"		"item_hand_of_midas"
 			}
 			"Other Significant Items"
 			{
@@ -75,22 +74,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_rod_of_atos"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_glimmer_cape"
-				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_trusty_shovel"
-				"item"		"item_occult_bracelet"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_mysterious_hat"
+				"item"		"item_arcane_ring"
+				"item"		"item_safety_bubble"
 				"item"		"item_pupils_gift"
-				"item"		"item_bullwhip"
+				"item"		"item_specialists_array"
+				"item"		"item_vambrace"
+				"item"		"item_defiant_shell"
 				"item"		"item_ogre_seal_totem"
 				"item"		"item_dandelion_amulet"
-				"item"		"item_psychic_headband"
-				"item"		"item_spell_prism"
+				"item"		"item_mind_breaker"
 				"item"		"item_timeless_relic"
-				"item"		"item_trickster_cloak"
+				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -98,8 +96,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ring_of_basilius"		"For better early mana sustain
-Before Spirit Vessel"
 			"item_tranquil_boots"		"Before Spirit Vessel"
 			"item_hand_of_midas"		"For a greedy playstyle
 Before Spirit Vessel"

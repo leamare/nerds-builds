@@ -7,12 +7,12 @@
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C3FE86"
-	"TimePublished"		"0x0000000065C3FE86"
+	"TimeUpdated"		"0x0000000065C414F8"
+	"TimePublished"		"0x0000000065C414F8"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,6 +35,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_mask_of_madness"
 				"item"		"item_maelstrom"
 			}
 			"Core - tanky radiance"
@@ -49,7 +50,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_invis_sword"
 				"item"		"item_diffusal_blade"
 				"item"		"item_vanguard"
-				"item"		"item_mask_of_madness"
 			}
 			"Lategame"
 			{
