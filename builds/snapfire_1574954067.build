@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"75"
 	"AssociatedWorkshopItemID"		"0x00000000729E3A50"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564A9EC"
-	"TimePublished"		"0x000000006564A9EC"
+	"TimeUpdated"		"0x0000000065C6A1D5"
+	"TimePublished"		"0x0000000065C6A1D5"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,11 +36,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
 			}
@@ -49,19 +48,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 				"item"		"item_lotus_orb"
-				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
 				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
+				"item"		"item_aether_lens"
+				"item"		"item_ethereal_blade"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
-				"item"		"item_ethereal_blade"
+				"item"		"item_guardian_greaves"
 				"item"		"item_spirit_vessel"
 				"item"		"item_ancient_janggo"
 				"item"		"item_cyclone"
@@ -76,17 +76,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
+				"item"		"item_faded_broach"
 				"item"		"item_arcane_ring"
-				"item"		"item_pogo_stick"
-				"item"		"item_vambrace"
-				"item"		"item_bullwhip"
-				"item"		"item_philosophers_stone"
-				"item"		"item_quickening_charm"
-				"item"		"item_psychic_headband"
+				"item"		"item_safety_bubble"
+				"item"		"item_pupils_gift"
+				"item"		"item_grove_bow"
+				"item"		"item_specialists_array"
+				"item"		"item_paladin_sword"
+				"item"		"item_defiant_shell"
 				"item"		"item_dandelion_amulet"
-				"item"		"item_timeless_relic"
-				"item"		"item_spy_gadget"
+				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
 				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
@@ -117,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"snapfire_mortimer_kisses"
 			"13"		"snapfire_lil_shredder"
 			"14"		"snapfire_lil_shredder"
-			"15"		"special_bonus_unique_snapfire_3"
+			"15"		"special_bonus_unique_snapfire_2"
 			"16"		"snapfire_lil_shredder"
 			"18"		"snapfire_mortimer_kisses"
 			"20"		"special_bonus_unique_snapfire_mortimer_kisses_impact_damage"

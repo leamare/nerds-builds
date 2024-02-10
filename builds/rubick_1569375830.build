@@ -3,16 +3,16 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"67"
 	"AssociatedWorkshopItemID"		"0x000000007065DB26"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AA7D"
-	"TimePublished"		"0x000000006564AA7D"
+	"TimeUpdated"		"0x0000000065C69906"
+	"TimePublished"		"0x0000000065C69906"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,14 +30,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_aether_lens"
-				"item"		"item_tranquil_boots"
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
 			}
@@ -65,16 +65,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_faded_broach"
-				"item"		"item_mysterious_hat"
+				"item"		"item_safety_bubble"
 				"item"		"item_arcane_ring"
+				"item"		"item_faded_broach"
 				"item"		"item_eye_of_the_vizier"
 				"item"		"item_philosophers_stone"
-				"item"		"item_quickening_charm"
+				"item"		"item_vambrace"
 				"item"		"item_psychic_headband"
-				"item"		"item_spell_prism"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_timeless_relic"
 				"item"		"item_spy_gadget"
+				"item"		"item_trickster_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -97,16 +99,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"rubick_fade_bolt"
 			"8"		"rubick_arcane_supremacy"
 			"9"		"rubick_arcane_supremacy"
-			"10"		"special_bonus_unique_rubick_8"
+			"10"		"special_bonus_unique_rubick_2"
 			"11"		"rubick_arcane_supremacy"
-			"12"		"rubick_telekinesis"
+			"12"		"rubick_spell_steal"
 			"13"		"rubick_telekinesis"
 			"14"		"rubick_telekinesis"
 			"15"		"special_bonus_unique_rubick_6"
-			"16"		"rubick_spell_steal"
+			"16"		"rubick_telekinesis"
 			"18"		"rubick_spell_steal"
-			"20"		"special_bonus_unique_rubick"
-			"25"		"special_bonus_unique_rubick_4"
+			"20"		"special_bonus_unique_rubick_4"
+			"25"		"special_bonus_unique_rubick_5"
 		}
 		"AbilityTooltips"
 		{

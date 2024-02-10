@@ -1,28 +1,30 @@
 "guidedata"
 {
 	"Hero"		"pugna"
-	"Title"		"Nerds Pugna"
+	"Title"		"Experimental AD Pugna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x000000006E74B8E5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AAC4"
-	"TimePublished"		"0x000000006564AAC4"
+	"TimeUpdated"		"0x0000000065C695A4"
+	"TimePublished"		"0x0000000065C695A4"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -32,18 +34,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_witch_blade"
+				"item"		"item_revenants_brooch"
+				"item"		"item_devastator"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
 				"item"		"item_wraith_band"
 				"item"		"item_cyclone"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
-				"item"		"item_revenants_brooch"
 				"item"		"item_sheepstick"
 				"item"		"item_heart"
 				"item"		"item_greater_crit"
@@ -65,22 +68,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_ethereal_blade"
 				"item"		"item_dagon_5"
-				"item"		"item_phylactery"
+				"item"		"item_angels_demise"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_arcane_ring"
+				"item"		"item_safety_bubble"
 				"item"		"item_mysterious_hat"
-				"item"		"item_faded_broach"
 				"item"		"item_vambrace"
 				"item"		"item_eye_of_the_vizier"
 				"item"		"item_grove_bow"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_dandelion_amulet"
 				"item"		"item_psychic_headband"
-				"item"		"item_quickening_charm"
-				"item"		"item_spell_prism"
+				"item"		"item_ceremonial_robe"
 				"item"		"item_spy_gadget"
 				"item"		"item_trickster_cloak"
+				"item"		"item_timeless_relic"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -103,16 +106,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"pugna_nether_blast"
 			"8"		"pugna_decrepify"
 			"9"		"pugna_decrepify"
-			"10"		"special_bonus_movement_speed_20"
+			"10"		"special_bonus_hp_200"
 			"11"		"pugna_nether_ward"
 			"12"		"pugna_life_drain"
 			"13"		"pugna_nether_ward"
 			"14"		"pugna_nether_ward"
-			"15"		"special_bonus_unique_pugna_4"
+			"15"		"special_bonus_unique_pugna_6"
 			"16"		"pugna_nether_ward"
 			"18"		"pugna_life_drain"
 			"20"		"special_bonus_unique_pugna_5"
-			"25"		"special_bonus_unique_pugna_2"
+			"25"		"special_bonus_unique_pugna_3"
 		}
 		"AbilityTooltips"
 		{

@@ -3,16 +3,16 @@
 	"Hero"		"sniper"
 	"Title"		"Nerds Magic Sniper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"The build is based on mid or meepo's videos: https://www.youtube.com/channel/UCFewCocoHBUpnPmMi-rucog
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x000000007007728F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AA1D"
-	"TimePublished"		"0x000000006564AA1D"
+	"TimeUpdated"		"0x0000000065C6A2DC"
+	"TimePublished"		"0x0000000065C6A2DC"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,7 +30,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wraith_band"
 				"item"		"item_null_talisman"
 				"item"		"item_boots"
-				"item"		"item_hand_of_midas"
+				"item"		"item_phylactery"
 			}
 			"Core"
 			{
@@ -39,11 +39,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
 			}
+			"CoRe - Khanda Gameplay"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_angels_demise"
+				"item"		"item_rapier"
+				"item"		"item_rapier"
+			}
 			"Situational Early"
 			{
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
 				"item"		"item_veil_of_discord"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
@@ -69,17 +77,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_mysterious_hat"
-				"item"		"item_pogo_stick"
+				"item"		"item_safety_bubble"
 				"item"		"item_arcane_ring"
 				"item"		"item_pupils_gift"
 				"item"		"item_grove_bow"
-				"item"		"item_eye_of_the_vizier"
+				"item"		"item_specialists_array"
 				"item"		"item_enchanted_quiver"
 				"item"		"item_dandelion_amulet"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_spell_prism"
+				"item"		"item_elven_tunic"
 				"item"		"item_timeless_relic"
 				"item"		"item_spy_gadget"
+				"item"		"item_ancient_guardian"
 			}
 			"https://builds.spectral.gg/"
 			{

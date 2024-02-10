@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 Initially based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564AAD8"
-	"TimePublished"		"0x000000006564AAD8"
+	"TimeUpdated"		"0x0000000065C69479"
+	"TimePublished"		"0x0000000065C69479"
 	"ItemBuild"
 	{
 		"Items"
@@ -71,23 +71,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core  Transition"
 			{
+				"item"		"item_devastator"
 				"item"		"item_greater_crit"
 				"item"		"item_moon_shard"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_safety_bubble"
 				"item"		"item_mysterious_hat"
 				"item"		"item_arcane_ring"
-				"item"		"item_trusty_shovel"
-				"item"		"item_philosophers_stone"
-				"item"		"item_pupils_gift"
+				"item"		"item_grove_bow"
+				"item"		"item_specialists_array"
 				"item"		"item_vambrace"
-				"item"		"item_ceremonial_robe"
-				"item"		"item_quickening_charm"
-				"item"		"item_psychic_headband"
-				"item"		"item_spell_prism"
+				"item"		"item_vindicators_axe"
+				"item"		"item_enchanted_quiver"
+				"item"		"item_nemesis_curse"
+				"item"		"item_mind_breaker"
+				"item"		"item_ancient_guardian"
 				"item"		"item_timeless_relic"
-				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
