@@ -3,17 +3,17 @@
 	"Hero"		"weaver"
 	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"109"
+	"GuideRevision"		"110"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564A848"
-	"TimePublished"		"0x000000006564A848"
+	"TimeUpdated"		"0x0000000065C6B984"
+	"TimePublished"		"0x0000000065C6B984"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,15 +39,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aether_lens"
-				"item"		"item_aghanims_shard"
+				"item"		"item_rod_of_atos"
+				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
 				"item"		"item_pavise"
 				"item"		"item_ancient_janggo"
 				"item"		"item_power_treads"
-				"item"		"item_rod_of_atos"
+				"item"		"item_aether_lens"
 			}
 			"Utility"
 			{
@@ -58,6 +58,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_bloodthorn"
+				"item"		"item_aghanims_shard"
 				"item"		"item_gungir"
 				"item"		"item_octarine_core"
 				"item"		"item_black_king_bar"
@@ -79,20 +81,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_skadi"
 				"item"		"item_butterfly"
-				"item"		"item_bloodthorn"
 				"item"		"item_desolator"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_arcane_ring"
 				"item"		"item_occult_bracelet"
-				"item"		"item_trusty_shovel"
-				"item"		"item_grove_bow"
-				"item"		"item_orb_of_destruction"
-				"item"		"item_ring_of_aquila"
-				"item"		"item_titan_sliver"
-				"item"		"item_enchanted_quiver"
+				"item"		"item_duelist_gloves"
+				"item"		"item_pupils_gift"
+				"item"		"item_specialists_array"
+				"item"		"item_vambrace"
 				"item"		"item_paladin_sword"
+				"item"		"item_vindicators_axe"
+				"item"		"item_nemesis_curse"
 				"item"		"item_mind_breaker"
 				"item"		"item_ascetic_cap"
 				"item"		"item_trickster_cloak"
@@ -103,9 +104,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it&apos;s pretty good to have early."
-			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don&apos;t need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
-			"item_hand_of_midas"		"If you think that game is going to be super long, it&apos;s probably best choice since you don&apos;t have abilty to farm really fast."
+			"item_magic_wand"		"Same as urn. Since we are actually really suishy, it&amp;apos;s pretty good to have early."
+			"item_power_treads"		"Early tankiness. You will be attacking a lot, you don&amp;apos;t need damage/mobility, hp regem, early BoTs, but you need stats. This fella is pretty good in everything."
+			"item_hand_of_midas"		"If you think that game is going to be super long, it&amp;apos;s probably best choice since you don&amp;apos;t have abilty to farm really fast."
 			"item_urn_of_shadows"		"Good for surviving in fights, outlving the opponents."
 			"item_hurricane_pike"		"Bonus attack range, stats and ability to save allies once again with forcestaff active. Pretty nice, huh?"
 			"item_assault"		"Pretty good on weaver because of our minusarmor playstyle."
@@ -117,15 +118,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"weaver_shukuchi"
-			"2"		"weaver_the_swarm"
-			"3"		"weaver_geminate_attack"
+			"2"		"weaver_geminate_attack"
+			"3"		"weaver_the_swarm"
 			"4"		"weaver_shukuchi"
 			"5"		"weaver_shukuchi"
 			"6"		"weaver_time_lapse"
 			"7"		"weaver_shukuchi"
 			"8"		"weaver_the_swarm"
 			"9"		"weaver_the_swarm"
-			"10"		"special_bonus_strength_9"
+			"10"		"special_bonus_strength_8"
 			"11"		"weaver_the_swarm"
 			"12"		"weaver_time_lapse"
 			"13"		"weaver_geminate_attack"
@@ -134,14 +135,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"weaver_geminate_attack"
 			"18"		"weaver_time_lapse"
 			"20"		"special_bonus_unique_weaver_2"
-			"25"		"special_bonus_unique_weaver_6"
+			"25"		"special_bonus_unique_weaver_5"
 		}
 		"AbilityTooltips"
 		{
 			"weaver_the_swarm"		"Our main harassing, fighting and farming tool."
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
-			"weaver_geminate_attack"		"If you don&apos;t need shikuchi early, you can skill this one first. It&apos;s pretty good for harassing enemy early."
-			"weaver_time_lapse"		"Don&apos;t be afraid to use it. There&apos;s no shame to use it when you think you need to. If there&apos;s a signs of emergency - hit it to disengage and run out."
+			"weaver_geminate_attack"		"If you don&amp;apos;t need shikuchi early, you can skill this one first. It&amp;apos;s pretty good for harassing enemy early."
+			"weaver_time_lapse"		"Don&amp;apos;t be afraid to use it. There&amp;apos;s no shame to use it when you think you need to. If there&amp;apos;s a signs of emergency - hit it to disengage and run out."
 		}
 	}
 }

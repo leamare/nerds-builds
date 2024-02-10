@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.35b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"79"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564A807"
-	"TimePublished"		"0x000000006564A807"
+	"TimeUpdated"		"0x0000000065C6BAA6"
+	"TimePublished"		"0x0000000065C6BAA6"
 	"ItemBuild"
 	{
 		"Items"
@@ -47,15 +47,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_blink"
 				"item"		"item_cyclone"
-				"item"		"item_tranquil_boots"
 				"item"		"item_null_talisman"
+				"item"		"item_veil_of_discord"
 			}
 			"Lategame"
 			{
 				"item"		"item_octarine_core"
+				"item"		"item_shivas_guard"
 				"item"		"item_travel_boots"
 				"item"		"item_blink"
-				"item"		"item_bloodstone"
 				"item"		"item_refresher"
 				"item"		"item_sheepstick"
 			}
@@ -66,14 +66,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aether_lens"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_wind_waker"
-				"item"		"item_aeon_disk"
-				"item"		"item_shivas_guard"
 				"item"		"item_arcane_blink"
+				"item"		"item_aeon_disk"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_veil_of_discord"
 				"item"		"item_black_king_bar"
+				"item"		"item_bloodstone"
 			}
 			"Best Neutral Items"
 			{
@@ -81,11 +80,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_faded_broach"
 				"item"		"item_mysterious_hat"
 				"item"		"item_bullwhip"
-				"item"		"item_grove_bow"
+				"item"		"item_whisper_of_the_dread"
 				"item"		"item_vambrace"
-				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
-				"item"		"item_quickening_charm"
+				"item"		"item_ceremonial_robe"
+				"item"		"item_enchanted_quiver"
 				"item"		"item_timeless_relic"
 				"item"		"item_spell_prism"
 				"item"		"item_spy_gadget"
