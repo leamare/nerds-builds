@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Ion Cannon Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x000000006CDAB50E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C3E422"
-	"TimePublished"		"0x0000000065C3E422"
+	"TimeUpdated"		"0x0000000065DF46C8"
+	"TimePublished"		"0x0000000065DF46C8"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,16 +34,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_yasha_and_kaya"
+				"item"		"item_phylactery"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_blink"
 				"item"		"item_falcon_blade"
+				"item"		"item_yasha_and_kaya"
 			}
 			"Lategame"
 			{
+				"item"		"item_angels_demise"
 				"item"		"item_ethereal_blade"
 				"item"		"item_refresher"
 				"item"		"item_octarine_core"

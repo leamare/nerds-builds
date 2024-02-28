@@ -3,18 +3,18 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Support Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"Axe is a tanky strength hero who excells at brawling enemies to death. His natural tankiness and skill set allow him to chase people down and take as much damage as your team needs while also providing high amounts of damage and crowd control.
 
 Main game plan as a support Axe is to chase people down with Battle Hunger (supports first) to win the lane (or switch to jungle if it's not possible anywhere on the map). Winning the lane and transitioning to Urn and other \"brawling\" support items allowes Axe to keep up in fights and tank enemy damage while also using Berserker's Call, disengage, regen and come back to fight to use all spells again. Lategame Axe with Aghanim's Scepter and Battle Hunger talent allow the hero to deal even more damage in lategame and be practically unkillable with Octarine Core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"73"
+	"GuideRevision"		"74"
 	"AssociatedWorkshopItemID"		"0x0000000073B5F7D9"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C6C02E"
-	"TimePublished"		"0x0000000065C6C02E"
+	"TimeUpdated"		"0x0000000065DF4978"
+	"TimePublished"		"0x0000000065DF4978"
 	"ItemBuild"
 	{
 		"Items"
@@ -95,18 +95,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_blink"		"Situationally could be purchased early (after urn) but it&amp;amp;apos;s better to get later (sometime after Vessel or Aghs)"
-			"item_tango"		"You are going to be brawling a lot, trading your HP all the time. You can replace one Tango for Salve, but Tango works better wor what we&amp;amp;apos;re doing"
+			"item_blink"		"Situationally could be purchased early (after urn) but it&amp;amp;amp;apos;s better to get later (sometime after Vessel or Aghs)"
+			"item_tango"		"You are going to be brawling a lot, trading your HP all the time. You can replace one Tango for Salve, but Tango works better wor what we&amp;amp;amp;apos;re doing"
 			"item_magic_stick"		"Since you have a low mana pool and gonna fight a lot, you are going to get a lot of charges and, most importantly, a lot of value out of it. Just try to hold your charges instead of usinc stick as a panic button"
 			"item_ring_of_protection"		"Additional armor for better brawling and to use it for Urn"
-			"item_urn_of_shadows"		"As you will be a position 4 in your team and going to fight a lot, this is pretty natural to have urn. Not only you&amp;amp;apos;re going to get a lot of charges, it will also give you precious mana regen that you need, armor and a little bit more magic damage.
+			"item_urn_of_shadows"		"As you will be a position 4 in your team and going to fight a lot, this is pretty natural to have urn. Not only you&amp;amp;amp;apos;re going to get a lot of charges, it will also give you precious mana regen that you need, armor and a little bit more magic damage.
 
-It also works well incombination with Berserker&amp;amp;apos;s Call. You use Call, disengage from the fight, heal yourself and then come back"
-			"item_blade_mail"		"Even more armor! Even more mana! And it&amp;amp;apos;s one of the best items to kill enemy cores during Berserker&amp;amp;apos;s Call as they can&amp;amp;apos;t stop attacking you and you will have a ton of armor anyway so they will take much more damage for sure"
+It also works well incombination with Berserker&amp;amp;amp;apos;s Call. You use Call, disengage from the fight, heal yourself and then come back"
+			"item_blade_mail"		"Even more armor! Even more mana! And it&amp;amp;amp;apos;s one of the best items to kill enemy cores during Berserker&amp;amp;amp;apos;s Call as they can&amp;amp;amp;apos;t stop attacking you and you will have a ton of armor anyway so they will take much more damage for sure"
 			"item_heavens_halberd"		"Additional HP and regen amplification from Sange and pretty useful active component for your team"
-			"item_vladmir"		"You don&amp;amp;apos;t really need Vladmir&amp;amp;apos;s by yourself and usually it&amp;amp;apos;s the item your position 3 is going to buy but if nobody&amp;amp;apos;s going to buy it and your team is heavy on physical damage - why not?"
+			"item_vladmir"		"You don&amp;amp;amp;apos;t really need Vladmir&amp;amp;amp;apos;s by yourself and usually it&amp;amp;amp;apos;s the item your position 3 is going to buy but if nobody&amp;amp;amp;apos;s going to buy it and your team is heavy on physical damage - why not?"
 			"item_pipe"		"Against high magic damage lineups"
-			"item_tranquil_boots"		"If you don&amp;amp;apos;t really need armor, can&apos;t get urn but need out-of-fight regen, have a bad game and is going to jungle or just don&apos;t have a lot of money
+			"item_tranquil_boots"		"If you don&amp;amp;amp;apos;t really need armor, can&amp;apos;t get urn but need out-of-fight regen, have a bad game and is going to jungle or just don&amp;apos;t have a lot of money
 ALTERNATIVE: Phase Boots"
 			"item_spirit_vessel"		"HP, mana regen and a ton of magic damage/degen. Even as a healing source it becomes more powerful in late game "
 			"item_heart"		"Natural item for a tanky brawler like Axe"
@@ -147,14 +147,14 @@ ALTERNATIVE: Phase Boots"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_axe"		"Berserker&amp;amp;apos;s Call AoE is a good talent, but +120 Battle Hunger DPS, especially in combination with Aghs, is a stupidly high amount of damage"
-			"axe_battle_hunger"		"So here&amp;amp;apos;s the deal. Early on it&amp;amp;apos;s the best spell to contest bounty runes, bully people on lane, get supports out of the lane and be the king. You can chase people with it, it has low mana cost, it scales well and has low cooldown. You can use it on core after player gets a lasthit. And you can play without blink because of it, just by getting movement speed bonus.
+			"special_bonus_unique_axe"		"Berserker&amp;amp;amp;apos;s Call AoE is a good talent, but +120 Battle Hunger DPS, especially in combination with Aghs, is a stupidly high amount of damage"
+			"axe_battle_hunger"		"So here&amp;amp;amp;apos;s the deal. Early on it&amp;amp;amp;apos;s the best spell to contest bounty runes, bully people on lane, get supports out of the lane and be the king. You can chase people with it, it has low mana cost, it scales well and has low cooldown. You can use it on core after player gets a lasthit. And you can play without blink because of it, just by getting movement speed bonus.
 
 And in the lategame with Aghs it turns into 1920 magic damage AoE spell with damage reduction effect"
-			"axe_counter_helix"		"You can get a point into it early on but as as pos 4/5 Axe you want to be active on the map. It can be good to max early if you don&amp;amp;apos;t have anything to do at all and just want to farm, but it&amp;amp;apos;s not the way to play it. One value point is enough to bully people and the Battle Hunger makes all the work early"
-			"axe_berserkers_call"		"Going past laning stage it&amp;amp;apos;s your main spell to play. You can still use Battle Hunger to close the gap but it&amp;amp;apos;s the AoE non-dispellable crowd control that makes you so useful in midgame fights. However, don&amp;amp;apos;t be too aggressive as you&amp;amp;apos;re not the tankiest being alive.
+			"axe_counter_helix"		"You can get a point into it early on but as as pos 4/5 Axe you want to be active on the map. It can be good to max early if you don&amp;amp;amp;apos;t have anything to do at all and just want to farm, but it&amp;amp;amp;apos;s not the way to play it. One value point is enough to bully people and the Battle Hunger makes all the work early"
+			"axe_berserkers_call"		"Going past laning stage it&amp;amp;amp;apos;s your main spell to play. You can still use Battle Hunger to close the gap but it&amp;amp;amp;apos;s the AoE non-dispellable crowd control that makes you so useful in midgame fights. However, don&amp;amp;amp;apos;t be too aggressive as you&amp;amp;amp;apos;re not the tankiest being alive.
 
-Usually you want to hide and wait for the opportunity to use Call reliably (e.g. after stun setup or enemy getting close) then either kill the enemy if you&amp;amp;apos;re stronger, otherwise you want to disenga"
+Usually you want to hide and wait for the opportunity to use Call reliably (e.g. after stun setup or enemy getting close) then either kill the enemy if you&amp;amp;amp;apos;re stronger, otherwise you want to disenga"
 		}
 	}
 }

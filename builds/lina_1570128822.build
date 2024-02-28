@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C3E172"
-	"TimePublished"		"0x0000000065C3E172"
+	"TimeUpdated"		"0x0000000065DF4716"
+	"TimePublished"		"0x0000000065DF4716"
 	"ItemBuild"
 	{
 		"Items"
@@ -93,8 +93,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_tranquil_boots"		"Optional boots upgrade if you&amp;apos;re not going to buy Boots of Travel
-Before Eul&amp;apos;s Scepter"
+			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;apos;re not going to buy Boots of Travel
+Before Eul&amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
