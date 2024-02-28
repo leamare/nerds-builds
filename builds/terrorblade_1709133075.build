@@ -1,0 +1,130 @@
+"guidedata"
+{
+	"Hero"		"terrorblade"
+	"Title"		"Nerds Supportblade"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35c"
+	"Overview"		"
+
+This build is based on Immortal games as Terrorblade Support, as well as Borax's games specifically.
+The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
+	"GuideRevision"		"2"
+	"AssociatedWorkshopItemID"		"0x00000000BCF16EFC"
+	"OriginalCreatorID"		"0x0000000004C136C9"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000065DF4D47"
+	"TimePublished"		"0x0000000065DF4D47"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"#DOTA_Item_Build_Starting_Items"
+			{
+				"item"		"item_tango"
+				"item"		"item_blood_grenade"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_wind_lace"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
+			}
+			"Early"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+			}
+			"Core"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_ancient_janggo"
+				"item"		"item_aghanims_shard"
+			}
+			"Situational Early"
+			{
+				"item"		"item_urn_of_shadows"
+				"item"		"item_quelling_blade"
+				"item"		"item_glimmer_cape"
+				"item"		"item_wraith_band"
+				"item"		"item_pavise"
+				"item"		"item_vladmir"
+				"item"		"item_orchid"
+				"item"		"item_force_staff"
+			}
+			"Lategame"
+			{
+				"item"		"item_blink"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_aether_lens"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_bloodthorn"
+				"item"		"item_hurricane_pike"
+			}
+			"Situational"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_cyclone"
+				"item"		"item_black_king_bar"
+				"item"		"item_rod_of_atos"
+				"item"		"item_pipe"
+				"item"		"item_solar_crest"
+				"item"		"item_sheepstick"
+			}
+			"Core Transition"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_manta"
+				"item"		"item_butterfly"
+			}
+			"Best Neutral Items"
+			{
+				"item"		"item_arcane_ring"
+				"item"		"item_royal_jelly"
+				"item"		"item_seeds_of_serenity"
+				"item"		"item_pupils_gift"
+				"item"		"item_grove_bow"
+				"item"		"item_vambrace"
+				"item"		"item_vindicators_axe"
+				"item"		"item_paladin_sword"
+				"item"		"item_elven_tunic"
+				"item"		"item_avianas_feather"
+				"item"		"item_ninja_gear"
+				"item"		"item_mind_breaker"
+			}
+			"https://builds.spectral.gg/"
+			{
+			}
+		}
+		"ItemTooltips"
+		{
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"terrorblade_reflection"
+			"2"		"terrorblade_metamorphosis"
+			"3"		"terrorblade_reflection"
+			"4"		"terrorblade_conjure_image"
+			"5"		"terrorblade_reflection"
+			"6"		"terrorblade_sunder"
+			"7"		"terrorblade_reflection"
+			"8"		"terrorblade_conjure_image"
+			"9"		"terrorblade_conjure_image"
+			"10"		"special_bonus_unique_terrorblade_2"
+			"11"		"terrorblade_conjure_image"
+			"12"		"terrorblade_sunder"
+			"13"		"terrorblade_metamorphosis"
+			"14"		"terrorblade_metamorphosis"
+			"15"		"special_bonus_unique_terrorblade_6"
+			"16"		"terrorblade_metamorphosis"
+			"18"		"terrorblade_sunder"
+			"20"		"special_bonus_unique_terrorblade_5"
+			"25"		"special_bonus_unique_terrorblade"
+		}
+		"AbilityTooltips"
+		{
+		}
+	}
+}

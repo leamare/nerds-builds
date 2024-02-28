@@ -313,6 +313,11 @@
   "authored_spectre_1739726188": {
     "priority": 1
   },
+  "authored_terrorblade_3169939196": {
+    "role": ["0.3", "0.1"],
+    "fillInSkillBuilds": false,
+    "fillInStartingItems": false
+  },
   "authored_tidehunter_1593487437": {
     "role": ["1.3", "1.2", "1.1"],
     "fillInSkillBuilds": false,
