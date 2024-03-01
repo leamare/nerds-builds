@@ -3,16 +3,16 @@
 	"Hero"		"muerta"
 	"Title"		"Nerds Core Muerta"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"34"
+	"GuideRevision"		"35"
 	"AssociatedWorkshopItemID"		"0x00000000AF73AE88"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C3FE39"
-	"TimePublished"		"0x0000000065C3FE39"
+	"TimeUpdated"		"0x0000000065DF4614"
+	"TimePublished"		"0x0000000065DF4614"
 	"ItemBuild"
 	{
 		"Items"

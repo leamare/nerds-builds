@@ -3,17 +3,17 @@
 	"Hero"		"treant"
 	"Title"		"Nerds Treant Protector"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"Treant Protector is Strength support hero. He is good at pressuring during laning stage (with a good laning partner), scouting while roaming around enemy territory and being unspotted, giving allies a lot of information, while also resetting teamfights, saving allies and being threat at any stage of the game.
 
 This build is based on Immortal rank support Treant matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"103"
+	"GuideRevision"		"104"
 	"AssociatedWorkshopItemID"		"0x0000000036B008D1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C6AA1C"
-	"TimePublished"		"0x0000000065C6AA1C"
+	"TimeUpdated"		"0x0000000065DD387C"
+	"TimePublished"		"0x0000000065DD387C"
 	"ItemBuild"
 	{
 		"Items"
@@ -115,12 +115,12 @@ Before Holy Locket"
 			"item_solar_crest"		"A little bit of extra armor to make your ally or yourself a bit tankier or to deal with enemy armor/evasion"
 			"item_pipe"		"For magic heavy lineups"
 			"item_lotus_orb"		"For purging debuffs from allies in case you can afford it"
-			"item_vladmir"		"Additional strong aura for your team if nobody else is going to buy it and you&amp;apos;re going to finish early anyway"
+			"item_vladmir"		"Additional strong aura for your team if nobody else is going to buy it and you&amp;amp;apos;re going to finish early anyway"
 			"item_refresher"		"Works well with Overgrowth (and scepter). Can be used for both fighting and farming, depending on what you need from it"
-			"item_sheepstick"		"Better continuation of utility theme: additional reliable disable that won&amp;apos;t be hard to farm once you have scepter or hammer"
+			"item_sheepstick"		"Better continuation of utility theme: additional reliable disable that won&amp;amp;apos;t be hard to farm once you have scepter or hammer"
 			"item_octarine_core"		"Additional cooldown reduction, works well with aghs-refresher theme for both farming and fighting"
 			"item_shivas_guard"		"Another utility way upgrade: useful aura, nuke and additional crowd control after Overgrowth"
-			"item_assault"		"Nice pickup if your team doesn&amp;apos;t have any AC carriers and you need armor or struggle to push"
+			"item_assault"		"Nice pickup if your team doesn&amp;amp;apos;t have any AC carriers and you need armor or struggle to push"
 			"item_holy_locket"		"~15-19 min
 ALTERNATIVE: Meteor Hammer"
 		}
@@ -151,11 +151,11 @@ ALTERNATIVE: Meteor Hammer"
 		}
 		"AbilityTooltips"
 		{
-			"treant_living_armor"		"Even while it&amp;apos;s Treant&amp;apos;s sinature ability, your main purpose early on is to dominate the lane. For that you need to max other spells to maximize kill potential and snowball."
+			"treant_living_armor"		"Even while it&amp;amp;apos;s Treant&amp;amp;apos;s sinature ability, your main purpose early on is to dominate the lane. For that you need to max other spells to maximize kill potential and snowball."
 			"treant_natures_guise"		"Skill it to be annoying piece of tree. Be invisible, wait for a moment and then start attacking target with lower amount of regen to bully it out of lane. Root after hit should buy you some time to get additional one-two hits early on.
 Later into the game try to run around enemy jungle while being invisible, place wards and scout. Try to not show on the map. When you have blink - try to initiate with root from invisibility."
 			"treant_leech_seed"		"Strong slow + heal + damage spell for early brawling. As you get level 2 you will be able to kill somebody on your lane with your laning buddy. Try to max it out first to maximize your hero damage and kill potential early on."
-			"special_bonus_unique_treant_3"		"It&amp;apos;s  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
+			"special_bonus_unique_treant_3"		"It&amp;amp;apos;s  helpful against lineups that are effective at destroying trees or to limit enemy vision. Both talents are good, choose depending on situation and your playstyle."
 		}
 	}
 }

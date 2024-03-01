@@ -3,16 +3,16 @@
 	"Hero"		"sniper"
 	"Title"		"Nerds Magic Sniper"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35b"
+	"GameplayVersion"		"7.35c"
 	"Overview"		"The build is based on mid or meepo's videos: https://www.youtube.com/channel/UCFewCocoHBUpnPmMi-rucog
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x000000007007728F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065C6A2DC"
-	"TimePublished"		"0x0000000065C6A2DC"
+	"TimeUpdated"		"0x0000000065DD3955"
+	"TimePublished"		"0x0000000065DD3955"
 	"ItemBuild"
 	{
 		"Items"
