@@ -3,16 +3,16 @@
 	"Hero"		"dawnbreaker"
 	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35c"
+	"GameplayVersion"		"7.35d"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065DF487D"
-	"TimePublished"		"0x0000000065DF487D"
+	"TimeUpdated"		"0x0000000066118956"
+	"TimePublished"		"0x0000000066118956"
 	"ItemBuild"
 	{
 		"Items"
@@ -105,7 +105,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&amp;amp;apos;s Offering"
+			"item_echo_sabre"		"ALTERNATIVES: Desolator, Vladmir&amp;amp;amp;apos;s Offering"
 		}
 	}
 	"AbilityBuild"

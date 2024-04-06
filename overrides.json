@@ -1,19 +1,14 @@
 {
   "_example": {
     "role": ["0.1", "0.3"],
-
     "updateSkillBuild": true,
     "replaceOldSkillBuild": "0.1",
     "fillInSkillBuilds": true,
-
     "disableStats": true,
-
     "updateStartingItems": true,
     "replaceOldStartingItems": { "1.1": "1.2", "1.2": null },
     "fillInStartingItems": false,
-
     "rewriteTimes": true,
-
     "priority": 3
   },
   "authored_abaddon_1941258158": {
