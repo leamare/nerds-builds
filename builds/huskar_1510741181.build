@@ -3,16 +3,16 @@
 	"Hero"		"huskar"
 	"Title"		"Nerds Huskar"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35c"
+	"GameplayVersion"		"7.35d"
 	"Overview"		"Huskar is a strength core hero, who is capable of dealing high amounts of damage early on, while also being durable against magic damage. His usual playstyle is built around getting early advantage (some levels and armlet) and them snowballing out of control. His goal is to get some HP and armor items, as well as amplify damage even more and then group up with his team, so he will be hard to take down. With that amount of power, Huskar can end games early on while being nearly unkillable, while also having rosh potential and great lategame potential.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"109"
+	"GuideRevision"		"110"
 	"AssociatedWorkshopItemID"		"0x00000000479F18BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065DF4760"
-	"TimePublished"		"0x0000000065DF4760"
+	"TimeUpdated"		"0x0000000066118A08"
+	"TimePublished"		"0x0000000066118A08"
 	"ItemBuild"
 	{
 		"Items"
@@ -93,10 +93,10 @@ Your essential game-winning item. Cheap cost effective stats, armor and toggle a
 			"item_heavens_halberd"		"~13-19 min
 Additional HP and slow, but most importantly - miss chance and disarm, that allow you to continue showballing."
 			"item_blink"		"Solve mobility issues with it or get to backlines of enemy formation (to kill enemies like sniper)
-Before Aghanim&amp;apos;s Scepter"
+Before Aghanim&amp;amp;apos;s Scepter"
 			"item_black_king_bar"		"Your main threats are disables. If enemy has a lot of them, BKB may help you focus most important targets."
 			"item_monkey_king_bar"		"High attack speed and pure damage. Disgusting."
-			"item_guardian_greaves"		"Usually you don&amp;amp;apos;t even need to upgrade your boots. Altho, if you 100% sure you&amp;amp;apos;re not going to lategame, you may want to go for greaves because of ridiculous HP regen aura under 20% HP and strong aura for your team in general."
+			"item_guardian_greaves"		"Usually you don&amp;amp;amp;apos;t even need to upgrade your boots. Altho, if you 100% sure you&amp;amp;amp;apos;re not going to lategame, you may want to go for greaves because of ridiculous HP regen aura under 20% HP and strong aura for your team in general."
 			"item_sphere"		"Usually BKB is better in terms of dealing with disables, but it may help against some scary stuff like DOOM"
 			"item_power_treads"		"Before Armlet of Mordiggian"
 			"item_phase_boots"		"Before Armlet of Mordiggian"
@@ -129,7 +129,7 @@ Before Aghanim&amp;apos;s Scepter"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_huskar"		"Both talents are situational: choose based on your own feelings on what&amp;amp;apos;s happening in the game"
+			"special_bonus_unique_huskar"		"Both talents are situational: choose based on your own feelings on what&amp;amp;amp;apos;s happening in the game"
 		}
 	}
 }
