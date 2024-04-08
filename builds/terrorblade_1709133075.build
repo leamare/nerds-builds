@@ -3,17 +3,17 @@
 	"Hero"		"terrorblade"
 	"Title"		"Nerds Supportblade"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35c"
+	"GameplayVersion"		"7.35d"
 	"Overview"		"
 
 This build is based on Immortal games as Terrorblade Support, as well as Borax's games specifically.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"3"
+	"GuideRevision"		"4"
 	"AssociatedWorkshopItemID"		"0x00000000BCF16EFC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065E91223"
-	"TimePublished"		"0x0000000065E91223"
+	"TimeUpdated"		"0x0000000066118DB7"
+	"TimePublished"		"0x0000000066118DB7"
 	"ItemBuild"
 	{
 		"Items"

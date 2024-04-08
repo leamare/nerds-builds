@@ -3,17 +3,17 @@
 	"Hero"		"undying"
 	"Title"		"Nerds Undying"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35c"
+	"GameplayVersion"		"7.35d"
 	"Overview"		"Undying is an utility strength hero, who excells at healing allies and making teamfights chaotic. Undying slowly steals enemy's strength, slowly decaying them to the ground, forcing to react and tanking massive amounts of damage.
 
 This build is based on Immortal rank Undying matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"58"
 	"AssociatedWorkshopItemID"		"0x00000000894E0851"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000065DD3047"
-	"TimePublished"		"0x0000000065DD3047"
+	"TimeUpdated"		"0x00000000661190CA"
+	"TimePublished"		"0x00000000661190CA"
 	"ItemBuild"
 	{
 		"Items"
@@ -132,9 +132,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"undying_decay"		"The early to mid game domination spell. You don&amp;amp;apos;t really want to upgrade it early on, since its duration doesn&amp;amp;apos;t change, while mana cost is increasing."
+			"undying_decay"		"The early to mid game domination spell. You don&amp;amp;amp;apos;t really want to upgrade it early on, since its duration doesn&amp;amp;amp;apos;t change, while mana cost is increasing."
 			"undying_soul_rip"		"Early nuke/heal. Try to use it on lane as much as possible after you get enemy low enough with Decay. Keep in mind - your heal is directly tied to the number of units around. You can also use it to heal Tombstone OR to get more units around."
-			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
+			"undying_tombstone"		"A pain to deal with in a teamfight. It also allowes you to get Roshan easier (Rosh switches aggro to zombies), take stacks (if you don&amp;amp;amp;apos;t have meteor/bm yet), as well as deals with enemy running away.
 You can also use it on highgrounds / ward spots to make it harder to destroy for your enemies."
 			"undying_flesh_golem"		"The amount of Strength is directly tied to your own strength, so you want to steal as much with Decay as possible. It also makes you a bit faster, so you want to use it in teamfights to (a) tank more and survive and (b) chase enemies down and focus them with your team."
 		}
