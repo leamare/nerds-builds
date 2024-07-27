@@ -3,16 +3,16 @@
 	"Hero"		"lion"
 	"Title"		"Nerds Core Lion"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
-	"Overview"		"
+	"GameplayVersion"		"7.36c"
+	"Overview"		"Facet: 2 (Fist)
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"78"
+	"GuideRevision"		"80"
 	"AssociatedWorkshopItemID"		"0x0000000067B298CC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118A67"
-	"TimePublished"		"0x0000000066118A67"
+	"TimeUpdated"		"0x0000000066A53FB1"
+	"TimePublished"		"0x0000000066A53FB1"
 	"ItemBuild"
 	{
 		"Items"

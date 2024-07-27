@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"67"
+	"GuideRevision"		"68"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118A62"
-	"TimePublished"		"0x0000000066118A62"
+	"TimeUpdated"		"0x0000000066A53FAA"
+	"TimePublished"		"0x0000000066A53FAA"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_magic_wand"
 				"item"		"item_aether_lens"
 				"item"		"item_cyclone"
-				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -48,7 +48,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_wind_waker"
@@ -93,8 +93,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;apos;re not going to buy Boots of Travel
-Before Eul&amp;amp;amp;apos;s Scepter"
+			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;amp;apos;re not going to buy Boots of Travel
+Before Eul&amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -102,15 +102,15 @@ Before Eul&amp;amp;amp;apos;s Scepter"
 		"AbilityOrder"
 		{
 			"1"		"lina_light_strike_array"
-			"2"		"lina_fiery_soul"
+			"2"		"lina_dragon_slave"
 			"3"		"lina_dragon_slave"
-			"4"		"lina_dragon_slave"
+			"4"		"lina_light_strike_array"
 			"5"		"lina_dragon_slave"
 			"6"		"lina_laguna_blade"
 			"7"		"lina_dragon_slave"
 			"8"		"lina_light_strike_array"
 			"9"		"lina_light_strike_array"
-			"10"		"lina_light_strike_array"
+			"10"		"lina_fiery_soul"
 			"11"		"special_bonus_unique_lina_1"
 			"12"		"lina_laguna_blade"
 			"13"		"lina_fiery_soul"
@@ -118,8 +118,8 @@ Before Eul&amp;amp;amp;apos;s Scepter"
 			"15"		"special_bonus_unique_lina_3"
 			"16"		"lina_fiery_soul"
 			"18"		"lina_laguna_blade"
-			"20"		"special_bonus_unique_lina_2"
-			"25"		"special_bonus_unique_lina_dragon_slave_crits"
+			"20"		"special_bonus_unique_lina_6"
+			"25"		"special_bonus_unique_lina_7"
 		}
 		"AbilityTooltips"
 		{

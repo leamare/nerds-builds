@@ -3,16 +3,16 @@
 	"Hero"		"dragon_knight"
 	"Title"		"Nerds Dragon Knight"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118966"
-	"TimePublished"		"0x0000000066118966"
+	"TimeUpdated"		"0x0000000066A53CBC"
+	"TimePublished"		"0x0000000066A53CBC"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,9 +34,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mage_slayer"
 				"item"		"item_blink"
-				"item"		"item_manta"
+				"item"		"item_black_king_bar"
+				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
@@ -47,14 +47,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_bloodthorn"
+				"item"		"item_greater_crit"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_manta"
 				"item"		"item_heavens_halberd"
 				"item"		"item_travel_boots"
 				"item"		"item_silver_edge"
@@ -63,8 +65,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_satanic"
 				"item"		"item_pipe"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_bloodthorn"
-				"item"		"item_greater_crit"
 			}
 			"Other Significant Items"
 			{
@@ -108,25 +108,25 @@ ALTERNATIVE: Hand of Midas"
 	{
 		"AbilityOrder"
 		{
-			"1"		"dragon_knight_breathe_fire"
+			"1"		"dragon_knight_dragon_tail"
 			"2"		"dragon_knight_dragon_blood"
 			"3"		"dragon_knight_dragon_blood"
-			"4"		"dragon_knight_dragon_tail"
-			"5"		"dragon_knight_breathe_fire"
+			"4"		"dragon_knight_breathe_fire"
+			"5"		"dragon_knight_dragon_blood"
 			"6"		"dragon_knight_elder_dragon_form"
-			"7"		"dragon_knight_breathe_fire"
+			"7"		"dragon_knight_dragon_blood"
 			"8"		"dragon_knight_breathe_fire"
-			"9"		"dragon_knight_dragon_blood"
-			"10"		"dragon_knight_dragon_blood"
+			"9"		"dragon_knight_breathe_fire"
+			"10"		"dragon_knight_breathe_fire"
 			"11"		"special_bonus_attack_damage_15"
 			"12"		"dragon_knight_elder_dragon_form"
 			"13"		"dragon_knight_dragon_tail"
 			"14"		"dragon_knight_dragon_tail"
-			"15"		"attribute_bonus"
+			"15"		"special_bonus_hp_300"
 			"16"		"dragon_knight_dragon_tail"
 			"18"		"dragon_knight_elder_dragon_form"
 			"20"		"special_bonus_unique_dragon_knight_7"
-			"25"		"special_bonus_unique_dragon_knight_8"
+			"25"		"special_bonus_unique_dragon_knight"
 		}
 		"AbilityTooltips"
 		{

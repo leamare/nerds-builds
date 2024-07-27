@@ -3,16 +3,16 @@
 	"Hero"		"zuus"
 	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x000000006CDA985A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006611917C"
-	"TimePublished"		"0x000000006611917C"
+	"TimeUpdated"		"0x000000006665AE63"
+	"TimePublished"		"0x000000006665AE63"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,25 +20,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
 				"item"		"item_enchanted_mango"
-				"item"		"item_enchanted_mango"
 				"item"		"item_blood_grenade"
+				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Early"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_null_talisman"
 				"item"		"item_phylactery"
 				"item"		"item_magic_wand"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aether_lens"
 				"item"		"item_ethereal_blade"
 				"item"		"item_force_staff"
 			}
@@ -48,6 +49,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
+				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
@@ -58,8 +60,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_aether_lens"
-				"item"		"item_cyclone"
 				"item"		"item_veil_of_discord"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
@@ -71,11 +71,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_pogo_stick"
 				"item"		"item_faded_broach"
+				"item"		"item_arcane_ring"
+				"item"		"item_mysterious_hat"
+				"item"		"item_grove_bow"
 				"item"		"item_whisper_of_the_dread"
-				"item"		"item_bullwhip"
 				"item"		"item_vambrace"
 				"item"		"item_psychic_headband"
 				"item"		"item_enchanted_quiver"
@@ -96,25 +96,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"zuus_lightning_bolt"
+			"1"		"zuus_arc_lightning"
 			"2"		"zuus_heavenly_jump"
-			"3"		"zuus_lightning_bolt"
-			"4"		"zuus_arc_lightning"
-			"5"		"zuus_lightning_bolt"
+			"3"		"zuus_arc_lightning"
+			"4"		"zuus_lightning_bolt"
+			"5"		"zuus_arc_lightning"
 			"6"		"zuus_thundergods_wrath"
-			"7"		"zuus_lightning_bolt"
-			"8"		"zuus_arc_lightning"
-			"9"		"zuus_arc_lightning"
+			"7"		"zuus_arc_lightning"
+			"8"		"zuus_lightning_bolt"
+			"9"		"zuus_lightning_bolt"
 			"10"		"special_bonus_unique_zeus_jump_cooldown"
-			"11"		"zuus_arc_lightning"
+			"11"		"zuus_lightning_bolt"
 			"12"		"zuus_thundergods_wrath"
 			"13"		"zuus_heavenly_jump"
 			"14"		"zuus_heavenly_jump"
 			"15"		"special_bonus_unique_zeus_jump_postjump_movespeed"
 			"16"		"zuus_heavenly_jump"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_2"
-			"25"		"special_bonus_unique_zeus_4"
+			"20"		"special_bonus_unique_zeus_3"
+			"25"		"special_bonus_unique_zeus_5"
 		}
 		"AbilityTooltips"
 		{
