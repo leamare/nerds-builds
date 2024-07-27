@@ -3,15 +3,16 @@
 	"Hero"		"tinker"
 	"Title"		"Nerds Support Tinker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35d"
-	"Overview"		"
+	"GameplayVersion"		"7.36c"
+	"Overview"		"Facet: 1 (Repair Bots)
+
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x000000009A0E0712"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118DC3"
-	"TimePublished"		"0x0000000066118DC3"
+	"TimeUpdated"		"0x0000000066A54F4F"
+	"TimePublished"		"0x0000000066A54F4F"
 	"ItemBuild"
 	{
 		"Items"
@@ -19,7 +20,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
 				"item"		"item_blood_grenade"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -27,11 +27,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_soul_ring"
-				"item"		"item_boots"
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_guardian_greaves"
+				"item"		"item_holy_locket"
+				"item"		"item_aghanims_shard"
 				"item"		"item_blink"
 				"item"		"item_veil_of_discord"
 			}
@@ -41,6 +44,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ghost"
 				"item"		"item_aether_lens"
 				"item"		"item_cyclone"
+				"item"		"item_soul_ring"
+				"item"		"item_null_talisman"
 			}
 			"Lategame"
 			{
@@ -91,25 +96,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"tinker_heat_seeking_missile"
-			"2"		"tinker_laser"
-			"3"		"tinker_heat_seeking_missile"
-			"4"		"tinker_laser"
-			"5"		"tinker_heat_seeking_missile"
-			"6"		"tinker_keen_teleport"
-			"7"		"tinker_heat_seeking_missile"
+			"1"		"tinker_laser"
+			"2"		"tinker_march_of_the_machines"
+			"3"		"tinker_laser"
+			"4"		"tinker_march_of_the_machines"
+			"5"		"tinker_march_of_the_machines"
+			"6"		"tinker_rearm"
+			"7"		"tinker_march_of_the_machines"
 			"8"		"tinker_laser"
 			"9"		"tinker_laser"
-			"10"		"special_bonus_mana_reduction_8"
+			"10"		"special_bonus_unique_tinker_march_duration"
 			"11"		"tinker_defense_matrix"
-			"12"		"tinker_keen_teleport"
+			"12"		"tinker_rearm"
 			"13"		"tinker_defense_matrix"
 			"14"		"tinker_defense_matrix"
 			"15"		"special_bonus_unique_tinker_7"
 			"16"		"tinker_defense_matrix"
-			"18"		"tinker_keen_teleport"
-			"20"		"special_bonus_unique_tinker_defense_matrix_cdr"
-			"25"		"special_bonus_unique_tinker_3"
+			"18"		"tinker_rearm"
+			"20"		"special_bonus_unique_tinker_5"
+			"25"		"special_bonus_unique_tinker_4"
 		}
 		"AbilityTooltips"
 		{

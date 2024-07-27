@@ -3,16 +3,16 @@
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000661190AB"
-	"TimePublished"		"0x00000000661190AB"
+	"TimeUpdated"		"0x0000000066A5506F"
+	"TimePublished"		"0x0000000066A5506F"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,25 +30,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_falcon_blade"
 				"item"		"item_magic_wand"
+				"item"		"item_blink"
 			}
 			"Core"
 			{
-				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_falcon_blade"
 				"item"		"item_soul_ring"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_echo_sabre"
 				"item"		"item_invis_sword"
 				"item"		"item_armlet"
-				"item"		"item_desolator"
 			}
 			"Lategame"
 			{
@@ -63,17 +61,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_orchid"
+				"item"		"item_aether_lens"
+				"item"		"item_desolator"
 				"item"		"item_harpoon"
 				"item"		"item_crimson_guard"
 				"item"		"item_lotus_orb"
 				"item"		"item_nullifier"
 				"item"		"item_heavens_halberd"
+				"item"		"item_cyclone"
 			}
 			"Other Significant Items"
 			{
 				"item"		"item_solar_crest"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_boots_of_bearing"
+				"item"		"item_wind_waker"
 			}
 			"Best Neutral Items"
 			{
@@ -99,20 +102,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_bottle"		"Before Phase Boots"
 			"item_soul_ring"		"ALTERNATIVE: Bottle
 SWAP: Phase Boots"
-			"item_echo_sabre"		"Before Aghanim&amp;amp;amp;apos; Scepter"
+			"item_echo_sabre"		"Before Aghanim&amp;amp;amp;amp;apos; Scepter"
 			"item_orb_of_corrosion"		"ALTERNATIVE: Falcon Blade, Soul Ring"
-			"item_urn_of_shadows"		"Before Blink Dagger"
 			"item_falcon_blade"		"ALTERNATIVE: Orb of Corrosion, Soul Ring"
 			"item_desolator"		"~20 min
-Before Aghanim&amp;amp;apos;s Scepter"
+Before Aghanim&amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"tusk_snowball"
-			"2"		"tusk_ice_shards"
+			"1"		"tusk_ice_shards"
+			"2"		"tusk_snowball"
 			"3"		"tusk_ice_shards"
 			"4"		"tusk_snowball"
 			"5"		"tusk_ice_shards"
@@ -128,7 +130,7 @@ Before Aghanim&amp;amp;apos;s Scepter"
 			"15"		"special_bonus_unique_tusk_2"
 			"16"		"tusk_tag_team"
 			"18"		"tusk_walrus_punch"
-			"20"		"special_bonus_unique_tusk"
+			"20"		"special_bonus_unique_tusk_5"
 			"25"		"special_bonus_unique_tusk_4"
 		}
 		"AbilityTooltips"
