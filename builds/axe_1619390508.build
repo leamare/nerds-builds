@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Carry Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x00000000931E893C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000661188BA"
-	"TimePublished"		"0x00000000661188BA"
+	"TimeUpdated"		"0x0000000066A53892"
+	"TimePublished"		"0x0000000066A53892"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,10 +28,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
+				"item"		"item_boots"
 				"item"		"item_vanguard"
 				"item"		"item_blade_mail"
 				"item"		"item_magic_stick"
-				"item"		"item_boots"
 			}
 			"Core"
 			{

@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"160"
+	"GuideRevision"		"162"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006611893B"
-	"TimePublished"		"0x000000006611893B"
+	"TimeUpdated"		"0x0000000066A53BD3"
+	"TimePublished"		"0x0000000066A53BD3"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,9 +29,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_wraith_band"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
-				"item"		"item_mage_slayer"
 			}
 			"Core"
 			{
@@ -66,6 +66,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_mage_slayer"
 				"item"		"item_blink"
 				"item"		"item_mjollnir"
 				"item"		"item_mask_of_madness"
@@ -110,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -135,7 +136,7 @@ ALTERNATIVE: Tranquil Boots"
 			"16"		"dark_willow_cursed_crown"
 			"18"		"dark_willow_bedlam"
 			"20"		"special_bonus_unique_dark_willow_1"
-			"25"		"special_bonus_attack_speed_100"
+			"25"		"special_bonus_unique_dark_willow_bedlam_targets"
 		}
 		"AbilityTooltips"
 		{

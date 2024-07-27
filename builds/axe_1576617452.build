@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Axe"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000073B5405B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000661188FB"
-	"TimePublished"		"0x00000000661188FB"
+	"TimeUpdated"		"0x00000000667E0B6F"
+	"TimePublished"		"0x00000000667E0B6F"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,26 +22,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_quelling_blade"
-				"item"		"item_ring_of_protection"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_vanguard"
 				"item"		"item_magic_stick"
-				"item"		"item_boots"
+				"item"		"item_bracer"
+				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_chainmail"
-				"item"		"item_blink"
 				"item"		"item_blade_mail"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
-				"item"		"item_phase_boots"
+				"item"		"item_vanguard"
 				"item"		"item_invis_sword"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_phylactery"
@@ -56,10 +55,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_travel_boots"
-				"item"		"item_aghanims_shard"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_bloodstone"
+				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
@@ -77,7 +77,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_bloodstone"
 				"item"		"item_mjollnir"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_cyclone"
@@ -138,7 +137,7 @@ ALTERNATIVE: Urn of Shadows"
 			"16"		"axe_battle_hunger"
 			"18"		"axe_culling_blade"
 			"20"		"special_bonus_unique_axe_5"
-			"25"		"special_bonus_unique_axe"
+			"25"		"special_bonus_unique_axe_2"
 		}
 		"AbilityTooltips"
 		{
