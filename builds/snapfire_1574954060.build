@@ -3,16 +3,16 @@
 	"Hero"		"snapfire"
 	"Title"		"Nerds Snapfire"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"83"
 	"AssociatedWorkshopItemID"		"0x0000000072A8458E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118D50"
-	"TimePublished"		"0x0000000066118D50"
+	"TimeUpdated"		"0x0000000066A54B6B"
+	"TimePublished"		"0x0000000066A54B6B"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,7 +35,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_diffusal_blade"
 				"item"		"item_maelstrom"
 				"item"		"item_hurricane_pike"
 				"item"		"item_ultimate_scepter"
@@ -43,12 +42,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_diffusal_blade"
 				"item"		"item_soul_ring"
-				"item"		"item_wraith_band"
 				"item"		"item_hand_of_midas"
 				"item"		"item_eternal_shroud"
 				"item"		"item_arcane_boots"
 				"item"		"item_cyclone"
+				"item"		"item_wraith_band"
 			}
 			"Lategame"
 			{
@@ -119,13 +119,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"snapfire_scatterblast"
-			"2"		"snapfire_firesnap_cookie"
-			"3"		"snapfire_scatterblast"
-			"4"		"snapfire_lil_shredder"
+			"2"		"snapfire_lil_shredder"
+			"3"		"snapfire_lil_shredder"
 			"5"		"snapfire_lil_shredder"
 			"6"		"snapfire_mortimer_kisses"
 			"7"		"snapfire_lil_shredder"
-			"8"		"snapfire_lil_shredder"
 			"9"		"snapfire_scatterblast"
 			"10"		"special_bonus_unique_snapfire_7"
 			"11"		"snapfire_scatterblast"

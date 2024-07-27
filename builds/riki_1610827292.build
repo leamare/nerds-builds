@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Support Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 Initially based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x00000000910FA549"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118D11"
-	"TimePublished"		"0x0000000066118D11"
+	"TimeUpdated"		"0x0000000066A54949"
+	"TimePublished"		"0x0000000066A54949"
 	"ItemBuild"
 	{
 		"Items"
@@ -45,6 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_disperser"
 				"item"		"item_octarine_core"
@@ -111,7 +112,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"riki_tricks_of_the_trade"
 			"18"		"riki_backstab"
 			"20"		"special_bonus_unique_riki_9"
-			"25"		"special_bonus_unique_riki_6"
+			"25"		"special_bonus_unique_riki_5"
 		}
 		"AbilityTooltips"
 		{

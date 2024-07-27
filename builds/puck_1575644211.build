@@ -3,16 +3,16 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"61"
 	"AssociatedWorkshopItemID"		"0x0000000073072815"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118CD4"
-	"TimePublished"		"0x0000000066118CD4"
+	"TimeUpdated"		"0x0000000066A5489C"
+	"TimePublished"		"0x0000000066A5489C"
 	"ItemBuild"
 	{
 		"Items"
@@ -25,6 +25,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_circlet"
+				"item"		"item_mantle"
 			}
 			"Early"
 			{
@@ -34,10 +35,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_witch_blade"
 				"item"		"item_power_treads"
+				"item"		"item_witch_blade"
 				"item"		"item_blink"
-				"item"		"item_maelstrom"
+				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
@@ -48,11 +49,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_devastator"
-				"item"		"item_sphere"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_greater_crit"
 				"item"		"item_mjollnir"
+				"item"		"item_sphere"
 				"item"		"item_travel_boots"
 				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
@@ -70,7 +72,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Physical DPS"
 			{
 				"item"		"item_shivas_guard"
-				"item"		"item_greater_crit"
 				"item"		"item_desolator"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_satanic"

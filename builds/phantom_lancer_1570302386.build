@@ -3,16 +3,16 @@
 	"Hero"		"phantom_lancer"
 	"Title"		"Nerds Phantom Lancer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"66"
+	"GuideRevision"		"67"
 	"AssociatedWorkshopItemID"		"0x000000007065DF1D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118CCE"
-	"TimePublished"		"0x0000000066118CCE"
+	"TimeUpdated"		"0x0000000066A5485B"
+	"TimePublished"		"0x0000000066A5485B"
 	"ItemBuild"
 	{
 		"Items"
@@ -48,12 +48,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_disperser"
-				"item"		"item_aghanims_shard"
-				"item"		"item_heart"
 				"item"		"item_bloodthorn"
-				"item"		"item_butterfly"
+				"item"		"item_aghanims_shard"
+				"item"		"item_disperser"
 				"item"		"item_skadi"
+				"item"		"item_heart"
+				"item"		"item_butterfly"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
@@ -120,7 +120,7 @@ Before Diffusal Blade"
 			"16"		"phantom_lancer_doppelwalk"
 			"18"		"phantom_lancer_juxtapose"
 			"20"		"special_bonus_unique_phantom_lancer_6"
-			"25"		"special_bonus_24_crit_2"
+			"25"		"special_bonus_20_crit_2"
 		}
 		"AbilityTooltips"
 		{

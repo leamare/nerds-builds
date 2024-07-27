@@ -2,17 +2,17 @@
 {
 	"Hero"		"marci"
 	"Title"		"Nerds Core Marci"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.35d"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"39"
+	"GuideRevision"		"40"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118AF7"
-	"TimePublished"		"0x0000000066118AF7"
+	"TimeUpdated"		"0x0000000066A54162"
+	"TimePublished"		"0x0000000066A54162"
 	"ItemBuild"
 	{
 		"Items"
@@ -42,8 +42,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_diffusal_blade"
 				"item"		"item_armlet"
+				"item"		"item_diffusal_blade"
 				"item"		"item_bracer"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_falcon_blade"
@@ -129,7 +129,7 @@ Before Skull Basher"
 			"16"		"marci_guardian"
 			"18"		"marci_unleash"
 			"20"		"special_bonus_unique_marci_unleash_speed"
-			"25"		"special_bonus_unique_marci_guardian_damage"
+			"25"		"special_bonus_unique_marci_unleash_extend_duration"
 		}
 		"AbilityTooltips"
 		{

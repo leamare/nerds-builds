@@ -3,16 +3,16 @@
 	"Hero"		"night_stalker"
 	"Title"		"Nerds Night Stalker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.35d"
+	"GameplayVersion"		"7.36c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAEF8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066118C20"
-	"TimePublished"		"0x0000000066118C20"
+	"TimeUpdated"		"0x0000000066A5478A"
+	"TimePublished"		"0x0000000066A5478A"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,29 +29,26 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
+				"item"		"item_bracer"
 				"item"		"item_magic_wand"
 				"item"		"item_phase_boots"
 			}
 			"Core"
 			{
-				"item"		"item_echo_sabre"
-				"item"		"item_aghanims_shard"
+				"item"		"item_phylactery"
 				"item"		"item_blink"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bracer"
 				"item"		"item_bottle"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_echo_sabre"
 				"item"		"item_soul_ring"
-				"item"		"item_armlet"
 				"item"		"item_hand_of_midas"
-				"item"		"item_vanguard"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_invis_sword"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_radiance"
+				"item"		"item_armlet"
 			}
 			"Utility"
 			{
@@ -62,8 +59,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_harpoon"
+				"item"		"item_angels_demise"
 				"item"		"item_abyssal_blade"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
@@ -71,6 +69,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_harpoon"
+				"item"		"item_octarine_core"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
 				"item"		"item_heavens_halberd"
@@ -86,6 +86,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_octarine_core"
 				"item"		"item_mjollnir"
+				"item"		"item_radiance"
 			}
 			"Best Neutral Items"
 			{
@@ -108,17 +109,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"ALTERNATIVES: Hand of Midas, Echo Sabre, Armlet of Mordiggian"
 			"item_phase_boots"		"~7 min"
 			"item_echo_sabre"		"~14 min
-ALTERNATIVES: Radiance, Hand of Midas, Aghanim&amp;amp;amp;apos;s Scepter, Armlet of Mordiggian"
+ALTERNATIVES: Phylactery"
 			"item_black_king_bar"		"~21-25 min"
 			"item_blink"		"~22 min"
 			"item_soul_ring"		"Before Echo Sabre"
-			"item_orb_of_corrosion"		"Before Echo Sabre"
-			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;amp;apos;s Scepter, Armlet of Mordiggian"
-			"item_armlet"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;amp;apos;s Scepter, Hand of Midas"
-			"item_urn_of_shadows"		"Before Echo Sabre"
+			"item_hand_of_midas"		"ALTERNATIVES: Echo Sabre, Aghanim&amp;amp;amp;amp;apos;s Scepter, Armlet of Mordiggian"
+			"item_armlet"		"ALTERNATIVES: Echo Sabre"
+			"item_phylactery"		"~12-16 min
+ALTERNATIVES: Echo Sabre"
 		}
 	}
 	"AbilityBuild"
@@ -139,7 +139,7 @@ ALTERNATIVES: Radiance, Hand of Midas, Aghanim&amp;amp;amp;apos;s Scepter, Armle
 			"12"		"night_stalker_darkness"
 			"13"		"night_stalker_crippling_fear"
 			"14"		"night_stalker_crippling_fear"
-			"15"		"special_bonus_unique_night_stalker_3"
+			"15"		"special_bonus_unique_night_stalker_hunter_status_resist"
 			"16"		"night_stalker_crippling_fear"
 			"18"		"night_stalker_darkness"
 			"20"		"special_bonus_strength_20"
