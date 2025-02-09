@@ -1,24 +1,25 @@
 "guidedata"
 {
 	"Hero"		"alchemist"
-	"Title"		"Nerds Support Alchemist"
+	"Title"		"Nerds Support Alchemist (F1)"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000667E0A11"
-	"TimePublished"		"0x00000000667E0A11"
+	"TimeUpdated"		"0x00000000675027B3"
+	"TimePublished"		"0x00000000675027B3"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_blood_grenade"
 				"item"		"item_magic_stick"
@@ -30,35 +31,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_ring_of_basilius"
+				"item"		"item_infused_raindrop"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
+				"item"		"item_tranquil_boots"
+				"item"		"item_solar_crest"
 				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
+				"item"		"item_arcane_boots"
 				"item"		"item_meteor_hammer"
 				"item"		"item_soul_ring"
 				"item"		"item_ghost"
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
-				"item"		"item_solar_crest"
 			}
 			"Lategame"
 			{
 				"item"		"item_boots_of_bearing"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_radiance"
+				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
@@ -72,18 +74,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_royal_jelly"
-				"item"		"item_safety_bubble"
 				"item"		"item_occult_bracelet"
+				"item"		"item_spark_of_courage"
+				"item"		"item_trusty_shovel"
 				"item"		"item_orb_of_destruction"
 				"item"		"item_dragon_scale"
-				"item"		"item_pupils_gift"
+				"item"		"item_iron_talon"
 				"item"		"item_paladin_sword"
-				"item"		"item_cloak_of_flames"
 				"item"		"item_elven_tunic"
-				"item"		"item_avianas_feather"
-				"item"		"item_trickster_cloak"
+				"item"		"item_defiant_shell"
 				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_ascetic_cap"
 			}
 			"https://builds.spectral.gg/"
 			{

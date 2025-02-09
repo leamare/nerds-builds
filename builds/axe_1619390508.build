@@ -3,16 +3,16 @@
 	"Hero"		"axe"
 	"Title"		"Nerds Carry Axe"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x00000000931E893C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53892"
-	"TimePublished"		"0x0000000066A53892"
+	"TimeUpdated"		"0x00000000675025F4"
+	"TimePublished"		"0x00000000675025F4"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,24 +28,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_vanguard"
 				"item"		"item_blade_mail"
-				"item"		"item_magic_stick"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
+				"item"		"item_phase_boots"
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
-				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_radiance"
-				"item"		"item_phase_boots"
-				"item"		"item_phylactery"
+				"item"		"item_invis_sword"
+				"item"		"item_vanguard"
 			}
 			"Lategame"
 			{
@@ -54,13 +52,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_overwhelming_blink"
 				"item"		"item_assault"
 				"item"		"item_abyssal_blade"
+				"item"		"item_travel_boots"
 				"item"		"item_travel_boots_2"
 				"item"		"item_refresher"
 			}
 			"Situational"
 			{
-				"item"		"item_angels_demise"
-				"item"		"item_invis_sword"
 				"item"		"item_moon_shard"
 				"item"		"item_shivas_guard"
 				"item"		"item_ultimate_scepter"
@@ -72,22 +69,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_mjollnir"
 				"item"		"item_skadi"
 				"item"		"item_eternal_shroud"
-				"item"		"item_bloodstone"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_safety_bubble"
-				"item"		"item_occult_bracelet"
-				"item"		"item_arcane_ring"
+				"item"		"item_broom_handle"
+				"item"		"item_seeds_of_serenity"
 				"item"		"item_bullwhip"
 				"item"		"item_dragon_scale"
-				"item"		"item_vambrace"
+				"item"		"item_vampire_fangs"
 				"item"		"item_cloak_of_flames"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_craggy_coat"
-				"item"		"item_havoc_hammer"
+				"item"		"item_defiant_shell"
+				"item"		"item_paladin_sword"
+				"item"		"item_ascetic_cap"
+				"item"		"item_rattlecage"
 				"item"		"item_timeless_relic"
-				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -96,7 +92,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_vanguard"		"Before Blade Mail"
-			"item_travel_boots"		"ORDER SWAP: Black King Bar"
 			"item_black_king_bar"		"ORDER SWAP: Boots of Travel"
 		}
 	}
@@ -113,16 +108,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"axe_counter_helix"
 			"8"		"axe_counter_helix"
 			"9"		"axe_berserkers_call"
-			"10"		"special_bonus_unique_axe_culling_blade_speed_duration"
+			"10"		"special_bonus_unique_axe_8"
 			"11"		"axe_berserkers_call"
 			"12"		"axe_culling_blade"
 			"13"		"axe_berserkers_call"
 			"14"		"axe_battle_hunger"
-			"15"		"special_bonus_unique_axe_4"
+			"15"		"special_bonus_unique_axe_6"
 			"16"		"axe_battle_hunger"
 			"18"		"axe_culling_blade"
 			"20"		"special_bonus_unique_axe_5"
-			"25"		"special_bonus_unique_axe"
+			"25"		"special_bonus_unique_axe_2"
 		}
 		"AbilityTooltips"
 		{

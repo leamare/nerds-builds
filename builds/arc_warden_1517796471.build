@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Caster Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"122"
+	"GuideRevision"		"117"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53831"
-	"TimePublished"		"0x0000000066A53831"
+	"TimeUpdated"		"0x0000000067501663"
+	"TimePublished"		"0x0000000067501663"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,8 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_slippers"
-				"item"		"item_circlet"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
@@ -30,23 +29,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_ring_of_basilius"
 				"item"		"item_wraith_band"
-				"item"		"item_hand_of_midas"
 				"item"		"item_boots"
+				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
-				"item"		"item_maelstrom"
-				"item"		"item_travel_boots"
-				"item"		"item_gungir"
+				"item"		"item_arcane_boots"
+				"item"		"item_rod_of_atos"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_gungir"
 			}
 			"Situational Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_orchid"
 				"item"		"item_invis_sword"
 				"item"		"item_phylactery"
+				"item"		"item_travel_boots"
 			}
 			"Lategame"
 			{
@@ -60,9 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_shivas_guard"
-				"item"		"item_bloodstone"
-				"item"		"item_angels_demise"
+				"item"		"item_cyclone"
 				"item"		"item_dagon_5"
 				"item"		"item_mjollnir"
 				"item"		"item_sphere"
@@ -70,21 +68,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hurricane_pike"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_bloodthorn"
+				"item"		"item_shivas_guard"
+				"item"		"item_wind_waker"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_trusty_shovel"
 				"item"		"item_royal_jelly"
-				"item"		"item_arcane_ring"
-				"item"		"item_mysterious_hat"
+				"item"		"item_safety_bubble"
 				"item"		"item_grove_bow"
-				"item"		"item_vambrace"
 				"item"		"item_specialists_array"
-				"item"		"item_nemesis_curse"
+				"item"		"item_pupils_gift"
 				"item"		"item_vindicators_axe"
 				"item"		"item_elven_tunic"
-				"item"		"item_avianas_feather"
-				"item"		"item_spell_prism"
-				"item"		"item_spy_gadget"
+				"item"		"item_paladin_sword"
+				"item"		"item_mind_breaker"
+				"item"		"item_ninja_gear"
+				"item"		"item_ancient_guardian"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -94,7 +94,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_blink"		"Pretty good item for long-range initiation, works pretty nice with tempest double (blink on hero, tempest double, blink on double, flux)"
 			"item_bottle"		"Not really good item for Arc in general since consumables nerf, but it fits pretty well ganking theme of this build"
-			"item_hand_of_midas"		"Our main farming tool, obviously. We don&amp;amp;amp;amp;amp;apos;t really want to skip it since we will get a lot of benefit from it."
+			"item_hand_of_midas"		"Our main farming tool, obviously. We don`t really want to skip it since we will get a lot of benefit from it."
 			"item_sheepstick"		"Dagon-Shotgun combo is pretty straight forward, but later into the game we will lack on controlling stuff and will start losing momentum eventually, so Sheepstick will make us not only much more useful for our team, but also increase our kill potential."
 			"item_orchid"		"Orchid can be good solution early because of 30% additional damage, while also improving our physical damage output"
 			"item_bloodthorn"		"Natural upgrade to Orchid and one of the best lategame slots for Arc Warden in general"
@@ -102,7 +102,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_shivas_guard"		"...and even more tankiness. In combo with Octarine makes us pretty scary and hard to kill hero."
 			"item_sphere"		"More offensive save item: for cases when we need some sort of save, but not too much, so we can stay in fight"
 			"item_lotus_orb"		"Useful utility item for our team, may be a good item to get if nobody in your team already got it."
-			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it&amp;amp;amp;amp;amp;apos;s counterpart as getting-out tool"
+			"item_invis_sword"		"Kind of similar to forcestaff: may be alternative to blink or it`s counterpart as getting-out tool"
 			"item_mjollnir"		"Stacks pretty well with all our magic damage theme, while also gives us a lot of attack speed and AoE damage
 ALTERNATIVE: Gleipnir"
 			"item_gungir"		"ALTERNATIVE: Mjolnir"
@@ -126,15 +126,15 @@ ALTERNATIVE: Gleipnir"
 			"12"		"arc_warden_tempest_double"
 			"13"		"arc_warden_magnetic_field"
 			"14"		"arc_warden_magnetic_field"
-			"15"		"special_bonus_unique_arc_warden_3"
+			"15"		"special_bonus_unique_arc_warden_4"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
-			"20"		"special_bonus_unique_arc_warden_9"
-			"25"		"special_bonus_unique_arc_warden_8"
+			"20"		"special_bonus_unique_arc_warden"
+			"25"		"special_bonus_unique_arc_warden_flux_silences"
 		}
 		"AbilityTooltips"
 		{
-			"arc_warden_magnetic_field"		"Even while we don&amp;amp;amp;amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
+			"arc_warden_magnetic_field"		"Even while we don&amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
 			"arc_warden_spark_wraith"		"Scouting tool to avoid ganks, lasthit secure tool and, of cource, RQQEE combo allowes us to kill anybody early"
 		}
 	}

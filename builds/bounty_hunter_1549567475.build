@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"bounty_hunter"
-	"Title"		"Nerds Bounty Hunter"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.36c"
+	"Title"		"Nerds Bounty Hunter (F1)"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"107"
+	"GuideRevision"		"98"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53A58"
-	"TimePublished"		"0x0000000066A53A58"
+	"TimeUpdated"		"0x0000000067525E64"
+	"TimePublished"		"0x0000000067525E64"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,87 +22,86 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
+				"item"		"item_phase_boots"
+				"item"		"item_wind_lace"
 				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
 				"item"		"item_phylactery"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_angels_demise"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wind_lace"
-				"item"		"item_ancient_janggo"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_orchid"
-				"item"		"item_aether_lens"
+				"item"		"item_ancient_janggo"
+				"item"		"item_vanguard"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
+				"item"		"item_sange_and_yasha"
 				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
-				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_assault"
+				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_angels_demise"
-				"item"		"item_manta"
-				"item"		"item_mage_slayer"
-				"item"		"item_boots_of_bearing"
-				"item"		"item_heavens_halberd"
-				"item"		"item_nullifier"
 				"item"		"item_blink"
+				"item"		"item_desolator"
+				"item"		"item_bloodthorn"
 				"item"		"item_abyssal_blade"
+				"item"		"item_nullifier"
+				"item"		"item_satanic"
 			}
 			"Utility"
 			{
 				"item"		"item_solar_crest"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
+				"item"		"item_crimson_guard"
 				"item"		"item_spirit_vessel"
+				"item"		"item_heavens_halberd"
+				"item"		"item_boots_of_bearing"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_vanguard"
-				"item"		"item_satanic"
-				"item"		"item_desolator"
-				"item"		"item_sange_and_yasha"
-				"item"		"item_crimson_guard"
+				"item"		"item_manta"
 				"item"		"item_skadi"
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
 				"item"		"item_swift_blink"
+				"item"		"item_harpoon"
 				"item"		"item_wind_waker"
-				"item"		"item_disperser"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_arcane_ring"
 				"item"		"item_faded_broach"
-				"item"		"item_broom_handle"
-				"item"		"item_safety_bubble"
-				"item"		"item_orb_of_destruction"
-				"item"		"item_eye_of_the_vizier"
-				"item"		"item_pupils_gift"
+				"item"		"item_trusty_shovel"
+				"item"		"item_bullwhip"
+				"item"		"item_gossamer_cape"
+				"item"		"item_vampire_fangs"
+				"item"		"item_psychic_headband"
 				"item"		"item_elven_tunic"
 				"item"		"item_dandelion_amulet"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_mind_breaker"
-				"item"		"item_stormcrafter"
+				"item"		"item_timeless_relic"
 				"item"		"item_ascetic_cap"
+				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -111,8 +110,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_sange_and_yasha"		"Another snowballing item and another flat movement speed bonus. It makes you strong at both defense and offense"
-			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&amp;amp;amp;amp;amp;amp;apos;t be able to catch up to you"
-			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&amp;amp;amp;amp;amp;amp;apos;s active component drastically increases your damage output
+			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&amp;apos;t be able to catch up to you"
+			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&amp;apos;s active component drastically increases your damage output
 
 You can also use it on friendly catapult or another core on your team to push faster"
 			"item_desolator"		"Nice agressive addition to amplify your damage output"
@@ -120,7 +119,7 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"item_crimson_guard"		"Good tankiness and utility item overall, good solution against physical damage"
 			"item_vanguard"		"Good early tankiness solution. Can be upgraded into Crimson Guard (utility way) which is pretty good item for your team overall"
 			"item_heavens_halberd"		"Good tankiness solution, works well against high damage enemy cores"
-			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&amp;amp;amp;amp;amp;amp;apos;s damage output it won&amp;amp;amp;amp;amp;amp;apos;t be a problem anyway"
+			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&amp;apos;s damage output it won&amp;apos;t be a problem anyway"
 		}
 	}
 	"AbilityBuild"
@@ -130,11 +129,11 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"1"		"bounty_hunter_shuriken_toss"
 			"2"		"bounty_hunter_jinada"
 			"3"		"bounty_hunter_shuriken_toss"
-			"4"		"bounty_hunter_jinada"
+			"4"		"bounty_hunter_wind_walk"
 			"5"		"bounty_hunter_shuriken_toss"
 			"6"		"bounty_hunter_track"
 			"7"		"bounty_hunter_shuriken_toss"
-			"8"		"bounty_hunter_wind_walk"
+			"8"		"bounty_hunter_jinada"
 			"9"		"bounty_hunter_jinada"
 			"10"		"special_bonus_unique_bounty_hunter_4"
 			"11"		"bounty_hunter_jinada"

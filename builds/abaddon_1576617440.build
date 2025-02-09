@@ -1,9 +1,9 @@
 "guidedata"
 {
 	"Hero"		"abaddon"
-	"Title"		"Nerds Abaddon"
+	"Title"		"Nerds Abaddon (F1)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
@@ -11,8 +11,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	"AssociatedWorkshopItemID"		"0x0000000073B53FAE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A2F620"
-	"TimePublished"		"0x0000000066A2F620"
+	"TimeUpdated"		"0x00000000679EEF2D"
+	"TimePublished"		"0x00000000679EEF2D"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,49 +20,50 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
-				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_gauntlets"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_bracer"
 				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
 				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_echo_sabre"
-				"item"		"item_yasha"
-				"item"		"item_harpoon"
+				"item"		"item_radiance"
 				"item"		"item_manta"
+				"item"		"item_octarine_core"
 			}
 			"Situational Early"
 			{
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_blade_mail"
 				"item"		"item_hand_of_midas"
-				"item"		"item_radiance"
 				"item"		"item_soul_ring"
-				"item"		"item_bracer"
 				"item"		"item_falcon_blade"
 				"item"		"item_ancient_janggo"
 			}
 			"Lategame"
 			{
-				"item"		"item_blink"
-				"item"		"item_abyssal_blade"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_rapier"
-				"item"		"item_skadi"
+				"item"		"item_arcane_blink"
 				"item"		"item_aghanims_shard"
+				"item"		"item_orchid"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_abyssal_blade"
+				"item"		"item_skadi"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
 				"item"		"item_refresher"
 			}
 			"Situational"
 			{
+				"item"		"item_harpoon"
+				"item"		"item_heavens_halberd"
 				"item"		"item_nullifier"
 				"item"		"item_sphere"
 				"item"		"item_monkey_king_bar"
@@ -74,24 +75,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_heavens_halberd"
+				"item"		"item_angels_demise"
+				"item"		"item_shivas_guard"
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
-				"item"		"item_octarine_core"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_trusty_shovel"
 				"item"		"item_royal_jelly"
+				"item"		"item_trusty_shovel"
+				"item"		"item_broom_handle"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_bullwhip"
-				"item"		"item_vambrace"
-				"item"		"item_specialists_array"
-				"item"		"item_paladin_sword"
+				"item"		"item_dragon_scale"
 				"item"		"item_dandelion_amulet"
+				"item"		"item_psychic_headband"
 				"item"		"item_cloak_of_flames"
 				"item"		"item_ascetic_cap"
-				"item"		"item_rattlecage"
+				"item"		"item_ogre_seal_totem"
 				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
@@ -104,7 +105,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_manta"		"~22-27 min"
 			"item_hand_of_midas"		"~8-11 min"
 			"item_harpoon"		"~17-27 min"
-			"item_orb_of_corrosion"		"~4-7 min"
 		}
 	}
 	"AbilityBuild"
@@ -128,8 +128,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_abaddon_5"
 			"16"		"abaddon_death_coil"
 			"18"		"abaddon_borrowed_time"
-			"20"		"special_bonus_unique_abaddon"
-			"25"		"special_bonus_unique_abaddon_4"
+			"20"		"special_bonus_unique_abaddon_immolation"
+			"25"		"special_bonus_unique_abaddon_3"
 		}
 		"AbilityTooltips"
 		{

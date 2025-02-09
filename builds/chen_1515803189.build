@@ -1,50 +1,50 @@
 "guidedata"
 {
 	"Hero"		"chen"
-	"Title"		"Experimental Core Chen"
+	"Title"		"Nerds Core Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"113"
+	"GuideRevision"		"111"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53AE3"
-	"TimePublished"		"0x0000000066A53AE3"
+	"TimeUpdated"		"0x000000006764C711"
+	"TimePublished"		"0x000000006764C711"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
+				"item"		"item_tango"
 				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
-				"item"		"item_bracer"
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
-				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_manta"
 				"item"		"item_orchid"
+				"item"		"item_rod_of_atos"
 			}
 			"Situational Early"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
 				"item"		"item_diffusal_blade"
-				"item"		"item_vladmir"
 			}
 			"Utility"
 			{
@@ -57,29 +57,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_bloodthorn"
+				"item"		"item_assault"
 				"item"		"item_skadi"
 				"item"		"item_greater_crit"
-				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_mage_slayer"
 				"item"		"item_silver_edge"
+				"item"		"item_manta"
 				"item"		"item_heavens_halberd"
 				"item"		"item_sheepstick"
 				"item"		"item_disperser"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_shivas_guard"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_guardian_greaves"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"
-				"item"		"item_shivas_guard"
 				"item"		"item_lotus_orb"
 				"item"		"item_aeon_disk"
 				"item"		"item_holy_locket"
@@ -88,18 +88,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_arcane_ring"
+				"item"		"item_unstable_wand"
+				"item"		"item_duelist_gloves"
 				"item"		"item_occult_bracelet"
-				"item"		"item_pupils_gift"
+				"item"		"item_gossamer_cape"
 				"item"		"item_specialists_array"
-				"item"		"item_vambrace"
-				"item"		"item_craggy_coat"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_dandelion_amulet"
-				"item"		"item_trickster_cloak"
+				"item"		"item_specialists_array"
+				"item"		"item_paladin_sword"
+				"item"		"item_defiant_shell"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_spy_gadget"
 				"item"		"item_ascetic_cap"
+				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -107,7 +107,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;amp;amp;amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;amp;amp;amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"
@@ -117,22 +117,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"1"		"chen_penitence"
 			"2"		"chen_divine_favor"
 			"3"		"chen_penitence"
-			"4"		"chen_holy_persuasion"
-			"5"		"chen_holy_persuasion"
+			"4"		"chen_divine_favor"
+			"5"		"chen_penitence"
 			"6"		"chen_hand_of_god"
 			"7"		"chen_penitence"
-			"8"		"chen_divine_favor"
-			"9"		"chen_penitence"
 			"10"		"special_bonus_unique_chen_11"
-			"11"		"chen_holy_persuasion"
 			"12"		"chen_hand_of_god"
-			"13"		"chen_holy_persuasion"
-			"14"		"chen_divine_favor"
 			"15"		"special_bonus_unique_chen_8"
-			"16"		"chen_divine_favor"
 			"18"		"chen_hand_of_god"
-			"20"		"special_bonus_unique_chen_7"
+			"20"		"special_bonus_unique_chen_4"
+			"24"		"chen_divine_favor"
 			"25"		"special_bonus_unique_chen_12"
+			"26"		"chen_divine_favor"
+			"27"		"chen_holy_persuasion"
+			"28"		"chen_holy_persuasion"
+			"29"		"chen_holy_persuasion"
+			"30"		"chen_holy_persuasion"
 		}
 		"AbilityTooltips"
 		{

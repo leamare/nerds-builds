@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"antimage"
-	"Title"		"Nerds Support Antimage"
+	"Title"		"Nerds Support Antimage (F2)"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"51"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x0000000091101944"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000667E0A75"
-	"TimePublished"		"0x00000000667E0A75"
+	"TimeUpdated"		"0x00000000675027F4"
+	"TimePublished"		"0x00000000675027F4"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,13 +33,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
 				"item"		"item_aghanims_shard"
 				"item"		"item_boots_of_bearing"
 			}
 			"Situational Early"
 			{
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_solar_crest"
 				"item"		"item_phase_boots"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_echo_sabre"
@@ -70,18 +71,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_royal_jelly"
-				"item"		"item_safety_bubble"
+				"item"		"item_broom_handle"
 				"item"		"item_duelist_gloves"
-				"item"		"item_dragon_scale"
+				"item"		"item_safety_bubble"
 				"item"		"item_pupils_gift"
+				"item"		"item_specialists_array"
+				"item"		"item_iron_talon"
 				"item"		"item_vambrace"
-				"item"		"item_paladin_sword"
-				"item"		"item_elven_tunic"
 				"item"		"item_vindicators_axe"
+				"item"		"item_elven_tunic"
+				"item"		"item_avianas_feather"
 				"item"		"item_ninja_gear"
 				"item"		"item_mind_breaker"
-				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -116,7 +117,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_antimage_7"
 			"16"		"antimage_counterspell"
 			"18"		"antimage_mana_void"
-			"20"		"special_bonus_unique_antimage"
+			"20"		"special_bonus_unique_antimage_6"
 			"25"		"special_bonus_unique_antimage_2"
 		}
 		"AbilityTooltips"
