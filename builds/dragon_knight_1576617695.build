@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dragon_knight"
-	"Title"		"Nerds Dragon Knight"
+	"Title"		"Nerds Dragon Knight (F1)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"62"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000076A41188"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53CBC"
-	"TimePublished"		"0x0000000066A53CBC"
+	"TimeUpdated"		"0x0000000067B431D9"
+	"TimePublished"		"0x0000000067B431D9"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,7 +20,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_branches"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_circlet"
 				"item"		"item_quelling_blade"
@@ -30,40 +30,41 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bracer"
 				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_blink"
-				"item"		"item_black_king_bar"
-				"item"		"item_orchid"
+				"item"		"item_armlet"
+				"item"		"item_mask_of_madness"
+				"item"		"item_yasha"
 			}
 			"Situational Early"
 			{
-				"item"		"item_soul_ring"
 				"item"		"item_falcon_blade"
 				"item"		"item_invis_sword"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
 				"item"		"item_greater_crit"
+				"item"		"item_satanic"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_assault"
-				"item"		"item_overwhelming_blink"
+				"item"		"item_swift_blink"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_assault"
 				"item"		"item_manta"
 				"item"		"item_heavens_halberd"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_travel_boots"
 				"item"		"item_silver_edge"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_octarine_core"
-				"item"		"item_satanic"
-				"item"		"item_pipe"
 				"item"		"item_monkey_king_bar"
 			}
 			"Other Significant Items"
@@ -71,21 +72,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hurricane_pike"
 				"item"		"item_desolator"
 				"item"		"item_mjollnir"
+				"item"		"item_pipe"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_spark_of_courage"
-				"item"		"item_occult_bracelet"
-				"item"		"item_safety_bubble"
+				"item"		"item_duelist_gloves"
+				"item"		"item_broom_handle"
 				"item"		"item_grove_bow"
 				"item"		"item_specialists_array"
-				"item"		"item_dragon_scale"
+				"item"		"item_vampire_fangs"
+				"item"		"item_elven_tunic"
 				"item"		"item_vindicators_axe"
-				"item"		"item_paladin_sword"
-				"item"		"item_defiant_shell"
+				"item"		"item_nemesis_curse"
 				"item"		"item_mind_breaker"
-				"item"		"item_ninja_gear"
 				"item"		"item_ancient_guardian"
+				"item"		"item_havoc_hammer"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -93,32 +95,27 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~6-10 min
-ALTERNATIVE: Meteor Hammer"
 			"item_falcon_blade"		"ALTERNATIVE: Soul Ring"
 			"item_soul_ring"		"ALTERNATIVE: Falcon Blade"
-			"item_blink"		"~12-15 min"
 			"item_power_treads"		"~7-9 min"
 			"item_black_king_bar"		"~23-27 min"
-			"item_meteor_hammer"		"~5-10 min
-ALTERNATIVE: Hand of Midas"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"dragon_knight_dragon_tail"
-			"2"		"dragon_knight_dragon_blood"
-			"3"		"dragon_knight_dragon_blood"
-			"4"		"dragon_knight_breathe_fire"
+			"1"		"dragon_knight_breathe_fire"
+			"2"		"dragon_knight_dragon_tail"
+			"3"		"dragon_knight_breathe_fire"
+			"4"		"dragon_knight_dragon_blood"
 			"5"		"dragon_knight_dragon_blood"
 			"6"		"dragon_knight_elder_dragon_form"
 			"7"		"dragon_knight_dragon_blood"
-			"8"		"dragon_knight_breathe_fire"
+			"8"		"dragon_knight_dragon_blood"
 			"9"		"dragon_knight_breathe_fire"
-			"10"		"dragon_knight_breathe_fire"
-			"11"		"special_bonus_attack_damage_15"
+			"10"		"special_bonus_attack_damage_15"
+			"11"		"dragon_knight_breathe_fire"
 			"12"		"dragon_knight_elder_dragon_form"
 			"13"		"dragon_knight_dragon_tail"
 			"14"		"dragon_knight_dragon_tail"

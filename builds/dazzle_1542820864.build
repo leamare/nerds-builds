@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"dazzle"
-	"Title"		"Nerds Core Dazzle"
+	"Title"		"Nerds Core Dazzle (F2)"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.34e"
+	"GameplayVersion"		"7.37e"
 	"Overview"		"Dazzle is a strong intelligence hero who can be played as position 2, 3 or 5. He's pretty effective at snowballing out of control because of his ult, Bad Juju, its synergy with Poison Touch and his early damage talent. All of these things make Dazzle a powerful manfighter with high physical damage burst and high attack damage, as well as good backliner, healing source and manfighter. Dazzle is also able to flashfarm pretty quickly, which, in combination with his high damage output and healing, make him able to get out of control very early and finish the game before it even starts.
 
 Early on you want to get a point into Shadow Wave to keep yourself alive on lane, but afterwards you're going to max Poison Touch and use it as harassing tool. With level 3 Poison Touch you're able to bully your enemy out of lane by autoattacking him (or just kill your opponent if he's not backing up), at level 7 with maxed poison touch you will be able to kill every creepwave pretty fast (or instakill it by using Shadow Wave on your creepwave). 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"112"
+	"GuideRevision"		"113"
 	"AssociatedWorkshopItemID"		"0x000000005DB4D3D5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006564ADA2"
-	"TimePublished"		"0x000000006564ADA2"
+	"TimeUpdated"		"0x0000000067B42EA3"
+	"TimePublished"		"0x0000000067B42EA3"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,33 +31,29 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
 				"item"		"item_bottle"
 				"item"		"item_boots"
+				"item"		"item_bracer"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_hand_of_midas"
 				"item"		"item_aghanims_shard"
 				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
-				"item"		"item_bottle"
-				"item"		"item_manta"
-				"item"		"item_invis_sword"
+				"item"		"item_power_treads"
 				"item"		"item_force_staff"
-				"item"		"item_spirit_vessel"
 				"item"		"item_orchid"
+				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
 				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
 				"item"		"item_arcane_blink"
 				"item"		"item_wind_waker"
-				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 			}
@@ -65,10 +61,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bloodthorn"
 				"item"		"item_hurricane_pike"
-				"item"		"item_revenants_brooch"
 				"item"		"item_shivas_guard"
 				"item"		"item_sphere"
 				"item"		"item_skadi"
+				"item"		"item_invis_sword"
 			}
 			"Utility"
 			{
@@ -77,36 +73,38 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_holy_locket"
 				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
 			}
 			"Other Significant Items"
 			{
+				"item"		"item_manta"
+				"item"		"item_revenants_brooch"
 				"item"		"item_guardian_greaves"
-				"item"		"item_octarine_core"
 				"item"		"item_overwhelming_blink"
-				"item"		"item_aeon_disk"
 				"item"		"item_kaya_and_sange"
+				"item"		"item_satanic"
 				"item"		"item_witch_blade"
 				"item"		"item_desolator"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_greater_crit"
 				"item"		"item_mjollnir"
 				"item"		"item_silver_edge"
-				"item"		"item_satanic"
+				"item"		"item_aeon_disk"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
+				"item"		"item_seeds_of_serenity"
 				"item"		"item_arcane_ring"
-				"item"		"item_faded_broach"
-				"item"		"item_ring_of_aquila"
+				"item"		"item_safety_bubble"
 				"item"		"item_bullwhip"
-				"item"		"item_gossamer_cape"
+				"item"		"item_grove_bow"
+				"item"		"item_pupils_gift"
 				"item"		"item_paladin_sword"
-				"item"		"item_ceremonial_robe"
+				"item"		"item_psychic_headband"
 				"item"		"item_dandelion_amulet"
-				"item"		"item_ascetic_cap"
 				"item"		"item_timeless_relic"
-				"item"		"item_trickster_cloak"
+				"item"		"item_ninja_gear"
+				"item"		"item_spy_gadget"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,9 +112,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_hand_of_midas"		"~9-11 min"
+			"item_hand_of_midas"		"~13 min"
 			"item_assault"		"Additional improvement for all the armor and attack speed theme"
-			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&apos;t bother getting it whenever you feel like you&apos;re stunned or focused in fights"
+			"item_black_king_bar"		"Low cooldown on BKB makes it pretty powerful for Dazzle, don&amp;apos;t bother getting it whenever you feel like you&amp;apos;re stunned or focused in fights"
 			"item_shivas_guard"		"Mostly to stop enemies from running away, but Hex and Atos are generally better for that"
 			"item_bloodthorn"		"Additional control for fights and damage amplification"
 		}
@@ -143,20 +141,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"dazzle_shallow_grave"
 			"18"		"dazzle_bad_juju"
 			"20"		"special_bonus_unique_dazzle_3"
-			"25"		"special_bonus_unique_dazzle_1"
+			"25"		"special_bonus_unique_dazzle_4"
 		}
 		"AbilityTooltips"
 		{
-			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&apos;s duration will be refreshed with your every attack and it also stacks with itself. Combining with Bad Juju, you can use it as farming tool as well"
-			"dazzle_shallow_grave"		"You don&apos;t really need it early on, but having a value point still won&apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
-			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&apos;s also your farming tool and wave clearing tool.
+			"dazzle_poison_touch"		"Use it as harass tool early on. Remember that the effect&amp;apos;s duration will be refreshed with your every attack and it also stacks with itself. Combining with Bad Juju, you can use it as farming tool as well"
+			"dazzle_shallow_grave"		"You don&amp;apos;t really need it early on, but having a value point still won&amp;apos;t hurt. You can use it on yourself while towerdiving early on and at later stages - to save allies, even all your team!"
+			"dazzle_shadow_wave"		"Your main tool to keep laning forever. It&amp;apos;s also your farming tool and wave clearing tool.
 
 It deals more damage with more units being healed by it. You can use it on lane against melee heroes (or ranged heroes who will walk across creepwave) and in fights you can combo it with your teammates or illusions/summons."
 			"special_bonus_unique_dazzle_3"		"Upgrading damage on an already strong DPS spell even further will make it hard to deal with at any stage, so why not?
 
-Take the alternative in case you don&apos;t get many chances to start the fight and chase (e.g. you and your team are getting jumped more often)"
-			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&apos;t be able to run away anymore."
-			"special_bonus_unique_dazzle_4"		"You don&apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
+Take the alternative in case you don&amp;apos;t get many chances to start the fight and chase (e.g. you and your team are getting jumped more often)"
+			"special_bonus_unique_dazzle_1"		"It will turn Poison Touch into respectable slow and, considering it stacks with itself, enemies won&amp;apos;t be able to run away anymore."
+			"special_bonus_unique_dazzle_4"		"You don&amp;apos;t really need more negative armor than you already have, but it can be helpful against armor heavy lineups"
 		}
 	}
 }
