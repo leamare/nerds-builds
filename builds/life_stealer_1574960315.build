@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"life_stealer"
-	"Title"		"Nerds Utility LS"
+	"Title"		"Nerds Utility LS - F2"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"70"
+	"GuideRevision"		"72"
 	"AssociatedWorkshopItemID"		"0x00000000729D7E43"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53F26"
-	"TimePublished"		"0x0000000066A53F26"
+	"TimeUpdated"		"0x0000000067CB6EEA"
+	"TimePublished"		"0x0000000067CB6EEA"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_quelling_blade"
-				"item"		"item_orb_of_venom"
+				"item"		"item_orb_of_frost"
 				"item"		"item_branches"
 				"item"		"item_branches"
 			}
@@ -56,18 +56,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
-				"item"		"item_duelist_gloves"
-				"item"		"item_spark_of_courage"
-				"item"		"item_specialists_array"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_vambrace"
-				"item"		"item_defiant_shell"
-				"item"		"item_elven_tunic"
-				"item"		"item_nemesis_curse"
+				"item"		"item_spark_of_courage"
+				"item"		"item_rippers_lash"
+				"item"		"item_iron_talon"
+				"item"		"item_misericorde"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_gale_guard"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_mind_breaker"
-				"item"		"item_ancient_guardian"
-				"item"		"item_avianas_feather"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -75,9 +74,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_orb_of_corrosion"		"Before Vladmir&amp;amp;amp;apos;s Offering"
-			"item_blade_mail"		"Before Aghanim&amp;amp;amp;apos;s Scepter"
-			"item_phase_boots"		"Before Vladimir&amp;amp;amp;amp;apos;s Offering"
+			"item_orb_of_corrosion"		"Before Vladmir&amp;amp;amp;amp;apos;s Offering"
+			"item_blade_mail"		"Before Aghanim&amp;amp;amp;amp;apos;s Scepter"
+			"item_phase_boots"		"Before Vladimir&amp;amp;amp;amp;amp;apos;s Offering"
 		}
 	}
 	"AbilityBuild"
@@ -93,7 +92,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"life_stealer_open_wounds"
 			"8"		"life_stealer_rage"
 			"9"		"life_stealer_rage"
-			"10"		"special_bonus_unique_lifestealer_infest_damage"
+			"10"		"special_bonus_unique_lifestealer_2"
 			"11"		"life_stealer_rage"
 			"12"		"life_stealer_infest"
 			"13"		"life_stealer_ghoul_frenzy"

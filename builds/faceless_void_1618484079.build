@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"faceless_void"
-	"Title"		"Nerds Support Void"
+	"Title"		"Nerds Support Void - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"based on games of DuBu and 2B (as well as feedback of various Void Support spammers from 5.6k+ mmr)
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"42"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x00000000931E9568"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53D7B"
-	"TimePublished"		"0x0000000066A53D7B"
+	"TimeUpdated"		"0x0000000067CA39CB"
+	"TimePublished"		"0x0000000067CA39CB"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,23 +24,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_orb_of_venom"
 				"item"		"item_magic_wand"
 				"item"		"item_wind_lace"
+				"item"		"item_orb_of_frost"
 			}
 			"Core"
 			{
 				"item"		"item_tranquil_boots"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_gungir"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_solar_crest"
-				"item"		"item_holy_locket"
 				"item"		"item_ancient_janggo"
+				"item"		"item_urn_of_shadows"
 			}
 			"Lategame"
 			{
@@ -60,6 +60,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aeon_disk"
 				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
+				"item"		"item_spirit_vessel"
 			}
 			"Core Transition"
 			{
@@ -68,18 +69,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
+				"item"		"item_mana_draught"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_spark_of_courage"
-				"item"		"item_broom_handle"
-				"item"		"item_specialists_array"
-				"item"		"item_pupils_gift"
-				"item"		"item_vambrace"
-				"item"		"item_paladin_sword"
-				"item"		"item_defiant_shell"
-				"item"		"item_nemesis_curse"
-				"item"		"item_mind_breaker"
+				"item"		"item_misericorde"
+				"item"		"item_iron_talon"
+				"item"		"item_essence_ring"
+				"item"		"item_gale_guard"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_ninja_gear"
-				"item"		"item_avianas_feather"
+				"item"		"item_mind_breaker"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -106,12 +107,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"faceless_void_time_dilation"
 			"8"		"faceless_void_time_walk"
 			"9"		"faceless_void_time_walk"
-			"10"		"special_bonus_unique_faceless_void_7"
+			"10"		"special_bonus_unique_faceless_void_6"
 			"11"		"faceless_void_time_walk"
 			"12"		"faceless_void_chronosphere"
 			"13"		"faceless_void_time_lock"
 			"14"		"faceless_void_time_lock"
-			"15"		"special_bonus_unique_faceless_void_3"
+			"15"		"special_bonus_unique_faceless_void_8"
 			"16"		"faceless_void_time_lock"
 			"18"		"faceless_void_chronosphere"
 			"20"		"special_bonus_unique_faceless_void"

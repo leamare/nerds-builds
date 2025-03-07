@@ -3,16 +3,16 @@
 	"Hero"		"lina"
 	"Title"		"Nerds Support Lina"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"68"
+	"GuideRevision"		"71"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A53FAA"
-	"TimePublished"		"0x0000000066A53FAA"
+	"TimeUpdated"		"0x0000000067CB70E9"
+	"TimePublished"		"0x0000000067CB70E9"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,23 +21,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_blood_grenade"
-				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_faerie_fire"
+				"item"		"item_branches"
+				"item"		"item_magic_stick"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
 				"item"		"item_boots"
 				"item"		"item_ring_of_basilius"
 				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
 			}
 			"Core"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_aether_lens"
-				"item"		"item_cyclone"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -48,7 +49,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_cyclone"
 				"item"		"item_travel_boots"
 				"item"		"item_black_king_bar"
 				"item"		"item_wind_waker"
@@ -74,18 +75,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_royal_jelly"
-				"item"		"item_arcane_ring"
-				"item"		"item_occult_bracelet"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_eye_of_the_vizier"
-				"item"		"item_elven_tunic"
-				"item"		"item_nemesis_curse"
-				"item"		"item_psychic_headband"
-				"item"		"item_timeless_relic"
+				"item"		"item_trusty_shovel"
+				"item"		"item_mana_draught"
+				"item"		"item_misericorde"
+				"item"		"item_searing_signet"
+				"item"		"item_essence_ring"
+				"item"		"item_serrated_shiv"
 				"item"		"item_ninja_gear"
-				"item"		"item_spy_gadget"
+				"item"		"item_nemesis_curse"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_mind_breaker"
+				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -93,8 +93,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;amp;apos;re not going to buy Boots of Travel
-Before Eul&amp;amp;amp;amp;apos;s Scepter"
+			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;amp;amp;apos;re not going to buy Boots of Travel
+Before Eul&amp;amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -104,14 +104,14 @@ Before Eul&amp;amp;amp;amp;apos;s Scepter"
 			"1"		"lina_light_strike_array"
 			"2"		"lina_dragon_slave"
 			"3"		"lina_dragon_slave"
-			"4"		"lina_light_strike_array"
+			"4"		"lina_fiery_soul"
 			"5"		"lina_dragon_slave"
 			"6"		"lina_laguna_blade"
 			"7"		"lina_dragon_slave"
 			"8"		"lina_light_strike_array"
 			"9"		"lina_light_strike_array"
-			"10"		"lina_fiery_soul"
-			"11"		"special_bonus_unique_lina_1"
+			"10"		"special_bonus_unique_lina_1"
+			"11"		"lina_light_strike_array"
 			"12"		"lina_laguna_blade"
 			"13"		"lina_fiery_soul"
 			"14"		"lina_fiery_soul"
@@ -119,7 +119,7 @@ Before Eul&amp;amp;amp;amp;apos;s Scepter"
 			"16"		"lina_fiery_soul"
 			"18"		"lina_laguna_blade"
 			"20"		"special_bonus_unique_lina_6"
-			"25"		"special_bonus_unique_lina_7"
+			"25"		"special_bonus_unique_lina_crit_debuff"
 		}
 		"AbilityTooltips"
 		{
