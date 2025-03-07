@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dawnbreaker"
-	"Title"		"Nerds Support Dawnbreaker (F1)"
+	"Title"		"Nerds Support Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"47"
+	"GuideRevision"		"48"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067B42C8B"
-	"TimePublished"		"0x0000000067B42C8B"
+	"TimeUpdated"		"0x0000000067CA3881"
+	"TimePublished"		"0x0000000067CA3881"
 	"ItemBuild"
 	{
 		"Items"
@@ -68,18 +68,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_seeds_of_serenity"
-				"item"		"item_occult_bracelet"
+				"item"		"item_mana_draught"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_dragon_scale"
-				"item"		"item_vampire_fangs"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_defiant_shell"
-				"item"		"item_paladin_sword"
-				"item"		"item_havoc_hammer"
+				"item"		"item_spark_of_courage"
+				"item"		"item_misericorde"
+				"item"		"item_searing_signet"
+				"item"		"item_essence_ring"
+				"item"		"item_nemesis_curse"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gale_guard"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_mind_breaker"
-				"item"		"item_ascetic_cap"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -111,7 +111,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"dawnbreaker_luminosity"
 			"18"		"dawnbreaker_solar_guardian"
 			"20"		"special_bonus_unique_dawnbreaker_solar_guardian_radius"
-			"25"		"special_bonus_unique_dawnbreaker_celestial_hammer_cast_range"
+			"25"		"special_bonus_unique_dawnbreaker_fire_wreath_cooldown"
 		}
 		"AbilityTooltips"
 		{

@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"ember_spirit"
-	"Title"		"Nerds Support Ember (F2)"
+	"Title"		"Nerds Support Ember - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"40"
+	"GuideRevision"		"41"
 	"AssociatedWorkshopItemID"		"0x00000000911000DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067B43309"
-	"TimePublished"		"0x0000000067B43309"
+	"TimeUpdated"		"0x0000000067CA3D1E"
+	"TimePublished"		"0x0000000067CA3D1E"
 	"ItemBuild"
 	{
 		"Items"
@@ -55,18 +55,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_lance_of_pursuit"
+				"item"		"item_mana_draught"
+				"item"		"item_orb_of_destruction"
 				"item"		"item_trusty_shovel"
-				"item"		"item_arcane_ring"
-				"item"		"item_pupils_gift"
-				"item"		"item_vampire_fangs"
-				"item"		"item_bullwhip"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_dandelion_amulet"
-				"item"		"item_psychic_headband"
-				"item"		"item_timeless_relic"
-				"item"		"item_stormcrafter"
-				"item"		"item_ascetic_cap"
+				"item"		"item_essence_ring"
+				"item"		"item_searing_signet"
+				"item"		"item_misericorde"
+				"item"		"item_whisper_of_the_dread"
+				"item"		"item_nemesis_curse"
+				"item"		"item_gale_guard"
+				"item"		"item_mind_breaker"
+				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
 			{

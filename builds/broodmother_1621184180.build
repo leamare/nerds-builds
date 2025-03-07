@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"broodmother"
-	"Title"		"Nerds Offlane Brood (F2)"
+	"Title"		"Nerds Offlane Brood - F1"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006764C4CB"
-	"TimePublished"		"0x000000006764C4CB"
+	"TimeUpdated"		"0x0000000067CA35EF"
+	"TimePublished"		"0x0000000067CA35EF"
 	"ItemBuild"
 	{
 		"Items"
@@ -28,7 +28,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_boots"
 				"item"		"item_soul_ring"
 			}
@@ -41,12 +41,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core - Utility"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_mekansm"
+				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
 			}
 			"Situational Early"
 			{
 				"item"		"item_magic_wand"
+				"item"		"item_bracer"
 				"item"		"item_echo_sabre"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_diffusal_blade"
@@ -55,6 +56,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_guardian_greaves"
 				"item"		"item_black_king_bar"
 				"item"		"item_manta"
 				"item"		"item_bloodthorn"
@@ -77,23 +79,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_silver_edge"
 				"item"		"item_ethereal_blade"
 				"item"		"item_desolator"
-				"item"		"item_guardian_greaves"
 				"item"		"item_octarine_core"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_lance_of_pursuit"
-				"item"		"item_ironwood_tree"
-				"item"		"item_arcane_ring"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_dragon_scale"
-				"item"		"item_specialists_array"
-				"item"		"item_paladin_sword"
-				"item"		"item_defiant_shell"
-				"item"		"item_elven_tunic"
-				"item"		"item_avianas_feather"
-				"item"		"item_ninja_gear"
-				"item"		"item_trickster_cloak"
+				"item"		"item_mana_draught"
+				"item"		"item_rippers_lash"
+				"item"		"item_misericorde"
+				"item"		"item_essence_ring"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gale_guard"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_crippling_crossbow"
+				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -117,7 +116,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"broodmother_insatiable_hunger"
 			"9"		"broodmother_insatiable_hunger"
 			"10"		"broodmother_insatiable_hunger"
-			"11"		"special_bonus_unique_broodmother_6"
+			"11"		"special_bonus_unique_broodmother_3"
 			"12"		"broodmother_spawn_spiderlings"
 			"15"		"special_bonus_unique_broodmother_5"
 			"18"		"broodmother_spawn_spiderlings"
