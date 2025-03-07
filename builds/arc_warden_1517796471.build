@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Caster Warden"
 	"Role"		"#DOTA_HeroGuide_Role_Initiator"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"Arc Warden is agility core hero whose ability to use items twice and strong early game nukes make him pretty strong as nuke-oriented mid-game core with ability to transition into lategame core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"117"
+	"GuideRevision"		"119"
 	"AssociatedWorkshopItemID"		"0x00000000369F3F94"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067501663"
-	"TimePublished"		"0x0000000067501663"
+	"TimeUpdated"		"0x0000000067CA329F"
+	"TimePublished"		"0x0000000067CA329F"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,23 +23,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_ring_of_basilius"
-				"item"		"item_wraith_band"
+				"item"		"item_null_talisman"
 				"item"		"item_boots"
 				"item"		"item_hand_of_midas"
 			}
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_rod_of_atos"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_gungir"
+				"item"		"item_dagon_5"
 			}
 			"Situational Early"
 			{
@@ -61,7 +60,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_cyclone"
-				"item"		"item_dagon_5"
 				"item"		"item_mjollnir"
 				"item"		"item_sphere"
 				"item"		"item_lotus_orb"
@@ -70,21 +68,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodthorn"
 				"item"		"item_shivas_guard"
 				"item"		"item_wind_waker"
+				"item"		"item_gungir"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_royal_jelly"
-				"item"		"item_safety_bubble"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_pupils_gift"
-				"item"		"item_vindicators_axe"
-				"item"		"item_elven_tunic"
-				"item"		"item_paladin_sword"
+				"item"		"item_mana_draught"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_spark_of_courage"
+				"item"		"item_essence_ring"
+				"item"		"item_searing_signet"
+				"item"		"item_pogo_stick"
+				"item"		"item_gale_guard"
+				"item"		"item_nemesis_curse"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_mind_breaker"
-				"item"		"item_ninja_gear"
-				"item"		"item_ancient_guardian"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -130,11 +129,11 @@ ALTERNATIVE: Gleipnir"
 			"16"		"arc_warden_magnetic_field"
 			"18"		"arc_warden_tempest_double"
 			"20"		"special_bonus_unique_arc_warden"
-			"25"		"special_bonus_unique_arc_warden_flux_silences"
+			"25"		"special_bonus_unique_arc_warden_7"
 		}
 		"AbilityTooltips"
 		{
-			"arc_warden_magnetic_field"		"Even while we don&amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
+			"arc_warden_magnetic_field"		"Even while we don&amp;amp;amp;apos;t really have much AS and damage, magnetic field will make us pretty strong physical damage source, while also helps our team and allowes us to save our structures."
 			"arc_warden_spark_wraith"		"Scouting tool to avoid ganks, lasthit secure tool and, of cource, RQQEE combo allowes us to kill anybody early"
 		}
 	}

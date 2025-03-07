@@ -1,25 +1,24 @@
 "guidedata"
 {
 	"Hero"		"alchemist"
-	"Title"		"Nerds Support Alchemist (F1)"
+	"Title"		"Nerds Support Alch - F3"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"59"
+	"GuideRevision"		"60"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000675027B3"
-	"TimePublished"		"0x00000000675027B3"
+	"TimeUpdated"		"0x0000000067CA2F7F"
+	"TimePublished"		"0x0000000067CA2F7F"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_tango"
 				"item"		"item_tango"
 				"item"		"item_blood_grenade"
 				"item"		"item_magic_stick"
@@ -31,29 +30,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_infused_raindrop"
-				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
+				"item"		"item_ultimate_scepter"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_solar_crest"
-				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
+				"item"		"item_glimmer_cape"
+				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
+				"item"		"item_magic_wand"
+				"item"		"item_tranquil_boots"
 				"item"		"item_arcane_boots"
-				"item"		"item_meteor_hammer"
-				"item"		"item_soul_ring"
-				"item"		"item_ghost"
-				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
 				"item"		"item_boots_of_bearing"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
@@ -64,9 +59,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
+				"item"		"item_meteor_hammer"
+				"item"		"item_ghost"
 			}
 			"Core transition"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 				"item"		"item_silver_edge"
 				"item"		"item_bloodthorn"
@@ -74,18 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
-				"item"		"item_spark_of_courage"
-				"item"		"item_trusty_shovel"
+				"item"		"item_mana_draught"
 				"item"		"item_orb_of_destruction"
-				"item"		"item_dragon_scale"
+				"item"		"item_spark_of_courage"
 				"item"		"item_iron_talon"
-				"item"		"item_paladin_sword"
-				"item"		"item_elven_tunic"
-				"item"		"item_defiant_shell"
-				"item"		"item_mind_breaker"
+				"item"		"item_essence_ring"
+				"item"		"item_misericorde"
+				"item"		"item_gale_guard"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_ninja_gear"
-				"item"		"item_ascetic_cap"
+				"item"		"item_pyrrhic_cloak"
+				"item"		"item_ogre_seal_totem"
+				"item"		"item_ninja_gear"
 			}
 			"https://builds.spectral.gg/"
 			{

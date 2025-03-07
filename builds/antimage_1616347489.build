@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"antimage"
-	"Title"		"Nerds Support Antimage (F2)"
+	"Title"		"Nerds Support Antimage - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.37e"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x0000000091101944"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000675027F4"
-	"TimePublished"		"0x00000000675027F4"
+	"TimeUpdated"		"0x0000000067CA3066"
+	"TimePublished"		"0x0000000067CA3066"
 	"ItemBuild"
 	{
 		"Items"
@@ -71,18 +71,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_broom_handle"
-				"item"		"item_duelist_gloves"
-				"item"		"item_safety_bubble"
-				"item"		"item_pupils_gift"
-				"item"		"item_specialists_array"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_spark_of_courage"
+				"item"		"item_polliwog_charm"
+				"item"		"item_essence_ring"
+				"item"		"item_misericorde"
 				"item"		"item_iron_talon"
-				"item"		"item_vambrace"
-				"item"		"item_vindicators_axe"
-				"item"		"item_elven_tunic"
-				"item"		"item_avianas_feather"
-				"item"		"item_ninja_gear"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_gale_guard"
+				"item"		"item_serrated_shiv"
 				"item"		"item_mind_breaker"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
