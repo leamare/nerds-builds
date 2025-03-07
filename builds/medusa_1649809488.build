@@ -3,22 +3,21 @@
 	"Hero"		"medusa"
 	"Title"		"Nerds Medusa"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"37"
+	"GuideRevision"		"38"
 	"AssociatedWorkshopItemID"		"0x00000000A8043F97"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A5421B"
-	"TimePublished"		"0x0000000066A5421B"
+	"TimeUpdated"		"0x0000000067CB7921"
+	"TimePublished"		"0x0000000067CB7921"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_sobi_mask"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
@@ -26,7 +25,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_ring_of_basilius"
 				"item"		"item_quelling_blade"
 				"item"		"item_magic_wand"
 				"item"		"item_boots"
@@ -34,7 +32,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_power_treads"
 				"item"		"item_manta"
 				"item"		"item_butterfly"
 			}
@@ -46,15 +44,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_dragon_lance"
 				"item"		"item_maelstrom"
 				"item"		"item_mask_of_madness"
-				"item"		"item_power_treads"
+				"item"		"item_ring_of_basilius"
 			}
 			"Lategame"
 			{
+				"item"		"item_greater_crit"
 				"item"		"item_disperser"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_skadi"
 				"item"		"item_aghanims_shard"
-				"item"		"item_greater_crit"
 				"item"		"item_bloodthorn"
 			}
 			"Situational"
@@ -79,18 +77,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_arcane_ring"
+				"item"		"item_spark_of_courage"
 				"item"		"item_occult_bracelet"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_vambrace"
-				"item"		"item_elven_tunic"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_vindicators_axe"
-				"item"		"item_ninja_gear"
+				"item"		"item_misericorde"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_nemesis_curse"
+				"item"		"item_serrated_shiv"
 				"item"		"item_mind_breaker"
-				"item"		"item_avianas_feather"
+				"item"		"item_crippling_crossbow"
+				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -106,7 +101,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"medusa_mystic_snake"
-			"2"		"medusa_split_shot"
+			"2"		"medusa_gorgon_grasp"
 			"3"		"medusa_mystic_snake"
 			"4"		"medusa_split_shot"
 			"5"		"medusa_mystic_snake"
@@ -114,16 +109,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"medusa_mystic_snake"
 			"8"		"medusa_split_shot"
 			"9"		"medusa_stone_gaze"
-			"10"		"special_bonus_unique_medusa_snake_damage"
-			"11"		"medusa_mana_shield"
+			"10"		"special_bonus_unique_medusa_8"
+			"11"		"medusa_split_shot"
 			"12"		"medusa_stone_gaze"
-			"13"		"medusa_mana_shield"
-			"14"		"medusa_mana_shield"
+			"13"		"medusa_gorgon_grasp"
+			"14"		"medusa_gorgon_grasp"
 			"15"		"special_bonus_unique_medusa_2"
-			"16"		"medusa_mana_shield"
+			"16"		"medusa_gorgon_grasp"
 			"18"		"medusa_stone_gaze"
 			"20"		"special_bonus_unique_medusa"
-			"25"		"special_bonus_unique_medusa_4"
+			"25"		"special_bonus_intelligence_40"
 		}
 		"AbilityTooltips"
 		{

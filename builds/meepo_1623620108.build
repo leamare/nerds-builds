@@ -1,9 +1,9 @@
 "guidedata"
 {
 	"Hero"		"meepo"
-	"Title"		"Experimental Support Meepo"
+	"Title"		"Experimental Support Meepo - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.38b"
 	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
 
 The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
@@ -18,12 +18,12 @@ This build is experimental and is very hard to execute. Proceed on your own risk
 This guide was requested by lamallama
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A540B4"
-	"TimePublished"		"0x0000000066A540B4"
+	"TimeUpdated"		"0x0000000067CB79DF"
+	"TimePublished"		"0x0000000067CB79DF"
 	"ItemBuild"
 	{
 		"Items"
@@ -72,18 +72,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
-				"item"		"item_arcane_ring"
-				"item"		"item_occult_bracelet"
-				"item"		"item_specialists_array"
-				"item"		"item_pupils_gift"
-				"item"		"item_vambrace"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_defiant_shell"
-				"item"		"item_elven_tunic"
+				"item"		"item_rippers_lash"
+				"item"		"item_orb_of_destruction"
+				"item"		"item_misericorde"
+				"item"		"item_iron_talon"
+				"item"		"item_nemesis_curse"
 				"item"		"item_ninja_gear"
-				"item"		"item_spy_gadget"
-				"item"		"item_timeless_relic"
+				"item"		"item_serrated_shiv"
+				"item"		"item_mind_breaker"
+				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -98,8 +95,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"meepo_ransack"
-			"2"		"meepo_poof"
+			"1"		"meepo_poof"
+			"2"		"meepo_ransack"
 			"3"		"meepo_earthbind"
 			"4"		"meepo_divided_we_stand"
 			"5"		"meepo_poof"
