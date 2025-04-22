@@ -3,17 +3,17 @@
 	"Hero"		"chen"
 	"Title"		"Nerds Core Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.38b"
+	"GameplayVersion"		"7.38c"
 	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"112"
+	"GuideRevision"		"113"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067CA3649"
-	"TimePublished"		"0x0000000067CA3649"
+	"TimeUpdated"		"0x000000006806E7CC"
+	"TimePublished"		"0x000000006806E7CC"
 	"ItemBuild"
 	{
 		"Items"
@@ -106,7 +106,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;amp;amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;amp;amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"

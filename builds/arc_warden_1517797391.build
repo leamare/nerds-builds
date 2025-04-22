@@ -3,16 +3,16 @@
 	"Hero"		"arc_warden"
 	"Title"		"Nerds Arc Warden - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38b"
+	"GameplayVersion"		"7.38c"
 	"Overview"		"Arc Warden is agility core hero. This build is focused on being active in early-mid fights and being hard to take down with a lot of survivability, AoE damage and pushing power.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"139"
+	"GuideRevision"		"140"
 	"AssociatedWorkshopItemID"		"0x0000000036B0001E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067CA32A6"
-	"TimePublished"		"0x0000000067CA32A6"
+	"TimeUpdated"		"0x000000006806E690"
+	"TimePublished"		"0x000000006806E690"
 	"ItemBuild"
 	{
 		"Items"
@@ -115,24 +115,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_travel_boots"		"~16-21 min
-Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don&amp;amp;amp;apos;t need to care about movement speed anymore
+Gives us ability to split-farm and join the fights from far away. And, of course, increases our mobility even further, so you don&amp;amp;amp;amp;apos;t need to care about movement speed anymore
 ALTERNATIVE: Power Treads"
 			"item_sheepstick"		"Additional lockdown, one of the best lategame items for Arc since you have not one, but two hexes. It can be replaced with Bloodthorn+nullifier combo, but hex is better since it cannot be dispelled (while nullifier+bloodthorn combo can be purged with everything)"
 			"item_bloodthorn"		"Offensive lockdown solution. It can be purged so it`s more of a DPS/focus item, but can be rushed early via Orchid to snowball or kill targets faster in the lategame"
 			"item_hurricane_pike"		"~20 min
 Stat boost and additional escape for cases when something goes wrong (can be used offensively too). Very good against gap closers (PA, Clockwerk, Riki)
 ALTERNATIVES: Shadow Blade, Blink Dagger"
-			"item_black_king_bar"		"If you are going to join fights early and be in epicenter of them, you should probably get BKB most of the time, usually against heroes with high magic damage or controlling spells. Don&amp;amp;amp;apos;t be afraid to get it early and use it every time: it will pay off sooner than you think"
+			"item_black_king_bar"		"If you are going to join fights early and be in epicenter of them, you should probably get BKB most of the time, usually against heroes with high magic damage or controlling spells. Don&amp;amp;amp;amp;apos;t be afraid to get it early and use it every time: it will pay off sooner than you think"
 			"item_blade_mail"		"~10 min
-Since we are tanky enough, it&amp;amp;amp;apos;s good to stop enemies from trying to bring us down or at least deal reasonable amounts of damage to them"
+Since we are tanky enough, it&amp;amp;amp;amp;apos;s good to stop enemies from trying to bring us down or at least deal reasonable amounts of damage to them"
 			"item_monkey_king_bar"		"High attack speed inside of magnetic field, a lot of potential procs"
 			"item_butterfly"		"High damage increase and tankiness from miss chance. It`s cheap enough so we can continue our pressure, while also providing decent damage against towers."
 			"item_mjollnir"		"~17-23 min
-Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you&amp;amp;amp;apos;re going to participate in fights by yourself
+Increase in our farming speed and huge boost to our damage in fights. Maelstrom is pretty good to get early by itself, but early mjolnir is even better if you&amp;amp;amp;amp;apos;re going to participate in fights by yourself
 ALTERNATIVE: Gleipnir"
 			"item_skadi"		"It may turn you into walking tank. Altho, you will have low damage output and won`t be able to use properly all of you slots (considering two of them being octarine and BoTs already, you will have only three effective slots)"
 			"item_hand_of_midas"		"~7-9 min
-Arc Warden&amp;amp;amp;apos;s signature farming tool. Can be skipped if you are behind"
+Arc Warden&amp;amp;amp;amp;apos;s signature farming tool. Can be skipped if you are behind"
 			"item_maelstrom"		"~11-13 min
 Maelstrom is already good enough for your hero, considering having a lot of attack speed, but also increases farming a lot (magnetic field + maelstrom almost completely kills creepwave)"
 			"item_blink"		"Good for initiating from long range with hex and preventing enemy from reacting. 
@@ -177,7 +177,7 @@ ALTERNATIVES: Hurricane Pike, Blink Dagger"
 		{
 			"arc_warden_flux"		"Even while sparks are more useful for farming, Flux is much more useful for killing people (double flux = 100% slow or 100 ms on targeted hero and a lot of damage), so you want to max out it first"
 			"arc_warden_magnetic_field"		"Our strongest spell for both offensive (a lot of bonus attack speed) and defensive (save allies, yourself or even your base from being attacked) plays, altho not really useful for killing early on"
-			"arc_warden_spark_wraith"		"We can spam it with octarine and aquila, it can help us out in lane so we won&amp;amp;amp;apos;t get ganked, RQQEE combo will kill almost anybody in early game"
+			"arc_warden_spark_wraith"		"We can spam it with octarine and aquila, it can help us out in lane so we won&amp;amp;amp;amp;apos;t get ganked, RQQEE combo will kill almost anybody in early game"
 			"arc_warden_tempest_double"		"Your main trick. With double you can instakill a lot of heroes, splitfarm and be quite useful in fights. Just remember that you need as much effective slots (active items you can use twice or use without losing charges) as possible to get maximum value out of it"
 		}
 	}

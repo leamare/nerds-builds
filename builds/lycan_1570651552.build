@@ -3,16 +3,16 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38b"
+	"GameplayVersion"		"7.38c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"82"
+	"GuideRevision"		"83"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000067CB7518"
-	"TimePublished"		"0x0000000067CB7518"
+	"TimeUpdated"		"0x000000006806F423"
+	"TimePublished"		"0x000000006806F423"
 	"ItemBuild"
 	{
 		"Items"
@@ -100,7 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_helm_of_the_dominator"		"~8 min"
-			"item_boots"		"Before Vladmir&amp;amp;amp;amp;amp;apos;s Offering
+			"item_boots"		"Before Vladmir&amp;amp;amp;amp;amp;amp;apos;s Offering
 Usually you tend to play without Boots, especially in lane, until you finish Helm."
 			"item_helm_of_the_overlord"		"~14-16 min
 ALTERNATIVE: Wraith Pact"
