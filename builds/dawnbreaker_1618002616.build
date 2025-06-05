@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dawnbreaker"
-	"Title"		"Nerds Support Dawnbreaker"
+	"Title"		"Nerds Sup Dawn - F3"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E8A8"
-	"TimePublished"		"0x000000006806E8A8"
+	"TimeUpdated"		"0x00000000683F9C4F"
+	"TimePublished"		"0x00000000683F9C4F"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,50 +36,49 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_mekansm"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_pavise"
+				"item"		"item_mekansm"
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
 				"item"		"item_holy_locket"
-				"item"		"item_aghanims_shard"
+				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_blink"
-				"item"		"item_heavens_halberd"
-				"item"		"item_black_king_bar"
 			}
 			"Situational"
 			{
 				"item"		"item_glimmer_cape"
 				"item"		"item_force_staff"
+				"item"		"item_sheepstick"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
 				"item"		"item_crimson_guard"
 				"item"		"item_lotus_orb"
 				"item"		"item_basher"
+				"item"		"item_heavens_halberd"
+				"item"		"item_black_king_bar"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_chipped_vest"
 				"item"		"item_spark_of_courage"
+				"item"		"item_mana_draught"
 				"item"		"item_misericorde"
-				"item"		"item_searing_signet"
 				"item"		"item_essence_ring"
-				"item"		"item_nemesis_curse"
 				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_gale_guard"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_mind_breaker"
+				"item"		"item_pyrrhic_cloak"
+				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -111,7 +110,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"dawnbreaker_luminosity"
 			"18"		"dawnbreaker_solar_guardian"
 			"20"		"special_bonus_unique_dawnbreaker_solar_guardian_radius"
-			"25"		"special_bonus_unique_dawnbreaker_fire_wreath_cooldown"
+			"25"		"special_bonus_unique_dawnbreaker_celestial_hammer_cast_range"
 		}
 		"AbilityTooltips"
 		{

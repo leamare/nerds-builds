@@ -3,17 +3,17 @@
 	"Hero"		"arc_warden"
 	"Title"		"Experimental Offlane Warden - F1"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"88"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x0000000067B22894"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E696"
-	"TimePublished"		"0x000000006806E696"
+	"TimeUpdated"		"0x00000000683E361D"
+	"TimePublished"		"0x00000000683E361D"
 	"ItemBuild"
 	{
 		"Items"
@@ -86,18 +86,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
 				"item"		"item_spark_of_courage"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_chipped_vest"
+				"item"		"item_dormant_curio"
 				"item"		"item_searing_signet"
-				"item"		"item_essence_ring"
 				"item"		"item_misericorde"
-				"item"		"item_gale_guard"
+				"item"		"item_essence_ring"
+				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_nemesis_curse"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_gale_guard"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_mind_breaker"
+				"item"		"item_giant_maul"
 			}
 			"https://builds.spectral.gg/"
 			{

@@ -3,42 +3,38 @@
 	"Hero"		"drow_ranger"
 	"Title"		"Nerds Drow Ranger - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"94"
+	"GuideRevision"		"95"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E919"
-	"TimePublished"		"0x000000006806E919"
+	"TimeUpdated"		"0x00000000683FA09D"
+	"TimePublished"		"0x00000000683FA09D"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items"
 			{
-				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
-				"item"		"item_magic_stick"
+				"item"		"item_magic_wand"
 			}
 			"Early"
 			{
-				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
 				"item"		"item_dragon_lance"
 			}
 			"Core"
 			{
 				"item"		"item_manta"
-				"item"		"item_hurricane_pike"
-				"item"		"item_silver_edge"
 				"item"		"item_aghanims_shard"
+				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
@@ -56,6 +52,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_silver_edge"
 				"item"		"item_black_king_bar"
 				"item"		"item_swift_blink"
 				"item"		"item_sange_and_yasha"
@@ -75,16 +72,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_spark_of_courage"
 				"item"		"item_mana_draught"
-				"item"		"item_occult_bracelet"
-				"item"		"item_orb_of_destruction"
 				"item"		"item_misericorde"
-				"item"		"item_iron_talon"
-				"item"		"item_nemesis_curse"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_serrated_shiv"
-				"item"		"item_ninja_gear"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_mind_breaker"
 				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
@@ -98,7 +91,7 @@ If you want to go all-in for farming and can get it relatively early, it may be 
 			"item_power_treads"		"~7 min
 Even while Drow wants attack speed more than damage, getting additional agility for such a cheap price is way too valuable for her"
 			"item_wraith_band"		"Stack as much of Wraith Bands as you possibly can, saving a slot for boots and blink. This will allow you to keep on moving during early game"
-			"item_blink"		"Main mobility and farming tool. Get it if you&amp;amp;amp;apos;re going to play agressively around pickoffs"
+			"item_blink"		"Main mobility and farming tool. Get it if you&amp;amp;amp;amp;apos;re going to play agressively around pickoffs"
 			"item_manta"		"Getting casual Yasha and upgrading it into Manta Style will help you with mobility, while also providing a lot of agility, boosting your farming speed even more
 ALTERNATIVE: Sange and Yasha"
 			"item_hurricane_pike"		"Both mobility and surviveability item, that will also help with keeping distance"
@@ -107,7 +100,7 @@ ALTERNATIVE: Sange and Yasha"
 			"item_butterfly"		"More of an offensive choice if you want to boost your damage significantly"
 			"item_greater_crit"		"Most offensive choice, mostly purchased as sixth slot"
 			"item_satanic"		"Tankiness, dispel and lifesteal that will make you pretty much unkillable"
-			"item_sheepstick"		"Considering level 25 talent, it&amp;amp;amp;apos;s good purchase if your team lacks control"
+			"item_sheepstick"		"Considering level 25 talent, it&amp;amp;amp;amp;apos;s good purchase if your team lacks control"
 			"item_dragon_lance"		"~11-13 min"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 		}
@@ -119,8 +112,8 @@ ALTERNATIVE: Sange and Yasha"
 			"1"		"drow_ranger_frost_arrows"
 			"2"		"drow_ranger_multishot"
 			"3"		"drow_ranger_frost_arrows"
-			"4"		"drow_ranger_multishot"
-			"5"		"drow_ranger_wave_of_silence"
+			"4"		"drow_ranger_wave_of_silence"
+			"5"		"drow_ranger_multishot"
 			"6"		"drow_ranger_marksmanship"
 			"7"		"drow_ranger_multishot"
 			"8"		"drow_ranger_multishot"
@@ -130,7 +123,7 @@ ALTERNATIVE: Sange and Yasha"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"
-			"15"		"special_bonus_unique_drow_ranger_6"
+			"15"		"special_bonus_attack_range_75"
 			"16"		"drow_ranger_wave_of_silence"
 			"18"		"drow_ranger_marksmanship"
 			"20"		"special_bonus_unique_drow_ranger_1"

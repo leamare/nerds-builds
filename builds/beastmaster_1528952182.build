@@ -3,18 +3,18 @@
 	"Hero"		"beastmaster"
 	"Title"		"Nerds Beastmaster - F2"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Beastmaster is a strength utility core hero who excells at map control and teamfighting. His scouting capabilities are almost limitless with Hawk, free invisible ward, but he is also a strong split pusher because of his complete skillset.  Both of these strengths allow him to apply a lot of pressure around the map, but aside from that utlity from his auras allowes him to be pretty strong at pushing and teamfighting by buffing everybody on his team with attack speed, and Primal Roar just completes this idea.
 
 Beastmaster is very versatile in terms of his gameplay function, but usually he's played around summons and auras. Beastmaster is also a pretty strong laner, thanks to his summons and high base damage. His cons are lack of some kind of escape mechanism and vulnerability to early shutdowns. Playing Beastmaster also requires micromanagement skills from a player.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"117"
+	"GuideRevision"		"121"
 	"AssociatedWorkshopItemID"		"0x0000000056FAC16E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E774"
-	"TimePublished"		"0x000000006806E774"
+	"TimeUpdated"		"0x00000000683E3A65"
+	"TimePublished"		"0x00000000683E3A65"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,7 +29,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_tango"
-				"item"		"item_power_treads"
+				"item"		"item_arcane_boots"
 			}
 			"Core"
 			{
@@ -43,7 +43,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bracer"
 				"item"		"item_soul_ring"
 				"item"		"item_vanguard"
-				"item"		"item_arcane_boots"
+				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
@@ -82,18 +82,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
-				"item"		"item_arcane_ring"
-				"item"		"item_royal_jelly"
-				"item"		"item_vampire_fangs"
-				"item"		"item_dragon_scale"
-				"item"		"item_iron_talon"
-				"item"		"item_defiant_shell"
-				"item"		"item_paladin_sword"
-				"item"		"item_cloak_of_flames"
-				"item"		"item_havoc_hammer"
-				"item"		"item_ascetic_cap"
-				"item"		"item_ninja_gear"
+				"item"		"item_rippers_lash"
+				"item"		"item_spark_of_courage"
+				"item"		"item_chipped_vest"
+				"item"		"item_essence_ring"
+				"item"		"item_searing_signet"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_gale_guard"
+				"item"		"item_serrated_shiv"
+				"item"		"item_whisper_of_the_dread"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_pyrrhic_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -101,15 +100,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_assault"		"Good addition to all the auras theme. It&amp;amp;amp;apos;s not only buffs your teammates, but also debuffs enemies with negative armor effectively increasing your damage output. It also works great while split pushing since negative armor aura works on buildings as well"
-			"item_vladmir"		"rmor and damage boost for our summons. It works well with all the auras theme for your team, but it also significantly increases your damage output early on, buffing your boars"
-			"item_blink"		"Blink Dagger helps a lot with initiation, but it is also useful as escape tool. Both of these purposes allow Beastmaster to play agressively around the map"
 			"item_bracer"		"Cheap early stats to increase your tankiness for early fighting"
-			"item_armlet"		"Good solution for snowballing when you had a great start"
-			"item_solar_crest"		"Natural upgrade to Medallion. Great stats as well as offensive capabilities: you can debuff your enemy for a quick kill or buff another core on your team"
-			"item_silver_edge"		"Natural upgrade to Shadow Blade. It&amp;amp;amp;apos;s also good against tanky enemy heroes who rely on their passives and can survive your focus because of that (Timbersaw, Bristleback, Huskar)"
-			"item_travel_boots"		"Split pushing tool. You can purchase it somewhat early (after Necronomicon) to just fly around the map and apply pressure or get it later if you can&amp;amp;amp;apos;t successfully fight with your team yet"
-			"item_crimson_guard"		"Against summons or as natural Vanguard upgrade"
 			"item_helm_of_the_dominator"		"~7-8 min"
 			"item_helm_of_the_overlord"		"~15-18 min"
 			"item_ultimate_scepter"		"~13 min"
@@ -141,13 +132,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_beastmaster_2"		"While 500 HP is still a lot, Boars are way too powerful at any stage of the game. In combination with Vladmir&amp;amp;amp;apos;s offering this talent makes them way too scary and powerful to fight against"
-			"beastmaster_call_of_the_wild_boar"		"Early fighting, map control, scouting and lane dominating tool. Level 4 Boars are also your first real powerspike because of their high damage and slow
-
-Boars can be used to zone out enemy supports early on, block or stack neutral camps. Hawks can be used for scouting and blocking camps"
-			"beastmaster_inner_beast"		"It&amp;amp;amp;apos;s great pushing tool as well as early brawling tool. It works well with all your summons and pushing strats. It&amp;amp;amp;apos;s also great in combination with Primal Roar since it allowes to burst enemy targets down"
-			"beastmaster_wild_axes"		"Wild Axes is pretty much useless still early on (compared to others), but it can be useful later on to quickly kill creepwaves or burst down stunned enemies. You can also use it to stack and farm neutrals (especially ancients)"
-			"beastmaster_primal_roar"		"It&amp;amp;amp;apos;s the longest reliable stun in the game that also pierces Spell Immunity. It&amp;amp;amp;apos;s your only teamfight spell, but it&amp;amp;amp;apos;s also one of the most powerful ones. Altho it works better for getting pickoffs before getting objectives or forcing a fight with enemy team. Early on it may be used to kill your lane opponent (usually enemy carry) and burst him down with your summons"
+			"special_bonus_unique_beastmaster_2"		"While 500 HP is still a lot, Boars are way too powerful at any stage of the game. In combination with Vladmir&amp;amp;amp;amp;apos;s offering this talent makes them way too scary and powerful to fight against"
 		}
 	}
 }

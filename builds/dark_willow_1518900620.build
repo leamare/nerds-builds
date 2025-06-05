@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dark_willow"
-	"Title"		"Nerds Dark Willow"
+	"Title"		"Nerds Dark Willow - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"126"
+	"GuideRevision"		"127"
 	"AssociatedWorkshopItemID"		"0x0000000053435A9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E84B"
-	"TimePublished"		"0x000000006806E84B"
+	"TimeUpdated"		"0x00000000683F9B72"
+	"TimePublished"		"0x00000000683F9B72"
 	"ItemBuild"
 	{
 		"Items"
@@ -83,17 +83,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
 				"item"		"item_occult_bracelet"
-				"item"		"item_gossamer_cape"
+				"item"		"item_polliwog_charm"
+				"item"		"item_spark_of_courage"
 				"item"		"item_searing_signet"
-				"item"		"item_pogo_stick"
+				"item"		"item_essence_ring"
+				"item"		"item_mana_draught"
 				"item"		"item_gale_guard"
-				"item"		"item_ninja_gear"
 				"item"		"item_whisper_of_the_dread"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_serrated_shiv"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_mind_breaker"
+				"item"		"item_giant_maul"
 			}
 			"https://builds.spectral.gg/"
 			{

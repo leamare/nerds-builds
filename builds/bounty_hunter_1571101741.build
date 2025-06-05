@@ -3,54 +3,48 @@
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x000000008BCA8526"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E789"
-	"TimePublished"		"0x000000006806E789"
+	"TimeUpdated"		"0x00000000683E3F7D"
+	"TimePublished"		"0x00000000683E3F7D"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_tango"
-				"item"		"item_magic_stick"
-				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_boots"
 				"item"		"item_blood_grenade"
-				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_magic_stick"
+				"item"		"item_tranquil_boots"
 			}
 			"Core"
 			{
-				"item"		"item_tranquil_boots"
-				"item"		"item_magic_wand"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_aghanims_shard"
+				"item"		"item_sheepstick"
 			}
 			"Situational Early"
 			{
-				"item"		"item_phylactery"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_cyclone"
 				"item"		"item_blink"
 				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
 			}
 			"Lategame"
 			{
+				"item"		"item_cyclone"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
-				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
@@ -76,16 +70,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_trusty_shovel"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_occult_bracelet"
+				"item"		"item_polliwog_charm"
+				"item"		"item_chipped_vest"
 				"item"		"item_searing_signet"
 				"item"		"item_essence_ring"
-				"item"		"item_gossamer_cape"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_gale_guard"
-				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_psychic_headband"
+				"item"		"item_whisper_of_the_dread"
 				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"

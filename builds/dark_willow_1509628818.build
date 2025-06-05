@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Dark Willow (aka Sylph) is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"161"
+	"GuideRevision"		"162"
 	"AssociatedWorkshopItemID"		"0x0000000046F892FC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E853"
-	"TimePublished"		"0x000000006806E853"
+	"TimeUpdated"		"0x00000000683F9BC2"
+	"TimePublished"		"0x00000000683F9BC2"
 	"ItemBuild"
 	{
 		"Items"
@@ -88,17 +88,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_mana_draught"
-				"item"		"item_gossamer_cape"
+				"item"		"item_occult_bracelet"
+				"item"		"item_polliwog_charm"
+				"item"		"item_spark_of_courage"
+				"item"		"item_essence_ring"
 				"item"		"item_searing_signet"
-				"item"		"item_pogo_stick"
+				"item"		"item_mana_draught"
 				"item"		"item_gale_guard"
-				"item"		"item_ninja_gear"
 				"item"		"item_whisper_of_the_dread"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_serrated_shiv"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_mind_breaker"
+				"item"		"item_giant_maul"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -108,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_power_treads"		"Extra tankiness is extremely valuable considering our HP pool. It also works great in combination with Soul Ring
 ALTERNATIVE: Tranquil Boots"
-			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;apos;s Scepter"
+			"item_mask_of_madness"		"After Aghanim&amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"

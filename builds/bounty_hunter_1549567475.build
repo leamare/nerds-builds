@@ -2,19 +2,19 @@
 {
 	"Hero"		"bounty_hunter"
 	"Title"		"Nerds Bounty Hunter - F1"
-	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.38c"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Bounty Hunter is an agility hero who can be played as a core. Bounty is extremely versatile high-damage hero who is hard to catch and hard to bully out of lane. Later into the game he can drastically increase his team's networth after every kill and become almost unstoppable by snowballing out of control.
 
 Your main goal early on is to use Jinada to harass enemy as much as possible while also securing lasthits. After level 2 you can skill Shadow Walk once so you will have some kind of escape and slow, but your main focus is still Jinada. After you reach level 6 you will be able to start snowballing due to Track crits, high damage output from Jinada and high movement speed. At this point you won't really need to farm: you just need to establish your dominance and scout enemy heroes to be as agressive as possible.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"102"
+	"GuideRevision"		"103"
 	"AssociatedWorkshopItemID"		"0x0000000062E0AA9D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E78E"
-	"TimePublished"		"0x000000006806E78E"
+	"TimeUpdated"		"0x00000000683E3EBC"
+	"TimePublished"		"0x00000000683E3EBC"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,10 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_faerie_fire"
 				"item"		"item_quelling_blade"
 			}
 			"Early"
@@ -37,7 +34,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_octarine_core"
+				"item"		"item_manta"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -48,24 +46,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_sange_and_yasha"
-				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
+				"item"		"item_octarine_core"
+				"item"		"item_butterfly"
 				"item"		"item_sheepstick"
-				"item"		"item_overwhelming_blink"
 				"item"		"item_assault"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_blink"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_aghanims_shard"
 				"item"		"item_desolator"
 				"item"		"item_bloodthorn"
 				"item"		"item_abyssal_blade"
 				"item"		"item_nullifier"
 				"item"		"item_satanic"
-				"item"		"item_angels_demise"
+				"item"		"item_overwhelming_blink"
 			}
 			"Utility"
 			{
@@ -79,7 +76,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_manta"
 				"item"		"item_skadi"
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
@@ -89,16 +85,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_trusty_shovel"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_occult_bracelet"
+				"item"		"item_polliwog_charm"
+				"item"		"item_chipped_vest"
 				"item"		"item_searing_signet"
 				"item"		"item_essence_ring"
-				"item"		"item_gossamer_cape"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_serrated_shiv"
 				"item"		"item_gale_guard"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_giant_maul"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
@@ -108,8 +105,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_sange_and_yasha"		"Another snowballing item and another flat movement speed bonus. It makes you strong at both defense and offense"
-			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&amp;amp;amp;apos;t be able to catch up to you"
-			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&amp;amp;amp;apos;s active component drastically increases your damage output
+			"item_phase_boots"		"You are a melee core which makes it already a good pickup, but it also works great with Track movement speed bonus and your items. You will be able to engage and disengage at speeds so high so most heroes won&amp;amp;amp;amp;apos;t be able to catch up to you"
+			"item_solar_crest"		"Great item for both offense and defense. Stats and flat movement speed make it great in terms of damage, mobility and tankiness, and it&amp;amp;amp;amp;apos;s active component drastically increases your damage output
 
 You can also use it on friendly catapult or another core on your team to push faster"
 			"item_desolator"		"Nice agressive addition to amplify your damage output"
@@ -117,32 +114,32 @@ You can also use it on friendly catapult or another core on your team to push fa
 			"item_crimson_guard"		"Good tankiness and utility item overall, good solution against physical damage"
 			"item_vanguard"		"Good early tankiness solution. Can be upgraded into Crimson Guard (utility way) which is pretty good item for your team overall"
 			"item_heavens_halberd"		"Good tankiness solution, works well against high damage enemy cores"
-			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&amp;amp;amp;apos;s damage output it won&amp;amp;amp;apos;t be a problem anyway"
+			"item_sheepstick"		"Another reliable disable for your team. You will lose some damage with it, but considering BH&amp;amp;amp;amp;apos;s damage output it won&amp;amp;amp;amp;apos;t be a problem anyway"
 		}
 	}
 	"AbilityBuild"
 	{
 		"AbilityOrder"
 		{
-			"1"		"bounty_hunter_shuriken_toss"
-			"2"		"bounty_hunter_jinada"
+			"1"		"bounty_hunter_jinada"
+			"2"		"bounty_hunter_shuriken_toss"
 			"3"		"bounty_hunter_shuriken_toss"
-			"4"		"bounty_hunter_wind_walk"
+			"4"		"bounty_hunter_jinada"
 			"5"		"bounty_hunter_shuriken_toss"
 			"6"		"bounty_hunter_track"
 			"7"		"bounty_hunter_shuriken_toss"
-			"8"		"bounty_hunter_jinada"
+			"8"		"bounty_hunter_wind_walk"
 			"9"		"bounty_hunter_jinada"
-			"10"		"special_bonus_unique_bounty_hunter_5"
+			"10"		"special_bonus_attack_damage_25"
 			"11"		"bounty_hunter_jinada"
 			"12"		"bounty_hunter_track"
 			"13"		"bounty_hunter_wind_walk"
 			"14"		"bounty_hunter_wind_walk"
-			"15"		"special_bonus_unique_bounty_hunter_9"
+			"15"		"special_bonus_unique_bounty_hunter_3"
 			"16"		"bounty_hunter_wind_walk"
 			"18"		"bounty_hunter_track"
-			"20"		"special_bonus_unique_bounty_hunter_8"
-			"25"		"special_bonus_unique_bounty_hunter_2"
+			"20"		"special_bonus_unique_bounty_hunter"
+			"25"		"special_bonus_unique_bounty_hunter_jinada_no_cooldown"
 		}
 		"AbilityTooltips"
 		{

@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Support Alch - F3"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"61"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E6DC"
-	"TimePublished"		"0x000000006806E6DC"
+	"TimeUpdated"		"0x00000000683E339A"
+	"TimePublished"		"0x00000000683E339A"
 	"ItemBuild"
 	{
 		"Items"
@@ -72,18 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_chipped_vest"
 				"item"		"item_spark_of_courage"
-				"item"		"item_iron_talon"
+				"item"		"item_dormant_curio"
+				"item"		"item_mana_draught"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_essence_ring"
-				"item"		"item_misericorde"
-				"item"		"item_gale_guard"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_ninja_gear"
+				"item"		"item_gale_guard"
+				"item"		"item_serrated_shiv"
+				"item"		"item_magnifying_monocle"
 				"item"		"item_pyrrhic_cloak"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_ninja_gear"
+				"item"		"item_dezun_bloodrite"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -116,7 +116,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"alchemist_corrosive_weaponry"
 			"18"		"alchemist_chemical_rage"
 			"20"		"special_bonus_unique_alchemist_2"
-			"25"		"special_bonus_unique_alchemist_4"
+			"25"		"special_bonus_unique_alchemist_6"
 		}
 		"AbilityTooltips"
 		{
