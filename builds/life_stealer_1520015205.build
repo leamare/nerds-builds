@@ -3,17 +3,17 @@
 	"Hero"		"life_stealer"
 	"Title"		"Nerds Lifestealer - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Lifestealer is a strength core hero who is extremely good against high HP targets. His skillset allowes him to outlive opponents in fights and be durable, while Feast gives him damage based on enemy HP.
 Lifestealer lacks three things: attack speed, armor and mobility. He is also good at fighting early, using minus armor to amplify his damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"117"
+	"GuideRevision"		"118"
 	"AssociatedWorkshopItemID"		"0x000000004E912A46"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F3DF"
-	"TimePublished"		"0x000000006806F3DF"
+	"TimeUpdated"		"0x000000006840EC43"
+	"TimePublished"		"0x000000006840EC43"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,16 +32,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
 			}
-			"Core"
-			{
-				"item"		"item_armlet"
-				"item"		"item_desolator"
-				"item"		"item_basher"
-			}
 			"Core - Radiance"
 			{
 				"item"		"item_radiance"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_basher"
+			}
+			"Core - Armlet Radiance"
+			{
+				"item"		"item_armlet"
+				"item"		"item_desolator"
 				"item"		"item_basher"
 			}
 			"Situational Early"
@@ -53,34 +53,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
-				"item"		"item_abyssal_blade"
 				"item"		"item_nullifier"
-				"item"		"item_silver_edge"
+				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
 				"item"		"item_travel_boots"
-				"item"		"item_swift_blink"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_skadi"
 				"item"		"item_mjollnir"
 				"item"		"item_manta"
 				"item"		"item_greater_crit"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
-				"item"		"item_heavens_halberd"
 				"item"		"item_skadi"
-				"item"		"item_overwhelming_blink"
-				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+				"item"		"item_swift_blink"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_swift_blink"
+				"item"		"item_harpoon"
+				"item"		"item_disperser"
 				"item"		"item_heart"
 				"item"		"item_bloodthorn"
 				"item"		"item_satanic"
+				"item"		"item_sphere"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_heavens_halberd"
 			}
 			"Best Neutral Items"
 			{
@@ -115,11 +117,6 @@ Before Armlet of Mordiggian"
 ALTERNATIVES: Radiance, Mjolnir"
 			"item_radiance"		"~12-15 min
 ALTERNATIVES: Desolator, Mjolnir"
-			"item_sphere"		"Additional defensive slot against lineups heavy on targeted control
-Before Assault Cuirass"
-			"item_heavens_halberd"		"Alternative to Sange and Yasha
-Against primarily physical damage cores
-Before Assault Cuirass"
 			"item_mjollnir"		"ALTERNATIVES: Radiance, Desolator"
 			"item_manta"		"Additional mobility and solution against slows/silences
 Before Assault Cuirass"

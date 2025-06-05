@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"lina"
-	"Title"		"Nerds Support Lina"
+	"Title"		"Nerds Support Lina - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000007008034D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F3E4"
-	"TimePublished"		"0x000000006806F3E4"
+	"TimeUpdated"		"0x000000006840ED2A"
+	"TimePublished"		"0x000000006840ED2A"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,7 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_aether_lens"
+				"item"		"item_ethereal_blade"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 			}
@@ -61,7 +61,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_shivas_guard"
 				"item"		"item_aeon_disk"
 				"item"		"item_hurricane_pike"
-				"item"		"item_ethereal_blade"
 				"item"		"item_blink"
 			}
 			"Other Significant Items"
@@ -75,17 +74,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
+				"item"		"item_occult_bracelet"
+				"item"		"item_spark_of_courage"
 				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
 				"item"		"item_searing_signet"
-				"item"		"item_essence_ring"
+				"item"		"item_misericorde"
+				"item"		"item_whisper_of_the_dread"
 				"item"		"item_serrated_shiv"
-				"item"		"item_ninja_gear"
-				"item"		"item_nemesis_curse"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_mind_breaker"
-				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -93,8 +90,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;amp;amp;amp;apos;re not going to buy Boots of Travel
-Before Eul&amp;amp;amp;amp;amp;amp;apos;s Scepter"
+			"item_tranquil_boots"		"Optional boots upgrade if you&amp;amp;amp;amp;amp;amp;amp;apos;re not going to buy Boots of Travel
+Before Eul&amp;amp;amp;amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -103,15 +100,15 @@ Before Eul&amp;amp;amp;amp;amp;amp;apos;s Scepter"
 		{
 			"1"		"lina_light_strike_array"
 			"2"		"lina_dragon_slave"
-			"3"		"lina_dragon_slave"
-			"4"		"lina_fiery_soul"
-			"5"		"lina_dragon_slave"
+			"3"		"lina_light_strike_array"
+			"4"		"lina_dragon_slave"
+			"5"		"lina_light_strike_array"
 			"6"		"lina_laguna_blade"
-			"7"		"lina_dragon_slave"
-			"8"		"lina_light_strike_array"
-			"9"		"lina_light_strike_array"
+			"7"		"lina_light_strike_array"
+			"8"		"lina_dragon_slave"
+			"9"		"lina_dragon_slave"
 			"10"		"special_bonus_unique_lina_1"
-			"11"		"lina_light_strike_array"
+			"11"		"lina_fiery_soul"
 			"12"		"lina_laguna_blade"
 			"13"		"lina_fiery_soul"
 			"14"		"lina_fiery_soul"
@@ -119,7 +116,7 @@ Before Eul&amp;amp;amp;amp;amp;amp;apos;s Scepter"
 			"16"		"lina_fiery_soul"
 			"18"		"lina_laguna_blade"
 			"20"		"special_bonus_unique_lina_6"
-			"25"		"special_bonus_unique_lina_crit_debuff"
+			"25"		"special_bonus_unique_lina_7"
 		}
 		"AbilityTooltips"
 		{

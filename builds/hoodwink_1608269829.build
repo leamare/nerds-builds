@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"hoodwink"
-	"Title"		"Nerds Support Hoodwink"
+	"Title"		"Nerds Support Hoodwink - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 This build is based on statistics and matches of immortal rank players.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x000000008A99A005"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806E9CF"
-	"TimePublished"		"0x000000006806E9CF"
+	"TimeUpdated"		"0x00000000683FA72A"
+	"TimePublished"		"0x00000000683FA72A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,6 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_blight_stone"
+				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_ward_observer"
 				"item"		"item_ward_sentry"
@@ -35,6 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_gungir"
+				"item"		"item_aether_lens"
 				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
@@ -42,7 +44,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_urn_of_shadows"
 				"item"		"item_ghost"
 				"item"		"item_glimmer_cape"
-				"item"		"item_aether_lens"
 			}
 			"Lategame"
 			{
@@ -65,18 +66,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_polliwog_charm"
+				"item"		"item_spark_of_courage"
 				"item"		"item_mana_draught"
-				"item"		"item_pogo_stick"
 				"item"		"item_misericorde"
-				"item"		"item_gossamer_cape"
 				"item"		"item_gale_guard"
 				"item"		"item_whisper_of_the_dread"
-				"item"		"item_nemesis_curse"
-				"item"		"item_mind_breaker"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_ogre_seal_totem"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -91,22 +88,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"hoodwink_acorn_shot"
-			"2"		"hoodwink_bushwhack"
-			"3"		"hoodwink_acorn_shot"
+			"1"		"hoodwink_bushwhack"
+			"2"		"hoodwink_acorn_shot"
+			"3"		"hoodwink_bushwhack"
 			"4"		"hoodwink_scurry"
-			"5"		"hoodwink_acorn_shot"
+			"5"		"hoodwink_bushwhack"
 			"6"		"hoodwink_sharpshooter"
-			"7"		"hoodwink_acorn_shot"
+			"7"		"hoodwink_bushwhack"
 			"8"		"hoodwink_scurry"
-			"9"		"hoodwink_bushwhack"
+			"9"		"hoodwink_scurry"
 			"10"		"special_bonus_unique_hoodwink_scurry_charges"
-			"11"		"hoodwink_bushwhack"
+			"11"		"hoodwink_scurry"
 			"12"		"hoodwink_sharpshooter"
-			"13"		"hoodwink_bushwhack"
-			"14"		"hoodwink_scurry"
+			"13"		"hoodwink_acorn_shot"
+			"14"		"hoodwink_acorn_shot"
 			"15"		"special_bonus_unique_hoodwink_bushwhack_damage"
-			"16"		"hoodwink_scurry"
+			"16"		"hoodwink_acorn_shot"
 			"18"		"hoodwink_sharpshooter"
 			"20"		"special_bonus_unique_hoodwink_sharpshooter_vision"
 			"25"		"special_bonus_unique_hoodwink_sharpshooter_damage"

@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"juggernaut"
-	"Title"		"Nerds Juggernaut"
+	"Title"		"Nerds Juggernaut - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x000000007065E632"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806EAB4"
-	"TimePublished"		"0x000000006806EAB4"
+	"TimeUpdated"		"0x000000006840EA19"
+	"TimePublished"		"0x000000006840EA19"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,62 +33,56 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
 				"item"		"item_maelstrom"
 				"item"		"item_manta"
+				"item"		"item_mjollnir"
 			}
 			"Situational Early"
 			{
-				"item"		"item_ring_of_basilius"
-				"item"		"item_phase_boots"
-				"item"		"item_wind_lace"
+				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
 				"item"		"item_falcon_blade"
+				"item"		"item_bfury"
 				"item"		"item_mask_of_madness"
-				"item"		"item_ancient_janggo"
 				"item"		"item_sange_and_yasha"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
-				"item"		"item_mjollnir"
-				"item"		"item_disperser"
-				"item"		"item_nullifier"
-				"item"		"item_swift_blink"
+				"item"		"item_butterfly"
 				"item"		"item_abyssal_blade"
+				"item"		"item_swift_blink"
+				"item"		"item_nullifier"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_black_king_bar"
-				"item"		"item_butterfly"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_aghanims_shard"
-				"item"		"item_sphere"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_disperser"
 				"item"		"item_travel_boots"
 				"item"		"item_skadi"
-				"item"		"item_monkey_king_bar"
+				"item"		"item_black_king_bar"
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_satanic"
 				"item"		"item_silver_edge"
-				"item"		"item_gungir"
-				"item"		"item_maelstrom"
 				"item"		"item_radiance"
-				"item"		"item_bfury"
+				"item"		"item_sphere"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_orb_of_destruction"
-				"item"		"item_mana_draught"
 				"item"		"item_spark_of_courage"
+				"item"		"item_chipped_vest"
 				"item"		"item_misericorde"
-				"item"		"item_iron_talon"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_nemesis_curse"
-				"item"		"item_mind_breaker"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -103,20 +97,13 @@ Before Maelstrom"
 			"item_phase_boots"		"~5-7 min
 ALTERNATIVE: Power Treads"
 			"item_bfury"		"ALTERNATIVES: Maelstrom, Diffusal Blade, Radiance"
-			"item_maelstrom"		"~12-14 min
-ALTERNATIVES: Battle Fury, Diffusal Blade, Radiance"
-			"item_radiance"		"For playstyle based on magical damage
-ALTERNATIVES: Battle Fury, Maelstrom"
 			"item_manta"		"~19-22 min
 ALTERNATIVE: Sange and Yasha"
 			"item_sange_and_yasha"		"ALTERNATIVE: Manta Style"
 			"item_diffusal_blade"		"Cheap early damage and slow, for playstyle based on manaburn and illusions
 ALTERNATIVES: Maelstrom, Battle Fury, Radiance"
-			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;amp;amp;amp;amp;apos;s Sphere, Black King Bar"
+			"item_skadi"		"ALTERNATIVES: Linken&amp;amp;amp;amp;amp;amp;amp;apos;s Sphere, Black King Bar"
 			"item_sphere"		"ALTERNATIVES: Eye of Skadi, Black King Bar"
-			"item_black_king_bar"		"Against control heavy lineups
-ALTERNATIVES: Eye of Skadi, Linken&amp;amp;amp;amp;amp;amp;apos;s Sphere"
-			"item_ancient_janggo"		"Before Maelstrom"
 		}
 	}
 	"AbilityBuild"
@@ -140,7 +127,7 @@ ALTERNATIVES: Eye of Skadi, Linken&amp;amp;amp;amp;amp;amp;apos;s Sphere"
 			"15"		"special_bonus_unique_juggernaut_blade_fury_movespeed"
 			"16"		"juggernaut_blade_dance"
 			"18"		"juggernaut_omni_slash"
-			"20"		"special_bonus_unique_juggernaut_blade_fury_cooldown"
+			"20"		"special_bonus_unique_juggernaut_2"
 			"25"		"special_bonus_unique_juggernaut_blade_dance_lifesteal"
 		}
 		"AbilityTooltips"

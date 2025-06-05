@@ -3,16 +3,16 @@
 	"Hero"		"marci"
 	"Title"		"Nerds Support Marci"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"41"
+	"GuideRevision"		"42"
 	"AssociatedWorkshopItemID"		"0x000000009D813310"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F438"
-	"TimePublished"		"0x000000006806F438"
+	"TimeUpdated"		"0x000000006840F39B"
+	"TimePublished"		"0x000000006840F39B"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,9 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_black_king_bar"
-				"item"		"item_aghanims_shard"
 				"item"		"item_basher"
-				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -54,6 +53,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_blink"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_aether_lens"
 				"item"		"item_heavens_halberd"
@@ -65,15 +65,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_orb_of_destruction"
-				"item"		"item_essence_ring"
+				"item"		"item_spark_of_courage"
+				"item"		"item_chipped_vest"
 				"item"		"item_misericorde"
-				"item"		"item_nemesis_curse"
-				"item"		"item_gale_guard"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_serrated_shiv"
-				"item"		"item_mind_breaker"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_pyrrhic_cloak"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -84,7 +84,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_phase_boots"		"it is just a phase
 ALTERNATIVE: Tranquil Boots"
 			"item_tranquil_boots"		"ALTERNATIVE: Phase Boots"
-			"item_aghanims_shard"		"Before Black King Bar"
 		}
 	}
 	"AbilityBuild"
