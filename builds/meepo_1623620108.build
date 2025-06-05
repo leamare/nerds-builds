@@ -3,7 +3,7 @@
 	"Hero"		"meepo"
 	"Title"		"Experimental Support Meepo - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Meepo is an agility core hero who's based around idea of flash farming the entire map and getting out of control rather fast.
 
 The main idea making support Meepo work is to play around net for the first couple of minutes. Net is a 2 seconds root, and it can help you with setting up kills early on.
@@ -18,12 +18,12 @@ This build is experimental and is very hard to execute. Proceed on your own risk
 This guide was requested by lamallama
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x0000000096070A06"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F44D"
-	"TimePublished"		"0x000000006806F44D"
+	"TimeUpdated"		"0x000000006840F49B"
+	"TimePublished"		"0x000000006840F49B"
 	"ItemBuild"
 	{
 		"Items"
@@ -73,14 +73,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_rippers_lash"
-				"item"		"item_orb_of_destruction"
+				"item"		"item_spark_of_courage"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_misericorde"
-				"item"		"item_iron_talon"
-				"item"		"item_nemesis_curse"
-				"item"		"item_ninja_gear"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_serrated_shiv"
-				"item"		"item_mind_breaker"
-				"item"		"item_ogre_seal_totem"
+				"item"		"item_pyrrhic_cloak"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_dezun_bloodrite"
 			}
 			"https://builds.spectral.gg/"
 			{

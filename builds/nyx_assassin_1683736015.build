@@ -3,16 +3,16 @@
 	"Hero"		"nyx_assassin"
 	"Title"		"Nerds Physical Nyx"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"19"
+	"GuideRevision"		"22"
 	"AssociatedWorkshopItemID"		"0x00000000B1453290"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A547B0"
-	"TimePublished"		"0x0000000066A547B0"
+	"TimeUpdated"		"0x000000006840FC3A"
+	"TimePublished"		"0x000000006840FC3A"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_circlet"
 				"item"		"item_quelling_blade"
 			}
@@ -36,32 +36,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_echo_sabre"
-				"item"		"item_travel_boots"
-				"item"		"item_octarine_core"
+				"item"		"item_power_treads"
 				"item"		"item_manta"
-			}
-			"Core - Magical"
-			{
-				"item"		"item_dagon_5"
-				"item"		"item_blink"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
+				"item"		"item_harpoon"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_power_treads"
-				"item"		"item_phylactery"
 				"item"		"item_hand_of_midas"
 			}
 			"Lategame"
 			{
+				"item"		"item_octarine_core"
 				"item"		"item_aghanims_shard"
-				"item"		"item_harpoon"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational"
 			{
+				"item"		"item_travel_boots"
 				"item"		"item_greater_crit"
 				"item"		"item_swift_blink"
 				"item"		"item_ethereal_blade"
@@ -76,18 +68,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_faded_broach"
-				"item"		"item_mysterious_hat"
-				"item"		"item_grove_bow"
-				"item"		"item_vambrace"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_psychic_headband"
-				"item"		"item_nemesis_curse"
-				"item"		"item_timeless_relic"
-				"item"		"item_mind_breaker"
-				"item"		"item_ninja_gear"
+				"item"		"item_spark_of_courage"
+				"item"		"item_occult_bracelet"
+				"item"		"item_dormant_curio"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_misericorde"
+				"item"		"item_searing_signet"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_gale_guard"
+				"item"		"item_pyrrhic_cloak"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_giant_maul"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -110,16 +102,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"nyx_assassin_impale"
 			"8"		"nyx_assassin_jolt"
 			"9"		"nyx_assassin_jolt"
-			"10"		"special_bonus_unique_nyx_vendetta_damage"
+			"10"		"special_bonus_unique_nyx_4"
 			"11"		"nyx_assassin_jolt"
 			"12"		"nyx_assassin_vendetta"
 			"13"		"nyx_assassin_spiked_carapace"
 			"14"		"nyx_assassin_spiked_carapace"
-			"15"		"special_bonus_unique_nyx_jolt_cooldown"
+			"15"		"special_bonus_unique_nyx_vendetta_damage"
 			"16"		"nyx_assassin_spiked_carapace"
 			"18"		"nyx_assassin_vendetta"
-			"20"		"special_bonus_unique_nyx_2"
-			"25"		"special_bonus_unique_nyx"
+			"20"		"special_bonus_unique_nyx_6"
+			"25"		"special_bonus_agility_80"
 		}
 		"AbilityTooltips"
 		{

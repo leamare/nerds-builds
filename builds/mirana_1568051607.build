@@ -3,16 +3,16 @@
 	"Hero"		"mirana"
 	"Title"		"Nerds Support Mirana - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F455"
-	"TimePublished"		"0x000000006806F455"
+	"TimeUpdated"		"0x000000006840F51E"
+	"TimePublished"		"0x000000006840F51E"
 	"ItemBuild"
 	{
 		"Items"
@@ -38,6 +38,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_rod_of_atos"
 				"item"		"item_gungir"
+				"item"		"item_cyclone"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
@@ -45,7 +46,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_urn_of_shadows"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
-				"item"		"item_cyclone"
 				"item"		"item_force_staff"
 			}
 			"Lategame"
@@ -78,16 +78,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mana_draught"
-				"item"		"item_trusty_shovel"
-				"item"		"item_searing_signet"
+				"item"		"item_polliwog_charm"
+				"item"		"item_spark_of_courage"
 				"item"		"item_essence_ring"
-				"item"		"item_gossamer_cape"
+				"item"		"item_searing_signet"
+				"item"		"item_misericorde"
+				"item"		"item_whisper_of_the_dread"
 				"item"		"item_gale_guard"
-				"item"		"item_ninja_gear"
+				"item"		"item_psychic_headband"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_mind_breaker"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,7 +114,7 @@ Before Spirit Vessel"
 			"8"		"mirana_arrow"
 			"9"		"mirana_arrow"
 			"10"		"mirana_arrow"
-			"11"		"special_bonus_unique_mirana_3"
+			"11"		"special_bonus_unique_mirana_6"
 			"12"		"mirana_invis"
 			"13"		"mirana_leap"
 			"14"		"mirana_leap"
@@ -122,7 +122,7 @@ Before Spirit Vessel"
 			"16"		"mirana_leap"
 			"18"		"mirana_invis"
 			"20"		"special_bonus_unique_mirana_4"
-			"25"		"special_bonus_unique_mirana_2"
+			"25"		"special_bonus_unique_mirana_7"
 		}
 		"AbilityTooltips"
 		{

@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"muerta"
-	"Title"		"Nerds Support Muerta"
+	"Title"		"Nerds Support Muerta - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"This is a draft Muerta Core build. It will be updated once there are more Immortal Rank stats available.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"35"
+	"GuideRevision"		"36"
 	"AssociatedWorkshopItemID"		"0x00000000AF73CDDB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F468"
-	"TimePublished"		"0x000000006806F468"
+	"TimeUpdated"		"0x000000006840F83E"
+	"TimePublished"		"0x000000006840F83E"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,8 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_gungir"
-				"item"		"item_force_staff"
+				"item"		"item_rod_of_atos"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -44,12 +44,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_glimmer_cape"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_tranquil_boots"
+				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
+				"item"		"item_gungir"
 				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
-				"item"		"item_silver_edge"
+				"item"		"item_greater_crit"
 				"item"		"item_sheepstick"
 				"item"		"item_aghanims_shard"
 			}
@@ -58,9 +60,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_spirit_vessel"
 				"item"		"item_ethereal_blade"
 				"item"		"item_sphere"
-				"item"		"item_boots_of_bearing"
-				"item"		"item_greater_crit"
 				"item"		"item_blink"
+				"item"		"item_silver_edge"
 			}
 			"Other Significant Items"
 			{
@@ -71,18 +72,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_trusty_shovel"
-				"item"		"item_mana_draught"
-				"item"		"item_essence_ring"
-				"item"		"item_pogo_stick"
+				"item"		"item_spark_of_courage"
+				"item"		"item_polliwog_charm"
+				"item"		"item_misericorde"
 				"item"		"item_searing_signet"
-				"item"		"item_gale_guard"
-				"item"		"item_ninja_gear"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_specialists_array"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_serrated_shiv"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_ogre_seal_totem"
-				"item"		"item_mind_breaker"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -113,8 +109,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_muerta_gunslinger_bonus_damage"
 			"16"		"muerta_gunslinger"
 			"18"		"muerta_pierce_the_veil"
-			"20"		"special_bonus_unique_muerta_the_calling_num_revenants"
-			"25"		"special_bonus_unique_muerta_gunslinger_double_shot_chance"
+			"20"		"special_bonus_unique_muerta_pierce_the_veil_duration"
+			"25"		"special_bonus_unique_muerta_dead_shot_charges"
 		}
 		"AbilityTooltips"
 		{

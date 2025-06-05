@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"monkey_king"
-	"Title"		"Nerds Monkey King"
+	"Title"		"Nerds Monkey King - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.38c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006806F45D"
-	"TimePublished"		"0x000000006806F45D"
+	"TimeUpdated"		"0x000000006840F576"
+	"TimePublished"		"0x000000006840F576"
 	"ItemBuild"
 	{
 		"Items"
@@ -81,16 +81,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_orb_of_destruction"
 				"item"		"item_spark_of_courage"
+				"item"		"item_chipped_vest"
 				"item"		"item_misericorde"
-				"item"		"item_essence_ring"
-				"item"		"item_iron_talon"
-				"item"		"item_nemesis_curse"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_serrated_shiv"
-				"item"		"item_mind_breaker"
 				"item"		"item_crippling_crossbow"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_pyrrhic_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -119,7 +118,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"monkey_king_tree_dance"
 			"8"		"monkey_king_tree_dance"
 			"9"		"monkey_king_wukongs_command"
-			"10"		"special_bonus_unique_monkey_king_3"
+			"10"		"special_bonus_unique_monkey_king_9"
 			"11"		"monkey_king_jingu_mastery"
 			"12"		"monkey_king_wukongs_command"
 			"13"		"monkey_king_boundless_strike"
