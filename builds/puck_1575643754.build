@@ -3,17 +3,17 @@
 	"Hero"		"puck"
 	"Title"		"Nerds Puck"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 Initially based on Immortal ranked games and SunIsFading streams: https://twitch.tv/sunisfading
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x00000000730712DE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A548B1"
-	"TimePublished"		"0x0000000066A548B1"
+	"TimeUpdated"		"0x0000000068423300"
+	"TimePublished"		"0x0000000068423300"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,8 +41,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tranquil_boots"
 				"item"		"item_bracer"
-				"item"		"item_veil_of_discord"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_veil_of_discord"
 			}
 			"Utility"
 			{
@@ -53,7 +53,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aeon_disk"
+				"item"		"item_shivas_guard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
@@ -61,11 +61,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aeon_disk"
 				"item"		"item_spirit_vessel"
 				"item"		"item_cyclone"
 				"item"		"item_aeon_disk"
 				"item"		"item_black_king_bar"
-				"item"		"item_shivas_guard"
 				"item"		"item_octarine_core"
 				"item"		"item_boots_of_bearing"
 			}
@@ -77,18 +77,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_safety_bubble"
-				"item"		"item_mysterious_hat"
-				"item"		"item_arcane_ring"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_vambrace"
-				"item"		"item_vindicators_axe"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_nemesis_curse"
-				"item"		"item_mind_breaker"
-				"item"		"item_ancient_guardian"
-				"item"		"item_timeless_relic"
+				"item"		"item_spark_of_courage"
+				"item"		"item_occult_bracelet"
+				"item"		"item_searing_signet"
+				"item"		"item_misericorde"
+				"item"		"item_psychic_headband"
+				"item"		"item_gale_guard"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
 			{

@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"sniper"
-	"Title"		"Nerds Magic Sniper"
+	"Title"		"Nerds Magic Sniper - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"The build is based on mid or meepo's videos: https://www.youtube.com/channel/UCFewCocoHBUpnPmMi-rucog
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"65"
+	"GuideRevision"		"67"
 	"AssociatedWorkshopItemID"		"0x000000007007728F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A54CF6"
-	"TimePublished"		"0x0000000066A54CF6"
+	"TimeUpdated"		"0x0000000068423DCF"
+	"TimePublished"		"0x0000000068423DCF"
 	"ItemBuild"
 	{
 		"Items"
@@ -30,7 +30,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_wraith_band"
 				"item"		"item_null_talisman"
 				"item"		"item_boots"
-				"item"		"item_phylactery"
 			}
 			"Core"
 			{
@@ -39,23 +38,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
 			}
-			"CoRe - Khanda Gameplay"
-			{
-				"item"		"item_power_treads"
-				"item"		"item_angels_demise"
-				"item"		"item_rapier"
-				"item"		"item_rapier"
-			}
 			"Situational Early"
 			{
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
-				"item"		"item_veil_of_discord"
 				"item"		"item_hand_of_midas"
+				"item"		"item_phylactery"
 			}
 			"Lategame"
 			{
-				"item"		"item_angels_demise"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_moon_shard"
@@ -64,6 +55,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_veil_of_discord"
 				"item"		"item_black_king_bar"
 				"item"		"item_hurricane_pike"
 				"item"		"item_yasha_and_kaya"
@@ -74,21 +66,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sphere"
 				"item"		"item_shivas_guard"
 				"item"		"item_rod_of_atos"
+				"item"		"item_angels_demise"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
-				"item"		"item_safety_bubble"
-				"item"		"item_arcane_ring"
-				"item"		"item_pupils_gift"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_dandelion_amulet"
-				"item"		"item_elven_tunic"
-				"item"		"item_timeless_relic"
-				"item"		"item_spy_gadget"
-				"item"		"item_ancient_guardian"
+				"item"		"item_spark_of_courage"
+				"item"		"item_sisters_shroud"
+				"item"		"item_misericorde"
+				"item"		"item_searing_signet"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_whisper_of_the_dread"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -119,10 +108,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"12"		"sniper_assassinate"
 			"13"		"sniper_take_aim"
 			"14"		"sniper_headshot"
-			"15"		"special_bonus_unique_sniper_4"
+			"15"		"special_bonus_unique_sniper_1"
 			"16"		"sniper_take_aim"
 			"18"		"sniper_assassinate"
-			"20"		"special_bonus_attack_range_100"
+			"20"		"special_bonus_unique_sniper_shrapnel_damage"
 			"25"		"special_bonus_unique_sniper_2"
 		}
 		"AbilityTooltips"

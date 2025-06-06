@@ -3,16 +3,16 @@
 	"Hero"		"riki"
 	"Title"		"Nerds Support Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 Initially based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x00000000910FA549"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A54949"
-	"TimePublished"		"0x0000000066A54949"
+	"TimeUpdated"		"0x00000000684238E6"
+	"TimePublished"		"0x00000000684238E6"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,10 +20,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_blood_grenade"
+				"item"		"item_orb_of_frost"
 				"item"		"item_ward_sentry"
 			}
 			"Early"
@@ -41,10 +41,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational Early"
 			{
 				"item"		"item_urn_of_shadows"
-				"item"		"item_phylactery"
+				"item"		"item_rod_of_atos"
 			}
 			"Lategame"
 			{
+				"item"		"item_gungir"
 				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_disperser"
@@ -54,7 +55,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_angels_demise"
 				"item"		"item_cyclone"
 				"item"		"item_solar_crest"
 				"item"		"item_spirit_vessel"
@@ -69,18 +69,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_duelist_gloves"
-				"item"		"item_broom_handle"
-				"item"		"item_occult_bracelet"
-				"item"		"item_orb_of_destruction"
-				"item"		"item_specialists_array"
-				"item"		"item_pupils_gift"
-				"item"		"item_elven_tunic"
-				"item"		"item_defiant_shell"
-				"item"		"item_vindicators_axe"
-				"item"		"item_ninja_gear"
-				"item"		"item_mind_breaker"
-				"item"		"item_ancient_guardian"
+				"item"		"item_spark_of_courage"
+				"item"		"item_polliwog_charm"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_misericorde"
+				"item"		"item_mana_draught"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_serrated_shiv"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_crippling_crossbow"
+				"item"		"item_dezun_bloodrite"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -95,9 +93,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"riki_blink_strike"
-			"2"		"riki_smoke_screen"
+			"2"		"riki_tricks_of_the_trade"
 			"3"		"riki_blink_strike"
-			"4"		"riki_tricks_of_the_trade"
+			"4"		"riki_smoke_screen"
 			"5"		"riki_blink_strike"
 			"6"		"riki_backstab"
 			"7"		"riki_blink_strike"
