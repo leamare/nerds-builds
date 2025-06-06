@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"void_spirit"
-	"Title"		"Nerds Utility Void Spirit"
+	"Title"		"Nerds Utility Void Spirit - F1"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"60"
+	"GuideRevision"		"62"
 	"AssociatedWorkshopItemID"		"0x0000000076CAEE49"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A553CF"
-	"TimePublished"		"0x0000000066A553CF"
+	"TimeUpdated"		"0x0000000068424B04"
+	"TimePublished"		"0x0000000068424B04"
 	"ItemBuild"
 	{
 		"Items"
@@ -34,10 +34,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_mage_slayer"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_manta"
 				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -56,19 +56,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_shivas_guard"
-				"item"		"item_black_king_bar"
 				"item"		"item_travel_boots"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
-				"item"		"item_devastator"
 				"item"		"item_sphere"
+				"item"		"item_devastator"
 				"item"		"item_bloodthorn"
 				"item"		"item_harpoon"
 				"item"		"item_octarine_core"
 				"item"		"item_abyssal_blade"
 				"item"		"item_heavens_halberd"
+				"item"		"item_mage_slayer"
 			}
 			"Other Significant Items"
 			{
@@ -79,18 +79,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_unstable_wand"
+				"item"		"item_spark_of_courage"
 				"item"		"item_occult_bracelet"
-				"item"		"item_safety_bubble"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_pupils_gift"
-				"item"		"item_defiant_shell"
-				"item"		"item_vindicators_axe"
-				"item"		"item_nemesis_curse"
-				"item"		"item_ninja_gear"
-				"item"		"item_timeless_relic"
-				"item"		"item_mind_breaker"
+				"item"		"item_chipped_vest"
+				"item"		"item_searing_signet"
+				"item"		"item_misericorde"
+				"item"		"item_whisper_of_the_dread"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_crippling_crossbow"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_pyrrhic_cloak"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -110,21 +109,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"2"		"void_spirit_aether_remnant"
 			"3"		"void_spirit_resonant_pulse"
 			"4"		"void_spirit_dissimilate"
-			"5"		"void_spirit_resonant_pulse"
+			"5"		"void_spirit_dissimilate"
 			"6"		"void_spirit_astral_step"
-			"7"		"void_spirit_resonant_pulse"
+			"7"		"void_spirit_dissimilate"
 			"8"		"void_spirit_dissimilate"
-			"9"		"void_spirit_dissimilate"
-			"10"		"void_spirit_dissimilate"
-			"11"		"special_bonus_unique_void_spirit_2"
+			"9"		"void_spirit_resonant_pulse"
+			"10"		"void_spirit_resonant_pulse"
+			"11"		"special_bonus_mp_regen_150"
 			"12"		"void_spirit_astral_step"
 			"13"		"void_spirit_aether_remnant"
 			"14"		"void_spirit_aether_remnant"
-			"15"		"special_bonus_unique_void_spirit_4"
+			"15"		"special_bonus_unique_void_spirit_2"
 			"16"		"void_spirit_aether_remnant"
 			"18"		"void_spirit_astral_step"
-			"20"		"special_bonus_unique_void_spirit_1"
-			"25"		"special_bonus_unique_void_spirit_8"
+			"20"		"special_bonus_unique_void_spirit_dissimilate_outerring"
+			"25"		"special_bonus_unique_void_spirit_3"
 		}
 		"AbilityTooltips"
 		{

@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"tinker"
-	"Title"		"Nerds Support Tinker"
+	"Title"		"Nerds Support Tinker - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"Facet: 1 (Repair Bots)
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x000000009A0E0712"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A69F50"
-	"TimePublished"		"0x0000000066A69F50"
+	"TimeUpdated"		"0x000000006842439F"
+	"TimePublished"		"0x000000006842439F"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,31 +20,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_blood_grenade"
 				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
 				"item"		"item_boots"
 			}
 			"Core"
 			{
-				"item"		"item_guardian_greaves"
 				"item"		"item_holy_locket"
-				"item"		"item_aghanims_shard"
+				"item"		"item_glimmer_cape"
 				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
 				"item"		"item_soul_ring"
-				"item"		"item_glimmer_cape"
+				"item"		"item_null_talisman"
 				"item"		"item_ghost"
 				"item"		"item_aether_lens"
 				"item"		"item_cyclone"
@@ -52,40 +49,36 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
-				"item"		"item_shivas_guard"
 				"item"		"item_ethereal_blade"
-				"item"		"item_wind_waker"
+				"item"		"item_dagon_5"
+				"item"		"item_guardian_greaves"
+				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
 				"item"		"item_lotus_orb"
 			}
 			"Situational"
 			{
 				"item"		"item_force_staff"
-				"item"		"item_solar_crest"
-				"item"		"item_dagon"
 				"item"		"item_aeon_disk"
-				"item"		"item_octarine_core"
 				"item"		"item_bloodstone"
 				"item"		"item_aghanims_shard"
 				"item"		"item_sphere"
-				"item"		"item_boots_of_bearing"
-				"item"		"item_gungir"
+				"item"		"item_wind_waker"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_kaya_and_sange"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_mysterious_hat"
-				"item"		"item_arcane_ring"
-				"item"		"item_safety_bubble"
+				"item"		"item_occult_bracelet"
+				"item"		"item_chipped_vest"
+				"item"		"item_polliwog_charm"
+				"item"		"item_essence_ring"
+				"item"		"item_mana_draught"
+				"item"		"item_searing_signet"
 				"item"		"item_whisper_of_the_dread"
-				"item"		"item_vambrace"
-				"item"		"item_philosophers_stone"
-				"item"		"item_ceremonial_robe"
 				"item"		"item_psychic_headband"
-				"item"		"item_dandelion_amulet"
-				"item"		"item_timeless_relic"
-				"item"		"item_spy_gadget"
-				"item"		"item_avianas_feather"
+				"item"		"item_gale_guard"
+				"item"		"item_magnifying_monocle"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -99,8 +92,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"tinker_laser"
-			"2"		"tinker_march_of_the_machines"
+			"1"		"tinker_march_of_the_machines"
+			"2"		"tinker_laser"
 			"3"		"tinker_march_of_the_machines"
 			"4"		"tinker_defense_matrix"
 			"5"		"tinker_march_of_the_machines"

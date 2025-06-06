@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"windrunner"
-	"Title"		"Nerds Windranger"
+	"Title"		"Nerds Windranger - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.36c"
+	"GameplayVersion"		"7.39b"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000007065750F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000066A554D3"
-	"TimePublished"		"0x0000000066A554D3"
+	"TimeUpdated"		"0x0000000068424CAF"
+	"TimePublished"		"0x0000000068424CAF"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,22 +24,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_circlet"
-				"item"		"item_circlet"
 				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_bracer"
-				"item"		"item_boots"
+				"item"		"item_power_treads"
 				"item"		"item_javelin"
 			}
 			"Core"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_maelstrom"
-				"item"		"item_rod_of_atos"
 				"item"		"item_black_king_bar"
+				"item"		"item_revenants_brooch"
 			}
 			"Situational Early"
 			{
@@ -47,26 +44,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bracer"
 				"item"		"item_diffusal_blade"
 				"item"		"item_force_staff"
+				"item"		"item_blink"
 			}
 			"Lategame"
 			{
-				"item"		"item_gungir"
-				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_orchid"
 				"item"		"item_sphere"
+				"item"		"item_orchid"
 				"item"		"item_aghanims_shard"
-				"item"		"item_greater_crit"
 				"item"		"item_travel_boots"
 				"item"		"item_skadi"
 			}
 			"Situational"
 			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_greater_crit"
 				"item"		"item_hurricane_pike"
-				"item"		"item_phase_boots"
 				"item"		"item_manta"
 				"item"		"item_disperser"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_satanic"
 				"item"		"item_moon_shard"
@@ -84,18 +79,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_arcane_ring"
-				"item"		"item_unstable_wand"
+				"item"		"item_rippers_lash"
 				"item"		"item_spark_of_courage"
-				"item"		"item_grove_bow"
-				"item"		"item_specialists_array"
-				"item"		"item_vambrace"
-				"item"		"item_defiant_shell"
-				"item"		"item_enchanted_quiver"
-				"item"		"item_nemesis_curse"
-				"item"		"item_mind_breaker"
-				"item"		"item_ninja_gear"
-				"item"		"item_ancient_guardian"
+				"item"		"item_polliwog_charm"
+				"item"		"item_mana_draught"
+				"item"		"item_essence_ring"
+				"item"		"item_misericorde"
+				"item"		"item_gale_guard"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_magnifying_monocle"
+				"item"		"item_crippling_crossbow"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -105,11 +99,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_maelstrom"		"~12-17 min
 ALTERNATIVES: Diffusal Blade"
-			"item_gungir"		"~19-25 min"
 			"item_black_king_bar"		"~20-27 min"
 			"item_blink"		"~25 min"
-			"item_power_treads"		"ALTERNATIVE: Phase Boots"
-			"item_phase_boots"		"ALTERNATIVE: Power Treads"
 			"item_diffusal_blade"		"ALTERNATIVES: Maelstrom"
 		}
 	}
@@ -135,7 +126,7 @@ ALTERNATIVES: Diffusal Blade"
 			"16"		"windrunner_shackleshot"
 			"18"		"windrunner_focusfire"
 			"20"		"special_bonus_unique_windranger_8"
-			"25"		"special_bonus_unique_windranger_2"
+			"25"		"special_bonus_unique_windranger_windrun_undispellable"
 		}
 		"AbilityTooltips"
 		{
