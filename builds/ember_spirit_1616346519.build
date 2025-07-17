@@ -3,17 +3,17 @@
 	"Hero"		"ember_spirit"
 	"Title"		"Nerds Support Ember - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39b"
+	"GameplayVersion"		"7.39c"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"43"
+	"GuideRevision"		"44"
 	"AssociatedWorkshopItemID"		"0x00000000911000DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000683FA0E0"
-	"TimePublished"		"0x00000000683FA0E0"
+	"TimeUpdated"		"0x0000000068780C10"
+	"TimePublished"		"0x0000000068780C10"
 	"ItemBuild"
 	{
 		"Items"

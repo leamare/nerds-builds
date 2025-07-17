@@ -3,18 +3,18 @@
 	"Hero"		"rubick"
 	"Title"		"Nerds Rubick"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39b"
+	"GameplayVersion"		"7.39c"
 	"Overview"		"Rubick is an intelligence hero who can be played as strong caster core. Stealing and mastering enemies' abilities, Rubick becomes strong crowd controlling hero, while also having all routes to deal massive amounts of spell damage. Using enemy spells better than enemies themselves, Rubick creates significant advantage for his own team, while also using Fade Bolt to significantly lower physical damage output by enemy team.
 
 Good usage of Rubick's skillset allowes him to dominate the lane by using Fade Bolt at proper timing. Use your early advantage to start roaming around the map and setup some kills with Telekinesis, while also securing them with Fade Bolt. Surviving in fights is your main priority, so you want to stay as far as possible. After you reach level 15 and get Blink Dagger things will be much easier. Altho, main thing you need to consider - you're not the main damage dealer without proper enemy spells. You're utility core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"91"
+	"GuideRevision"		"92"
 	"AssociatedWorkshopItemID"		"0x000000005FEC5FAA"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000684239FB"
-	"TimePublished"		"0x00000000684239FB"
+	"TimeUpdated"		"0x000000006878086E"
+	"TimePublished"		"0x000000006878086E"
 	"ItemBuild"
 	{
 		"Items"
@@ -94,10 +94,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_magic_wand"		"Rubick loves to trade spells and it will usually result in getting a lot of Wand charges. Altho, you can just replace it with another one Null Talisman. Rush it when you&amp;amp;amp;amp;amp;apos;re going to lane against Zeus, Skywrath Mage, Grimstroke or any other spamming hero"
+			"item_magic_wand"		"Rubick loves to trade spells and it will usually result in getting a lot of Wand charges. Altho, you can just replace it with another one Null Talisman. Rush it when you&amp;amp;amp;amp;amp;amp;apos;re going to lane against Zeus, Skywrath Mage, Grimstroke or any other spamming hero"
 			"item_ultimate_scepter"		"Makes every stolen ability with aghs upgrade just better, but more importantly it reduces Spell Steal cooldown to 2 seconds"
 			"item_blink"		"And the only problem that you need to solve is positioning and Blink Dagger works just fine for it"
-			"item_bottle"		"Bottle isn&amp;amp;amp;amp;amp;apos;t that good nowadays in general, but it works fine for caster cores to solve early mana/health sustain issues. Just try to shave the lane and keep track of rune timings"
+			"item_bottle"		"Bottle isn&amp;amp;amp;amp;amp;amp;apos;t that good nowadays in general, but it works fine for caster cores to solve early mana/health sustain issues. Just try to shave the lane and keep track of rune timings"
 			"item_force_staff"		"Defensive solution against heroes who will disable your blink right right away or slow you (Riki, Venomancer...)"
 			"item_cyclone"		"Defensive solution against silences and slows. It also works great against Bounty Hunter, Slardar and Kunkka"
 			"item_sheepstick"		"Additional stats and reliable disable for your team"
@@ -138,16 +138,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"special_bonus_unique_rubick_3"		"Better talent most of the time, allowes you to spam Fade Bolt even more"
 			"special_bonus_unique_rubick_4"		"While spell amp talent seems strong, cooldown reduction for Telekinesis is just much stronger tool for crowd controlling, reducing Telekinesis downtime to 4 seconds"
 			"special_bonus_unique_rubick"		"Great talent for controlling mobile enemies"
-			"rubick_telekinesis"		"Telekinesis was nerfed so much, so there&amp;amp;amp;amp;amp;apos;s no purpose in leveling it up more than once before maxing out everything else. Altho you can use it to manipulate enemy positioning
+			"rubick_telekinesis"		"Telekinesis was nerfed so much, so there&amp;amp;amp;amp;amp;amp;apos;s no purpose in leveling it up more than once before maxing out everything else. Altho you can use it to manipulate enemy positioning
 
 Try to cast Telekinesis land as soon as possible to win some time for yourself "
-			"rubick_fade_bolt"		"Great farming and fighting tool. Also works great while laning since it reduces enemy attack damage and makes it harder to lasthit for enemy hero. Since the duration is almost as long as it&amp;amp;amp;amp;amp;apos;s cooldown, you can just keep enemy under damage reduction effect as long as you have mana
+			"rubick_fade_bolt"		"Great farming and fighting tool. Also works great while laning since it reduces enemy attack damage and makes it harder to lasthit for enemy hero. Since the duration is almost as long as it&amp;amp;amp;amp;amp;amp;apos;s cooldown, you can just keep enemy under damage reduction effect as long as you have mana
 
 Try to use it early on to secure some kills for yourself and snowball out of control"
-			"rubick_spell_steal"		"Rubick&amp;amp;amp;amp;amp;apos;s signature spell. Keep in mind, your stolen spells have pretty low cast points, so you can cast almost everything faster than your enemies
+			"rubick_spell_steal"		"Rubick&amp;amp;amp;amp;amp;amp;apos;s signature spell. Keep in mind, your stolen spells have pretty low cast points, so you can cast almost everything faster than your enemies
 
 You can also Spell Steal through Spell Immunity"
-			"rubick_arcane_supremacy"		"Your next most favorite passive in the game. Debuff amplification effect doesn&amp;amp;amp;amp;amp;apos;t work for items, but it&amp;amp;amp;amp;amp;apos;s still great thing to have since you can steal enemy&amp;amp;amp;amp;amp;apos;s disables and debuffs
+			"rubick_arcane_supremacy"		"Your next most favorite passive in the game. Debuff amplification effect doesn&amp;amp;amp;amp;amp;amp;apos;t work for items, but it&amp;amp;amp;amp;amp;amp;apos;s still great thing to have since you can steal enemy&amp;amp;amp;amp;amp;amp;apos;s disables and debuffs
 It also makes your Telekinesis a decent ability and massively boosts your damage output"
 		}
 	}

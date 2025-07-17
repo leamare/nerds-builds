@@ -3,16 +3,16 @@
 	"Hero"		"dark_willow"
 	"Title"		"Nerds Dark Willow"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39b"
+	"GameplayVersion"		"7.39c"
 	"Overview"		"Dark Willow is an intelligence hero, who provides a lot of disables in fights and hard to bully out of lane. She has a great escape/zoning tool, as well as a lot of ways to setup kills, deal massive amounts of magic damage and provide utility in temfights.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"144"
+	"GuideRevision"		"145"
 	"AssociatedWorkshopItemID"		"0x0000000046C64B02"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000683F9B9A"
-	"TimePublished"		"0x00000000683F9B9A"
+	"TimeUpdated"		"0x0000000068780CB3"
+	"TimePublished"		"0x0000000068780CB3"
 	"ItemBuild"
 	{
 		"Items"
@@ -104,7 +104,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_wind_lace"		"You&amp;amp;amp;amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
+			"item_wind_lace"		"You&amp;amp;amp;amp;amp;apos;re pretty slow hero anyway, so early Wind Lace will be really helpful. You can use it while upgrading Urn as well."
 			"item_arcane_boots"		"You will have mana issues early, while also wanting to get Greaves, so Arcane boots seems like most optimal choice."
 			"item_spirit_vessel"		"Armor, percentage base heal/damage, HP and movement speed. Pretty much all you may ask for."
 			"item_cyclone"		"Mobility and mana, additional save as well as setup for your Q or E  (use E, wait for around 1.5 seconds, use eul)."

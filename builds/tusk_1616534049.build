@@ -3,16 +3,16 @@
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39b"
+	"GameplayVersion"		"7.39c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"49"
+	"GuideRevision"		"50"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068424498"
-	"TimePublished"		"0x0000000068424498"
+	"TimeUpdated"		"0x0000000068780706"
+	"TimePublished"		"0x0000000068780706"
 	"ItemBuild"
 	{
 		"Items"
@@ -99,11 +99,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_bottle"		"Before Phase Boots"
 			"item_soul_ring"		"ALTERNATIVE: Bottle
 SWAP: Phase Boots"
-			"item_echo_sabre"		"Before Aghanim&amp;amp;amp;amp;amp;apos; Scepter"
+			"item_echo_sabre"		"Before Aghanim&amp;amp;amp;amp;amp;amp;apos; Scepter"
 			"item_orb_of_corrosion"		"ALTERNATIVE: Falcon Blade, Soul Ring"
 			"item_falcon_blade"		"ALTERNATIVE: Orb of Corrosion, Soul Ring"
 			"item_desolator"		"~20 min
-Before Aghanim&amp;amp;amp;amp;apos;s Scepter"
+Before Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
 		}
 	}
 	"AbilityBuild"
