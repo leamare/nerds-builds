@@ -3,19 +3,19 @@
 	"Hero"		"mars"
 	"Title"		"Nerds Support Mars"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"Mars is a tanky strength hero who excells at teamfighting and brawling heroes. He has attack range of 250 despite being a melee hero and great stats. He's great at sutuping kills with his Spear as well as trading hits with enemy heroes (thanks to Bulwark), which allowes him to be played as an effective support with potential to transition into core (because of God's Rebuke).
 
 Your main weakness early on will be low mana pool. There are a couple of ways to fix this problem, but aside from that all you need to do early on is just brawling. You may also farm inbetween fights to get some of your items since God's Rebuke with at least some mana sustain will be enough to start transitioning into core. And as soon as you get all your early items, all you need to do is just snowball and fight.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"108"
+	"GuideRevision"		"111"
 	"AssociatedWorkshopItemID"		"0x0000000063C9BE73"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000687809C8"
-	"TimePublished"		"0x00000000687809C8"
+	"TimeUpdated"		"0x000000006921649E"
+	"TimePublished"		"0x000000006921649E"
 	"ItemBuild"
 	{
 		"Items"
@@ -108,14 +108,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"item_wind_lace"		"Cheap flat mobility bonus, to be upgraded into drum later"
 			"item_soul_ring"		"Main mana sustain item. Enables Mars as a farming hero between fights, but also allowes him to fight more often considering his manapool"
-			"item_vladmir"		"Buffs your whole team, but also makes you way more tanky (because of lifesteal and God&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Rebuke interaction)
-ALTERNATIVES: Eul&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity, Drum of Endurance"
-			"item_rod_of_atos"		"If you feel like you have a lot of money, you can go for Atos. It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s great item for Mars stats wise (a lot of strength and massive manapool increase) and relatively cheap, so it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s affordable even for a support Mars"
-			"item_desolator"		"Cheap and efficient damage/farm solution for Mars. Good for agressive games when you&amp;amp;amp;amp;amp;amp;amp;amp;apos;re way ahead"
+			"item_vladmir"		"Buffs your whole team, but also makes you way more tanky (because of lifesteal and God`s Rebuke interaction)
+ALTERNATIVES: Eul`s Scepter of Divinity, Drum of Endurance"
+			"item_desolator"		"Cheap and efficient damage/farm solution for Mars. Good for agressive games when you&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re way ahead"
 			"item_blade_mail"		"For cases when you tank a lot or as a desperation move"
-			"item_satanic"		"Status resistance, tankiness and instant heal from God&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Rebuke"
-			"item_ancient_janggo"		"ALTERNATIVES: Eul&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity, Vladimir&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering"
-			"item_cyclone"		"ALTERNATIVE: Drum of Endurance, Vladimir&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering"
+			"item_satanic"		"Status resistance, tankiness and instant heal from God`s Rebuke"
+			"item_ancient_janggo"		"ALTERNATIVES: Eul`s Scepter of Divinity, Vladimir`s Offering"
+			"item_cyclone"		"ALTERNATIVE: Drum of Endurance, Vladimir`s Offering"
 			"item_phase_boots"		"ALTERNATIVE: Arcane Boots"
 		}
 	}
@@ -145,32 +144,31 @@ ALTERNATIVES: Eul&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity, Dr
 		}
 		"AbilityTooltips"
 		{
-			"mars_spear"		"Your both nuke and enemy repositioning spell. It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s already a good spell by itself, but it is also what enables Mars as a support.
+			"mars_spear"		"Your both nuke and enemy repositioning spell. It`s already a good spell by itself, but it is also what enables Mars as a support.
 
 Things to note:
 - If you fail to pin your target, it will be facing you afterwards
 - It allowes you to see invisible units and ives vision
-- Only gets targets to the front, it won&amp;amp;amp;amp;amp;amp;amp;amp;apos;t catch a hero standing right near your model"
+- Only gets targets to the front, it won`t catch a hero standing right near your model"
 			"mars_gods_rebuke"		"Another spell to mess with enemy positioning, but also a nuke and a farming spell.
 
 Tips:
 - It can interrupt forced movement, including your own spear
-- You can proc all attack modifiers, but cooldown based ones (bash, maelstrom) won&amp;amp;amp;amp;amp;amp;amp;amp;apos;t proc more than once
+- You can proc all attack modifiers, but cooldown based ones (bash, maelstrom) won`t proc more than once
 - It attacks targets from left to right, so with basher the most right target has higher chance to be bashed
 - Damage pierces BKB"
-			"mars_bulwark"		"Your main spell for tower diving and early brawling. It gets only better with levels and items, so it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s not worth maxing it early on.
+			"mars_bulwark"		"Your main spell for tower diving and early brawling. It gets only better with levels and items, so it`s not worth maxing it early on.
 
 Tips:
-- Reduces only PHYSICAL ATTACK DAMAGE and attack damage like abilities (Monkey King&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Q), but not from Swashbuckle
-- Block works as usual: doesn&amp;amp;amp;amp;amp;amp;amp;amp;apos;t stack, blocks after armor"
+- Reduces only PHYSICAL ATTACK DAMAGE and attack damage like abilities (Monkey King`s Q), but not from Swashbuckle
+- Block works as usual: doesn`t stack, blocks after armor"
 			"mars_arena_of_blood"		"Your great teamfighting spell and synergy enabler for everything you have. Use it to catch your enemies and control their positioning to then later kill them with Spear+Rebuke
 
 Tips:
-- Doesn&amp;amp;amp;amp;amp;amp;amp;amp;apos;t pierce spell immutiny
+- Doesn`t pierce spell immutiny
 - There may be multiple arenas
 - Mars and teammates can get in and out freely
-- It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)"
-			"special_bonus_unique_mars_arena_of_blood_hp_regen"		"It can be very strong and make you and your team hard to take down. It may work great in lategame scenarios or just while pushing enemy highground in general"
+- It`s possible to get out with instant movement (blink) or manipulation with Z axis (Toss+Force Staff, Pounce...)"
 		}
 	}
 }

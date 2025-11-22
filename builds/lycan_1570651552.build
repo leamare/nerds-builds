@@ -3,26 +3,28 @@
 	"Hero"		"lycan"
 	"Title"		"Nerds Lycan"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"86"
+	"GuideRevision"		"88"
 	"AssociatedWorkshopItemID"		"0x000000007065E3C3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000687809EE"
-	"TimePublished"		"0x00000000687809EE"
+	"TimeUpdated"		"0x00000000692162B3"
+	"TimePublished"		"0x00000000692162B3"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items"
 			{
+				"item"		"item_tango"
+				"item"		"item_quelling_blade"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_magic_wand"
+				"item"		"item_magic_stick"
 			}
 			"Early"
 			{
@@ -33,6 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_helm_of_the_overlord"
 				"item"		"item_assault"
 				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
 			}
 			"Core - Physical"
 			{
@@ -50,7 +54,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_nullifier"
 				"item"		"item_orchid"
 				"item"		"item_bloodthorn"
@@ -60,7 +63,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_silver_edge"
 				"item"		"item_vladmir"
@@ -95,8 +97,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"ItemTooltips"
 		{
 			"item_helm_of_the_dominator"		"~8 min"
-			"item_boots"		"Before Vladmir&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering
-Usually you tend to play without Boots, especially in lane, until you finish Helm."
 			"item_helm_of_the_overlord"		"~14-16 min
 ALTERNATIVE: Wraith Pact"
 			"item_ultimate_scepter"		"If you have teammates to bite (melee physical carries)
@@ -119,7 +119,7 @@ Before Assault Cuirass"
 			"7"		"lycan_summon_wolves"
 			"8"		"lycan_feral_impulse"
 			"9"		"lycan_feral_impulse"
-			"10"		"special_bonus_unique_lycan_howl_armor"
+			"10"		"special_bonus_unique_lycan_3"
 			"11"		"lycan_howl"
 			"12"		"lycan_shapeshift"
 			"13"		"lycan_howl"
@@ -127,8 +127,8 @@ Before Assault Cuirass"
 			"15"		"special_bonus_unique_lycan_8"
 			"16"		"lycan_howl"
 			"18"		"lycan_shapeshift"
-			"20"		"special_bonus_unique_lycan_4"
-			"25"		"special_bonus_unique_lycan_2"
+			"20"		"special_bonus_unique_lycan_1"
+			"25"		"special_bonus_unique_lycan_5"
 		}
 		"AbilityTooltips"
 		{

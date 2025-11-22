@@ -3,16 +3,16 @@
 	"Hero"		"marci"
 	"Title"		"Nerds Core Marci - F3"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"44"
+	"GuideRevision"		"45"
 	"AssociatedWorkshopItemID"		"0x000000009D8182D4"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000687809D4"
-	"TimePublished"		"0x00000000687809D4"
+	"TimeUpdated"		"0x00000000692163DF"
+	"TimePublished"		"0x00000000692163DF"
 	"ItemBuild"
 	{
 		"Items"
@@ -27,18 +27,19 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_boots"
-				"item"		"item_orb_of_corrosion"
+				"item"		"item_helm_of_the_dominator"
 			}
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_bfury"
 				"item"		"item_black_king_bar"
+				"item"		"item_basher"
 				"item"		"item_lesser_crit"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_armlet"
 				"item"		"item_diffusal_blade"
@@ -47,21 +48,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_greater_crit"
-				"item"		"item_basher"
+				"item"		"item_abyssal_blade"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
 				"item"		"item_aghanims_shard"
-				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
-				"item"		"item_satanic"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
+				"item"		"item_bfury"
 				"item"		"item_orchid"
 				"item"		"item_heavens_halberd"
-				"item"		"item_monkey_king_bar"
 				"item"		"item_lotus_orb"
 				"item"		"item_nullifier"
 				"item"		"item_disperser"

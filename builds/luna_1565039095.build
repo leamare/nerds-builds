@@ -3,16 +3,16 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"77"
+	"GuideRevision"		"78"
 	"AssociatedWorkshopItemID"		"0x000000006CDACDE8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000687809F9"
-	"TimePublished"		"0x00000000687809F9"
+	"TimeUpdated"		"0x0000000069216266"
+	"TimePublished"		"0x0000000069216266"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,6 +33,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mask_of_madness"
 				"item"		"item_manta"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
@@ -55,7 +56,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_silver_edge"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_sphere"
 				"item"		"item_assault"

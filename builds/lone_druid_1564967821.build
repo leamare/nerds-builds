@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"lone_druid"
-	"Title"		"Nerds Bear Druid - F1"
+	"Title"		"Nerds Bear Druid - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"72"
+	"GuideRevision"		"73"
 	"AssociatedWorkshopItemID"		"0x000000006CDA84CD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780A20"
-	"TimePublished"		"0x0000000068780A20"
+	"TimeUpdated"		"0x000000006921621F"
+	"TimePublished"		"0x000000006921621F"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,9 +33,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_diffusal_blade"
-				"item"		"item_harpoon"
+				"item"		"item_mjollnir"
 				"item"		"item_aghanims_shard"
-				"item"		"item_basher"
 			}
 			"Situational Early"
 			{
@@ -43,15 +42,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_radiance"
 				"item"		"item_mask_of_madness"
+				"item"		"item_harpoon"
 				"item"		"item_power_treads"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_black_king_bar"
-				"item"		"item_abyssal_blade"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 			}
@@ -60,7 +60,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_desolator"
 				"item"		"item_invis_sword"
 				"item"		"item_pipe"
-				"item"		"item_mjollnir"
 				"item"		"item_greater_crit"
 				"item"		"item_solar_crest"
 			}
@@ -97,7 +96,6 @@ For Spirit Bear"
 			"item_aghanims_shard"		"For Druid"
 			"item_desolator"		"~15-18 min
 ALTERNATIVES: Radiance, Mjolnir"
-			"item_basher"		"~21-27 min"
 		}
 	}
 	"AbilityBuild"

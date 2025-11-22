@@ -3,16 +3,16 @@
 	"Hero"		"monkey_king"
 	"Title"		"Nerds Monkey King - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"77"
+	"GuideRevision"		"78"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAC13"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780992"
-	"TimePublished"		"0x0000000068780992"
+	"TimeUpdated"		"0x0000000069216646"
+	"TimePublished"		"0x0000000069216646"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,23 +36,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mjollnir"
+				"item"		"item_bfury"
 				"item"		"item_black_king_bar"
+				"item"		"item_yasha"
 			}
 			"Situational Early"
 			{
 				"item"		"item_wraith_band"
 				"item"		"item_phase_boots"
-				"item"		"item_bfury"
-				"item"		"item_echo_sabre"
 				"item"		"item_diffusal_blade"
+				"item"		"item_mjollnir"
+				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
 				"item"		"item_disperser"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_skadi"
 				"item"		"item_abyssal_blade"
 				"item"		"item_butterfly"
@@ -62,11 +63,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_sange_and_yasha"
 				"item"		"item_harpoon"
 				"item"		"item_desolator"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_silver_edge"
-				"item"		"item_sange_and_yasha"
 				"item"		"item_nullifier"
 				"item"		"item_swift_blink"
 				"item"		"item_satanic"
@@ -97,7 +98,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_bfury"		"ALTERNATIVES: Maelstrom, Radiance"
+			"item_bfury"		"ALTERNATIVES: Diffusal Blade, Mjolnir, Radiance"
 			"item_maelstrom"		"ALTERNATIVES: Battle Fury, Echo Sabre, Radiance"
 			"item_orb_of_corrosion"		"Before Battle Fury"
 			"item_phase_boots"		"ALTERNATIVE: Power Threads"
