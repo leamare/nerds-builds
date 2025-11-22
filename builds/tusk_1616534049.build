@@ -3,16 +3,16 @@
 	"Hero"		"tusk"
 	"Title"		"Nerds Mid/Offlane Tusk - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"52"
 	"AssociatedWorkshopItemID"		"0x00000000911036AD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780706"
-	"TimePublished"		"0x0000000068780706"
+	"TimeUpdated"		"0x00000000692227F4"
+	"TimePublished"		"0x00000000692227F4"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,12 +31,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_magic_wand"
-				"item"		"item_blink"
 			}
 			"Core"
 			{
+				"item"		"item_blink"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_black_king_bar"
+				"item"		"item_cyclone"
 			}
 			"Situational Early"
 			{
@@ -50,6 +50,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
 				"item"		"item_assault"
@@ -99,11 +100,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_bottle"		"Before Phase Boots"
 			"item_soul_ring"		"ALTERNATIVE: Bottle
 SWAP: Phase Boots"
-			"item_echo_sabre"		"Before Aghanim&amp;amp;amp;amp;amp;amp;apos; Scepter"
+			"item_echo_sabre"		"Before Aghanim`s Scepter"
 			"item_orb_of_corrosion"		"ALTERNATIVE: Falcon Blade, Soul Ring"
 			"item_falcon_blade"		"ALTERNATIVE: Orb of Corrosion, Soul Ring"
 			"item_desolator"		"~20 min
-Before Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
+Before Aghanim`s Scepter"
 		}
 	}
 	"AbilityBuild"
@@ -119,7 +120,7 @@ Before Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
 			"7"		"tusk_ice_shards"
 			"8"		"tusk_snowball"
 			"9"		"tusk_snowball"
-			"10"		"special_bonus_unique_tusk_7"
+			"10"		"special_bonus_unique_tusk_3"
 			"11"		"tusk_tag_team"
 			"12"		"tusk_walrus_punch"
 			"13"		"tusk_tag_team"
@@ -127,8 +128,8 @@ Before Aghanim&amp;amp;amp;amp;amp;apos;s Scepter"
 			"15"		"special_bonus_unique_tusk_2"
 			"16"		"tusk_tag_team"
 			"18"		"tusk_walrus_punch"
-			"20"		"special_bonus_unique_tusk_5"
-			"25"		"special_bonus_unique_tusk_4"
+			"20"		"special_bonus_unique_tusk"
+			"25"		"special_bonus_unique_tusk_6"
 		}
 		"AbilityTooltips"
 		{

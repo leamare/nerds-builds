@@ -3,19 +3,19 @@
 	"Hero"		"skeleton_king"
 	"Title"		"Nerds Wraith King - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"115"
+	"GuideRevision"		"117"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006877FFC4"
-	"TimePublished"		"0x000000006877FFC4"
+	"TimeUpdated"		"0x0000000069222D4C"
+	"TimePublished"		"0x0000000069222D4C"
 	"ItemBuild"
 	{
 		"Items"
@@ -94,15 +94,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_soul_ring"		"One of WK&amp;amp;amp;amp;amp;amp;amp;apos;s main problems is mana. With Soul Ring it mostly gets solved."
+			"item_soul_ring"		"One of WK`s main problems is mana. With Soul Ring it mostly gets solved."
 			"item_ancient_janggo"		"Cheap stats, mana regen and movement speed - all that position 4 WK might need."
-			"item_blink"		"Even while it&amp;amp;amp;amp;amp;amp;amp;apos;s position 4 WK, you still need to get Blink Dagger to initiate. You lack mobility in general and it helps to keep up, but ability to escape after ult most of the time or initiate with almost instant stun is too valuable."
+			"item_blink"		"Even while it`s position 4 WK, you still need to get Blink Dagger to initiate. You lack mobility in general and it helps to keep up, but ability to escape after ult most of the time or initiate with almost instant stun is too valuable."
 			"item_meteor_hammer"		"Good for finishing early"
 			"item_ultimate_scepter"		"One of the most underrated aspects of WK. It helps to make huge impact in fights even after somebody died. Especially good with burst initiation."
 			"item_spirit_vessel"		"Natural upgrade for Urn and one of the strongest support items"
 			"item_quelling_blade"		"Useful for early farming"
 			"item_assault"		"Buff for both your armor and attack speed. Works well with summons and great aura to have."
-			"item_shivas_guard"		"Alternatively, if your team already have AC, you can get Shiva&amp;amp;amp;amp;amp;amp;amp;apos;s instead. It&amp;amp;amp;amp;amp;amp;amp;apos;s not as good for your hero, but it&amp;amp;amp;amp;amp;amp;amp;apos;s still great item to have"
+			"item_shivas_guard"		"Alternatively, if your team already have AC, you can get Shiva`s instead. It`s not as good for your hero, but it`s still great item to have"
 			"item_crimson_guard"		"Works well againt summons"
 			"item_pipe"		"Works well against a lot of magic damage"
 			"item_ghost"		"Against high physical damage"
@@ -136,7 +136,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"skeleton_king_mortal_strike"		"Great ability for zoning enemies early, as well as farm jungle inbetween ganks. Crits are good for trading hits and farming jungle early, skeletons are great for zoning opponents and farming jugle early on. Note that you can also use wards to guide your skeletons around."
 			"skeleton_king_hellfire_blast"		"Good skill to learn at level 1 for a kill potential. Otherwise get it on level 2 and keep it level 1 for a while."
-			"skeleton_king_reincarnation"		"Signature skill that makes a decent tank out of us. You can skip it early on if you don&amp;amp;amp;amp;amp;amp;amp;apos;t want to waste it without a purpose."
+			"skeleton_king_reincarnation"		"Signature skill that makes a decent tank out of us. You can skip it early on if you don`t want to waste it without a purpose."
 		}
 	}
 }
