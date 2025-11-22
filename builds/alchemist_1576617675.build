@@ -2,42 +2,40 @@
 {
 	"Hero"		"alchemist"
 	"Title"		"Nerds Support Alch - F3"
-	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39c"
+	"Role"		"#DOTA_HeroGuide_Role_Roamer"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"63"
+	"GuideRevision"		"64"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780FDC"
-	"TimePublished"		"0x0000000068780FDC"
+	"TimeUpdated"		"0x00000000691DB96E"
+	"TimePublished"		"0x00000000691DB96E"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_tango"
+				"item"		"item_boots"
 				"item"		"item_blood_grenade"
-				"item"		"item_magic_stick"
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_ward_sentry"
 				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_boots"
+				"item"		"item_tango"
 				"item"		"item_soul_ring"
 				"item"		"item_ultimate_scepter"
 			}
 			"Core"
 			{
+				"item"		"item_blink"
+				"item"		"item_lotus_orb"
 				"item"		"item_aghanims_shard"
 				"item"		"item_glimmer_cape"
-				"item"		"item_blink"
 			}
 			"Situational Early"
 			{
@@ -48,7 +46,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_boots_of_bearing"
+				"item"		"item_sheepstick"
+				"item"		"item_travel_boots"
 				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
@@ -56,11 +55,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Situational"
 			{
 				"item"		"item_solar_crest"
-				"item"		"item_lotus_orb"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
 				"item"		"item_meteor_hammer"
 				"item"		"item_ghost"
+				"item"		"item_boots_of_bearing"
 			}
 			"Core transition"
 			{
@@ -100,13 +99,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"1"		"alchemist_unstable_concoction"
 			"2"		"alchemist_acid_spray"
-			"3"		"alchemist_unstable_concoction"
-			"4"		"alchemist_acid_spray"
-			"5"		"alchemist_unstable_concoction"
+			"3"		"alchemist_acid_spray"
+			"4"		"alchemist_unstable_concoction"
+			"5"		"alchemist_acid_spray"
 			"6"		"alchemist_chemical_rage"
-			"7"		"alchemist_unstable_concoction"
-			"8"		"alchemist_acid_spray"
-			"9"		"alchemist_acid_spray"
+			"7"		"alchemist_acid_spray"
+			"8"		"alchemist_unstable_concoction"
+			"9"		"alchemist_unstable_concoction"
 			"10"		"special_bonus_unique_alchemist"
 			"11"		"alchemist_corrosive_weaponry"
 			"12"		"alchemist_chemical_rage"
@@ -116,7 +115,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"16"		"alchemist_corrosive_weaponry"
 			"18"		"alchemist_chemical_rage"
 			"20"		"special_bonus_unique_alchemist_2"
-			"25"		"special_bonus_unique_alchemist_6"
+			"25"		"special_bonus_unique_alchemist_4"
 		}
 		"AbilityTooltips"
 		{

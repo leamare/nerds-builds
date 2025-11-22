@@ -3,16 +3,16 @@
 	"Hero"		"alchemist"
 	"Title"		"Nerds Alchemist - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"110"
+	"GuideRevision"		"111"
 	"AssociatedWorkshopItemID"		"0x000000006CDA37C5"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006878100F"
-	"TimePublished"		"0x000000006878100F"
+	"TimeUpdated"		"0x00000000691DB9C0"
+	"TimePublished"		"0x00000000691DB9C0"
 	"ItemBuild"
 	{
 		"Items"
@@ -49,18 +49,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
-				"item"		"item_abyssal_blade"
-				"item"		"item_assault"
-				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_manta"
+				"item"		"item_bloodthorn"
+				"item"		"item_assault"
+				"item"		"item_abyssal_blade"
+				"item"		"item_aghanims_shard"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
-				"item"		"item_manta"
 				"item"		"item_silver_edge"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_monkey_king_bar"
@@ -106,7 +106,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ALTERNATIVE: Battle Fury"
 			"item_blink"		"~10-17 min
 SWAP: Black King Bar"
-			"item_manta"		"~15-18 min"
 			"item_invis_sword"		"~12-21 min"
 			"item_phase_boots"		"~7 min
 ALTERNATIVE: Power Treads"

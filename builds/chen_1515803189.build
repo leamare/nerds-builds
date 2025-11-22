@@ -1,19 +1,18 @@
 "guidedata"
 {
 	"Hero"		"chen"
-	"Title"		"Nerds Core Chen"
+	"Title"		"Experimental Core Chen"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.39c"
-	"Overview"		"Chen is summon based hero, who can be played as roaming jungler or offensive support. This build is focused on his ability to be extremely strong as offensive support on offlane or even solo offlaner, who later on can transition into a powerful nuker or reliably save teammates from a long distance.
-
+	"GameplayVersion"		"7.39e"
+	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"116"
+	"GuideRevision"		"117"
 	"AssociatedWorkshopItemID"		"0x000000004CCE2071"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780CDE"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000006920777F"
+	"TimePublished"		"0x000000006920777F"
 	"ItemBuild"
 	{
 		"Items"
@@ -109,7 +108,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;amp;amp;amp;amp;amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;amp;amp;amp;amp;amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
+			"item_ultimate_scepter"		"Even while Aghs is super strong on Chen, you don&amp;amp;amp;amp;amp;amp;amp;apos;t really need it every time, especially after recent changes and with this playstyle. Consider buying it if you&amp;amp;amp;amp;amp;amp;amp;apos;re playing around ancients a lot and can reliably splitpush with them or keep them alive in fights."
 		}
 	}
 	"AbilityBuild"
@@ -133,7 +132,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"15"		"special_bonus_unique_chen_11"
 			"16"		"special_bonus_unique_chen_8"
 			"18"		"chen_hand_of_god"
-			"20"		"attribute_bonus"
+			"20"		"special_bonus_unique_chen_divine_favor_healing"
 			"25"		"special_bonus_unique_chen_12"
 		}
 		"AbilityTooltips"

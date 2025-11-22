@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"broodmother"
-	"Title"		"Nerds Offlane Brood - F1"
+	"Title"		"Nerds Offlane Brood - F2"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"48"
+	"GuideRevision"		"49"
 	"AssociatedWorkshopItemID"		"0x0000000094606C7B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780D1F"
-	"TimePublished"		"0x0000000068780D1F"
+	"TimeUpdated"		"0x00000000692076E0"
+	"TimePublished"		"0x00000000692076E0"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,13 +35,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_orchid"
-				"item"		"item_aghanims_shard"
+				"item"		"item_manta"
+				"item"		"item_black_king_bar"
 			}
 			"Core - Utility"
 			{
 				"item"		"item_arcane_boots"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
+				"item"		"item_guardian_greaves"
 			}
 			"Situational Early"
 			{
@@ -49,16 +51,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bracer"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_echo_sabre"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_diffusal_blade"
 				"item"		"item_basher"
 				"item"		"item_vanguard"
 			}
 			"Lategame"
 			{
-				"item"		"item_guardian_greaves"
-				"item"		"item_black_king_bar"
-				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
 				"item"		"item_bloodthorn"
 				"item"		"item_nullifier"
 				"item"		"item_sheepstick"

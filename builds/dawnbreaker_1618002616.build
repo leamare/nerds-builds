@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dawnbreaker"
-	"Title"		"Nerds Sup Dawn - F3"
+	"Title"		"Nerds Sup Dawn - F1"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"52"
+	"GuideRevision"		"53"
 	"AssociatedWorkshopItemID"		"0x000000009224D215"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780C6E"
-	"TimePublished"		"0x0000000068780C6E"
+	"TimeUpdated"		"0x0000000069209459"
+	"TimePublished"		"0x0000000069209459"
 	"ItemBuild"
 	{
 		"Items"
@@ -48,7 +48,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_refresher"
+				"item"		"item_black_king_bar"
 				"item"		"item_holy_locket"
+				"item"		"item_assault"
 				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_blink"
@@ -65,7 +68,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_lotus_orb"
 				"item"		"item_basher"
 				"item"		"item_heavens_halberd"
-				"item"		"item_black_king_bar"
 			}
 			"Best Neutral Items"
 			{

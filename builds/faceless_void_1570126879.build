@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"faceless_void"
-	"Title"		"Nerds Core Void - F2"
+	"Title"		"Nerds Core Void"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"87"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x00000000700799BC"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780BE3"
-	"TimePublished"		"0x0000000068780BE3"
+	"TimeUpdated"		"0x000000006920B12B"
+	"TimePublished"		"0x000000006920B12B"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_echo_sabre"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_radiance"
+				"item"		"item_aghanims_shard"
 			}
 			"Core - tankIER"
 			{
@@ -52,13 +52,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_vanguard"
 				"item"		"item_mask_of_madness"
 				"item"		"item_maelstrom"
+				"item"		"item_echo_sabre"
 			}
 			"Lategame"
 			{
 				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
+				"item"		"item_manta"
 				"item"		"item_octarine_core"
-				"item"		"item_aghanims_shard"
 				"item"		"item_skadi"
 				"item"		"item_disperser"
 				"item"		"item_refresher"
@@ -69,8 +70,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_monkey_king_bar"
 				"item"		"item_moon_shard"
 				"item"		"item_mjollnir"
-				"item"		"item_radiance"
-				"item"		"item_manta"
 				"item"		"item_greater_crit"
 				"item"		"item_silver_edge"
 				"item"		"item_sphere"
