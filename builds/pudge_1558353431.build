@@ -3,16 +3,16 @@
 	"Hero"		"pudge"
 	"Title"		"Nerds Pudge"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"83"
+	"GuideRevision"		"84"
 	"AssociatedWorkshopItemID"		"0x00000000685DEC80"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000687808AB"
-	"TimePublished"		"0x00000000687808AB"
+	"TimeUpdated"		"0x0000000069221EFD"
+	"TimePublished"		"0x0000000069221EFD"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,9 +32,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_blade_mail"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_black_king_bar"
 			}
 			"Situational Early"
 			{
@@ -43,11 +43,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tranquil_boots"
 				"item"		"item_vanguard"
 				"item"		"item_helm_of_iron_will"
+				"item"		"item_blade_mail"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_black_king_bar"
 				"item"		"item_shivas_guard"
 				"item"		"item_heart"
 				"item"		"item_travel_boots"
@@ -56,9 +55,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_eternal_shroud"
-				"item"		"item_octarine_core"
 				"item"		"item_lotus_orb"
+				"item"		"item_octarine_core"
 				"item"		"item_force_staff"
 				"item"		"item_crimson_guard"
 				"item"		"item_pipe"

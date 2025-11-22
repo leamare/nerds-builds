@@ -3,16 +3,16 @@
 	"Hero"		"slark"
 	"Title"		"Nerds Support Slark - F2"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39c"
+	"GameplayVersion"		"7.39e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"22"
+	"GuideRevision"		"23"
 	"AssociatedWorkshopItemID"		"0x00000000B14503A3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000068780843"
-	"TimePublished"		"0x0000000068780843"
+	"TimeUpdated"		"0x00000000692221B2"
+	"TimePublished"		"0x00000000692221B2"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,7 +32,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_cyclone"
 				"item"		"item_aghanims_shard"
 				"item"		"item_glimmer_cape"
-				"item"		"item_orchid"
 			}
 			"Situational Early"
 			{
@@ -43,6 +42,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_lotus_orb"
+				"item"		"item_orchid"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_nullifier"
 				"item"		"item_black_king_bar"
