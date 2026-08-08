@@ -1,21 +1,21 @@
 "guidedata"
 {
 	"Hero"		"bane"
-	"Title"		"Nerds Core Bane - F1"
+	"Title"		"Nerds Core Bane"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Bane is intelligence utility hero with insanely good stats. He is good at dominating lanes and outliving opponents, while also providing strong setup for kills early on.
 
 This build is based around his ability to dominate the lane and snowball from here. Bane has pretty strong overall stats and he's almost impossible to fight against early on. His skillset makes it harder to farm on lane and gives Bane a lot of sustain. Later on Core Offlane Bane can be build into strong utility fighter, holding auras and useful team oriented items, ending up as scary hybrid core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"143"
+	"GuideRevision"		"144"
 	"AssociatedWorkshopItemID"		"0x0000000046F887BF"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000691DC53D"
-	"TimePublished"		"0x00000000691DC53D"
+	"TimeUpdated"		"0x000000006A766107"
+	"TimePublished"		"0x000000006A766107"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,8 +26,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_mantle"
-				"item"		"item_circlet"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -38,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_arcane_boots"
-				"item"		"item_aether_lens"
+				"item"		"item_phylactery"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_blink"
 			}
@@ -49,23 +48,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_hand_of_midas"
 				"item"		"item_urn_of_shadows"
 				"item"		"item_dragon_lance"
-				"item"		"item_phylactery"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_manta"
-				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
+				"item"		"item_invis_sword"
 				"item"		"item_travel_boots"
-				"item"		"item_sheepstick"
-				"item"		"item_moon_shard"
+				"item"		"item_angels_demise"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational"
 			{
-				"item"		"item_invis_sword"
-				"item"		"item_angels_demise"
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_blink"
+				"item"		"item_silver_edge"
 				"item"		"item_ethereal_blade"
 				"item"		"item_ghost"
 				"item"		"item_octarine_core"
@@ -75,10 +71,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_kaya_and_sange"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_shivas_guard"
+				"item"		"item_aether_lens"
+				"item"		"item_sheepstick"
 			}
 			"Utility"
 			{
-				"item"		"item_solar_crest"
 				"item"		"item_guardian_greaves"
 				"item"		"item_heavens_halberd"
 				"item"		"item_pipe"
@@ -87,24 +84,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_assault"
-				"item"		"item_bloodstone"
 				"item"		"item_meteor_hammer"
 				"item"		"item_spirit_vessel"
+				"item"		"item_solar_crest"
+				"item"		"item_hurricane_pike"
+				"item"		"item_manta"
+				"item"		"item_moon_shard"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
+				"item"		"item_kobold_cup"
+				"item"		"item_ash_legion_shield"
 				"item"		"item_polliwog_charm"
+				"item"		"item_pogo_stick"
 				"item"		"item_searing_signet"
 				"item"		"item_mana_draught"
-				"item"		"item_pogo_stick"
-				"item"		"item_gale_guard"
-				"item"		"item_psychic_headband"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_spellslinger"
+				"item"		"item_partisans_brand"
+				"item"		"item_stormcrafter"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_prophets_pendulum"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -132,23 +133,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"1"		"bane_enfeeble"
 			"2"		"bane_brain_sap"
-			"3"		"bane_brain_sap"
-			"4"		"bane_enfeeble"
-			"5"		"bane_brain_sap"
+			"3"		"bane_enfeeble"
+			"4"		"bane_brain_sap"
+			"5"		"bane_enfeeble"
 			"6"		"bane_fiends_grip"
-			"7"		"bane_brain_sap"
-			"8"		"bane_enfeeble"
-			"9"		"bane_enfeeble"
-			"10"		"special_bonus_unique_bane_8"
+			"7"		"bane_enfeeble"
+			"8"		"bane_brain_sap"
+			"9"		"bane_brain_sap"
+			"10"		"bane_nightmare"
 			"11"		"bane_nightmare"
 			"12"		"bane_fiends_grip"
 			"13"		"bane_nightmare"
 			"14"		"bane_nightmare"
-			"15"		"special_bonus_unique_bane_10"
-			"16"		"bane_nightmare"
 			"18"		"bane_fiends_grip"
-			"20"		"special_bonus_movement_speed_30"
-			"25"		"special_bonus_unique_bane_3"
+			"27"		"special_bonus_unique_bane_8"
+			"28"		"special_bonus_unique_bane_10"
+			"29"		"special_bonus_movement_speed_30"
+			"30"		"special_bonus_unique_bane_2"
 		}
 		"AbilityTooltips"
 		{

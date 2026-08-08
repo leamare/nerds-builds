@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"bloodseeker"
-	"Title"		"Nerds Utility Bloodseeker - F1"
+	"Title"		"Nerds Utility Bloodseeker"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Bloodseeker is an agility core hero, who can be played as an utility core (or a support). Bloodseekers excells at early game fights, as well as disrupting enemy positioning and immobilizing them. He's also good at crearing jungle and creep waves. His passive ability Thirst makes im very durable early on, thanks to the heal. Bloodrite, on the other hand, allowes the hero to secure ranged creeps and fight for bounty runes effectively. Bloodrage, the signature spell, allows Bloodseeker to make any strong core hero on his team even more powerful, infusing them with a massive spell amplification and attack speed buff.
 
 Your main goal as an utility Bloodseeker is to stay alive and buff your team. Your optional goal is to disrupt enemy's positioning and immobilize enemy heroes, as well as using your spells to deal massive amounts of damage. The hero works well in combination with any powerful spellcaster or a brawny core hero. However, the hero is weak against heavy magic damage bursts and dispels.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"57"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x0000000083F4EB4D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000691DC585"
-	"TimePublished"		"0x00000000691DC585"
+	"TimeUpdated"		"0x000000006A7662B8"
+	"TimePublished"		"0x000000006A7662B8"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,11 +22,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_quelling_blade"
+				"item"		"item_magic_stick"
 				"item"		"item_tango"
-				"item"		"item_circlet"
 				"item"		"item_branches"
 				"item"		"item_branches"
-				"item"		"item_slippers"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -72,17 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_possessed_mask"
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
-				"item"		"item_essence_ring"
-				"item"		"item_misericorde"
+				"item"		"item_duelist_gloves"
 				"item"		"item_poor_mans_shield"
+				"item"		"item_mana_draught"
+				"item"		"item_essence_ring"
 				"item"		"item_serrated_shiv"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_giant_maul"
+				"item"		"item_flayers_bota"
+				"item"		"item_prophets_pendulum"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -112,16 +113,16 @@ ORDER SWAP: Black King Bar"
 			"7"		"bloodseeker_blood_bath"
 			"8"		"bloodseeker_bloodrage"
 			"9"		"bloodseeker_bloodrage"
-			"10"		"special_bonus_unique_bloodseeker_6"
-			"11"		"bloodseeker_bloodrage"
+			"10"		"bloodseeker_bloodrage"
+			"11"		"bloodseeker_thirst"
 			"12"		"bloodseeker_rupture"
 			"13"		"bloodseeker_thirst"
 			"14"		"bloodseeker_thirst"
-			"15"		"special_bonus_unique_bloodseeker_2"
-			"16"		"bloodseeker_thirst"
 			"18"		"bloodseeker_rupture"
-			"20"		"special_bonus_unique_bloodseeker_3"
-			"25"		"special_bonus_unique_bloodseeker_rupture_charges"
+			"27"		"special_bonus_hp_200"
+			"28"		"special_bonus_unique_bloodseeker_2"
+			"29"		"special_bonus_unique_bloodseeker_3"
+			"30"		"special_bonus_unique_bloodseeker_4"
 		}
 		"AbilityTooltips"
 		{

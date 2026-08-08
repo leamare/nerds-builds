@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"dawnbreaker"
-	"Title"		"Nerds Dawnbreaker - F1"
+	"Title"		"Nerds Dawnbreaker"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 This is a beta guide. Going to be updated based on Immortal Rank stats.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"58"
+	"GuideRevision"		"59"
 	"AssociatedWorkshopItemID"		"0x000000009224AAAD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006920A364"
-	"TimePublished"		"0x000000006920A364"
+	"TimeUpdated"		"0x000000006A767352"
+	"TimePublished"		"0x000000006A767352"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,8 +35,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_phase_boots"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_black_king_bar"
+				"item"		"item_harpoon"
+				"item"		"item_aghanims_shard"
 			}
 			"Core - Utility"
 			{
@@ -49,13 +49,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bracer"
 				"item"		"item_falcon_blade"
-				"item"		"item_orb_of_corrosion"
 				"item"		"item_magic_wand"
-				"item"		"item_echo_sabre"
 				"item"		"item_blade_mail"
 			}
 			"Lategame"
 			{
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_aghanims_shard"
@@ -66,9 +66,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_desolator"
 				"item"		"item_heavens_halberd"
 				"item"		"item_harpoon"
-				"item"		"item_desolator"
 				"item"		"item_satanic"
 				"item"		"item_crimson_guard"
 				"item"		"item_vladmir"
@@ -88,15 +88,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
 				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_nemesis_curse"
-				"item"		"item_serrated_shiv"
+				"item"		"item_searing_signet"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_serrated_shiv"
+				"item"		"item_giant_maul"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -123,15 +125,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"8"		"dawnbreaker_fire_wreath"
 			"9"		"dawnbreaker_fire_wreath"
 			"10"		"dawnbreaker_fire_wreath"
-			"11"		"special_bonus_attack_damage_12"
+			"11"		"dawnbreaker_luminosity"
 			"12"		"dawnbreaker_solar_guardian"
 			"13"		"dawnbreaker_luminosity"
 			"14"		"dawnbreaker_luminosity"
-			"15"		"special_bonus_unique_dawnbreaker_luminosity_crit"
-			"16"		"dawnbreaker_luminosity"
 			"18"		"dawnbreaker_solar_guardian"
-			"20"		"special_bonus_unique_dawnbreaker_luminosity_attack_count"
-			"25"		"special_bonus_unique_dawnbreaker_fire_wreath_cooldown"
+			"27"		"special_bonus_unique_dawnbreaker_luminosity_crit"
+			"28"		"special_bonus_unique_dawnbreaker_solar_guardian_cooldown"
+			"29"		"special_bonus_unique_dawnbreaker_luminosity_attack_count"
+			"30"		"special_bonus_unique_dawnbreaker_fire_wreath_cooldown"
 		}
 		"AbilityTooltips"
 		{

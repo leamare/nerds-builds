@@ -1,17 +1,17 @@
 "guidedata"
 {
 	"Hero"		"bounty_hunter"
-	"Title"		"Nerds Bounty Hunter - F1"
+	"Title"		"Nerds Bounty Hunter"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"53"
+	"GuideRevision"		"54"
 	"AssociatedWorkshopItemID"		"0x000000008BCA8526"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000691DC5C4"
-	"TimePublished"		"0x00000000691DC5C4"
+	"TimeUpdated"		"0x000000006A76648E"
+	"TimePublished"		"0x000000006A76648E"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,6 +20,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+				"item"		"item_ward_observer"
 			}
 			"Early"
 			{
@@ -28,8 +30,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
+				"item"		"item_ancient_janggo"
+				"item"		"item_cyclone"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_sheepstick"
 			}
 			"Situational Early"
 			{
@@ -41,10 +44,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_cyclone"
+				"item"		"item_sheepstick"
+				"item"		"item_pipe"
+				"item"		"item_aghanims_shard"
 				"item"		"item_lotus_orb"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
+				"item"		"item_wind_waker"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
@@ -53,7 +58,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_force_staff"
 				"item"		"item_heavens_halberd"
-				"item"		"item_pipe"
 				"item"		"item_crimson_guard"
 				"item"		"item_vladmir"
 			}
@@ -70,16 +74,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
+				"item"		"item_kobold_cup"
+				"item"		"item_ash_legion_shield"
 				"item"		"item_polliwog_charm"
-				"item"		"item_chipped_vest"
 				"item"		"item_searing_signet"
 				"item"		"item_essence_ring"
-				"item"		"item_poor_mans_shield"
-				"item"		"item_gale_guard"
+				"item"		"item_mana_draught"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_unrelenting_eye"
 				"item"		"item_psychic_headband"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_conjurers_catalyst"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -97,23 +103,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		{
 			"1"		"bounty_hunter_wind_walk"
 			"2"		"bounty_hunter_shuriken_toss"
-			"3"		"bounty_hunter_shuriken_toss"
-			"4"		"bounty_hunter_jinada"
+			"3"		"bounty_hunter_jinada"
+			"4"		"bounty_hunter_shuriken_toss"
 			"5"		"bounty_hunter_shuriken_toss"
 			"6"		"bounty_hunter_track"
 			"7"		"bounty_hunter_shuriken_toss"
 			"8"		"bounty_hunter_wind_walk"
 			"9"		"bounty_hunter_wind_walk"
-			"10"		"special_bonus_unique_bounty_hunter_5"
-			"11"		"bounty_hunter_wind_walk"
+			"10"		"bounty_hunter_wind_walk"
+			"11"		"bounty_hunter_jinada"
 			"12"		"bounty_hunter_track"
 			"13"		"bounty_hunter_jinada"
 			"14"		"bounty_hunter_jinada"
-			"15"		"special_bonus_unique_bounty_hunter_9"
-			"16"		"bounty_hunter_jinada"
 			"18"		"bounty_hunter_track"
-			"20"		"special_bonus_unique_bounty_hunter_8"
-			"25"		"special_bonus_unique_bounty_hunter_2"
+			"27"		"special_bonus_unique_bounty_hunter_5"
+			"28"		"special_bonus_unique_bounty_hunter_9"
+			"29"		"special_bonus_unique_bounty_hunter_8"
+			"30"		"special_bonus_unique_bounty_hunter_2"
 		}
 		"AbilityTooltips"
 		{

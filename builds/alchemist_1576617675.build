@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"alchemist"
-	"Title"		"Nerds Support Alch - F3"
+	"Title"		"Nerds Support Alch"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"64"
+	"GuideRevision"		"66"
 	"AssociatedWorkshopItemID"		"0x0000000082BE8C5E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000691DB96E"
-	"TimePublished"		"0x00000000691DB96E"
+	"TimeUpdated"		"0x000000006A76269F"
+	"TimePublished"		"0x000000006A76269F"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,7 +33,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_blink"
-				"item"		"item_lotus_orb"
 				"item"		"item_aghanims_shard"
 				"item"		"item_glimmer_cape"
 			}
@@ -46,14 +45,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_sheepstick"
-				"item"		"item_travel_boots"
+				"item"		"item_sphere"
 				"item"		"item_abyssal_blade"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_moon_shard"
+				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_lotus_orb"
+				"item"		"item_sheepstick"
 				"item"		"item_solar_crest"
 				"item"		"item_pipe"
 				"item"		"item_heavens_halberd"
@@ -71,18 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_stonefeather_satchel"
+				"item"		"item_weighted_dice"
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
-				"item"		"item_dormant_curio"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_mana_draught"
-				"item"		"item_poor_mans_shield"
-				"item"		"item_essence_ring"
+				"item"		"item_pogo_stick"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
 				"item"		"item_serrated_shiv"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
-				"item"		"item_dezun_bloodrite"
+				"item"		"item_flayers_bota"
+				"item"		"item_giant_maul"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -106,16 +107,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"alchemist_acid_spray"
 			"8"		"alchemist_unstable_concoction"
 			"9"		"alchemist_unstable_concoction"
-			"10"		"special_bonus_unique_alchemist"
+			"10"		"alchemist_corrosive_weaponry"
 			"11"		"alchemist_corrosive_weaponry"
 			"12"		"alchemist_chemical_rage"
 			"13"		"alchemist_corrosive_weaponry"
 			"14"		"alchemist_corrosive_weaponry"
-			"15"		"special_bonus_unique_alchemist_3"
-			"16"		"alchemist_corrosive_weaponry"
 			"18"		"alchemist_chemical_rage"
-			"20"		"special_bonus_unique_alchemist_2"
-			"25"		"special_bonus_unique_alchemist_4"
+			"27"		"special_bonus_unique_alchemist"
+			"28"		"special_bonus_unique_alchemist_5"
+			"29"		"special_bonus_unique_alchemist_2"
+			"30"		"special_bonus_unique_alchemist_4"
 		}
 		"AbilityTooltips"
 		{

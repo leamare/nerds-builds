@@ -3,16 +3,16 @@
 	"Hero"		"faceless_void"
 	"Title"		"Nerds Support Void"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"based on games of DuBu and 2B (as well as feedback of various Void Support spammers from 5.6k+ mmr)
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"50"
+	"GuideRevision"		"51"
 	"AssociatedWorkshopItemID"		"0x00000000931E9568"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006920B133"
-	"TimePublished"		"0x000000006920B133"
+	"TimeUpdated"		"0x000000006A767DE4"
+	"TimePublished"		"0x000000006A767DE4"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,32 +20,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_boots"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_magic_stick"
+				"item"		"item_blood_grenade"
 			}
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_wind_lace"
-				"item"		"item_orb_of_frost"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_essence_distiller"
 				"item"		"item_tranquil_boots"
-				"item"		"item_gungir"
+				"item"		"item_ancient_janggo"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_phase_boots"
 				"item"		"item_solar_crest"
-				"item"		"item_ancient_janggo"
-				"item"		"item_urn_of_shadows"
+				"item"		"item_orb_of_frost"
+				"item"		"item_wind_lace"
 			}
 			"Lategame"
 			{
+				"item"		"item_aghanims_shard"
 				"item"		"item_boots_of_bearing"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_aether_lens"
 				"item"		"item_octarine_core"
 			}
@@ -61,6 +64,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_ethereal_blade"
 				"item"		"item_guardian_greaves"
 				"item"		"item_spirit_vessel"
+				"item"		"item_gungir"
 			}
 			"Core Transition"
 			{
@@ -69,15 +73,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_duelist_gloves"
 				"item"		"item_chipped_vest"
+				"item"		"item_weighted_dice"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_misericorde"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_essence_ring"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_dezun_bloodrite"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_giant_maul"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -95,25 +102,25 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"faceless_void_time_lock"
-			"2"		"faceless_void_time_walk"
+			"1"		"faceless_void_time_walk"
+			"2"		"faceless_void_time_dilation"
 			"3"		"faceless_void_time_dilation"
-			"4"		"faceless_void_time_dilation"
+			"4"		"faceless_void_time_lock"
 			"5"		"faceless_void_time_dilation"
 			"6"		"faceless_void_chronosphere"
 			"7"		"faceless_void_time_dilation"
 			"8"		"faceless_void_time_walk"
 			"9"		"faceless_void_time_walk"
-			"10"		"special_bonus_unique_faceless_void_6"
-			"11"		"faceless_void_time_walk"
+			"10"		"faceless_void_time_walk"
+			"11"		"faceless_void_time_lock"
 			"12"		"faceless_void_chronosphere"
 			"13"		"faceless_void_time_lock"
 			"14"		"faceless_void_time_lock"
-			"15"		"special_bonus_unique_faceless_void_8"
-			"16"		"faceless_void_time_lock"
 			"18"		"faceless_void_chronosphere"
-			"20"		"special_bonus_unique_faceless_void"
-			"25"		"special_bonus_unique_faceless_void_2"
+			"27"		"special_bonus_unique_faceless_void_6"
+			"28"		"special_bonus_unique_faceless_void_8"
+			"29"		"special_bonus_unique_faceless_void_5"
+			"30"		"special_bonus_unique_faceless_void_2"
 		}
 		"AbilityTooltips"
 		{

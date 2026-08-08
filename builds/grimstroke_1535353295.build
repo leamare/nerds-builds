@@ -3,17 +3,17 @@
 	"Hero"		"grimstroke"
 	"Title"		"Nerds Mid Grimstroke"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Grimstroke is versatile intelligence hero who's good at controlling fights as well as dealing high AoE damage with low cooldowns. His Stroke of Fate skill allowes him to be played as a strong midlane core since it allowes him to dominate the lane, gather resources pretty quickly and start moving around, forcing agressive plays. His massive damage and talents allow him to be a strong nuker at any stage of the game, while having good potential to transition into hybrid core due to his good attack animation and stats.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"119"
+	"GuideRevision"		"120"
 	"AssociatedWorkshopItemID"		"0x000000005B7D7982"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069215AAE"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000006A768044"
+	"TimePublished"		"0x000000006A768044"
 	"ItemBuild"
 	{
 		"Items"
@@ -24,6 +24,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -34,22 +35,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_arcane_boots"
-				"item"		"item_ethereal_blade"
 				"item"		"item_blink"
+				"item"		"item_travel_boots"
+				"item"		"item_ethereal_blade"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_rod_of_atos"
 				"item"		"item_cyclone"
+				"item"		"item_arcane_boots"
 			}
 			"Lategame"
 			{
-				"item"		"item_travel_boots"
-				"item"		"item_aghanims_shard"
-				"item"		"item_sheepstick"
-				"item"		"item_bloodstone"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
+				"item"		"item_wind_waker"
+				"item"		"item_bloodstone"
 				"item"		"item_overwhelming_blink"
 				"item"		"item_refresher"
 			}
@@ -59,7 +61,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_devastator"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_shivas_guard"
-				"item"		"item_wind_waker"
 				"item"		"item_force_staff"
 				"item"		"item_black_king_bar"
 				"item"		"item_aeon_disk"
@@ -78,15 +79,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
+				"item"		"item_kobold_cup"
 				"item"		"item_polliwog_charm"
+				"item"		"item_ash_legion_shield"
 				"item"		"item_searing_signet"
 				"item"		"item_mana_draught"
 				"item"		"item_pogo_stick"
-				"item"		"item_gale_guard"
-				"item"		"item_whisper_of_the_dread"
+				"item"		"item_spellslinger"
 				"item"		"item_psychic_headband"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_partisans_brand"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_prophets_pendulum"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -128,15 +132,15 @@ It doesn`t really work in combination with Ink Swell: stun duration scales from 
 			"8"		"grimstroke_spirit_walk"
 			"9"		"grimstroke_dark_artistry"
 			"10"		"grimstroke_soul_chain"
-			"11"		"special_bonus_unique_grimstroke_7"
 			"12"		"grimstroke_soul_chain"
 			"13"		"grimstroke_ink_creature"
 			"14"		"grimstroke_ink_creature"
-			"15"		"special_bonus_unique_grimstroke_soul_chain_reflect_damage"
 			"16"		"grimstroke_ink_creature"
 			"18"		"grimstroke_soul_chain"
-			"20"		"special_bonus_unique_grimstroke_2"
-			"25"		"special_bonus_unique_grimstroke_3"
+			"27"		"special_bonus_unique_grimstroke_8"
+			"28"		"special_bonus_unique_grimstroke_soul_chain_reflect_damage"
+			"29"		"special_bonus_unique_grimstroke_2"
+			"30"		"special_bonus_unique_grimstroke_3"
 		}
 		"AbilityTooltips"
 		{

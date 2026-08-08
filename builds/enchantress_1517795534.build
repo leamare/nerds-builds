@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"enchantress"
-	"Title"		"Nerds Core Enchantress - F1"
+	"Title"		"Nerds Core Enchantress"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Enchantress is durable intelligence hero, who is pretty good as agressive offlane. She has ability to boost her farm in offlane jungle, does not care about counterpicks and can destroy enemy core's life, while also being great damage dealer in lategame.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"161"
+	"GuideRevision"		"162"
 	"AssociatedWorkshopItemID"		"0x0000000029FFF3F0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006920B0D1"
-	"TimePublished"		"0x000000006920B0D1"
+	"TimeUpdated"		"0x000000006A767BD8"
+	"TimePublished"		"0x000000006A767BD8"
 	"ItemBuild"
 	{
 		"Items"
@@ -39,31 +39,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
-				"item"		"item_hand_of_midas"
 				"item"		"item_ancient_janggo"
 				"item"		"item_falcon_blade"
 				"item"		"item_bracer"
 				"item"		"item_phase_boots"
 				"item"		"item_dragon_lance"
 				"item"		"item_force_staff"
+				"item"		"item_orchid"
+				"item"		"item_witch_blade"
 			}
 			"Lategame"
 			{
-				"item"		"item_orchid"
+				"item"		"item_sheepstick"
 				"item"		"item_moon_shard"
 				"item"		"item_devastator"
-				"item"		"item_bloodthorn"
-				"item"		"item_sheepstick"
 				"item"		"item_assault"
 			}
 			"Situational"
 			{
+				"item"		"item_consecrated_wraps"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_monkey_king_bar"
+				"item"		"item_bloodthorn"
 				"item"		"item_mage_slayer"
 				"item"		"item_travel_boots"
 				"item"		"item_revenants_brooch"
 				"item"		"item_blink"
-				"item"		"item_eternal_shroud"
 				"item"		"item_heart"
 			}
 			"Utility"
@@ -74,6 +75,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
+				"item"		"item_hand_of_midas"
 				"item"		"item_aeon_disk"
 				"item"		"item_sphere"
 				"item"		"item_kaya_and_sange"
@@ -84,17 +86,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
-				"item"		"item_occult_bracelet"
-				"item"		"item_polliwog_charm"
+				"item"		"item_duelist_gloves"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_chipped_vest"
+				"item"		"item_essence_ring"
 				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
-				"item"		"item_pogo_stick"
-				"item"		"item_gale_guard"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_spellslinger"
 				"item"		"item_giant_maul"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -139,23 +142,23 @@ ALTERNATIVE: Phase Boots"
 			"7"		"enchantress_impetus"
 			"8"		"enchantress_enchant"
 			"9"		"enchantress_natures_attendants"
-			"10"		"special_bonus_unique_enchantress_6"
-			"11"		"enchantress_natures_attendants"
+			"10"		"enchantress_natures_attendants"
+			"11"		"enchantress_enchant"
 			"12"		"enchantress_untouchable"
 			"13"		"enchantress_enchant"
 			"14"		"enchantress_enchant"
-			"15"		"special_bonus_unique_enchantress_5"
-			"16"		"enchantress_enchant"
 			"18"		"enchantress_untouchable"
-			"20"		"special_bonus_unique_enchantress_3"
-			"25"		"special_bonus_unique_enchantress_4"
+			"27"		"special_bonus_unique_enchantress_6"
+			"28"		"special_bonus_unique_enchantress_5"
+			"29"		"special_bonus_unique_enchantress_2"
+			"30"		"special_bonus_unique_enchantress_4"
 		}
 		"AbilityTooltips"
 		{
 			"enchantress_untouchable"		"Our first skill to max out. It gives us a lot in early game and helps with dominating on lane."
-			"enchantress_enchant"		"Good for slowing enemies and, of course, for early farm and ganking. We want this to have ASAP to be able to farm jungle, but we don&amp;amp;amp;amp;amp;amp;apos;t need more than 1 point early on."
-			"enchantress_natures_attendants"		"Our main escape early. It has not really big radius and heals slowly, so we will use it only for ourself most of the time. You can learn this on lvl1 if there&amp;amp;amp;amp;amp;amp;apos;s risk of dying. Try to use it before fighting: it will help you tank shit and get out."
-			"enchantress_impetus"		"Our main damage source. Can be used to dominate a lane, kill those who&amp;amp;amp;amp;amp;amp;apos;s trying to run away, kill couriers, defend from a distance."
+			"enchantress_enchant"		"Good for slowing enemies and, of course, for early farm and ganking. We want this to have ASAP to be able to farm jungle, but we don&amp;amp;amp;amp;amp;amp;amp;apos;t need more than 1 point early on."
+			"enchantress_natures_attendants"		"Our main escape early. It has not really big radius and heals slowly, so we will use it only for ourself most of the time. You can learn this on lvl1 if there&amp;amp;amp;amp;amp;amp;amp;apos;s risk of dying. Try to use it before fighting: it will help you tank shit and get out."
+			"enchantress_impetus"		"Our main damage source. Can be used to dominate a lane, kill those who&amp;amp;amp;amp;amp;amp;amp;apos;s trying to run away, kill couriers, defend from a distance."
 			"special_bonus_unique_enchantress_2"		"Having 8 more spirits is super nice to have if you have problems with surviving in fights while not being bursted. Altho, with urn and your built in movement speed it should be easier to survive, while +50 dmg helps while pushing structures and worth more."
 		}
 	}

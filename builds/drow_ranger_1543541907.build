@@ -1,44 +1,45 @@
 "guidedata"
 {
 	"Hero"		"drow_ranger"
-	"Title"		"Nerds Drow Ranger - F2"
+	"Title"		"Nerds Drow Ranger"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Drow Ranger is agility core hero who excells at farming with insane speed and getting out of control. The hero has good surviveability toolset, but lacks mobilty, but doesn't need much damage in return.
 Main strategy of playing Drow Ranger is based on getting ultimate as soon as possible and then switch to clearing jungle. First early to mid game items are usually Blink Dagger and Hurricane Pike that will provide a lot of mobility. Another thing to keep in mind is level 25 talent that provides 50% cooldown reduction, essentially making any active items have more priority.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"99"
+	"GuideRevision"		"100"
 	"AssociatedWorkshopItemID"		"0x000000005E75D1B1"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006920B079"
-	"TimePublished"		"0x000000006920B079"
+	"TimeUpdated"		"0x000000006A767963"
+	"TimePublished"		"0x000000006A767963"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"Starting Items"
 			{
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_magic_wand"
+				"item"		"item_branches"
+				"item"		"item_branches"
 			}
 			"Early"
 			{
+				"item"		"item_wraith_band"
 				"item"		"item_power_treads"
+				"item"		"item_yasha"
 				"item"		"item_dragon_lance"
 			}
 			"Core"
 			{
+				"item"		"item_hurricane_pike"
 				"item"		"item_manta"
 				"item"		"item_aghanims_shard"
-				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
-				"item"		"item_wraith_band"
+				"item"		"item_falcon_blade"
 				"item"		"item_wind_lace"
 				"item"		"item_invis_sword"
 				"item"		"item_blink"
@@ -47,18 +48,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_butterfly"
 				"item"		"item_greater_crit"
+				"item"		"item_black_king_bar"
 				"item"		"item_satanic"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_moon_shard"
 			}
 			"Situational"
 			{
 				"item"		"item_silver_edge"
-				"item"		"item_black_king_bar"
 				"item"		"item_swift_blink"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_sphere"
 				"item"		"item_skadi"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_travel_boots"
 			}
 			"Other Significant Items"
@@ -72,13 +73,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
+				"item"		"item_weighted_dice"
 				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
-				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_pogo_stick"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_giant_maul"
+				"item"		"item_flayers_bota"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -113,21 +119,21 @@ ALTERNATIVE: Sange and Yasha"
 			"2"		"drow_ranger_multishot"
 			"3"		"drow_ranger_frost_arrows"
 			"4"		"drow_ranger_wave_of_silence"
-			"5"		"drow_ranger_multishot"
+			"5"		"drow_ranger_frost_arrows"
 			"6"		"drow_ranger_marksmanship"
 			"7"		"drow_ranger_multishot"
 			"8"		"drow_ranger_multishot"
-			"9"		"drow_ranger_frost_arrows"
-			"10"		"special_bonus_unique_drow_ranger_2"
-			"11"		"drow_ranger_frost_arrows"
+			"9"		"drow_ranger_multishot"
+			"10"		"drow_ranger_frost_arrows"
+			"11"		"drow_ranger_wave_of_silence"
 			"12"		"drow_ranger_marksmanship"
 			"13"		"drow_ranger_wave_of_silence"
 			"14"		"drow_ranger_wave_of_silence"
-			"15"		"special_bonus_attack_range_75"
-			"16"		"drow_ranger_wave_of_silence"
 			"18"		"drow_ranger_marksmanship"
-			"20"		"special_bonus_unique_drow_ranger_1"
-			"25"		"special_bonus_unique_drow_ranger_3"
+			"27"		"special_bonus_unique_drow_ranger_2"
+			"28"		"special_bonus_unique_drow_ranger_6"
+			"29"		"special_bonus_unique_drow_ranger_1"
+			"30"		"special_bonus_unique_drow_ranger_8"
 		}
 		"AbilityTooltips"
 		{

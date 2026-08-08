@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"ember_spirit"
-	"Title"		"Nerds Support Ember - F2"
+	"Title"		"Nerds Support Ember"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 Based on games on 2B's games: https://www.twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"45"
+	"GuideRevision"		"46"
 	"AssociatedWorkshopItemID"		"0x00000000911000DD"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069209D2F"
-	"TimePublished"		"0x0000000069209D2F"
+	"TimeUpdated"		"0x000000006A767ABE"
+	"TimePublished"		"0x000000006A767ABE"
 	"ItemBuild"
 	{
 		"Items"
@@ -26,46 +26,53 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_bottle"
 				"item"		"item_ring_of_basilius"
+				"item"		"item_magic_wand"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_phase_boots"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_mage_slayer"
+				"item"		"item_spirit_vessel"
 			}
 			"Situational Early"
 			{
-				"item"		"item_power_treads"
 				"item"		"item_wind_lace"
 				"item"		"item_tranquil_boots"
 				"item"		"item_orb_of_corrosion"
+				"item"		"item_cyclone"
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 			}
 			"Situational"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_spirit_vessel"
-				"item"		"item_phylactery"
+				"item"		"item_meteor_hammer"
+				"item"		"item_essence_distiller"
+				"item"		"item_ethereal_blade"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_guardian_greaves"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
-				"item"		"item_spark_of_courage"
 				"item"		"item_chipped_vest"
+				"item"		"item_duelist_gloves"
+				"item"		"item_occult_bracelet"
 				"item"		"item_searing_signet"
-				"item"		"item_poor_mans_shield"
 				"item"		"item_mana_draught"
-				"item"		"item_gale_guard"
-				"item"		"item_whisper_of_the_dread"
+				"item"		"item_essence_ring"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_partisans_brand"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_giant_maul"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -92,12 +99,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"11"		"ember_spirit_flame_guard"
 			"12"		"ember_spirit_fire_remnant"
 			"13"		"ember_spirit_flame_guard"
-			"14"		"special_bonus_unique_ember_spirit_1"
-			"15"		"special_bonus_unique_ember_spirit_3"
 			"16"		"ember_spirit_flame_guard"
 			"18"		"ember_spirit_fire_remnant"
-			"20"		"special_bonus_unique_ember_spirit_chains_dps"
-			"25"		"special_bonus_unique_ember_spirit_4"
+			"27"		"special_bonus_unique_ember_spirit_1"
+			"28"		"special_bonus_unique_ember_spirit_2"
+			"29"		"special_bonus_unique_ember_spirit_chains_dps"
+			"30"		"special_bonus_unique_ember_spirit_5"
 		}
 		"AbilityTooltips"
 		{
