@@ -1,21 +1,21 @@
 "guidedata"
 {
 	"Hero"		"morphling"
-	"Title"		"Nerds Support Morph - F2"
+	"Title"		"Nerds Support Morph"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Facet: 2 (Flow)
 
 Morphling is agility core hero, who can be played as utility core / support, using his ability to stun people for long duration with low cooldown with Adaptive Strike (W). This build is focused on using Morphling as support hero with potential to transition later into another powerful core.
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"105"
+	"GuideRevision"		"106"
 	"AssociatedWorkshopItemID"		"0x0000000036A546A8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692166AA"
-	"TimePublished"		"0x00000000692166AA"
+	"TimeUpdated"		"0x000000006A7777DA"
+	"TimePublished"		"0x000000006A7777DA"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,7 +35,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots"
 				"item"		"item_bracer"
 				"item"		"item_wind_lace"
-				"item"		"item_bracer"
 			}
 			"Core"
 			{
@@ -84,15 +83,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
-				"item"		"item_chipped_vest"
+				"item"		"item_occult_bracelet"
+				"item"		"item_polliwog_charm"
+				"item"		"item_duelist_gloves"
+				"item"		"item_mana_draught"
 				"item"		"item_searing_signet"
-				"item"		"item_misericorde"
-				"item"		"item_gale_guard"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_jidi_pollen_bag"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_spellslinger"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -132,16 +134,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"morphling_waveform"
 			"8"		"morphling_adaptive_strike_agi"
 			"9"		"morphling_adaptive_strike_agi"
-			"10"		"special_bonus_unique_morphling_8"
 			"11"		"morphling_adaptive_strike_agi"
 			"12"		"morphling_replicate"
 			"13"		"morphling_morph_agi"
 			"14"		"morphling_morph_agi"
-			"15"		"special_bonus_unique_morphling_1"
 			"16"		"morphling_morph_agi"
 			"18"		"morphling_replicate"
-			"20"		"special_bonus_unique_morphling_7"
-			"25"		"special_bonus_strength_35"
+			"27"		"special_bonus_unique_morphling_8"
+			"28"		"special_bonus_unique_morphling_1"
+			"29"		"special_bonus_unique_morphling_7"
+			"30"		"special_bonus_strength_35"
 		}
 		"AbilityTooltips"
 		{

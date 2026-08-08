@@ -3,16 +3,16 @@
 	"Hero"		"silencer"
 	"Title"		"Nerds Core Silencer"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Silencer is intelligence hero with a lot of utility, who can be played both as support and powerful core, dealing massive amounts of pure damage, providing a lot of lockdown against enemies and being active on the map.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"113"
+	"GuideRevision"		"114"
 	"AssociatedWorkshopItemID"		"0x0000000036AA7423"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692220C7"
-	"TimePublished"		"0x00000000692220C7"
+	"TimeUpdated"		"0x000000006A77AA0B"
+	"TimePublished"		"0x000000006A77AA0B"
 	"ItemBuild"
 	{
 		"Items"
@@ -29,46 +29,41 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Early"
 			{
 				"item"		"item_null_talisman"
-				"item"		"item_null_talisman"
-				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_power_treads"
-				"item"		"item_mask_of_madness"
 				"item"		"item_witch_blade"
-				"item"		"item_force_staff"
-				"item"		"item_dragon_lance"
+				"item"		"item_hurricane_pike"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
 				"item"		"item_invis_sword"
 				"item"		"item_hand_of_midas"
-				"item"		"item_rod_of_atos"
 				"item"		"item_mage_slayer"
+				"item"		"item_mask_of_madness"
 			}
 			"Lategame"
 			{
-				"item"		"item_aghanims_shard"
-				"item"		"item_hurricane_pike"
 				"item"		"item_black_king_bar"
-				"item"		"item_devastator"
 				"item"		"item_sheepstick"
+				"item"		"item_devastator"
+				"item"		"item_silver_edge"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
 				"item"		"item_assault"
 			}
 			"Situational"
 			{
-				"item"		"item_revenants_brooch"
+				"item"		"item_butterfly"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_silver_edge"
 				"item"		"item_shivas_guard"
 				"item"		"item_skadi"
 				"item"		"item_refresher"
 				"item"		"item_sphere"
-				"item"		"item_blink"
 				"item"		"item_bloodthorn"
 			}
 			"Other Significant Items"
@@ -79,15 +74,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_duelist_gloves"
+				"item"		"item_possessed_mask"
 				"item"		"item_occult_bracelet"
-				"item"		"item_misericorde"
+				"item"		"item_searing_signet"
 				"item"		"item_mana_draught"
-				"item"		"item_serrated_shiv"
-				"item"		"item_gale_guard"
+				"item"		"item_essence_ring"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_serrated_shiv"
+				"item"		"item_partisans_brand"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_giant_maul"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -95,7 +93,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_blink"		"Bonus mobility to make it harder to get closer to us"
 			"item_moon_shard"		"With our high-damage output and mediocre attack speed, Moon Shard as glass-cannon type damage increase works pretty well, as well as 7th slot"
 			"item_magic_wand"		"Basically, cheap stats increase, nothing more. It will never be bad choice for early game."
 			"item_power_treads"		"~13 min
@@ -107,11 +104,6 @@ Bonus damage from int or tankiness and attack speed. These early stats from thre
 			"item_shivas_guard"		"With our agressive plays, pretty often bought item: massive int and armor increase, works as huge boost to our durability"
 			"item_sphere"		"Massive early stats boost, works well against targeted control"
 			"item_hand_of_midas"		"Before Witch Blade"
-			"item_witch_blade"		"~20 min
-ALTERNATIVE: Rod of Atos"
-			"item_dragon_lance"		"~24 min"
-			"item_rod_of_atos"		"~20 min
-ALTERNATIVE: Witch Blade"
 		}
 	}
 	"AbilityBuild"
@@ -119,24 +111,24 @@ ALTERNATIVE: Witch Blade"
 		"AbilityOrder"
 		{
 			"1"		"silencer_glaives_of_wisdom"
-			"2"		"silencer_curse_of_the_silent"
+			"2"		"silencer_last_word"
 			"3"		"silencer_glaives_of_wisdom"
 			"4"		"silencer_last_word"
 			"5"		"silencer_glaives_of_wisdom"
-			"6"		"silencer_curse_of_the_silent"
+			"6"		"silencer_global_silence"
 			"7"		"silencer_glaives_of_wisdom"
-			"8"		"silencer_global_silence"
-			"9"		"silencer_curse_of_the_silent"
-			"10"		"special_bonus_attack_speed_20"
+			"8"		"silencer_last_word"
+			"9"		"silencer_last_word"
+			"10"		"silencer_curse_of_the_silent"
 			"11"		"silencer_curse_of_the_silent"
 			"12"		"silencer_global_silence"
-			"13"		"silencer_last_word"
-			"14"		"silencer_last_word"
-			"15"		"special_bonus_unique_silencer_7"
-			"16"		"silencer_last_word"
+			"13"		"silencer_curse_of_the_silent"
+			"14"		"silencer_curse_of_the_silent"
 			"18"		"silencer_global_silence"
-			"20"		"special_bonus_unique_silencer_5"
-			"25"		"special_bonus_unique_silencer_3"
+			"27"		"special_bonus_attack_speed_25"
+			"28"		"special_bonus_unique_silencer_7"
+			"29"		"special_bonus_unique_silencer_5"
+			"30"		"special_bonus_unique_silencer_3"
 		}
 		"AbilityTooltips"
 		{

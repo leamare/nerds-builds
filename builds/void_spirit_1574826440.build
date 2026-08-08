@@ -3,16 +3,16 @@
 	"Hero"		"void_spirit"
 	"Title"		"Nerds Void Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.40c"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"86"
+	"GuideRevision"		"87"
 	"AssociatedWorkshopItemID"		"0x00000000728CF9EE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222C07"
-	"TimePublished"		"0x0000000069222C07"
+	"TimeUpdated"		"0x0000000069A2B0CF"
+	"TimePublished"		"0x0000000069A2B0CF"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,7 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_cyclone"
-				"item"		"item_ultimate_scepter"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -54,13 +54,13 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_shivas_guard"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
-				"item"		"item_aghanims_shard"
 				"item"		"item_kaya_and_sange"
 				"item"		"item_bloodstone"
 				"item"		"item_lotus_orb"

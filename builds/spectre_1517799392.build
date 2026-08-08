@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.40b"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"232"
+	"GuideRevision"		"236"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222520"
-	"TimePublished"		"0x0000000069222520"
+	"TimeUpdated"		"0x0000000069683880"
+	"TimePublished"		"0x0000000069683880"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,49 +22,45 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_quelling_blade"
-				"item"		"item_gauntlets"
+				"item"		"item_tango"
+				"item"		"item_magic_stick"
 				"item"		"item_circlet"
 				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_tango"
 			}
 			"Early"
 			{
-				"item"		"item_bracer"
+				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
 			}
-			"Core - Orchid"
-			{
-				"item"		"item_orchid"
-				"item"		"item_manta"
-			}
-			"Core - Radiance"
+			"Core"
 			{
 				"item"		"item_radiance"
 				"item"		"item_manta"
-				"item"		"item_orchid"
+				"item"		"item_skadi"
 			}
 			"Situational Early"
 			{
-				"item"		"item_blade_mail"
-				"item"		"item_falcon_blade"
-				"item"		"item_diffusal_blade"
+				"item"		"item_orb_of_corrosion"
 				"item"		"item_urn_of_shadows"
+				"item"		"item_falcon_blade"
+				"item"		"item_phylactery"
+				"item"		"item_blade_mail"
 			}
 			"Lategame"
 			{
-				"item"		"item_bloodthorn"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_abyssal_blade"
-				"item"		"item_butterfly"
-				"item"		"item_skadi"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
+				"item"		"item_butterfly"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
 			}
 			"Situational"
 			{
+				"item"		"item_orchid"
+				"item"		"item_diffusal_blade"
 				"item"		"item_nullifier"
 				"item"		"item_black_king_bar"
 				"item"		"item_disperser"
@@ -84,22 +80,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_sheepstick"
 				"item"		"item_harpoon"
 				"item"		"item_mage_slayer"
-				"item"		"item_meteor_hammer"
+				"item"		"item_dagon_5"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_duelist_gloves"
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
 				"item"		"item_occult_bracelet"
+				"item"		"item_defiant_shell"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_misericorde"
 				"item"		"item_mana_draught"
-				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_pyrrhic_cloak"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_serrated_shiv"
+				"item"		"item_unrelenting_eye"
 				"item"		"item_giant_maul"
+				"item"		"item_flayers_bota"
+				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -114,11 +110,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"item_vanguard"		"Gives a lot of tankiness and sustain, BUT doesn`t boost farming speed, while also being quite expensive.
 Good for tower dives (and very agressive plays) or against summons/high attack speed."
 			"item_blade_mail"		"~8 min
-It`s both farming and fighting item. Works well with Radiance, but is very timing dependent"
+It`s both farming and fighting item. Works well with Radiance, but is very timing dependent
+Alternatives: Radiance, Philactery"
 			"item_radiance"		"~18-24 min
 Radiance is the best farming item you can get, but it slows you down quite a bit. It`s better to get Soul Ring and Blade Mail most of the time (it will be enough for farming), but if you have a free early game and enough time to get Radiance then go for it.
 Before Manta Style
-ALTERNATIVES: Diffusal Blade"
+ALTERNATIVES: Blade Mail, Philactery"
 			"item_butterfly"		"A lot of attack speed, damage and miss chance. May be replaced by Bloodthorn if you have enough money."
 			"item_manta"		"~25-32 min
 Increases our farming speed by a lot, gives us a lot of damage against solo targets, increases tankiness by a little bit"
@@ -127,15 +124,10 @@ Increases our farming speed by a lot, gives us a lot of damage against solo targ
 			"item_power_treads"		"~7-10 min
 Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
 			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don`t really need to use it in fights, but you CAN if you need to focus a squishy target. It`s better to purchase with some cheap armor (like Blade Mail)"
-			"item_meteor_hammer"		"Another awesome farming solution for early game. It`s going to replace Blade Mail and Soul Ring, but it will provide you a lot of regen for early game
-ALTERNATIVES: Blade Mail, Hand of Midas"
 			"item_falcon_blade"		"~5 min
 Before Blade Mail
-ALTERNATIVES: Urn of Shadows, Soul Ring"
+ALTERNATIVES: Urn of Shadows"
 			"item_ultimate_scepter"		"~20-30 min"
-			"item_diffusal_blade"		"~13 min
-Cheap damage and lockdown for more aggressive playstyle.
-ALTERNATIVES: Radiance"
 			"item_hand_of_midas"		"~10 min
 ALTERNATIVES: Meteor Hammer, Blade Mail"
 			"item_mage_slayer"		"~15 min
@@ -143,7 +135,9 @@ ALTERNATIVES: Meteor Hammer, Blade Mail"
 			"item_orchid"		"ALTERNATIVE: Skull Basher"
 			"item_urn_of_shadows"		"~5 min
 Before Blade Mail
-ALTERNATIVES: Falcon Blade, Soul Ring"
+ALTERNATIVES: Falcon Blade"
+			"item_phylactery"		"It works with Dagger and Step, it&amp;amp;apos;s generally nice for stats and farming. But it also practically takes the same niche as Radiance/BM, so it depends
+Alternatives: Radiance, Blade Mail"
 		}
 	}
 	"AbilityBuild"
@@ -153,20 +147,20 @@ ALTERNATIVES: Falcon Blade, Soul Ring"
 			"1"		"spectre_spectral_dagger"
 			"2"		"spectre_dispersion"
 			"3"		"spectre_spectral_dagger"
-			"4"		"spectre_desolate"
+			"4"		"spectre_shadow_step"
 			"5"		"spectre_spectral_dagger"
-			"6"		"spectre_haunt_single"
+			"6"		"spectre_haunt"
 			"7"		"spectre_spectral_dagger"
-			"8"		"spectre_desolate"
+			"8"		"spectre_dispersion"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_unique_spectre"
-			"11"		"spectre_desolate"
-			"12"		"spectre_haunt_single"
-			"13"		"spectre_desolate"
-			"14"		"spectre_dispersion"
-			"15"		"special_bonus_unique_spectre_2"
-			"16"		"spectre_dispersion"
-			"18"		"spectre_haunt_single"
+			"10"		"special_bonus_unique_spectre_2"
+			"11"		"spectre_dispersion"
+			"12"		"spectre_haunt"
+			"13"		"spectre_shadow_step"
+			"14"		"spectre_shadow_step"
+			"15"		"special_bonus_unique_spectre_shadow_step_duration"
+			"16"		"spectre_shadow_step"
+			"18"		"spectre_haunt"
 			"20"		"special_bonus_hp_350"
 			"25"		"special_bonus_unique_spectre_4"
 		}

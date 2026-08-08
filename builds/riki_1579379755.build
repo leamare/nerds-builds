@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"riki"
-	"Title"		"Nerds Riki - F2"
+	"Title"		"Nerds Riki"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 Based on games played during DreamLeague Leipzig Major and consequent Immortal Rank matches
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"76"
+	"GuideRevision"		"77"
 	"AssociatedWorkshopItemID"		"0x000000007592C165"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069221F37"
-	"TimePublished"		"0x0000000069221F37"
+	"TimeUpdated"		"0x000000006A7794F0"
+	"TimePublished"		"0x000000006A7794F0"
 	"ItemBuild"
 	{
 		"Items"
@@ -36,8 +36,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_power_treads"
 				"item"		"item_diffusal_blade"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_manta"
+				"item"		"item_aghanims_shard"
 			}
 			"Situational Early"
 			{
@@ -47,9 +47,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_greater_crit"
-				"item"		"item_aghanims_shard"
 				"item"		"item_disperser"
+				"item"		"item_greater_crit"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_nullifier"
 				"item"		"item_black_king_bar"
 				"item"		"item_abyssal_blade"
@@ -70,14 +70,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_duelist_gloves"
+				"item"		"item_possessed_mask"
+				"item"		"item_weighted_dice"
 				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_poor_mans_shield"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_giant_maul"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_conjurers_catalyst"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -106,16 +110,16 @@ ALTERNATIVE: Battle Fury"
 			"7"		"riki_blink_strike"
 			"8"		"riki_tricks_of_the_trade"
 			"9"		"riki_tricks_of_the_trade"
-			"10"		"special_bonus_unique_riki_7"
-			"11"		"riki_tricks_of_the_trade"
+			"10"		"riki_tricks_of_the_trade"
+			"11"		"riki_smoke_screen"
 			"12"		"riki_backstab"
 			"13"		"riki_smoke_screen"
 			"14"		"riki_smoke_screen"
-			"15"		"special_bonus_unique_riki_2"
-			"16"		"riki_smoke_screen"
 			"18"		"riki_backstab"
-			"20"		"special_bonus_unique_riki_1"
-			"25"		"special_bonus_unique_riki_5"
+			"27"		"special_bonus_unique_riki_7"
+			"28"		"special_bonus_unique_riki_tricks_dmg"
+			"29"		"special_bonus_unique_riki_1"
+			"30"		"special_bonus_unique_riki_9"
 		}
 		"AbilityTooltips"
 		{

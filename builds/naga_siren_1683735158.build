@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"naga_siren"
-	"Title"		"Nerds Naga - F1"
+	"Title"		"Nerds Naga"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x00000000B14523EE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069216706"
-	"TimePublished"		"0x0000000069216706"
+	"TimeUpdated"		"0x000000006A778B5B"
+	"TimePublished"		"0x000000006A778B5B"
 	"ItemBuild"
 	{
 		"Items"
@@ -37,6 +37,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_power_treads"
 				"item"		"item_manta"
 				"item"		"item_orchid"
+				"item"		"item_heart"
 			}
 			"Situational Early"
 			{
@@ -48,7 +49,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_bloodthorn"
-				"item"		"item_heart"
 				"item"		"item_aghanims_shard"
 				"item"		"item_disperser"
 				"item"		"item_butterfly"
@@ -56,7 +56,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_eternal_shroud"
 				"item"		"item_black_king_bar"
 				"item"		"item_silver_edge"
 				"item"		"item_nullifier"
@@ -73,16 +72,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
-				"item"		"item_polliwog_charm"
-				"item"		"item_rippers_lash"
+				"item"		"item_weighted_dice"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
 				"item"		"item_mana_draught"
-				"item"		"item_essence_ring"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_gale_guard"
-				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_searing_signet"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_serrated_shiv"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_giant_maul"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -105,16 +106,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"naga_siren_mirror_image"
 			"8"		"naga_siren_rip_tide"
 			"9"		"naga_siren_rip_tide"
-			"10"		"special_bonus_unique_naga_siren_2"
-			"11"		"naga_siren_song_of_the_siren"
+			"10"		"naga_siren_song_of_the_siren"
+			"11"		"naga_siren_ensnare"
 			"12"		"naga_siren_song_of_the_siren"
 			"13"		"naga_siren_ensnare"
 			"14"		"naga_siren_ensnare"
-			"15"		"special_bonus_unique_naga_siren_4"
-			"16"		"naga_siren_ensnare"
 			"18"		"naga_siren_song_of_the_siren"
-			"20"		"special_bonus_unique_naga_siren"
-			"25"		"special_bonus_unique_naga_siren_6"
+			"27"		"special_bonus_unique_naga_siren_2"
+			"28"		"special_bonus_unique_naga_siren_4"
+			"29"		"special_bonus_unique_naga_siren"
+			"30"		"special_bonus_unique_naga_siren_6"
 		}
 		"AbilityTooltips"
 		{

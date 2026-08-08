@@ -3,19 +3,19 @@
 	"Hero"		"shadow_demon"
 	"Title"		"Nerds Shadow Demon"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Shadow Demon is an intelligence hero who can be played as a support or caster core. He has great wave clear and damage ability, while also having setup and save (Disruption). His main weaknesses are a low effective HP pool and the lack of any kind of mobility.
 
 You can use Disruption early on as a tool to abuse your good base damage for better hit trading. You will be lacking mobility before you'll get to Blink Dagger, but you can compensate it by using Shadow Poison to scout territory. Your goal to just get levels as fast as possible and start nuking enemies down. With blink, you can start aggressive lane push by killing creepwaves with shadow poison and running away as soon as you feel somebody's coming. Splitfarming and lane shaving will help you to get items and levels faster, while also creating space for your team.
 
 This build is partly based on SlashStrike's guide: https://dotaguides.com/core-shadow-demon-guide/
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"88"
+	"GuideRevision"		"89"
 	"AssociatedWorkshopItemID"		"0x000000005FEC898F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069221FD2"
-	"TimePublished"		"0x0000000000000000"
+	"TimeUpdated"		"0x000000006A77A90B"
+	"TimePublished"		"0x000000006A77A90B"
 	"ItemBuild"
 	{
 		"Items"
@@ -33,16 +33,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_bottle"
 				"item"		"item_null_talisman"
-				"item"		"item_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
 				"item"		"item_aether_lens"
-				"item"		"item_travel_boots"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_cyclone"
 				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
@@ -52,16 +51,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_travel_boots"
+				"item"		"item_bloodthorn"
+				"item"		"item_wind_waker"
 				"item"		"item_octarine_core"
 				"item"		"item_sheepstick"
-				"item"		"item_bloodstone"
 				"item"		"item_dagon_5"
 				"item"		"item_ethereal_blade"
 				"item"		"item_travel_boots_2"
-				"item"		"item_refresher"
 			}
 			"Situational"
 			{
+				"item"		"item_refresher"
 				"item"		"item_veil_of_discord"
 				"item"		"item_force_staff"
 				"item"		"item_black_king_bar"
@@ -76,18 +77,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_bloodthorn"
 				"item"		"item_guardian_greaves"
 				"item"		"item_meteor_hammer"
+				"item"		"item_bloodstone"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_occult_bracelet"
 				"item"		"item_polliwog_charm"
+				"item"		"item_occult_bracelet"
+				"item"		"item_kobold_cup"
 				"item"		"item_pogo_stick"
-				"item"		"item_mana_draught"
 				"item"		"item_essence_ring"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_gale_guard"
-				"item"		"item_psychic_headband"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_mana_draught"
+				"item"		"item_spellslinger"
+				"item"		"item_stormcrafter"
+				"item"		"item_partisans_brand"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_rattlecage"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -113,8 +118,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"shadow_demon_shadow_poison"
-			"2"		"shadow_demon_disruption"
+			"1"		"shadow_demon_disruption"
+			"2"		"shadow_demon_shadow_poison"
 			"3"		"shadow_demon_shadow_poison"
 			"4"		"shadow_demon_disruption"
 			"5"		"shadow_demon_shadow_poison"
@@ -122,16 +127,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"shadow_demon_shadow_poison"
 			"8"		"shadow_demon_disruption"
 			"9"		"shadow_demon_disruption"
-			"10"		"special_bonus_unique_shadow_demon_4"
+			"10"		"shadow_demon_disseminate"
 			"11"		"shadow_demon_disseminate"
 			"12"		"shadow_demon_demonic_purge"
 			"13"		"shadow_demon_disseminate"
 			"14"		"shadow_demon_disseminate"
-			"15"		"special_bonus_unique_shadow_demon_3"
-			"16"		"shadow_demon_disseminate"
 			"18"		"shadow_demon_demonic_purge"
-			"20"		"special_bonus_unique_shadow_demon_disseminate_damage"
-			"25"		"special_bonus_unique_shadow_demon_7"
+			"27"		"special_bonus_unique_shadow_demon_4"
+			"28"		"special_bonus_unique_shadow_demon_3"
+			"29"		"special_bonus_unique_shadow_demon_9"
+			"30"		"special_bonus_unique_shadow_demon_7"
 		}
 		"AbilityTooltips"
 		{

@@ -3,26 +3,25 @@
 	"Hero"		"luna"
 	"Title"		"Nerds Luna"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"78"
+	"GuideRevision"		"79"
 	"AssociatedWorkshopItemID"		"0x000000006CDACDE8"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069216266"
-	"TimePublished"		"0x0000000069216266"
+	"TimeUpdated"		"0x000000006A776190"
+	"TimePublished"		"0x000000006A776190"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_branches"
-				"item"		"item_branches"
-				"item"		"item_branches"
 				"item"		"item_magic_wand"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
@@ -33,8 +32,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_mask_of_madness"
 				"item"		"item_manta"
-				"item"		"item_ultimate_scepter"
 				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
 			}
 			"Situational Early"
 			{
@@ -48,13 +47,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_greater_crit"
 				"item"		"item_aghanims_shard"
 				"item"		"item_satanic"
-				"item"		"item_butterfly"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_hurricane_pike"
 				"item"		"item_moon_shard"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
+				"item"		"item_swift_blink"
 				"item"		"item_silver_edge"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_sphere"
@@ -65,15 +65,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
-				"item"		"item_chipped_vest"
-				"item"		"item_misericorde"
+				"item"		"item_possessed_mask"
+				"item"		"item_weighted_dice"
+				"item"		"item_duelist_gloves"
 				"item"		"item_poor_mans_shield"
+				"item"		"item_pogo_stick"
+				"item"		"item_mana_draught"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_giant_maul"
+				"item"		"item_flayers_bota"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -105,16 +108,16 @@ ALTERNATIVE: Sange and Yasha"
 			"7"		"luna_lucent_beam"
 			"8"		"luna_moon_glaive"
 			"9"		"luna_moon_glaive"
-			"10"		"special_bonus_unique_luna_7"
+			"10"		"luna_lunar_orbit"
 			"11"		"luna_lunar_orbit"
 			"12"		"luna_eclipse"
 			"13"		"luna_lunar_orbit"
 			"14"		"luna_lunar_orbit"
-			"15"		"special_bonus_unique_luna_6"
-			"16"		"luna_lunar_orbit"
 			"18"		"luna_eclipse"
-			"20"		"special_bonus_unique_luna_1"
-			"25"		"special_bonus_unique_luna_3"
+			"27"		"special_bonus_unique_luna_7"
+			"28"		"special_bonus_unique_luna_lunar_orbit_glaive_count"
+			"29"		"special_bonus_unique_luna_lunar_orbit_speed_damage"
+			"30"		"special_bonus_unique_luna_3"
 		}
 		"AbilityTooltips"
 		{

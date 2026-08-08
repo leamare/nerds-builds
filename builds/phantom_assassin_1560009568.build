@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"phantom_assassin"
-	"Title"		"Nerds Support PA - F1"
+	"Title"		"Nerds Support PA"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"74"
+	"GuideRevision"		"75"
 	"AssociatedWorkshopItemID"		"0x000000006E74BE2F"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069221E35"
-	"TimePublished"		"0x0000000069221E35"
+	"TimeUpdated"		"0x000000006A778FED"
+	"TimePublished"		"0x000000006A778FED"
 	"ItemBuild"
 	{
 		"Items"
@@ -20,11 +20,12 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"#DOTA_Item_Build_Starting_Items"
 			{
 				"item"		"item_tango"
-				"item"		"item_orb_of_venom"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_blood_grenade"
+				"item"		"item_orb_of_frost"
 				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
@@ -35,14 +36,15 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Core"
 			{
-				"item"		"item_phase_boots"
-				"item"		"item_vladmir"
+				"item"		"item_power_treads"
+				"item"		"item_basher"
 				"item"		"item_magic_wand"
 			}
 			"Situational Early"
 			{
 				"item"		"item_urn_of_shadows"
-				"item"		"item_power_treads"
+				"item"		"item_phase_boots"
+				"item"		"item_vladmir"
 			}
 			"Lategame"
 			{
@@ -50,30 +52,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_black_king_bar"
 				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_basher"
 				"item"		"item_abyssal_blade"
 				"item"		"item_nullifier"
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_assault"
 				"item"		"item_lotus_orb"
-				"item"		"item_spirit_vessel"
 				"item"		"item_solar_crest"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_orchid"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
-				"item"		"item_dormant_curio"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
+				"item"		"item_dagger_of_ristul"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_misericorde"
-				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_pogo_stick"
 				"item"		"item_serrated_shiv"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_stormcrafter"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_giant_maul"
+				"item"		"item_flayers_bota"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -96,16 +100,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"phantom_assassin_stifling_dagger"
 			"8"		"phantom_assassin_phantom_strike"
 			"9"		"phantom_assassin_phantom_strike"
-			"10"		"special_bonus_unique_phantom_assassin_7"
+			"10"		"phantom_assassin_immaterial"
 			"11"		"phantom_assassin_immaterial"
 			"12"		"phantom_assassin_coup_de_grace"
 			"13"		"phantom_assassin_immaterial"
 			"14"		"phantom_assassin_immaterial"
-			"15"		"special_bonus_unique_phantom_assassin_5"
-			"16"		"phantom_assassin_immaterial"
 			"18"		"phantom_assassin_coup_de_grace"
-			"20"		"special_bonus_unique_phantom_assassin_6"
-			"25"		"special_bonus_unique_phantom_assassin_2"
+			"27"		"special_bonus_unique_phantom_assassin_7"
+			"28"		"special_bonus_unique_phantom_assassin_5"
+			"29"		"special_bonus_unique_phantom_assassin_strike_aspd"
+			"30"		"special_bonus_unique_phantom_assassin"
 		}
 		"AbilityTooltips"
 		{

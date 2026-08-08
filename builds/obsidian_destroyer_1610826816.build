@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"obsidian_destroyer"
-	"Title"		"Nerds Oberon Demonstrator"
+	"Title"		"Nerds Oborona Delivery"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"46"
+	"GuideRevision"		"47"
 	"AssociatedWorkshopItemID"		"0x00000000923B2A2B"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069221DFA"
-	"TimePublished"		"0x0000000069221DFA"
+	"TimeUpdated"		"0x000000006A778F6B"
+	"TimePublished"		"0x000000006A778F6B"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,32 +22,35 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tango"
 				"item"		"item_magic_stick"
 				"item"		"item_ward_observer"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_faerie_fire"
 				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_arcane_boots"
+				"item"		"item_tranquil_boots"
 				"item"		"item_magic_wand"
+				"item"		"item_wind_lace"
 			}
 			"Core"
 			{
-				"item"		"item_meteor_hammer"
 				"item"		"item_aether_lens"
+				"item"		"item_force_staff"
 				"item"		"item_aghanims_shard"
-				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_holy_locket"
-				"item"		"item_mekansm"
 				"item"		"item_glimmer_cape"
 				"item"		"item_witch_blade"
 				"item"		"item_ancient_janggo"
-				"item"		"item_force_staff"
 			}
 			"Lategame"
 			{
 				"item"		"item_sheepstick"
+				"item"		"item_meteor_hammer"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_octarine_core"
 				"item"		"item_boots_of_bearing"
 			}
@@ -55,7 +58,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aeon_disk"
 				"item"		"item_lotus_orb"
-				"item"		"item_meteor_hammer"
 				"item"		"item_pipe"
 				"item"		"item_cyclone"
 				"item"		"item_shivas_guard"
@@ -63,15 +65,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_duelist_gloves"
 				"item"		"item_polliwog_charm"
-				"item"		"item_spark_of_courage"
+				"item"		"item_kobold_cup"
 				"item"		"item_essence_ring"
 				"item"		"item_searing_signet"
 				"item"		"item_pogo_stick"
-				"item"		"item_gale_guard"
-				"item"		"item_psychic_headband"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_serrated_shiv"
+				"item"		"item_partisans_brand"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_dandelion_amulet"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -79,7 +84,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_holy_locket"		"Decent cost efficient Energy Booster upgrade for cheap damage and some utility"
 		}
 	}
 	"AbilityBuild"
@@ -87,24 +91,20 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"obsidian_destroyer_arcane_orb"
-			"2"		"obsidian_destroyer_equilibrium"
 			"3"		"obsidian_destroyer_astral_imprisonment"
 			"4"		"obsidian_destroyer_astral_imprisonment"
 			"5"		"obsidian_destroyer_astral_imprisonment"
 			"6"		"obsidian_destroyer_sanity_eclipse"
 			"7"		"obsidian_destroyer_astral_imprisonment"
-			"8"		"obsidian_destroyer_equilibrium"
 			"9"		"obsidian_destroyer_arcane_orb"
-			"10"		"special_bonus_mp_200"
 			"11"		"obsidian_destroyer_arcane_orb"
 			"12"		"obsidian_destroyer_sanity_eclipse"
 			"13"		"obsidian_destroyer_arcane_orb"
-			"14"		"obsidian_destroyer_equilibrium"
-			"15"		"special_bonus_unique_outworld_devourer_3"
-			"16"		"obsidian_destroyer_equilibrium"
 			"18"		"obsidian_destroyer_sanity_eclipse"
-			"20"		"special_bonus_unique_outworld_devourer_4"
-			"25"		"special_bonus_unique_outworld_devourer_5"
+			"27"		"special_bonus_mp_200"
+			"28"		"special_bonus_unique_outworld_devourer_3"
+			"29"		"special_bonus_unique_outworld_devourer_4"
+			"30"		"special_bonus_unique_outworld_devourer_5"
 		}
 		"AbilityTooltips"
 		{

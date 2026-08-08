@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"mirana"
-	"Title"		"Nerds Support Mirana - F1"
+	"Title"		"Nerds Support Mirana"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"75"
+	"GuideRevision"		"76"
 	"AssociatedWorkshopItemID"		"0x000000006EDAAD3E"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692165DC"
-	"TimePublished"		"0x00000000692165DC"
+	"TimeUpdated"		"0x000000006A777408"
+	"TimePublished"		"0x000000006A777408"
 	"ItemBuild"
 	{
 		"Items"
@@ -32,16 +32,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_magic_stick"
-				"item"		"item_arcane_boots"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
+				"item"		"item_magic_wand"
+				"item"		"item_essence_distiller"
 				"item"		"item_cyclone"
 				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_urn_of_shadows"
+				"item"		"item_arcane_boots"
 				"item"		"item_tranquil_boots"
 				"item"		"item_ghost"
 				"item"		"item_force_staff"
@@ -51,21 +53,21 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_ethereal_blade"
-				"item"		"item_lotus_orb"
+				"item"		"item_octarine_core"
+				"item"		"item_wind_waker"
 				"item"		"item_sheepstick"
-				"item"		"item_hurricane_pike"
 				"item"		"item_travel_boots"
 			}
 			"Situational"
 			{
 				"item"		"item_spirit_vessel"
-				"item"		"item_gungir"
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_guardian_greaves"
 				"item"		"item_aeon_disk"
 				"item"		"item_solar_crest"
 				"item"		"item_pipe"
-				"item"		"item_wind_waker"
 				"item"		"item_blink"
+				"item"		"item_lotus_orb"
 			}
 			"Other Significant Items"
 			{
@@ -74,19 +76,23 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_boots_of_bearing"
 				"item"		"item_glimmer_cape"
 				"item"		"item_hand_of_midas"
+				"item"		"item_gungir"
+				"item"		"item_hurricane_pike"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_polliwog_charm"
-				"item"		"item_spark_of_courage"
-				"item"		"item_essence_ring"
+				"item"		"item_ash_legion_shield"
+				"item"		"item_duelist_gloves"
 				"item"		"item_searing_signet"
-				"item"		"item_misericorde"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_gale_guard"
-				"item"		"item_psychic_headband"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_mana_draught"
+				"item"		"item_essence_ring"
+				"item"		"item_partisans_brand"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_stormcrafter"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_dandelion_amulet"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -94,7 +100,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		}
 		"ItemTooltips"
 		{
-			"item_tranquil_boots"		"Before Spirit Vessel"
 			"item_hand_of_midas"		"For a greedy playstyle
 Before Spirit Vessel"
 		}
@@ -113,15 +118,15 @@ Before Spirit Vessel"
 			"8"		"mirana_arrow"
 			"9"		"mirana_arrow"
 			"10"		"mirana_arrow"
-			"11"		"special_bonus_unique_mirana_6"
+			"11"		"mirana_leap"
 			"12"		"mirana_invis"
 			"13"		"mirana_leap"
 			"14"		"mirana_leap"
-			"15"		"special_bonus_unique_mirana_5"
-			"16"		"mirana_leap"
 			"18"		"mirana_invis"
-			"20"		"special_bonus_unique_mirana_4"
-			"25"		"special_bonus_unique_mirana_7"
+			"27"		"special_bonus_unique_mirana_3"
+			"28"		"special_bonus_unique_mirana_5"
+			"29"		"special_bonus_unique_mirana_7"
+			"30"		"special_bonus_unique_mirana_2"
 		}
 		"AbilityTooltips"
 		{
