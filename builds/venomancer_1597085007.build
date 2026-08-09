@@ -1,9 +1,9 @@
 "guidedata"
 {
 	"Hero"		"venomancer"
-	"Title"		"Nerds Utility Venomancer - F2"
+	"Title"		"Nerds Utility Venomancer"
 	"Role"		"#DOTA_HeroGuide_Role_OffLane"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Facet: 2 (Plague Carrier)
 
 Venomancer is an agility caster hero, who can be played in a variety of ways, including an Utility Core or a Support. Venomancer's main goal in fights is to survive and deal as much damage as possible. The hero's Plague Wards allow him to take control over areas by getting a free vision, as well as farm lanes and jungle like nobody else. Venomancer doesn't really need much item to be powerful, so the hero can be an \"aura carrier\" or focus on building utility items and surviveability.
@@ -11,12 +11,12 @@ Venomancer is an agility caster hero, who can be played in a variety of ways, in
 Venomancer's most successful at sieging enemy towers and defending his own ones. The hero is also a big problem when it comes to teamfights, since his massice damage output can't be ignored and often can force enemies to retreat, even if Venomancer died a long time ago. The disadvantages of the hero, however, are his lack of any kind of reliable controlling spells and his lack of inbuilt surviveability. Naturally, the best items you can build for Venomancer are the ones that make your team stronger, while also making you tankier, allowing you to sirvive.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"56"
+	"GuideRevision"		"57"
 	"AssociatedWorkshopItemID"		"0x0000000083A19077"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222A6C"
-	"TimePublished"		"0x0000000069222A6C"
+	"TimeUpdated"		"0x000000006A77C09C"
+	"TimePublished"		"0x000000006A77C09C"
 	"ItemBuild"
 	{
 		"Items"
@@ -90,14 +90,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
 				"item"		"item_polliwog_charm"
-				"item"		"item_essence_ring"
+				"item"		"item_ash_legion_shield"
+				"item"		"item_foragers_kit"
 				"item"		"item_searing_signet"
-				"item"		"item_gale_guard"
-				"item"		"item_whisper_of_the_dread"
+				"item"		"item_essence_ring"
+				"item"		"item_mana_draught"
+				"item"		"item_partisans_brand"
+				"item"		"item_jidi_pollen_bag"
 				"item"		"item_psychic_headband"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_dandelion_amulet"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -129,24 +133,24 @@ Can be used to cut certain trees in the jungle to farm multiple camps with a sin
 		"AbilityOrder"
 		{
 			"1"		"venomancer_venomous_gale"
-			"2"		"venomancer_poison_sting"
-			"3"		"venomancer_poison_sting"
+			"2"		"venomancer_snakebite"
+			"3"		"venomancer_plague_ward"
 			"4"		"venomancer_plague_ward"
-			"5"		"venomancer_poison_sting"
+			"5"		"venomancer_plague_ward"
 			"6"		"venomancer_noxious_plague"
-			"7"		"venomancer_poison_sting"
-			"8"		"venomancer_plague_ward"
-			"9"		"venomancer_plague_ward"
-			"10"		"venomancer_plague_ward"
-			"11"		"special_bonus_unique_venomancer_poisonsting_regen_reduction"
+			"7"		"venomancer_plague_ward"
+			"8"		"venomancer_venomous_gale"
+			"9"		"venomancer_venomous_gale"
+			"10"		"venomancer_venomous_gale"
+			"11"		"venomancer_snakebite"
 			"12"		"venomancer_noxious_plague"
-			"13"		"venomancer_venomous_gale"
-			"14"		"venomancer_venomous_gale"
-			"15"		"special_bonus_unique_venomancer_8"
-			"16"		"venomancer_venomous_gale"
+			"13"		"venomancer_snakebite"
+			"14"		"venomancer_snakebite"
 			"18"		"venomancer_noxious_plague"
-			"20"		"special_bonus_attack_base_damage_50"
-			"25"		"special_bonus_unique_venomancer"
+			"27"		"special_bonus_unique_venomancer_poisonsting_regen_reduction"
+			"28"		"special_bonus_unique_venomancer_plague_spread"
+			"29"		"special_bonus_unique_venomancer_8"
+			"30"		"special_bonus_unique_venomancer"
 		}
 		"AbilityTooltips"
 		{
@@ -160,9 +164,9 @@ You are going to attack enemies a lot on lane. Try to attack as much different e
 
 Plague Wards may be used in a variety of ways: to block paths, to defend your towers or push enemy ones, to farm jungle efficiently, to give you vision over area."
 			"venomancer_poison_nova"		"Pretty much your Big Red Teamfight button.
-It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s a good thing to remember that affected enemies can lose a lot of HP, but CAN NOT DIE from the Nova damage. You need something else to secure the kill (passive or vessel)
+It&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s a good thing to remember that affected enemies can lose a lot of HP, but CAN NOT DIE from the Nova damage. You need something else to secure the kill (passive or vessel)
 
- It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s constantly emitting during the animation, so you can run towards your enemies and cover more range than the actual radius"
+ It&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s constantly emitting during the animation, so you can run towards your enemies and cover more range than the actual radius"
 			"special_bonus_unique_venomancer_4"		"Increases overall damage enemies take from Poison Nova."
 			"special_bonus_unique_venomancer_3"		"Decreases effective cooldown of the slow, allows to slow enemies more often. It also works well with level 15 talent"
 			"special_bonus_unique_venomancer_5"		"With this and gale cooldown you can create a ton of plague wards in a single fight with ease. It may be extra useful when sieging enemy base since you may get a lot of free wards ready to push a tower"

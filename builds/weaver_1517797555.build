@@ -1,19 +1,19 @@
 "guidedata"
 {
 	"Hero"		"weaver"
-	"Title"		"Nerds Support Weaver - F2"
+	"Title"		"Nerds Support Weaver"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Weaver is versatile agility hero. He is able to successfully roam around the map and useful in physical damage focused lineups. He is also able to transition into regular core Weaver or save his teammates with aghanim's scepter.
 
 This build is based on Immortal rank support and utility offlane Weaver matches.
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"119"
+	"GuideRevision"		"120"
 	"AssociatedWorkshopItemID"		"0x000000003085286A"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222C85"
-	"TimePublished"		"0x0000000069222C85"
+	"TimeUpdated"		"0x000000006A77C87D"
+	"TimePublished"		"0x000000006A77C87D"
 	"ItemBuild"
 	{
 		"Items"
@@ -22,7 +22,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_branches"
-				"item"		"item_branches"
+				"item"		"item_circlet"
 				"item"		"item_magic_stick"
 				"item"		"item_blood_grenade"
 				"item"		"item_ward_observer"
@@ -38,14 +38,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_spirit_vessel"
 				"item"		"item_rod_of_atos"
-				"item"		"item_cyclone"
+				"item"		"item_ultimate_scepter"
 			}
 			"Situational Early"
 			{
-				"item"		"item_pavise"
 				"item"		"item_ancient_janggo"
 				"item"		"item_power_treads"
 				"item"		"item_aether_lens"
+				"item"		"item_cyclone"
 			}
 			"Utility"
 			{
@@ -56,10 +56,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
-				"item"		"item_ultimate_scepter"
+				"item"		"item_gungir"
 				"item"		"item_orchid"
 				"item"		"item_bloodthorn"
-				"item"		"item_gungir"
 				"item"		"item_aghanims_shard"
 				"item"		"item_octarine_core"
 				"item"		"item_black_king_bar"
@@ -87,15 +86,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
 				"item"		"item_polliwog_charm"
-				"item"		"item_misericorde"
-				"item"		"item_essence_ring"
-				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_mana_draught"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_searing_signet"
 				"item"		"item_serrated_shiv"
-				"item"		"item_gale_guard"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_giant_maul"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -116,32 +118,32 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"weaver_the_swarm"
-			"2"		"weaver_shukuchi"
-			"3"		"weaver_the_swarm"
-			"4"		"weaver_shukuchi"
-			"5"		"weaver_the_swarm"
+			"1"		"weaver_shukuchi"
+			"2"		"weaver_the_swarm"
+			"3"		"weaver_shukuchi"
+			"4"		"weaver_geminate_attack"
+			"5"		"weaver_shukuchi"
 			"6"		"weaver_time_lapse"
-			"7"		"weaver_the_swarm"
-			"8"		"weaver_shukuchi"
-			"9"		"weaver_shukuchi"
-			"10"		"special_bonus_strength_7"
+			"7"		"weaver_shukuchi"
+			"8"		"weaver_the_swarm"
+			"9"		"weaver_the_swarm"
+			"10"		"weaver_the_swarm"
 			"11"		"weaver_geminate_attack"
 			"12"		"weaver_time_lapse"
 			"13"		"weaver_geminate_attack"
 			"14"		"weaver_geminate_attack"
-			"15"		"special_bonus_unique_weaver_4"
-			"16"		"weaver_geminate_attack"
 			"18"		"weaver_time_lapse"
-			"20"		"special_bonus_unique_weaver_3"
-			"25"		"special_bonus_unique_weaver_6"
+			"27"		"special_bonus_strength_7"
+			"28"		"special_bonus_unique_weaver_4"
+			"29"		"special_bonus_unique_weaver_3"
+			"30"		"special_bonus_unique_weaver_6"
 		}
 		"AbilityTooltips"
 		{
 			"weaver_the_swarm"		"Our main harassing, fighting and farming tool."
 			"weaver_shukuchi"		"our main nuke/escape/mobility spell. You can dodge creeps aggro in lane with it, harass opponnents, gank and retreat. Later on you will be hard to kill because of it."
 			"weaver_geminate_attack"		"If you don`t need shikuchi early, you can skill this one first. It`s pretty good for harassing enemy early."
-			"weaver_time_lapse"		"Don&amp;amp;amp;amp;amp;amp;amp;apos;t be afraid to use it. There&amp;amp;amp;amp;amp;amp;amp;apos;s no shame to use it when you think you need to. If there&amp;amp;amp;amp;amp;amp;amp;apos;s a signs of emergency - hit it to disengage and run out."
+			"weaver_time_lapse"		"Don&amp;amp;amp;amp;amp;amp;amp;amp;apos;t be afraid to use it. There&amp;amp;amp;amp;amp;amp;amp;amp;apos;s no shame to use it when you think you need to. If there&amp;amp;amp;amp;amp;amp;amp;amp;apos;s a signs of emergency - hit it to disengage and run out."
 		}
 	}
 }

@@ -1,34 +1,37 @@
 "guidedata"
 {
 	"Hero"		"skeleton_king"
-	"Title"		"Nerds Wraith King - F1"
+	"Title"		"Nerds Wraith King"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Wraith King is a strength melee carry, who is one of the most efficient junglers in the game. He can be played as a support with main focus on summons and auras, whie also roaming around.
 
 This build is untraditional and may require additional understanding of hero's limits and the build's idea. Try it only if you know what you are doing.
 The build is based on replays of Divine 5 players and inspired by Secret.Puppey's match as support Wraith King during ESL One Katowice 2018 major.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"117"
+	"GuideRevision"		"118"
 	"AssociatedWorkshopItemID"		"0x000000004EA2FE63"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222D4C"
-	"TimePublished"		"0x0000000069222D4C"
+	"TimeUpdated"		"0x000000006A77CDED"
+	"TimePublished"		"0x000000006A77CDED"
 	"ItemBuild"
 	{
 		"Items"
 		{
 			"#DOTA_Item_Build_Starting_Items"
 			{
-				"item"		"item_boots"
+				"item"		"item_tango"
+				"item"		"item_magic_stick"
+				"item"		"item_circlet"
 				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_soul_ring"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
@@ -42,7 +45,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_quelling_blade"
 				"item"		"item_orb_of_corrosion"
 				"item"		"item_ancient_janggo"
-				"item"		"item_holy_locket"
+				"item"		"item_soul_ring"
 			}
 			"Utility"
 			{
@@ -79,14 +82,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
+				"item"		"item_kobold_cup"
+				"item"		"item_duelist_gloves"
 				"item"		"item_poor_mans_shield"
-				"item"		"item_pogo_stick"
-				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
+				"item"		"item_mana_draught"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_serrated_shiv"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_stormcrafter"
+				"item"		"item_rattlecage"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_giant_maul"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -113,24 +119,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 		"AbilityOrder"
 		{
 			"1"		"skeleton_king_hellfire_blast"
-			"2"		"skeleton_king_mortal_strike"
-			"3"		"skeleton_king_hellfire_blast"
-			"4"		"skeleton_king_spectral_blade"
-			"5"		"skeleton_king_hellfire_blast"
+			"2"		"skeleton_king_bone_guard"
+			"3"		"skeleton_king_bone_guard"
+			"4"		"skeleton_king_mortal_strike"
+			"5"		"skeleton_king_bone_guard"
 			"6"		"skeleton_king_reincarnation"
-			"7"		"skeleton_king_hellfire_blast"
-			"8"		"skeleton_king_spectral_blade"
-			"9"		"skeleton_king_spectral_blade"
-			"10"		"special_bonus_unique_wraith_king_facet_1"
-			"11"		"skeleton_king_mortal_strike"
+			"7"		"skeleton_king_bone_guard"
+			"8"		"skeleton_king_mortal_strike"
+			"9"		"skeleton_king_mortal_strike"
+			"10"		"skeleton_king_mortal_strike"
+			"11"		"skeleton_king_hellfire_blast"
 			"12"		"skeleton_king_reincarnation"
-			"13"		"skeleton_king_mortal_strike"
-			"14"		"skeleton_king_mortal_strike"
-			"15"		"special_bonus_unique_wraith_king_11"
-			"16"		"skeleton_king_spectral_blade"
+			"13"		"skeleton_king_hellfire_blast"
+			"14"		"skeleton_king_hellfire_blast"
 			"18"		"skeleton_king_reincarnation"
-			"20"		"special_bonus_unique_wraith_king_facet_3"
-			"25"		"special_bonus_unique_wraith_king_4"
+			"27"		"special_bonus_unique_wraith_king_facet_1"
+			"28"		"special_bonus_unique_wraith_king_11"
+			"29"		"special_bonus_unique_wraith_king_facet_3"
+			"30"		"special_bonus_unique_wraith_king_4"
 		}
 		"AbilityTooltips"
 		{

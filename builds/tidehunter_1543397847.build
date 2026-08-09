@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"tidehunter"
-	"Title"		"Nerds Tidehunter - F2"
+	"Title"		"Nerds Tidehunter"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Tidehunter is a strength core hero who excells at being tanky and hard to take down beast. He's also great lane dominator and one of the best teamfighters in the game because of his ultimate, Ravage.
 Main issue that comes with his main strength is that Ravage Tide is useless when his ult is on cooldown. This build is focused around making Tide's out-of-teamfight potential much better by abusing power that comes with Anchor Smash. This ability allowes not only to dominate the lane and farm, but also transition into great physical damage core.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/
 It's based on Immortal rank Core Tidehunter matches"
-	"GuideRevision"		"110"
+	"GuideRevision"		"111"
 	"AssociatedWorkshopItemID"		"0x000000005EFAB04D"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692226AB"
-	"TimePublished"		"0x00000000692226AB"
+	"TimeUpdated"		"0x000000006A77B523"
+	"TimePublished"		"0x000000006A77B523"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,8 +31,8 @@ It's based on Immortal rank Core Tidehunter matches"
 			"Early"
 			{
 				"item"		"item_magic_wand"
-				"item"		"item_ring_of_basilius"
 				"item"		"item_phase_boots"
+				"item"		"item_soul_ring"
 			}
 			"Core"
 			{
@@ -45,13 +45,12 @@ It's based on Immortal rank Core Tidehunter matches"
 			{
 				"item"		"item_echo_sabre"
 				"item"		"item_desolator"
+				"item"		"item_aghanims_shard"
 				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
 				"item"		"item_bottle"
-				"item"		"item_radiance"
-				"item"		"item_soul_ring"
 				"item"		"item_bracer"
 				"item"		"item_invis_sword"
 				"item"		"item_arcane_boots"
@@ -60,29 +59,28 @@ It's based on Immortal rank Core Tidehunter matches"
 			"Lategame"
 			{
 				"item"		"item_shivas_guard"
-				"item"		"item_satanic"
-				"item"		"item_greater_crit"
-				"item"		"item_nullifier"
+				"item"		"item_overwhelming_blink"
 				"item"		"item_refresher"
 				"item"		"item_travel_boots"
-				"item"		"item_overwhelming_blink"
 			}
 			"Situational"
 			{
 				"item"		"item_harpoon"
-				"item"		"item_heart"
-				"item"		"item_heavens_halberd"
+				"item"		"item_satanic"
 				"item"		"item_sheepstick"
 				"item"		"item_octarine_core"
 				"item"		"item_silver_edge"
 				"item"		"item_black_king_bar"
 				"item"		"item_moon_shard"
+				"item"		"item_greater_crit"
+				"item"		"item_nullifier"
 			}
 			"Utility"
 			{
 				"item"		"item_guardian_greaves"
 				"item"		"item_pipe"
 				"item"		"item_lotus_orb"
+				"item"		"item_heavens_halberd"
 			}
 			"Other Significant Items"
 			{
@@ -91,19 +89,22 @@ It's based on Immortal rank Core Tidehunter matches"
 				"item"		"item_solar_crest"
 				"item"		"item_arcane_blink"
 				"item"		"item_sange_and_yasha"
+				"item"		"item_heart"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
-				"item"		"item_misericorde"
-				"item"		"item_pogo_stick"
-				"item"		"item_serrated_shiv"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
+				"item"		"item_mana_draught"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_essence_ring"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_stormcrafter"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_crippling_crossbow"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_rattlecage"
+				"item"		"item_prophets_pendulum"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -144,8 +145,6 @@ ALTERNATIVE: Radiance"
 Good pickup if you want to spam Gush from distance or have some kind of AoE physical damage aside from Tide"
 			"item_echo_sabre"		"~15 min
 ALTERNATIVE: Falcon Blade"
-			"item_radiance"		"~7-16 min
-ALTERNATIVE: Desolator"
 			"item_arcane_boots"		"ALTERNATIVE: Phase Boots"
 		}
 	}
@@ -162,16 +161,16 @@ ALTERNATIVE: Desolator"
 			"7"		"tidehunter_anchor_smash"
 			"8"		"tidehunter_kraken_shell"
 			"9"		"tidehunter_kraken_shell"
-			"10"		"special_bonus_unique_tidehunter_9"
+			"10"		"tidehunter_kraken_shell"
 			"11"		"tidehunter_gush"
 			"12"		"tidehunter_ravage"
 			"13"		"tidehunter_gush"
 			"14"		"tidehunter_gush"
-			"15"		"special_bonus_unique_tidehunter_3"
-			"16"		"tidehunter_kraken_shell"
 			"18"		"tidehunter_ravage"
-			"20"		"special_bonus_unique_tidehunter_10"
-			"25"		"special_bonus_unique_tidehunter_7"
+			"27"		"special_bonus_unique_tidehunter_5"
+			"28"		"special_bonus_unique_tidehunter_2"
+			"29"		"special_bonus_unique_tidehunter"
+			"30"		"special_bonus_unique_tidehunter_7"
 		}
 		"AbilityTooltips"
 		{

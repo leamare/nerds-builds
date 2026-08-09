@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"slark"
-	"Title"		"Nerds Support Slark - F2"
+	"Title"		"Nerds Support Slark"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"23"
+	"GuideRevision"		"24"
 	"AssociatedWorkshopItemID"		"0x00000000B14503A3"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692221B2"
-	"TimePublished"		"0x00000000692221B2"
+	"TimeUpdated"		"0x000000006A77ACA8"
+	"TimePublished"		"0x000000006A77ACA8"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,17 +21,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_boots"
 				"item"		"item_blood_grenade"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
 			}
 			"Early"
 			{
-				"item"		"item_magic_stick"
-				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+				"item"		"item_urn_of_shadows"
+				"item"		"item_boots"
 			}
 			"Core"
 			{
+				"item"		"item_power_treads"
 				"item"		"item_cyclone"
+				"item"		"item_essence_distiller"
+				"item"		"item_ultimate_scepter"
 				"item"		"item_aghanims_shard"
-				"item"		"item_glimmer_cape"
 			}
 			"Situational Early"
 			{
@@ -39,37 +44,41 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_echo_sabre"
 				"item"		"item_magic_wand"
 				"item"		"item_diffusal_blade"
+				"item"		"item_glimmer_cape"
 			}
 			"Lategame"
 			{
-				"item"		"item_lotus_orb"
-				"item"		"item_orchid"
-				"item"		"item_ultimate_scepter"
-				"item"		"item_nullifier"
 				"item"		"item_black_king_bar"
 				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
+				"item"		"item_spirit_vessel"
 				"item"		"item_boots_of_bearing"
 				"item"		"item_octarine_core"
 				"item"		"item_disperser"
 				"item"		"item_harpoon"
 				"item"		"item_sphere"
-				"item"		"item_spirit_vessel"
 				"item"		"item_heavens_halberd"
 				"item"		"item_mage_slayer"
+				"item"		"item_lotus_orb"
+				"item"		"item_orchid"
+				"item"		"item_nullifier"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_duelist_gloves"
+				"item"		"item_possessed_mask"
 				"item"		"item_occult_bracelet"
 				"item"		"item_mana_draught"
-				"item"		"item_essence_ring"
+				"item"		"item_defiant_shell"
+				"item"		"item_poor_mans_shield"
 				"item"		"item_serrated_shiv"
-				"item"		"item_gale_guard"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_prophets_pendulum"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -83,8 +92,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 	{
 		"AbilityOrder"
 		{
-			"1"		"slark_essence_shift"
-			"2"		"slark_pounce"
+			"1"		"slark_pounce"
+			"2"		"slark_saltwater_shiv"
 			"3"		"slark_dark_pact"
 			"4"		"slark_dark_pact"
 			"5"		"slark_dark_pact"
@@ -92,16 +101,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"slark_dark_pact"
 			"8"		"slark_pounce"
 			"9"		"slark_pounce"
-			"10"		"special_bonus_unique_slark"
-			"11"		"slark_pounce"
+			"10"		"slark_pounce"
+			"11"		"slark_saltwater_shiv"
 			"12"		"slark_shadow_dance"
-			"13"		"slark_essence_shift"
-			"14"		"slark_essence_shift"
-			"15"		"special_bonus_unique_slark_8"
-			"16"		"slark_essence_shift"
+			"13"		"slark_saltwater_shiv"
+			"14"		"slark_saltwater_shiv"
 			"18"		"slark_shadow_dance"
-			"20"		"special_bonus_unique_slark_7"
-			"25"		"special_bonus_unique_slark_4"
+			"27"		"special_bonus_unique_slark"
+			"28"		"special_bonus_unique_slark_2"
+			"29"		"special_bonus_unique_slark_7"
+			"30"		"special_bonus_unique_slark_3"
 		}
 		"AbilityTooltips"
 		{

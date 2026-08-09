@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"zuus"
-	"Title"		"Nerds Zeus - F1"
+	"Title"		"Nerds Zeus"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"87"
+	"GuideRevision"		"88"
 	"AssociatedWorkshopItemID"		"0x000000006CDA9274"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222D68"
-	"TimePublished"		"0x0000000069222D68"
+	"TimeUpdated"		"0x000000006A77CF61"
+	"TimePublished"		"0x000000006A77CF61"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,6 +23,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
 				"item"		"item_ward_observer"
 			}
 			"Early"
@@ -34,6 +36,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_kaya"
+				"item"		"item_aghanims_shard"
 				"item"		"item_ultimate_scepter"
 				"item"		"item_refresher"
 			}
@@ -49,12 +52,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_yasha_and_kaya"
 				"item"		"item_octarine_core"
-				"item"		"item_ethereal_blade"
-				"item"		"item_shivas_guard"
+				"item"		"item_sheepstick"
 				"item"		"item_travel_boots"
 				"item"		"item_blink"
-				"item"		"item_sheepstick"
 			}
 			"Situational"
 			{
@@ -62,6 +64,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_arcane_blink"
 				"item"		"item_aeon_disk"
 				"item"		"item_angels_demise"
+				"item"		"item_shivas_guard"
+				"item"		"item_ethereal_blade"
+				"item"		"item_rapier"
 			}
 			"Other Significant Items"
 			{
@@ -74,11 +79,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_polliwog_charm"
 				"item"		"item_occult_bracelet"
+				"item"		"item_foragers_kit"
 				"item"		"item_mana_draught"
 				"item"		"item_searing_signet"
-				"item"		"item_whisper_of_the_dread"
-				"item"		"item_psychic_headband"
-				"item"		"item_magnifying_monocle"
+				"item"		"item_pogo_stick"
+				"item"		"item_spellslinger"
+				"item"		"item_partisans_brand"
+				"item"		"item_stormcrafter"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_dandelion_amulet"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -101,16 +111,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"zuus_arc_lightning"
 			"8"		"zuus_lightning_bolt"
 			"9"		"zuus_lightning_bolt"
-			"10"		"special_bonus_hp_200"
 			"11"		"zuus_lightning_bolt"
 			"12"		"zuus_thundergods_wrath"
 			"13"		"zuus_heavenly_jump"
 			"14"		"zuus_heavenly_jump"
-			"15"		"special_bonus_unique_zeus_4"
 			"16"		"zuus_heavenly_jump"
 			"18"		"zuus_thundergods_wrath"
-			"20"		"special_bonus_unique_zeus_2"
-			"25"		"special_bonus_unique_zeus_5"
+			"27"		"special_bonus_hp_200"
+			"28"		"special_bonus_unique_zeus_4"
+			"29"		"special_bonus_unique_zeus_3"
+			"30"		"special_bonus_unique_zeus_jump_charges"
 		}
 		"AbilityTooltips"
 		{

@@ -1,20 +1,20 @@
 "guidedata"
 {
 	"Hero"		"sven"
-	"Title"		"Nerds Support Sven - F1"
+	"Title"		"Nerds Support Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Sven in a strength melee hero, who can be played as both a powerful core and a support. Supportng Sven excells at initiating fights with Storm Hammer and providing attack damage shield to allies, while also being hard to take down even without any items. Later on into the game because of Great Cleave Sven can start transitioning into either utility core or a full blown carry, staying relevant at every stage of the game.
 
 As a support Sven your main goal is not to deal damage or transition into core. First thing to focus on is using Storm Hammer and soaking resources from enemy heroes on lane early on, to then proceed to ganking. During mid-game fights Sven's goal is to initiate and then be a frontline hero, while also constantly throwing Storm Hammer and using Warcry.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"96"
+	"GuideRevision"		"97"
 	"AssociatedWorkshopItemID"		"0x000000005F0EE7A0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222648"
-	"TimePublished"		"0x0000000069222648"
+	"TimeUpdated"		"0x000000006A77B2C9"
+	"TimePublished"		"0x000000006A77B2C9"
 	"ItemBuild"
 	{
 		"Items"
@@ -41,7 +41,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 				"item"		"item_tranquil_boots"
 				"item"		"item_ancient_janggo"
 				"item"		"item_aghanims_shard"
-				"item"		"item_pipe"
 			}
 			"Situational Early"
 			{
@@ -63,6 +62,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_boots_of_bearing"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_pipe"
 				"item"		"item_black_king_bar"
 				"item"		"item_assault"
 				"item"		"item_octarine_core"
@@ -70,7 +71,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
-				"item"		"item_ultimate_scepter"
 				"item"		"item_spirit_vessel"
 				"item"		"item_overwhelming_blink"
 			}
@@ -83,16 +83,18 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_spark_of_courage"
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
 				"item"		"item_chipped_vest"
 				"item"		"item_poor_mans_shield"
 				"item"		"item_pogo_stick"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
 				"item"		"item_serrated_shiv"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
-				"item"		"item_crippling_crossbow"
+				"item"		"item_unrelenting_eye"
+				"item"		"item_giant_maul"
+				"item"		"item_prophets_pendulum"
+				"item"		"item_flayers_bota"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -111,7 +113,7 @@ ALTERNATIVE: Power Treads"
 			"item_ultimate_scepter"		"Works as a blink replacement. It`s more expensive but it`s also a bit more powerful. Can be replaced or accompanied by blink if you need long range initiation or/and get initiation early"
 			"item_spirit_vessel"		"Natural Urn upgrade. Some HP, some mobility, more heal/damage"
 			"item_heavens_halberd"		"Great item to pickup on a melee strength utility brawler. Relatively cheap and always useful"
-			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you&amp;amp;amp;amp;amp;amp;amp;apos;re playing against miss chance heroes and nobody else is making it"
+			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you&amp;amp;amp;amp;amp;amp;amp;amp;apos;re playing against miss chance heroes and nobody else is making it"
 			"item_pipe"		"Against high magic damage lineups"
 			"item_force_staff"		"Works fine for getting in and instantly getting out. Also comes in handy against slowing assassins, like Riki and Ursa"
 			"item_black_king_bar"		"Good solution against stuns and silences if that`s what makes it hard for you to initiate"
@@ -134,19 +136,19 @@ ALTERNATIVE: Power Treads"
 			"4"		"sven_warcry"
 			"5"		"sven_storm_bolt"
 			"6"		"sven_gods_strength"
-			"7"		"sven_warcry"
-			"8"		"sven_storm_bolt"
+			"7"		"sven_storm_bolt"
+			"8"		"sven_warcry"
 			"9"		"sven_warcry"
-			"10"		"special_bonus_unique_sven_5"
+			"10"		"sven_great_cleave"
 			"11"		"sven_great_cleave"
 			"12"		"sven_gods_strength"
 			"13"		"sven_great_cleave"
 			"14"		"sven_great_cleave"
-			"15"		"special_bonus_unique_sven_3"
-			"16"		"sven_great_cleave"
 			"18"		"sven_gods_strength"
-			"20"		"special_bonus_unique_sven_7"
-			"25"		"special_bonus_unique_sven_4"
+			"27"		"special_bonus_unique_sven_5"
+			"28"		"special_bonus_unique_sven_3"
+			"29"		"special_bonus_unique_sven_7"
+			"30"		"special_bonus_unique_sven_4"
 		}
 		"AbilityTooltips"
 		{

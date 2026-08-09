@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Support Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Roamer"
-	"GameplayVersion"		"7.40b"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"
 
 This build is untraditional and situational. Use the hero on this position with this build on your own risk.
 This build is based on matches of 2B (high MMR player) - https://twitch.tv/2b_doto
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"100"
+	"GuideRevision"		"101"
 	"AssociatedWorkshopItemID"		"0x0000000067B21D6C"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000694B5101"
-	"TimePublished"		"0x00000000694B5101"
+	"TimeUpdated"		"0x000000006A77B1AA"
+	"TimePublished"		"0x000000006A77B1AA"
 	"ItemBuild"
 	{
 		"Items"
@@ -31,10 +31,11 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_magic_stick"
 				"item"		"item_urn_of_shadows"
-				"item"		"item_orb_of_venom"
+				"item"		"item_orb_of_frost"
 			}
 			"Core"
 			{
+				"item"		"item_magic_wand"
 				"item"		"item_tranquil_boots"
 				"item"		"item_wind_lace"
 				"item"		"item_ancient_janggo"
@@ -81,17 +82,17 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Best Neutral Items"
 			{
 				"item"		"item_chipped_vest"
-				"item"		"item_spark_of_courage"
 				"item"		"item_occult_bracelet"
+				"item"		"item_polliwog_charm"
 				"item"		"item_poor_mans_shield"
 				"item"		"item_mana_draught"
 				"item"		"item_searing_signet"
 				"item"		"item_serrated_shiv"
-				"item"		"item_gale_guard"
 				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_crippling_crossbow"
 				"item"		"item_giant_maul"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_rattlecage"
+				"item"		"item_enchanters_bauble"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -117,16 +118,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"spectre_spectral_dagger"
 			"8"		"spectre_shadow_step"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_unique_spectre_2"
 			"11"		"spectre_shadow_step"
 			"12"		"spectre_haunt"
 			"13"		"spectre_dispersion"
 			"14"		"spectre_dispersion"
-			"15"		"special_bonus_unique_spectre_6"
 			"16"		"spectre_shadow_step"
 			"18"		"spectre_haunt"
-			"20"		"special_bonus_unique_spectre_3"
-			"25"		"special_bonus_unique_spectre_5"
+			"27"		"special_bonus_unique_spectre"
+			"28"		"special_bonus_unique_spectre_6"
+			"29"		"special_bonus_unique_spectre_3"
+			"30"		"special_bonus_unique_spectre_5"
 		}
 		"AbilityTooltips"
 		{

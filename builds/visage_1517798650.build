@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"visage"
-	"Title"		"Nerds Visage - F1"
+	"Title"		"Nerds Visage"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Visage is summons-based universal hero. He is relying a lot on his summons (familliars) and experience, while also being able to deal a lot of physical damage, split push and destroy buildings really quickly.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"173"
+	"GuideRevision"		"174"
 	"AssociatedWorkshopItemID"		"0x0000000031D504F7"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069222B6B"
-	"TimePublished"		"0x0000000069222B6B"
+	"TimeUpdated"		"0x000000006A77C2BE"
+	"TimePublished"		"0x000000006A77C2BE"
 	"ItemBuild"
 	{
 		"Items"
@@ -35,9 +35,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_ancient_janggo"
-				"item"		"item_assault"
-				"item"		"item_orchid"
+				"item"		"item_aghanims_shard"
+				"item"		"item_boots_of_bearing"
 				"item"		"item_ultimate_scepter"
+				"item"		"item_assault"
 			}
 			"Situational Early"
 			{
@@ -48,8 +49,6 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Lategame"
 			{
 				"item"		"item_bloodthorn"
-				"item"		"item_aghanims_shard"
-				"item"		"item_boots_of_bearing"
 				"item"		"item_sheepstick"
 				"item"		"item_refresher"
 				"item"		"item_moon_shard"
@@ -73,24 +72,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_desolator"
 				"item"		"item_rod_of_atos"
-				"item"		"item_eternal_shroud"
 				"item"		"item_silver_edge"
 				"item"		"item_hurricane_pike"
 				"item"		"item_aeon_disk"
 			}
 			"Best Neutral Items"
 			{
-				"item"		"item_rippers_lash"
-				"item"		"item_spark_of_courage"
-				"item"		"item_chipped_vest"
-				"item"		"item_mana_draught"
-				"item"		"item_misericorde"
+				"item"		"item_kobold_cup"
+				"item"		"item_duelist_gloves"
+				"item"		"item_ash_legion_shield"
+				"item"		"item_medallion_of_courage"
 				"item"		"item_searing_signet"
+				"item"		"item_crippling_crossbow"
 				"item"		"item_serrated_shiv"
 				"item"		"item_gunpowder_gauntlets"
-				"item"		"item_gale_guard"
-				"item"		"item_magnifying_monocle"
-				"item"		"item_pyrrhic_cloak"
+				"item"		"item_partisans_brand"
+				"item"		"item_conjurers_catalyst"
+				"item"		"item_giant_maul"
+				"item"		"item_dandelion_amulet"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -128,16 +127,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"7"		"visage_grave_chill"
 			"8"		"visage_gravekeepers_cloak"
 			"9"		"visage_gravekeepers_cloak"
-			"10"		"special_bonus_unique_visage_7"
-			"11"		"visage_gravekeepers_cloak"
+			"10"		"visage_gravekeepers_cloak"
+			"11"		"visage_soul_assumption"
 			"12"		"visage_summon_familiars"
 			"13"		"visage_soul_assumption"
 			"14"		"visage_soul_assumption"
-			"15"		"special_bonus_unique_visage_grave_chill_duration"
-			"16"		"visage_soul_assumption"
 			"18"		"visage_summon_familiars"
-			"20"		"special_bonus_unique_visage_1"
-			"25"		"special_bonus_unique_visage_6"
+			"27"		"special_bonus_unique_visage_7"
+			"28"		"special_bonus_unique_visage_3"
+			"29"		"special_bonus_unique_visage_1"
+			"30"		"special_bonus_unique_visage_6"
 		}
 		"AbilityTooltips"
 		{

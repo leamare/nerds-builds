@@ -1,18 +1,18 @@
 "guidedata"
 {
 	"Hero"		"vengefulspirit"
-	"Title"		"Nerds Vengeful Spirit - F2"
+	"Title"		"Nerds Vengeful Spirit"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.39e"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Vengeful Spirit is agility hero who can be played as position 5 support or mid-game carry. While providing powerful damage aura, she has pretty good agility gain and damage by herself, as well as nice utility with stun, minus armor and swap. 
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"126"
+	"GuideRevision"		"127"
 	"AssociatedWorkshopItemID"		"0x00000000360140DB"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x00000000692228B7"
-	"TimePublished"		"0x00000000692228B7"
+	"TimeUpdated"		"0x000000006A77C014"
+	"TimePublished"		"0x000000006A77C014"
 	"ItemBuild"
 	{
 		"Items"
@@ -21,7 +21,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_tango"
 				"item"		"item_circlet"
-				"item"		"item_circlet"
+				"item"		"item_slippers"
 				"item"		"item_branches"
 				"item"		"item_branches"
 				"item"		"item_faerie_fire"
@@ -35,9 +35,9 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			"Core"
 			{
 				"item"		"item_power_treads"
+				"item"		"item_specialists_array"
+				"item"		"item_yasha"
 				"item"		"item_ultimate_scepter"
-				"item"		"item_manta"
-				"item"		"item_hurricane_pike"
 			}
 			"Situational Early"
 			{
@@ -46,23 +46,24 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Lategame"
 			{
+				"item"		"item_manta"
+				"item"		"item_hydras_breath"
+				"item"		"item_butterfly"
 				"item"		"item_greater_crit"
 				"item"		"item_aghanims_shard"
-				"item"		"item_butterfly"
-				"item"		"item_skadi"
-				"item"		"item_hurricane_pike"
+				"item"		"item_swift_blink"
 				"item"		"item_satanic"
 				"item"		"item_travel_boots"
 				"item"		"item_moon_shard"
-				"item"		"item_swift_blink"
 			}
 			"Situational"
 			{
+				"item"		"item_skadi"
+				"item"		"item_hurricane_pike"
 				"item"		"item_blink"
 				"item"		"item_black_king_bar"
 				"item"		"item_monkey_king_bar"
 				"item"		"item_sheepstick"
-				"item"		"item_octarine_core"
 				"item"		"item_assault"
 				"item"		"item_sange_and_yasha"
 				"item"		"item_silver_edge"
@@ -75,18 +76,28 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Other Significant Items"
 			{
-				"item"		"item_aether_lens"
 				"item"		"item_sphere"
 				"item"		"item_bloodthorn"
-				"item"		"item_mask_of_madness"
-				"item"		"item_desolator"
 				"item"		"item_refresher"
-				"item"		"item_diffusal_blade"
 				"item"		"item_disperser"
 				"item"		"item_angels_demise"
+				"item"		"item_octarine_core"
+				"item"		"item_desolator"
 			}
 			"Best Neutral Items"
 			{
+				"item"		"item_possessed_mask"
+				"item"		"item_duelist_gloves"
+				"item"		"item_chipped_vest"
+				"item"		"item_medallion_of_courage"
+				"item"		"item_poor_mans_shield"
+				"item"		"item_pogo_stick"
+				"item"		"item_serrated_shiv"
+				"item"		"item_gunpowder_gauntlets"
+				"item"		"item_cloak_of_flames"
+				"item"		"item_giant_maul"
+				"item"		"item_enchanters_bauble"
+				"item"		"item_flayers_bota"
 			}
 			"https://builds.spectral.gg/"
 			{
@@ -98,14 +109,14 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 ALTERNATIVES: Power Treads"
 			"item_power_treads"		"Probably the best boots to get because of attack speed increase, as well as tankiness or damage from agility.
 ALTERNATIVE: Phase Boots"
-			"item_sheepstick"		"Even while we have stun and we are going to be agility core, it&amp;amp;amp;amp;amp;amp;amp;apos;s still remains as ultimate lockdown item for ranged cores."
-			"item_bloodthorn"		"The best core item at the moment: silence, crits, attack speed boost and a lot of damage. It&amp;amp;amp;amp;amp;amp;amp;apos;s expensive and doesn&amp;amp;amp;amp;amp;amp;amp;apos;t really work well with our skillset, but it&amp;amp;amp;amp;amp;amp;amp;apos;s too good to ignore it"
+			"item_sheepstick"		"Even while we have stun and we are going to be agility core, it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s still remains as ultimate lockdown item for ranged cores."
+			"item_bloodthorn"		"The best core item at the moment: silence, crits, attack speed boost and a lot of damage. It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s expensive and doesn&amp;amp;amp;amp;amp;amp;amp;amp;apos;t really work well with our skillset, but it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s too good to ignore it"
 			"item_hurricane_pike"		"Natural upgrade to Lance. More stats and mobility."
 			"item_ultimate_scepter"		"~15-19 min
-Kind of good if you know that you will probably die. Allowes you to deal damage even after death (and, well, it&amp;amp;amp;amp;amp;amp;amp;apos;s 50% lower, but it will be still a lot of damage in case of core venge), as well as allowes to stun people, swap people and provide vengeance aura for your team.
-SWAP: Aghanim&amp;amp;amp;amp;amp;amp;amp;apos;s Shard"
-			"item_assault"		"Works well with our minus armor theme and provides useful armor aura for our team. Good, if you need armor boost, if you&amp;amp;amp;amp;amp;amp;amp;apos;re not the only core or if you&amp;amp;amp;amp;amp;amp;amp;apos;re going to finish the game quickly."
-			"item_sphere"		"Massive stats boost, but there&amp;amp;amp;amp;amp;amp;amp;apos;re a lot of better items, so it&amp;amp;amp;amp;amp;amp;amp;apos;s actually useful only against some targeted stuff that will get us killed (f.e. Doom)"
+Kind of good if you know that you will probably die. Allowes you to deal damage even after death (and, well, it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s 50% lower, but it will be still a lot of damage in case of core venge), as well as allowes to stun people, swap people and provide vengeance aura for your team.
+SWAP: Aghanim&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Shard"
+			"item_assault"		"Works well with our minus armor theme and provides useful armor aura for our team. Good, if you need armor boost, if you`re not the only core or if you`re going to finish the game quickly."
+			"item_sphere"		"Massive stats boost, but there&amp;amp;amp;amp;amp;amp;amp;amp;apos;re a lot of better items, so it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s actually useful only against some targeted stuff that will get us killed (f.e. Doom)"
 			"item_manta"		"~30 min
 Another upgrade to Yasha, which provides more agility, illusions and dispel. Better for lategame scenarios, works nice with our hero since we want to get a lot of base damage anyway.
 ALTERNATIVES: Sange and Yasha"
@@ -113,14 +124,9 @@ ALTERNATIVES: Sange and Yasha"
 ALTERNATIVES: Sange and Yasha, Manta Style, Eye of Skadi"
 			"item_sange_and_yasha"		"~30 min
 After series of small buffs, SnY is actually pretty good item and it was always good for Core Venge. A lot of stats, slow, damage and mobility. Works perfectly in scenarios when you are not going to play long match."
-			"item_satanic"		"It&amp;amp;amp;amp;amp;amp;amp;apos;s good item for every offensive core, but it&amp;amp;amp;amp;amp;amp;amp;apos;s not really the item venge wants to buy. It works as lategame replacement for Vlads and ultimate lifesteal item, but it&amp;amp;amp;amp;amp;amp;amp;apos;s better to pick up something else before that"
-			"item_desolator"		"Good choice if you have nice start since it&amp;amp;amp;amp;amp;amp;amp;apos;s cheap, it boosts our damage and farming speed even more, while also boosts our pushing speed.
-ALTERNATIVES: Solar Crest, Butterfly, Diffusal Blade
-"
-			"item_diffusal_blade"		"Massive agility boost, mana burn (even more damage), works quite well with manta, gives us active purge. It&amp;amp;amp;amp;amp;amp;amp;apos;s quite cheap, so the item works awesome in mid-game and when we want to finish early."
-			"item_solar_crest"		"Defensive alternative to Desolator. Doesn&amp;amp;amp;amp;amp;amp;amp;apos;t boost our pushing speed (no minus armor for towers) and doesn&amp;amp;amp;amp;amp;amp;amp;apos;t give damage, but gives a lot of armor, miss chance as well as a lot of minus armor (more than deso) against heroes, roshan and regenerates a lot of mana.
+			"item_satanic"		"It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s good item for every offensive core, but it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s not really the item venge wants to buy. It works as lategame replacement for Vlads and ultimate lifesteal item, but it&amp;amp;amp;amp;amp;amp;amp;amp;apos;s better to pick up something else before that"
+			"item_solar_crest"		"Defensive alternative to Desolator. Doesn&amp;amp;amp;amp;amp;amp;amp;amp;apos;t boost our pushing speed (no minus armor for towers) and doesn&amp;amp;amp;amp;amp;amp;amp;amp;apos;t give damage, but gives a lot of armor, miss chance as well as a lot of minus armor (more than deso) against heroes, roshan and regenerates a lot of mana.
 ALTERNATIVES: Yasha"
-			"item_aether_lens"		"ALTERNATIVES: Yasha"
 			"item_octarine_core"		"ALTERNATIVES: Sange and Yasha, Manta Style, Silver Edge"
 		}
 	}
@@ -130,27 +136,27 @@ ALTERNATIVES: Yasha"
 		{
 			"1"		"vengefulspirit_magic_missile"
 			"2"		"vengefulspirit_wave_of_terror"
-			"3"		"vengefulspirit_magic_missile"
-			"4"		"vengefulspirit_wave_of_terror"
-			"5"		"vengefulspirit_magic_missile"
+			"3"		"vengefulspirit_wave_of_terror"
+			"4"		"vengefulspirit_command_aura"
+			"5"		"vengefulspirit_wave_of_terror"
 			"6"		"vengefulspirit_nether_swap"
-			"7"		"vengefulspirit_magic_missile"
-			"8"		"vengefulspirit_wave_of_terror"
-			"9"		"vengefulspirit_wave_of_terror"
-			"10"		"special_bonus_unique_vengeful_spirit_swap_damage"
-			"11"		"vengefulspirit_command_aura"
+			"7"		"vengefulspirit_wave_of_terror"
+			"8"		"vengefulspirit_command_aura"
+			"9"		"vengefulspirit_command_aura"
+			"10"		"vengefulspirit_command_aura"
+			"11"		"vengefulspirit_magic_missile"
 			"12"		"vengefulspirit_nether_swap"
-			"13"		"vengefulspirit_command_aura"
-			"14"		"vengefulspirit_command_aura"
-			"15"		"special_bonus_unique_vengeful_spirit_4"
-			"16"		"vengefulspirit_command_aura"
+			"13"		"vengefulspirit_magic_missile"
+			"14"		"vengefulspirit_magic_missile"
 			"18"		"vengefulspirit_nether_swap"
-			"20"		"special_bonus_unique_vengeful_spirit_wave_of_terror_steal"
-			"25"		"special_bonus_unique_vengeful_spirit_2"
+			"27"		"special_bonus_unique_vengeful_spirit_swap_damage"
+			"28"		"special_bonus_unique_vengeful_spirit_4"
+			"29"		"special_bonus_unique_vengeful_spirit_wave_of_terror_steal"
+			"30"		"special_bonus_unique_vengeful_spirit_2"
 		}
 		"AbilityTooltips"
 		{
-			"special_bonus_unique_vengeful_spirit_5"		"It&amp;amp;amp;amp;amp;amp;amp;apos;s better if you&amp;amp;amp;amp;amp;amp;amp;apos;re playing more of an utility core or need more disables, but most of the time additional aura damage makes your team and you way too strong in dominating scenarios (which you should have 90% of the time if you&amp;amp;amp;amp;amp;amp;amp;apos;re playing Core venge)"
+			"special_bonus_unique_vengeful_spirit_5"		"It&amp;amp;amp;amp;amp;amp;amp;amp;apos;s better if you&amp;amp;amp;amp;amp;amp;amp;amp;apos;re playing more of an utility core or need more disables, but most of the time additional aura damage makes your team and you way too strong in dominating scenarios (which you should have 90% of the time if you&amp;amp;amp;amp;amp;amp;amp;amp;apos;re playing Core venge)"
 		}
 	}
 }

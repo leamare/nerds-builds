@@ -3,18 +3,18 @@
 	"Hero"		"spectre"
 	"Title"		"Nerds Spectre"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.40b"
+	"GameplayVersion"		"7.41e"
 	"Overview"		"Spectre is agility core hero, who's relying on tankiness and kating in fights. Spectre is able to deal a lot of AoE damage, come in fights from distance with her ultimate and deal a lot of damage with her illusions.
 
 Essentially Spectre needs some early stat items, a regen item (so she will be able to farm without going to base, while also having someething against enemy matchup). Later on Spectre wants to get Radiance, but you can skip it if oyou're going to finish early or you have better Radiance carrier in your team. All other Spectre's items are focused on getting as much surviveability as possible, since it's her main source of damage.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"236"
+	"GuideRevision"		"237"
 	"AssociatedWorkshopItemID"		"0x0000000031D51B87"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x0000000069683880"
-	"TimePublished"		"0x0000000069683880"
+	"TimeUpdated"		"0x000000006A77B154"
+	"TimePublished"		"0x000000006A77B154"
 	"ItemBuild"
 	{
 		"Items"
@@ -23,15 +23,16 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_quelling_blade"
 				"item"		"item_tango"
-				"item"		"item_magic_stick"
-				"item"		"item_circlet"
 				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_magic_stick"
+				"item"		"item_faerie_fire"
 			}
 			"Early"
 			{
-				"item"		"item_wraith_band"
 				"item"		"item_magic_wand"
 				"item"		"item_power_treads"
+				"item"		"item_urn_of_shadows"
 			}
 			"Core"
 			{
@@ -41,8 +42,8 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational Early"
 			{
+				"item"		"item_wraith_band"
 				"item"		"item_orb_of_corrosion"
-				"item"		"item_urn_of_shadows"
 				"item"		"item_falcon_blade"
 				"item"		"item_phylactery"
 				"item"		"item_blade_mail"
@@ -59,11 +60,10 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			}
 			"Situational"
 			{
+				"item"		"item_disperser"
 				"item"		"item_orchid"
-				"item"		"item_diffusal_blade"
 				"item"		"item_nullifier"
 				"item"		"item_black_king_bar"
-				"item"		"item_disperser"
 				"item"		"item_heart"
 				"item"		"item_assault"
 				"item"		"item_refresher"
@@ -74,25 +74,22 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_soul_ring"
 				"item"		"item_hand_of_midas"
-				"item"		"item_mask_of_madness"
 				"item"		"item_vanguard"
 				"item"		"item_silver_edge"
 				"item"		"item_sheepstick"
-				"item"		"item_harpoon"
 				"item"		"item_mage_slayer"
-				"item"		"item_dagon_5"
 			}
 			"Best Neutral Items"
 			{
 				"item"		"item_duelist_gloves"
+				"item"		"item_possessed_mask"
 				"item"		"item_chipped_vest"
-				"item"		"item_occult_bracelet"
-				"item"		"item_defiant_shell"
 				"item"		"item_poor_mans_shield"
 				"item"		"item_mana_draught"
+				"item"		"item_essence_ring"
 				"item"		"item_gunpowder_gauntlets"
 				"item"		"item_serrated_shiv"
-				"item"		"item_unrelenting_eye"
+				"item"		"item_cloak_of_flames"
 				"item"		"item_giant_maul"
 				"item"		"item_flayers_bota"
 				"item"		"item_rattlecage"
@@ -123,7 +120,6 @@ Increases our farming speed by a lot, gives us a lot of damage against solo targ
 			"item_abyssal_blade"		"Gives a lot of tankiness and good for locking people down. Most of the time you don`t really need it or just have more important slot to have. Altho, it`s actually pretty good as 6-7th slot."
 			"item_power_treads"		"~7-10 min
 Treads switch and raw tankiness may be halpful for Spectre in situations when you desperately need HP"
-			"item_mask_of_madness"		"It has a fairly low cooldown and works well as regen item replacement and a farming item. You don`t really need to use it in fights, but you CAN if you need to focus a squishy target. It`s better to purchase with some cheap armor (like Blade Mail)"
 			"item_falcon_blade"		"~5 min
 Before Blade Mail
 ALTERNATIVES: Urn of Shadows"
@@ -136,7 +132,7 @@ ALTERNATIVES: Meteor Hammer, Blade Mail"
 			"item_urn_of_shadows"		"~5 min
 Before Blade Mail
 ALTERNATIVES: Falcon Blade"
-			"item_phylactery"		"It works with Dagger and Step, it&amp;amp;apos;s generally nice for stats and farming. But it also practically takes the same niche as Radiance/BM, so it depends
+			"item_phylactery"		"It works with Dagger and Step, it&amp;amp;amp;apos;s generally nice for stats and farming. But it also practically takes the same niche as Radiance/BM, so it depends
 Alternatives: Radiance, Blade Mail"
 		}
 	}
@@ -145,24 +141,24 @@ Alternatives: Radiance, Blade Mail"
 		"AbilityOrder"
 		{
 			"1"		"spectre_spectral_dagger"
-			"2"		"spectre_dispersion"
+			"2"		"spectre_shadow_step"
 			"3"		"spectre_spectral_dagger"
-			"4"		"spectre_shadow_step"
+			"4"		"spectre_dispersion"
 			"5"		"spectre_spectral_dagger"
 			"6"		"spectre_haunt"
 			"7"		"spectre_spectral_dagger"
 			"8"		"spectre_dispersion"
 			"9"		"spectre_dispersion"
-			"10"		"special_bonus_unique_spectre_2"
-			"11"		"spectre_dispersion"
+			"10"		"spectre_dispersion"
+			"11"		"spectre_shadow_step"
 			"12"		"spectre_haunt"
 			"13"		"spectre_shadow_step"
 			"14"		"spectre_shadow_step"
-			"15"		"special_bonus_unique_spectre_shadow_step_duration"
-			"16"		"spectre_shadow_step"
 			"18"		"spectre_haunt"
-			"20"		"special_bonus_hp_350"
-			"25"		"special_bonus_unique_spectre_4"
+			"27"		"special_bonus_unique_spectre_2"
+			"28"		"special_bonus_unique_spectre_shadow_step_duration"
+			"29"		"special_bonus_hp_300"
+			"30"		"special_bonus_unique_spectre_4"
 		}
 		"AbilityTooltips"
 		{
