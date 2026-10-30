@@ -3,18 +3,18 @@
 	"Hero"		"sven"
 	"Title"		"Nerds Support Sven"
 	"Role"		"#DOTA_HeroGuide_Role_Support"
-	"GameplayVersion"		"7.41e"
+	"GameplayVersion"		"7.41f"
 	"Overview"		"Sven in a strength melee hero, who can be played as both a powerful core and a support. Supportng Sven excells at initiating fights with Storm Hammer and providing attack damage shield to allies, while also being hard to take down even without any items. Later on into the game because of Great Cleave Sven can start transitioning into either utility core or a full blown carry, staying relevant at every stage of the game.
 
 As a support Sven your main goal is not to deal damage or transition into core. First thing to focus on is using Storm Hammer and soaking resources from enemy heroes on lane early on, to then proceed to ganking. During mid-game fights Sven's goal is to initiate and then be a frontline hero, while also constantly throwing Storm Hammer and using Warcry.
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"97"
+	"GuideRevision"		"98"
 	"AssociatedWorkshopItemID"		"0x000000005F0EE7A0"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006A77B2C9"
-	"TimePublished"		"0x000000006A77B2C9"
+	"TimeUpdated"		"0x000000006AD26EA8"
+	"TimePublished"		"0x000000006AD26EA8"
 	"ItemBuild"
 	{
 		"Items"
@@ -113,7 +113,7 @@ ALTERNATIVE: Power Treads"
 			"item_ultimate_scepter"		"Works as a blink replacement. It`s more expensive but it`s also a bit more powerful. Can be replaced or accompanied by blink if you need long range initiation or/and get initiation early"
 			"item_spirit_vessel"		"Natural Urn upgrade. Some HP, some mobility, more heal/damage"
 			"item_heavens_halberd"		"Great item to pickup on a melee strength utility brawler. Relatively cheap and always useful"
-			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you&amp;amp;amp;amp;amp;amp;amp;amp;apos;re playing against miss chance heroes and nobody else is making it"
+			"item_solar_crest"		"Great item overall with some great bonuses. You can get it and use it as a buff on your core. It will also give you some good stats to be a better frontliner. Consider making it if you&amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re playing against miss chance heroes and nobody else is making it"
 			"item_pipe"		"Against high magic damage lineups"
 			"item_force_staff"		"Works fine for getting in and instantly getting out. Also comes in handy against slowing assassins, like Riki and Ursa"
 			"item_black_king_bar"		"Good solution against stuns and silences if that`s what makes it hard for you to initiate"

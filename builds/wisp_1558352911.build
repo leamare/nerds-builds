@@ -3,16 +3,16 @@
 	"Hero"		"wisp"
 	"Title"		"Nerds Core Io"
 	"Role"		"#DOTA_HeroGuide_Role_Core"
-	"GameplayVersion"		"7.41e"
+	"GameplayVersion"		"7.41f"
 	"Overview"		"
 
 The build is part of Nerd's Hero Build Project. Other builds and additional information: https://builds.spectral.gg/"
-	"GuideRevision"		"87"
+	"GuideRevision"		"88"
 	"AssociatedWorkshopItemID"		"0x000000006E74C3AE"
 	"OriginalCreatorID"		"0x0000000004C136C9"
 	"GuideFormatVersion"		"2"
-	"TimeUpdated"		"0x000000006A762337"
-	"TimePublished"		"0x000000006A762337"
+	"TimeUpdated"		"0x000000006AE3E0D4"
+	"TimePublished"		"0x000000006AE3E0D4"
 	"ItemBuild"
 	{
 		"Items"
@@ -58,6 +58,7 @@ The build is part of Nerd's Hero Build Project. Other builds and additional info
 			{
 				"item"		"item_aghanims_shard"
 				"item"		"item_shivas_guard"
+				"item"		"item_octarine_core"
 				"item"		"item_satanic"
 				"item"		"item_greater_crit"
 				"item"		"item_sheepstick"
